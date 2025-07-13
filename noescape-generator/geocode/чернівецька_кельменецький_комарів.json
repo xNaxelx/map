@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Комарів",
+               "short_name" : "Комарів",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кельменецький район",
+               "short_name" : "Кельменецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60140",
+               "short_name" : "60140",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Комарів, Чернівецька область, Україна, 60140",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.5743201,
+                  "lng" : 27.003656
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.545113,
+                  "lng" : 26.972912
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5593186,
+               "lng" : 26.991304
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.5743201,
+                  "lng" : 27.003656
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.545113,
+                  "lng" : 26.972912
+               }
+            }
+         },
+         "place_id" : "ChIJpzm20HSnM0cRDM66pURy7rc",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

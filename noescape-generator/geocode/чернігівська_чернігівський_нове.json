@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Нове",
+               "short_name" : "Нове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернігівський район",
+               "short_name" : "Чернігівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернігівська область",
+               "short_name" : "Чернігівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "15527",
+               "short_name" : "15527",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Нове, Чернігівська область, Україна, 15527",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.6584651,
+                  "lng" : 31.49607
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.628867,
+                  "lng" : 31.45597589999999
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.646637,
+               "lng" : 31.4870757
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.6584651,
+                  "lng" : 31.49607
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.628867,
+                  "lng" : 31.45597589999999
+               }
+            }
+         },
+         "place_id" : "ChIJuZjE42Aw1UYR-DbIHbkjWqI",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

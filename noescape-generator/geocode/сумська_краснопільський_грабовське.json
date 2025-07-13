@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Грабовське",
+               "short_name" : "Грабовське",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Краснопільський район",
+               "short_name" : "Краснопільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сумська область",
+               "short_name" : "Сумська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Грабовське, Сумська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.7144363,
+                  "lng" : 35.46266560000001
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.6860995,
+                  "lng" : 35.440371
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.7013396,
+               "lng" : 35.452539
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.7144363,
+                  "lng" : 35.46266560000001
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.6860995,
+                  "lng" : 35.440371
+               }
+            }
+         },
+         "place_id" : "ChIJdQg2ibmOKEERQhSOT9Jgh5k",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,108 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "вул. Андрели",
+               "short_name" : "вул. Андрели",
+               "types" : 
+               [
+                  "route"
+               ]
+            },
+            {
+               "long_name" : "Іза",
+               "short_name" : "Іза",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Хустський район",
+               "short_name" : "Хустський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90436",
+               "short_name" : "90436",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "вул. Андрели, Іза, Закарпатська область, Україна, 90436",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.2130129,
+               "lng" : 23.3406498
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.21438028029149,
+                  "lng" : 23.3419608302915
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.2116823197085,
+                  "lng" : 23.3392628697085
+               }
+            }
+         },
+         "navigation_points" : 
+         [
+            {
+               "location" : 
+               {
+                  "latitude" : 48.2130504,
+                  "longitude" : 23.3405739
+               }
+            }
+         ],
+         "partial_match" : true,
+         "place_id" : "ChIJa6o5_U0rOEcRsPyRrYmSyjA",
+         "plus_code" : 
+         {
+            "compound_code" : "687R+67 Іза, Закарпатська область, Україна",
+            "global_code" : "8GW5687R+67"
+         },
+         "types" : 
+         [
+            "establishment",
+            "point_of_interest"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

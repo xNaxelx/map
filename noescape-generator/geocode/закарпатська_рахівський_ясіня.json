@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Ясіня",
+               "short_name" : "Ясіня",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рахівський район",
+               "short_name" : "Рахівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90630",
+               "short_name" : "90630",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Ясіня, Закарпатська область, Україна, 90630",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.30002100000001,
+                  "lng" : 24.387888
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.2179761,
+                  "lng" : 24.3106331
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.2595628,
+               "lng" : 24.3450737
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.30002100000001,
+                  "lng" : 24.387888
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.2179761,
+                  "lng" : 24.3106331
+               }
+            }
+         },
+         "place_id" : "ChIJnXBN88AbN0cRpm1SBL0dotA",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

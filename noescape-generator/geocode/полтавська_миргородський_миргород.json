@@ -1,0 +1,280 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Миргород",
+               "short_name" : "Миргород",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Миргородська міськрада",
+               "short_name" : "Миргородська міськрада",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Полтавська область",
+               "short_name" : "Полтавська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "37602",
+               "short_name" : "37602",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Миргород, Полтавська область, Україна, 37602",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.999241,
+                  "lng" : 33.681132
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.932438,
+                  "lng" : 33.5517289
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.9627279,
+               "lng" : 33.6053331
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.999241,
+                  "lng" : 33.681132
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.932438,
+                  "lng" : 33.5517289
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJbTmCWQmz10ARtDentwQZsZo",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Миргородський район",
+               "short_name" : "Миргородський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Полтавська область",
+               "short_name" : "Полтавська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Миргородський район, Полтавська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.2926289,
+                  "lng" : 34.079701
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.8281539,
+                  "lng" : 33.2839849
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.0516787,
+               "lng" : 33.5808343
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.2926289,
+                  "lng" : 34.079701
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.8281539,
+                  "lng" : 33.2839849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJjeF9aFS110ARwADoHWB7bLs",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Миргород",
+               "short_name" : "Миргород",
+               "types" : 
+               [
+                  "establishment",
+                  "point_of_interest",
+                  "train_station",
+                  "transit_station"
+               ]
+            },
+            {
+               "long_name" : "Миргород",
+               "short_name" : "Миргород",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Миргородська міськрада",
+               "short_name" : "Миргородська міськрада",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Полтавська область",
+               "short_name" : "Полтавська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "37602",
+               "short_name" : "37602",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Миргород, Миргород, Полтавська область, Україна, 37602",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 49.949602,
+               "lng" : 33.6299285
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.9511545802915,
+                  "lng" : 33.6312214802915
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.9484566197085,
+                  "lng" : 33.6285235197085
+               }
+            }
+         },
+         "navigation_points" : 
+         [
+            {
+               "location" : 
+               {
+                  "latitude" : 49.9499472,
+                  "longitude" : 33.6298336
+               }
+            }
+         ],
+         "partial_match" : true,
+         "place_id" : "ChIJu0LvlbGz10AR4F6hBYFNOLs",
+         "plus_code" : 
+         {
+            "compound_code" : "WJXH+RX Миргород, Полтавська область, Україна",
+            "global_code" : "8GXMWJXH+RX"
+         },
+         "types" : 
+         [
+            "establishment",
+            "point_of_interest",
+            "train_station",
+            "transit_station"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

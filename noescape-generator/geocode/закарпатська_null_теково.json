@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Теково",
+               "short_name" : "Теково",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Виноградівський район",
+               "short_name" : "Виноградівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90343",
+               "short_name" : "90343",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Теково, Закарпатська область, Україна, 90343",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.133972,
+                  "lng" : 23.1080631
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.113067,
+                  "lng" : 23.0903599
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.122984,
+               "lng" : 23.0973045
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.133972,
+                  "lng" : 23.1080631
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.113067,
+                  "lng" : 23.0903599
+               }
+            }
+         },
+         "place_id" : "ChIJJZm6Lss6OEcR0OTvJyJ4bv8",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

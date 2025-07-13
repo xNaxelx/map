@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Тисаашвань",
+               "short_name" : "Тисаашвань",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ужгородський район",
+               "short_name" : "Ужгородський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Тисаашвань, Закарпатська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.43096999999999,
+                  "lng" : 22.274414
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.414957,
+                  "lng" : 22.2372529
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.4250239,
+               "lng" : 22.2610096
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.43096999999999,
+                  "lng" : 22.274414
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.414957,
+                  "lng" : 22.2372529
+               }
+            }
+         },
+         "place_id" : "ChIJcy9a2HXjOEcRnmICo3RCkak",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

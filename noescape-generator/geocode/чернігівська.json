@@ -1,0 +1,71 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Чернігівська область",
+               "short_name" : "Чернігівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Чернігівська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.3797309,
+                  "lng" : 33.5009611
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.345535,
+                  "lng" : 30.484935
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.4982,
+               "lng" : 31.28935
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.3797309,
+                  "lng" : 33.5009611
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.345535,
+                  "lng" : 30.484935
+               }
+            }
+         },
+         "place_id" : "ChIJT7SGL2DAKkERMEH2iIQGAQE",
+         "types" : 
+         [
+            "administrative_area_level_1",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

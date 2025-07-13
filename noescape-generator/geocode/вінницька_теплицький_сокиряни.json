@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Сокиряни",
+               "short_name" : "Сокиряни",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Теплицький район",
+               "short_name" : "Теплицький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "23842",
+               "short_name" : "23842",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Сокиряни, Вінницька область, Україна, 23842",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.593449,
+                  "lng" : 29.8085801
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.5684891,
+                  "lng" : 29.78131999999999
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5756786,
+               "lng" : 29.7887958
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.593449,
+                  "lng" : 29.8085801
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.5684891,
+                  "lng" : 29.78131999999999
+               }
+            }
+         },
+         "place_id" : "ChIJRaYpy9mNzUARQhFGSM-RVgY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

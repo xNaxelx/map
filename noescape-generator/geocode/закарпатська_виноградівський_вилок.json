@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Вилок",
+               "short_name" : "Вилок",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Виноградівський район",
+               "short_name" : "Виноградівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Вилок, Закарпатська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.1270427,
+                  "lng" : 22.8687716
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.0965335,
+                  "lng" : 22.8182816
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.1100924,
+               "lng" : 22.8417209
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.1270427,
+                  "lng" : 22.8687716
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.0965335,
+                  "lng" : 22.8182816
+               }
+            }
+         },
+         "place_id" : "ChIJyfII9qlAOEcRbHeZkIusONs",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

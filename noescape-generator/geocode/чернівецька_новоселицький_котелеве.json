@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Котелеве",
+               "short_name" : "Котелеве",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Новоселицький район",
+               "short_name" : "Новоселицький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Котелеве, Чернівецька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.294158,
+                  "lng" : 26.3729168
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.2730538,
+                  "lng" : 26.341095
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.28334779999999,
+               "lng" : 26.3548028
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.294158,
+                  "lng" : 26.3729168
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.2730538,
+                  "lng" : 26.341095
+               }
+            }
+         },
+         "place_id" : "ChIJga6k8ZiJM0cRxqkAxXRMXw0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

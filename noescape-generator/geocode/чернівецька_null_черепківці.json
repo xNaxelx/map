@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Черепківці",
+               "short_name" : "Черепківці",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Глибоцький район",
+               "short_name" : "Глибоцький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60444",
+               "short_name" : "60444",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Черепківці, Чернівецька область, Україна, 60444",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.033168,
+                  "lng" : 25.9825759
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.002668,
+                  "lng" : 25.9471339
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.0212455,
+               "lng" : 25.9671428
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.033168,
+                  "lng" : 25.9825759
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.002668,
+                  "lng" : 25.9471339
+               }
+            }
+         },
+         "place_id" : "ChIJuWtpjZZqNEcR7tI2aFQjWas",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Бузова",
+               "short_name" : "Бузова",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Києво-Святошинський район",
+               "short_name" : "Києво-Святошинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Київська область",
+               "short_name" : "Київська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Бузова, Київська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.447337,
+                  "lng" : 30.0587111
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.3982694,
+                  "lng" : 30.019695
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.42115039999999,
+               "lng" : 30.0447522
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.447337,
+                  "lng" : 30.0587111
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.3982694,
+                  "lng" : 30.019695
+               }
+            }
+         },
+         "place_id" : "ChIJMTenw7lJK0cRlng5ZnBbzZI",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

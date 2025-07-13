@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Топільня",
+               "short_name" : "Топільня",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Лугинський район",
+               "short_name" : "Лугинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Житомирська область",
+               "short_name" : "Житомирська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "11310",
+               "short_name" : "11310",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Топільня, Житомирська область, Україна, 11310",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.2044019,
+                  "lng" : 28.085898
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.185482,
+                  "lng" : 28.0700251
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.1951903,
+               "lng" : 28.078264
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.2044019,
+                  "lng" : 28.085898
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.185482,
+                  "lng" : 28.0700251
+               }
+            }
+         },
+         "place_id" : "ChIJnbhWv9xyKUcRbD57nmyci5U",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

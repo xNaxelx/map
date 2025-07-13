@@ -1,0 +1,165 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Дубриничі",
+               "short_name" : "Дубриничі",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Перечинський район",
+               "short_name" : "Перечинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Дубриничі, Закарпатська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.8194111,
+                  "lng" : 22.5222301
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.7909201,
+                  "lng" : 22.4644662
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.8048092,
+               "lng" : 22.4972297
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.8194111,
+                  "lng" : 22.5222301
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.7909201,
+                  "lng" : 22.4644662
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJRTsqfmhrOUcR2PtlgWR9HHw",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Ужгородський район",
+               "short_name" : "Ужгородський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Ужгородський район, Закарпатська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.7826304,
+                  "lng" : 22.6558761
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.3534499,
+                  "lng" : 22.1370556
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.529475,
+               "lng" : 22.3736162
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.7826304,
+                  "lng" : 22.6558761
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.3534499,
+                  "lng" : 22.1370556
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJeR_tQhMbOUcRHCBVLcdS2jg",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

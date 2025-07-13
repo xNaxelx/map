@@ -1,0 +1,370 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Олександрівка",
+               "short_name" : "Олександрівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Свердловський район",
+               "short_name" : "Свердловський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Луганська область",
+               "short_name" : "Луганська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "94860",
+               "short_name" : "94860",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Олександрівка, Луганська область, Україна, 94860",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.08579899999999,
+                  "lng" : 39.7578189
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.059739,
+                  "lng" : 39.7396169
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.07503089999999,
+               "lng" : 39.7490117
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.08579899999999,
+                  "lng" : 39.7578189
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.059739,
+                  "lng" : 39.7396169
+               }
+            }
+         },
+         "place_id" : "ChIJp2G7FI7m4UAR0xXPPBEg6sU",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Олександрівка",
+               "short_name" : "Олександрівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Новоайдарський район",
+               "short_name" : "Новоайдарський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Луганська область",
+               "short_name" : "Луганська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "93515",
+               "short_name" : "93515",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Олександрівка, Луганська область, Україна, 93515",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.9796129,
+                  "lng" : 38.6658991
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.963183,
+                  "lng" : 38.599252
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.9713223,
+               "lng" : 38.6278387
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.9796129,
+                  "lng" : 38.6658991
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.963183,
+                  "lng" : 38.599252
+               }
+            }
+         },
+         "place_id" : "ChIJ9b0LoMcZIEERu0Q-9dOPrSo",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Олександрівка",
+               "short_name" : "Олександрівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Станично-Луганський район",
+               "short_name" : "Станично-Луганський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Луганська область",
+               "short_name" : "Луганська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "93620",
+               "short_name" : "93620",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Олександрівка, Луганська область, Україна, 93620",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.983242,
+                  "lng" : 39.747899
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.9708609,
+                  "lng" : 39.733971
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.97748420000001,
+               "lng" : 39.7407843
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.983242,
+                  "lng" : 39.747899
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.9708609,
+                  "lng" : 39.733971
+               }
+            }
+         },
+         "place_id" : "ChIJWWj1Q44KH0ER4vStXc5ZOXk",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Олександрівка",
+               "short_name" : "Олександрівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сватівський район",
+               "short_name" : "Сватівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Луганська область",
+               "short_name" : "Луганська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "92613",
+               "short_name" : "92613",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Олександрівка, Луганська область, Україна, 92613",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.649731,
+                  "lng" : 38.184082
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.6295211,
+                  "lng" : 38.172962
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.63958290000001,
+               "lng" : 38.1799749
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.649731,
+                  "lng" : 38.184082
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.6295211,
+                  "lng" : 38.172962
+               }
+            }
+         },
+         "place_id" : "ChIJ3TiaVeccIUERIBA8-qu9Mbc",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Тур",
+               "short_name" : "Тур",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ратнівський район",
+               "short_name" : "Ратнівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "44140",
+               "short_name" : "44140",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Тур, Волинська область, Україна, 44140",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.688837,
+                  "lng" : 24.3040099
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.66669599999999,
+                  "lng" : 24.252813
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.6787708,
+               "lng" : 24.279816
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.688837,
+                  "lng" : 24.3040099
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.66669599999999,
+                  "lng" : 24.252813
+               }
+            }
+         },
+         "place_id" : "ChIJjSYZdvBSIUcR3VWruFFnpiU",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

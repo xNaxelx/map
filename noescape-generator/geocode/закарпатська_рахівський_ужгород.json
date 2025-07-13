@@ -1,0 +1,165 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Ужгород",
+               "short_name" : "Ужгород",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ужгородська міськрада",
+               "short_name" : "Ужгородська міськрада",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Ужгород, Закарпатська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.660332,
+                  "lng" : 22.3492813
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.5784315,
+                  "lng" : 22.2099939
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.6208,
+               "lng" : 22.287883
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.660332,
+                  "lng" : 22.3492813
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.5784315,
+                  "lng" : 22.2099939
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ2eO2RLkZOUcRPCoEMAGupg0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Рахівський район",
+               "short_name" : "Рахівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Рахівський район, Закарпатська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.4012889,
+                  "lng" : 24.6273425
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.896506,
+                  "lng" : 23.8612286
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.1391697,
+               "lng" : 24.2936895
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.4012889,
+                  "lng" : 24.6273425
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.896506,
+                  "lng" : 23.8612286
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJYSAsJ4IGN0cR6uJYb0dPf38",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

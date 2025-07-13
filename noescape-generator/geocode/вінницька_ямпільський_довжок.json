@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Довжок",
+               "short_name" : "Довжок",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ямпільський район",
+               "short_name" : "Ямпільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "24544",
+               "short_name" : "24544",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Довжок, Вінницька область, Україна, 24544",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.251005,
+                  "lng" : 28.5556159
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.22753900000001,
+                  "lng" : 28.4964249
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.2391656,
+               "lng" : 28.5262928
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.251005,
+                  "lng" : 28.5556159
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.22753900000001,
+                  "lng" : 28.4964249
+               }
+            }
+         },
+         "place_id" : "ChIJg4OZAHnmzEARFKwXGuT7fLo",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Богданове",
+               "short_name" : "Богданове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Благовіщенський район",
+               "short_name" : "Благовіщенський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кіровоградська область",
+               "short_name" : "Кіровоградська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "26432",
+               "short_name" : "26432",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Богданове, Кіровоградська область, Україна, 26432",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.22364899999999,
+                  "lng" : 30.262235
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.200609,
+                  "lng" : 30.24849
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.21203879999999,
+               "lng" : 30.254763
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.22364899999999,
+                  "lng" : 30.262235
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.200609,
+                  "lng" : 30.24849
+               }
+            }
+         },
+         "place_id" : "ChIJPUXoq2NzzkARanlAMZhWeXE",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

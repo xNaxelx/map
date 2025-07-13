@@ -1,0 +1,165 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Пийтерфолво",
+               "short_name" : "Пийтерфолво",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Виноградівський район",
+               "short_name" : "Виноградівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Пийтерфолво, Закарпатська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.069842,
+                  "lng" : 22.952775
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.05352999999999,
+                  "lng" : 22.9156811
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.0634418,
+               "lng" : 22.9331997
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.069842,
+                  "lng" : 22.952775
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.05352999999999,
+                  "lng" : 22.9156811
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ33zfAzI8OEcRukgrb1kLx9g",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Берегівський район",
+               "short_name" : "Берегівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Берегівський район, Закарпатська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.404323,
+                  "lng" : 22.8778699
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.09168589999999,
+                  "lng" : 22.3078829
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.2351161,
+               "lng" : 22.5802865
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.404323,
+                  "lng" : 22.8778699
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.09168589999999,
+                  "lng" : 22.3078829
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJo1cLgXRaOEcRGDp5iGHSlfs",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

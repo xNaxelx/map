@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Тульчинський район",
+               "short_name" : "Тульчинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Тульчинський район, Вінницька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.874896,
+                  "lng" : 29.212501
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.520992,
+                  "lng" : 28.4880961
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.6915531,
+               "lng" : 28.8120078
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.874896,
+                  "lng" : 29.212501
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.520992,
+                  "lng" : 28.4880961
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJJVsR0b5BzUARpNByfJCOFBs",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Крижопіль",
+               "short_name" : "Крижопіль",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Крижопільський район",
+               "short_name" : "Крижопільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "24600",
+               "short_name" : "24600",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Крижопіль, Вінницька область, Україна, 24600",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.4026,
+                  "lng" : 28.8847059
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.365935,
+                  "lng" : 28.8405549
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.3849493,
+               "lng" : 28.8673367
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.4026,
+                  "lng" : 28.8847059
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.365935,
+                  "lng" : 28.8405549
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJp57hpbwEzUARWhwsroEKCOM",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

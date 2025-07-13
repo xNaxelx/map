@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Сторожинецький район",
+               "short_name" : "Сторожинецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Сторожинецький район, Чернівецька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.311732,
+                  "lng" : 25.9544081
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.9263487,
+                  "lng" : 25.326787
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.1620301,
+               "lng" : 25.657571
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.311732,
+                  "lng" : 25.9544081
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.9263487,
+                  "lng" : 25.326787
+               }
+            }
+         },
+         "place_id" : "ChIJUcacT9kYNEcRBHD8Tvum2Zs",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

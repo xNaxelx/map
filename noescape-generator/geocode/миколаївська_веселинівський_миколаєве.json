@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Миколаєве",
+               "short_name" : "Миколаєве",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Веселинівський район",
+               "short_name" : "Веселинівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Миколаївська область",
+               "short_name" : "Миколаївська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "57040",
+               "short_name" : "57040",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Миколаєве, Миколаївська область, Україна, 57040",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.335998,
+                  "lng" : 31.107056
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.33328600000001,
+                  "lng" : 31.101324
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.3345495,
+               "lng" : 31.1043943
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.335998,
+                  "lng" : 31.107056
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.33328600000001,
+                  "lng" : 31.101324
+               }
+            }
+         },
+         "place_id" : "ChIJWZ6DQWNoz0ARMpLsEzBEwVQ",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

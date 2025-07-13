@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Білгород-Дністровський район",
+               "short_name" : "Білгород-Дністровський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Білгород-Дністровський район, Одеська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.47297570000001,
+                  "lng" : 30.430982
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.847673,
+                  "lng" : 29.660303
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.1823527,
+               "lng" : 30.1178226
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.47297570000001,
+                  "lng" : 30.430982
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.847673,
+                  "lng" : 29.660303
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJE9713R3ix0AR-ud4XNRcumQ",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Царичанка",
+               "short_name" : "Царичанка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Царичанський район",
+               "short_name" : "Царичанський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Дніпропетровська область",
+               "short_name" : "Дніпропетровська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "51000",
+               "short_name" : "51000",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Царичанка, Дніпропетровська область, Україна, 51000",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.97531799999999,
+                  "lng" : 34.5071911
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.916963,
+                  "lng" : 34.449195
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.9473321,
+               "lng" : 34.4704269
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.97531799999999,
+                  "lng" : 34.5071911
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.916963,
+                  "lng" : 34.449195
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJC5ngAV-a2UARg4mQ4Wew6Xw",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

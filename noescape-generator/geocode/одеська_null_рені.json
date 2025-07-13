@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Рені",
+               "short_name" : "Рені",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ренійський район",
+               "short_name" : "Ренійський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68800",
+               "short_name" : "68800",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Рені, Одеська область, Україна, 68800",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.475755,
+                  "lng" : 28.306871
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.4394701,
+                  "lng" : 28.2351211
+               }
+            },
+            "location" : 
+            {
+               "lat" : 45.457057,
+               "lng" : 28.2888529
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.475755,
+                  "lng" : 28.306871
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.4394701,
+                  "lng" : 28.2351211
+               }
+            }
+         },
+         "place_id" : "ChIJu6Enay0Zt0ARE84wnuhO8HM",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

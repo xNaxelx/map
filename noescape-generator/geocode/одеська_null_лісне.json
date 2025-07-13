@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Лісне",
+               "short_name" : "Лісне",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Тарутинський район",
+               "short_name" : "Тарутинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68530",
+               "short_name" : "68530",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Лісне, Одеська область, Україна, 68530",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.482995,
+                  "lng" : 29.3588299
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.456923,
+                  "lng" : 29.3366681
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.4685294,
+               "lng" : 29.3491272
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.482995,
+                  "lng" : 29.3588299
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.456923,
+                  "lng" : 29.3366681
+               }
+            }
+         },
+         "place_id" : "ChIJZz1ifENKyEARzuHSSQ9QbAo",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

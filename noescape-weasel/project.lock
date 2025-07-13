@@ -1,0 +1,153 @@
+convert:
+  cmd: python -m weasel run convert
+  script:
+    - python scripts/convert.py ../noescape-nlp/corpus/annotated corpus/train.spacy
+    - python scripts/convert.py ../noescape-nlp/corpus/annotated/000 corpus/dev.spacy
+  deps:
+    - path: ../noescape-nlp/corpus/annotated/
+      md5: 6ce52aaafb2ccf05f328180ea3286d7f
+    - path: scripts/convert.py
+      md5: 56f9163503335851e3ee3cace37efa1b
+  outs:
+    - path: corpus/train.spacy
+      md5: d4f973409017e22df755ad445ac3ce88
+    - path: corpus/dev.spacy
+      md5: 6e852835f7b06990dc416bc63baf9678
+create-config:
+  cmd: python -m weasel run create-config
+  script:
+    - python -m spacy init config --lang en --pipeline ner configs/config.cfg --force
+  deps: []
+  outs:
+    - path: configs/config.cfg
+      md5: 3ca2ff69140c79dc2db551a1bc2e3b8a
+train:
+  cmd: python -m weasel run train
+  script:
+    - python -m spacy train configs/config.cfg --output training/ --paths.train corpus/train.spacy
+      --paths.dev corpus/dev.spacy --training.eval_frequency 10 --training.patience
+      50 --gpu-id -1
+  deps:
+    - path: configs/config.cfg
+      md5: 3ca2ff69140c79dc2db551a1bc2e3b8a
+    - path: corpus/train.spacy
+      md5: 568d40b80e6fe899f1562e200b0f2f28
+    - path: corpus/dev.spacy
+      md5: 75dfd329dd0e6d85e51fc381af37cba9
+  outs:
+    - path: training/model-best
+      md5: 343afdbf8fc7d8d53be2b81430050928
+evaluate:
+  cmd: python -m weasel run evaluate
+  script:
+    - python -m spacy evaluate training/model-best corpus/dev.spacy --output training/metrics.json
+  deps:
+    - path: corpus/dev.spacy
+      md5: 75dfd329dd0e6d85e51fc381af37cba9
+    - path: training/model-best
+      md5: 343afdbf8fc7d8d53be2b81430050928
+  outs:
+    - path: training/metrics.json
+      md5: 6aa3446d8ae2925ee24186ad14f66269
+prepare:
+  cmd: python -m weasel run prepare
+  script:
+    - python scripts/prepare.py ../noescape-nlp/corpus/annotated corpus/train.spacy
+  deps:
+    - path: ../noescape-nlp/corpus/annotated
+      md5: 3c85d210caeb0013e85dbc251ae6893f
+    - path: scripts/prepare.py
+      md5: 4127b95f7fa53a5b9131b544e1ce1a8b
+  outs:
+    - path: corpus/train.spacy
+      md5: d4f973409017e22df755ad445ac3ce88
+convert_text:
+  cmd: python -m weasel run convert_text
+  script:
+    - python scripts/convert_text.py ../noescape-text/text/0 corpus/unannotated/text_0.spacy
+    - python scripts/convert_text.py ../noescape-text/text/1 corpus/unannotated/text_1.spacy
+    - python scripts/convert_text.py ../noescape-text/text/2 corpus/unannotated/text_2.spacy
+    - python scripts/convert_text.py ../noescape-text/text/3 corpus/unannotated/text_3.spacy
+    - python scripts/convert_text.py ../noescape-text/text/4 corpus/unannotated/text_4.spacy
+    - python scripts/convert_text.py ../noescape-text/text/5 corpus/unannotated/text_5.spacy
+    - python scripts/convert_text.py ../noescape-text/text/6 corpus/unannotated/text_6.spacy
+    - python scripts/convert_text.py ../noescape-text/text/7 corpus/unannotated/text_7.spacy
+    - python scripts/convert_text.py ../noescape-text/text/8 corpus/unannotated/text_8.spacy
+    - python scripts/convert_text.py ../noescape-text/text/9 corpus/unannotated/text_9.spacy
+  deps:
+    - path: ../noescape-text/text
+      md5: 2c5dfe460ec17625a2463d395d1bf8fb
+    - path: scripts/convert_text.py
+      md5: c23710bdf3ae22a65e396b2097c42da4
+  outs:
+    - path: corpus/unannotated/text_0.spacy
+      md5: ef9851e2aca01b1d574fd1ce72b1fdf6
+    - path: corpus/unannotated/text_1.spacy
+      md5: ace7108c00233485bf986b61b1ea0fe2
+    - path: corpus/unannotated/text_2.spacy
+      md5: fc07fcb34e404098183ccc381480a2df
+    - path: corpus/unannotated/text_3.spacy
+      md5: 4ae13a852f4f3782f89fc5b9de43f825
+    - path: corpus/unannotated/text_4.spacy
+      md5: f8a56af6b6205d4660e1105caea0efe9
+    - path: corpus/unannotated/text_5.spacy
+      md5: 3a804911426586cde6611ce91fa7420e
+    - path: corpus/unannotated/text_6.spacy
+      md5: b256baf98fc4b3c46b969a357c785bc8
+    - path: corpus/unannotated/text_7.spacy
+      md5: 6ca60d6d01662d9ca84d7f23f476e237
+    - path: corpus/unannotated/text_8.spacy
+      md5: 40c343795cd1fb4f7dca02087e99b01d
+    - path: corpus/unannotated/text_9.spacy
+      md5: 25c01c793b30126e2006ba6fd836b248
+tok2vec:
+  cmd: python -m weasel run tok2vec
+  script:
+    - time python -m spacy train tok2vec.cfg --output training/tok2vec
+  deps:
+    - path: config.cfg
+      md5: cef61c6d3c9b219a693044dd41f891a7
+    - path: corpus/unannotated
+      md5: 80b02d1ec8ef6c9ac515a8fd468874fd
+  outs:
+    - path: training/tok2vec/model-best
+      md5: 8a5c77ff74422f0c33fa93f02915b6d7
+prepare_pretrain:
+  cmd: python -m weasel run prepare_pretrain
+  script:
+    - python scripts/convert_text.py ../noescape-text/text/0 corpus/unannotated/text_0.spacy
+    - python scripts/convert_text.py ../noescape-text/text/1 corpus/unannotated/text_1.spacy
+    - python scripts/convert_text.py ../noescape-text/text/2 corpus/unannotated/text_2.spacy
+    - python scripts/convert_text.py ../noescape-text/text/3 corpus/unannotated/text_3.spacy
+    - python scripts/convert_text.py ../noescape-text/text/4 corpus/unannotated/text_4.spacy
+    - python scripts/convert_text.py ../noescape-text/text/5 corpus/unannotated/text_5.spacy
+    - python scripts/convert_text.py ../noescape-text/text/6 corpus/unannotated/text_6.spacy
+    - python scripts/convert_text.py ../noescape-text/text/7 corpus/unannotated/text_7.spacy
+    - python scripts/convert_text.py ../noescape-text/text/8 corpus/unannotated/text_8.spacy
+    - python scripts/convert_text.py ../noescape-text/text/9 corpus/unannotated/text_9.spacy
+  deps:
+    - path: ../noescape-text/text
+      md5: 2c5dfe460ec17625a2463d395d1bf8fb
+    - path: scripts/convert_text.py
+      md5: c23710bdf3ae22a65e396b2097c42da4
+  outs:
+    - path: corpus/unannotated/text_0.spacy
+      md5: ef9851e2aca01b1d574fd1ce72b1fdf6
+    - path: corpus/unannotated/text_1.spacy
+      md5: ace7108c00233485bf986b61b1ea0fe2
+    - path: corpus/unannotated/text_2.spacy
+      md5: fc07fcb34e404098183ccc381480a2df
+    - path: corpus/unannotated/text_3.spacy
+      md5: 4ae13a852f4f3782f89fc5b9de43f825
+    - path: corpus/unannotated/text_4.spacy
+      md5: f8a56af6b6205d4660e1105caea0efe9
+    - path: corpus/unannotated/text_5.spacy
+      md5: 3a804911426586cde6611ce91fa7420e
+    - path: corpus/unannotated/text_6.spacy
+      md5: b256baf98fc4b3c46b969a357c785bc8
+    - path: corpus/unannotated/text_7.spacy
+      md5: 6ca60d6d01662d9ca84d7f23f476e237
+    - path: corpus/unannotated/text_8.spacy
+      md5: 40c343795cd1fb4f7dca02087e99b01d
+    - path: corpus/unannotated/text_9.spacy
+      md5: 25c01c793b30126e2006ba6fd836b248

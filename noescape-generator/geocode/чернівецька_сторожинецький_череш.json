@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Череш",
+               "short_name" : "Череш",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сторожинецький район",
+               "short_name" : "Сторожинецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "59031",
+               "short_name" : "59031",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Череш, Чернівецька область, Україна, 59031",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.1081741,
+                  "lng" : 25.6323841
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.087226,
+                  "lng" : 25.5891329
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.0968605,
+               "lng" : 25.6137435
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.1081741,
+                  "lng" : 25.6323841
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.087226,
+                  "lng" : 25.5891329
+               }
+            }
+         },
+         "place_id" : "ChIJff8OFa0YNEcR-awwQw8Ge7s",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

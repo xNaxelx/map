@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Довгопілля",
+               "short_name" : "Довгопілля",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Верховинський район",
+               "short_name" : "Верховинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Івано-Франківська область",
+               "short_name" : "Івано-Франківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Довгопілля, Івано-Франківська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.077609,
+                  "lng" : 24.9761589
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.069922,
+                  "lng" : 24.962267
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.0741264,
+               "lng" : 24.9697728
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.077609,
+                  "lng" : 24.9761589
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.069922,
+                  "lng" : 24.962267
+               }
+            }
+         },
+         "place_id" : "ChIJp7_4aH6SNkcRKH3QxiAGDjs",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

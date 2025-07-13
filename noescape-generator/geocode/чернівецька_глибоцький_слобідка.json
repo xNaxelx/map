@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Слобідка",
+               "short_name" : "Слобідка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Глибоцький район",
+               "short_name" : "Глибоцький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60449",
+               "short_name" : "60449",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Слобідка, Чернівецька область, Україна, 60449",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.060045,
+                  "lng" : 25.9979729
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.032735,
+                  "lng" : 25.97697
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.0514478,
+               "lng" : 25.9903527
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.060045,
+                  "lng" : 25.9979729
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.032735,
+                  "lng" : 25.97697
+               }
+            }
+         },
+         "place_id" : "ChIJe_zaCSJrNEcRhsq6ZO3vJTk",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

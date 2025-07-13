@@ -1,0 +1,98 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Каплівка",
+               "short_name" : "Каплівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Хотинський район",
+               "short_name" : "Хотинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60040",
+               "short_name" : "60040",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Каплівка, Чернівецька область, Україна, 60040",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.457178,
+                  "lng" : 26.523138
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.437312,
+                  "lng" : 26.4957219
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.4481964,
+               "lng" : 26.511177
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.457178,
+                  "lng" : 26.523138
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.437312,
+                  "lng" : 26.4957219
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ7d7ZjEKRM0cRIhs8ubydtsY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

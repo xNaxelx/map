@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Біла Криниця",
+               "short_name" : "Біла Криниця",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненський район",
+               "short_name" : "Рівненський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "35342",
+               "short_name" : "35342",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Біла Криниця, Рівненська область, Україна, 35342",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.616225,
+                  "lng" : 26.4144959
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.593353,
+                  "lng" : 26.359276
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.6027219,
+               "lng" : 26.3970142
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.616225,
+                  "lng" : 26.4144959
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.593353,
+                  "lng" : 26.359276
+               }
+            }
+         },
+         "place_id" : "ChIJ7WHD264WL0cRxsRh3dhe79M",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Снячів",
+               "short_name" : "Снячів",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сторожинецький район",
+               "short_name" : "Сторожинецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "59005",
+               "short_name" : "59005",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Снячів, Чернівецька область, Україна, 59005",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.202031,
+                  "lng" : 25.8528129
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.175617,
+                  "lng" : 25.8294641
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.1902696,
+               "lng" : 25.8446365
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.202031,
+                  "lng" : 25.8528129
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.175617,
+                  "lng" : 25.8294641
+               }
+            }
+         },
+         "place_id" : "ChIJ2zD7CREQNEcRbkxChIO6bTc",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,98 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Русин",
+               "short_name" : "Русин",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сокальський район",
+               "short_name" : "Сокальський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "80014",
+               "short_name" : "80014",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Русин, Львівська область, Україна, 80014",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.471027,
+                  "lng" : 24.073726
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.4610289,
+                  "lng" : 24.0574439
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.466258,
+               "lng" : 24.0661947
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.471027,
+                  "lng" : 24.073726
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.4610289,
+                  "lng" : 24.0574439
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJh4khvCbDJEcRdjHk5W60ODo",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

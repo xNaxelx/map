@@ -1,0 +1,116 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "29",
+               "short_name" : "29",
+               "types" : 
+               [
+                  "street_number"
+               ]
+            },
+            {
+               "long_name" : "Гагаріна",
+               "short_name" : "Гагаріна",
+               "types" : 
+               [
+                  "route"
+               ]
+            },
+            {
+               "long_name" : "Мукачево",
+               "short_name" : "Мукачево",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Мукачівський район",
+               "short_name" : "Мукачівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "89635",
+               "short_name" : "89635",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Гагаріна, 29, Мукачево, Закарпатська область, Україна, 89635",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.4792913,
+               "lng" : 22.6981016
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.48051083029149,
+                  "lng" : 22.6993613802915
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.4778128697085,
+                  "lng" : 22.6966634197085
+               }
+            }
+         },
+         "navigation_points" : 
+         [
+            {
+               "location" : 
+               {
+                  "latitude" : 48.4790897,
+                  "longitude" : 22.6979627
+               }
+            }
+         ],
+         "partial_match" : true,
+         "place_id" : "ChIJnagytOurOUcRGBy2yLUTSaY",
+         "plus_code" : 
+         {
+            "compound_code" : "FMHX+P6 Мукачево, Закарпатська область, Україна",
+            "global_code" : "8GW4FMHX+P6"
+         },
+         "types" : 
+         [
+            "establishment",
+            "point_of_interest"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

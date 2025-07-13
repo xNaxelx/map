@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "річка Шостка",
+               "short_name" : "річка Шостка",
+               "types" : 
+               [
+                  "establishment",
+                  "natural_feature"
+               ]
+            },
+            {
+               "long_name" : "Сумська область",
+               "short_name" : "Сумська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "річка Шостка, Сумська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.9335117,
+                  "lng" : 33.6355486
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.83357969999999,
+                  "lng" : 33.267295
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.88354569283044,
+               "lng" : 33.45142182766318
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.9335117,
+                  "lng" : 33.6355486
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.83357969999999,
+                  "lng" : 33.267295
+               }
+            }
+         },
+         "place_id" : "ChIJGx3k1ZaDK0ERPNtQiAi4NYs",
+         "types" : 
+         [
+            "establishment",
+            "natural_feature"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

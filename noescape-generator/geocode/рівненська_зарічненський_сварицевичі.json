@@ -1,0 +1,182 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Сварицевичі",
+               "short_name" : "Сварицевичі",
+               "types" : 
+               [
+                  "establishment",
+                  "point_of_interest",
+                  "transit_station"
+               ]
+            },
+            {
+               "long_name" : "Зарічненський район",
+               "short_name" : "Зарічненський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Сварицевичі, Рівненська область, Україна",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 51.71476,
+               "lng" : 26.30681
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.7160919802915,
+                  "lng" : 26.3080720302915
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.7133940197085,
+                  "lng" : 26.3053740697085
+               }
+            }
+         },
+         "navigation_points" : 
+         [
+            {
+               "location" : 
+               {
+                  "latitude" : 51.7147449,
+                  "longitude" : 26.3067331
+               }
+            }
+         ],
+         "partial_match" : true,
+         "place_id" : "ChIJeXiO5Ao0JkcRXCqbhZk2Lcs",
+         "plus_code" : 
+         {
+            "compound_code" : "P874+WP Сварицевичі, Рівненська область, Україна",
+            "global_code" : "9G38P874+WP"
+         },
+         "types" : 
+         [
+            "establishment",
+            "point_of_interest",
+            "transit_station"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Сварицевичі",
+               "short_name" : "Сварицевичі",
+               "types" : 
+               [
+                  "establishment",
+                  "point_of_interest",
+                  "transit_station"
+               ]
+            },
+            {
+               "long_name" : "Зарічненський район",
+               "short_name" : "Зарічненський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Сварицевичі, Рівненська область, Україна",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 51.713378,
+               "lng" : 26.307152
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.7147409802915,
+                  "lng" : 26.3085706802915
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.7120430197085,
+                  "lng" : 26.3058727197085
+               }
+            }
+         },
+         "navigation_points" : 
+         [
+            {
+               "location" : 
+               {
+                  "latitude" : 51.7133866,
+                  "longitude" : 26.3071947
+               }
+            }
+         ],
+         "partial_match" : true,
+         "place_id" : "ChIJs09oZwo0JkcRqMBrQiQwFos",
+         "plus_code" : 
+         {
+            "compound_code" : "P874+9V Сварицевичі, Рівненська область, Україна",
+            "global_code" : "9G38P874+9V"
+         },
+         "types" : 
+         [
+            "establishment",
+            "point_of_interest",
+            "transit_station"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Доманове",
+               "short_name" : "Доманове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ратнівський район",
+               "short_name" : "Ратнівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "44110",
+               "short_name" : "44110",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Доманове, Волинська область, Україна, 44110",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.82988510000001,
+                  "lng" : 24.349905
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.81798,
+                  "lng" : 24.3332029
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.8224193,
+               "lng" : 24.3403421
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.82988510000001,
+                  "lng" : 24.349905
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.81798,
+                  "lng" : 24.3332029
+               }
+            }
+         },
+         "place_id" : "ChIJlcwlYtZLIUcR9IjR3i0NYII",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

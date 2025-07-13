@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Кам'яне",
+               "short_name" : "Кам'яне",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вільнянський район",
+               "short_name" : "Вільнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Запорізька область",
+               "short_name" : "Запорізька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "70050",
+               "short_name" : "70050",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Кам'яне, Запорізька область, Україна, 70050",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.883571,
+                  "lng" : 35.404262
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.86556600000001,
+                  "lng" : 35.3879239
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.8689389,
+               "lng" : 35.3993071
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.883571,
+                  "lng" : 35.404262
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.86556600000001,
+                  "lng" : 35.3879239
+               }
+            }
+         },
+         "place_id" : "ChIJXwZAY4FE3EARSJw1d2wEpnE",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

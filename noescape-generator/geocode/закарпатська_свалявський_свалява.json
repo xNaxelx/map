@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Свалява",
+               "short_name" : "Свалява",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Свалявський район",
+               "short_name" : "Свалявський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "89300",
+               "short_name" : "89300",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Свалява, Закарпатська область, Україна, 89300",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.5575559,
+                  "lng" : 23.0223249
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.522865,
+                  "lng" : 22.9635651
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.54285669999999,
+               "lng" : 22.9948916
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.5575559,
+                  "lng" : 23.0223249
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.522865,
+                  "lng" : 22.9635651
+               }
+            }
+         },
+         "place_id" : "ChIJa74kWge7OUcRVsakX_rYtFY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

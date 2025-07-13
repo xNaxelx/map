@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Білокуракине",
+               "short_name" : "Білокуракине",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Білокуракинський район",
+               "short_name" : "Білокуракинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Луганська область",
+               "short_name" : "Луганська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "92200",
+               "short_name" : "92200",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Білокуракине, Луганська область, Україна, 92200",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.570044,
+                  "lng" : 38.7662191
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.49310690000001,
+                  "lng" : 38.678241
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.5296544,
+               "lng" : 38.7329968
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.570044,
+                  "lng" : 38.7662191
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.49310690000001,
+                  "lng" : 38.678241
+               }
+            }
+         },
+         "place_id" : "ChIJpToTjbivIUERhrd_BZbCpZw",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

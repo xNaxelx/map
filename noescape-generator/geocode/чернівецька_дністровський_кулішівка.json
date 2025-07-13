@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Кулішівка",
+               "short_name" : "Кулішівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сокирянський район",
+               "short_name" : "Сокирянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60215",
+               "short_name" : "60215",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Кулішівка, Чернівецька область, Україна, 60215",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.557301,
+                  "lng" : 27.2228541
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.5361089,
+                  "lng" : 27.191756
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5474152,
+               "lng" : 27.2081191
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.557301,
+                  "lng" : 27.2228541
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.5361089,
+                  "lng" : 27.191756
+               }
+            }
+         },
+         "place_id" : "ChIJDXBTSGIPM0cRXw78md6y8xU",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

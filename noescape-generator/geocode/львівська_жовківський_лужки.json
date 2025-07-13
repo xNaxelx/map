@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Лужки",
+               "short_name" : "Лужки",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Жовківський район",
+               "short_name" : "Жовківський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Лужки, Львівська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.2278671,
+                  "lng" : 23.6707949
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.2195202,
+                  "lng" : 23.6532426
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.22361,
+               "lng" : 23.6604172
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.2278671,
+                  "lng" : 23.6707949
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.2195202,
+                  "lng" : 23.6532426
+               }
+            }
+         },
+         "place_id" : "ChIJLb609-E0O0cRrN-75HfDiYs",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Кринички",
+               "short_name" : "Кринички",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Криничанський район",
+               "short_name" : "Криничанський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Дніпропетровська область",
+               "short_name" : "Дніпропетровська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "52301",
+               "short_name" : "52301",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Кринички, Дніпропетровська область, Україна, 52301",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.398518,
+                  "lng" : 34.4960189
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.348688,
+                  "lng" : 34.4169099
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.3694747,
+               "lng" : 34.4573325
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.398518,
+                  "lng" : 34.4960189
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.348688,
+                  "lng" : 34.4169099
+               }
+            }
+         },
+         "place_id" : "ChIJoXfORTDH20ARyju_8me68iI",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

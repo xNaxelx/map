@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Воловецький район",
+               "short_name" : "Воловецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Воловецький район, Закарпатська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.929823,
+                  "lng" : 23.318533
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.610834,
+                  "lng" : 22.8345281
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.784336,
+               "lng" : 23.07877
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.929823,
+                  "lng" : 23.318533
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.610834,
+                  "lng" : 22.8345281
+               }
+            }
+         },
+         "place_id" : "ChIJ-8Yrn06aOUcRVFxbf7EoUb4",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

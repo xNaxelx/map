@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Сокирянський район",
+               "short_name" : "Сокирянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Сокирянський район, Чернівецька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.630981,
+                  "lng" : 27.5338607
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.37162499999999,
+                  "lng" : 27.0172879
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5127429,
+               "lng" : 27.1854459
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.630981,
+                  "lng" : 27.5338607
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.37162499999999,
+                  "lng" : 27.0172879
+               }
+            }
+         },
+         "place_id" : "ChIJT2kNMDgQM0cRSrq4tYD7LTU",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

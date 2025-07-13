@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Івки",
+               "short_name" : "Івки",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Старосинявський район",
+               "short_name" : "Старосинявський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Хмельницька область",
+               "short_name" : "Хмельницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "31424",
+               "short_name" : "31424",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Івки, Хмельницька область, Україна, 31424",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.661435,
+                  "lng" : 27.5837441
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.645231,
+                  "lng" : 27.5559659
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.64913780000001,
+               "lng" : 27.5711493
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.661435,
+                  "lng" : 27.5837441
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.645231,
+                  "lng" : 27.5559659
+               }
+            }
+         },
+         "place_id" : "ChIJ5d1eF8bqLUcRnpU6kNerNd0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Багачеве",
+               "short_name" : "Багачеве",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Великомихайлівський район",
+               "short_name" : "Великомихайлівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67120",
+               "short_name" : "67120",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Багачеве, Одеська область, Україна, 67120",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.14241,
+                  "lng" : 29.809383
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.132741,
+                  "lng" : 29.797527
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.1361776,
+               "lng" : 29.8039019
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.14241,
+                  "lng" : 29.809383
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.132741,
+                  "lng" : 29.797527
+               }
+            }
+         },
+         "place_id" : "ChIJ00tpgKAlyUAR0nExH_iw9Vw",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

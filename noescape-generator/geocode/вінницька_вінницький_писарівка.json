@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Писарівка",
+               "short_name" : "Писарівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницький район",
+               "short_name" : "Вінницький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "23205",
+               "short_name" : "23205",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Писарівка, Вінницька область, Україна, 23205",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.205439,
+                  "lng" : 28.6226369
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.178664,
+                  "lng" : 28.590598
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.1889328,
+               "lng" : 28.6059085
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.205439,
+                  "lng" : 28.6226369
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.178664,
+                  "lng" : 28.590598
+               }
+            }
+         },
+         "place_id" : "ChIJAwFlhPBQLUcRhrvvYsDwEVs",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

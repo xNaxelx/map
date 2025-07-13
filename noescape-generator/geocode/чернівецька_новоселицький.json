@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Новоселицький район",
+               "short_name" : "Новоселицький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Новоселицький район, Чернівецька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.43136399999999,
+                  "lng" : 26.6959352
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.1826478,
+                  "lng" : 25.9921269
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.2820998,
+               "lng" : 26.3924161
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.43136399999999,
+                  "lng" : 26.6959352
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.1826478,
+                  "lng" : 25.9921269
+               }
+            }
+         },
+         "place_id" : "ChIJm8aPqtmLM0cR8nGSEul_IkE",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

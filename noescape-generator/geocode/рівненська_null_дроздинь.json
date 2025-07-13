@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Дроздинь",
+               "short_name" : "Дроздинь",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рокитнівський район",
+               "short_name" : "Рокитнівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "34211",
+               "short_name" : "34211",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Дроздинь, Рівненська область, Україна, 34211",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.65519,
+                  "lng" : 27.2500511
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.6376739,
+                  "lng" : 27.2171489
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.65019969999999,
+               "lng" : 27.2370109
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.65519,
+                  "lng" : 27.2500511
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.6376739,
+                  "lng" : 27.2171489
+               }
+            }
+         },
+         "place_id" : "ChIJpV5GlypnKEcR3oyUQ8ZP-Ek",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

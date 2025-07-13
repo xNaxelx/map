@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Іванівський район",
+               "short_name" : "Іванівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Іванівський район, Одеська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.127294,
+                  "lng" : 30.815251
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.7528261,
+                  "lng" : 30.124705
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.9058395,
+               "lng" : 30.538491
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.127294,
+                  "lng" : 30.815251
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.7528261,
+                  "lng" : 30.124705
+               }
+            }
+         },
+         "place_id" : "ChIJ4wZzj725yEARwMNndf4kqyg",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

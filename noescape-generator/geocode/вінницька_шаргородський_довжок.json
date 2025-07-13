@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Довжок",
+               "short_name" : "Довжок",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Шаргородський район",
+               "short_name" : "Шаргородський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "23531",
+               "short_name" : "23531",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Довжок, Вінницька область, Україна, 23531",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.750252,
+                  "lng" : 28.242552
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.7215,
+                  "lng" : 28.215219
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.7364974,
+               "lng" : 28.2301375
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.750252,
+                  "lng" : 28.242552
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.7215,
+                  "lng" : 28.215219
+               }
+            }
+         },
+         "place_id" : "ChIJHSxBv-3LMkcRnRVeRPpwre4",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

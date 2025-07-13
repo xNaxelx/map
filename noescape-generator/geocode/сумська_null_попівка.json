@@ -1,0 +1,188 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Попівка",
+               "short_name" : "Попівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Конотопський район",
+               "short_name" : "Конотопський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сумська область",
+               "short_name" : "Сумська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "41627",
+               "short_name" : "41627",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Попівка, Сумська область, Україна, 41627",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.264647,
+                  "lng" : 33.140066
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.202445,
+                  "lng" : 33.090602
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.2188938,
+               "lng" : 33.117471
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.264647,
+                  "lng" : 33.140066
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.202445,
+                  "lng" : 33.090602
+               }
+            }
+         },
+         "place_id" : "ChIJBXxHfd9IKkERyF10y-t5s7g",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Попівка",
+               "short_name" : "Попівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Великописарівський район",
+               "short_name" : "Великописарівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сумська область",
+               "short_name" : "Сумська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "42822",
+               "short_name" : "42822",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Попівка, Сумська область, Україна, 42822",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.510051,
+                  "lng" : 35.465225
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.4849119,
+                  "lng" : 35.41462000000001
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.497689,
+               "lng" : 35.4501503
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.510051,
+                  "lng" : 35.465225
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.4849119,
+                  "lng" : 35.41462000000001
+               }
+            }
+         },
+         "place_id" : "ChIJi_psz_V7KEER1hKs2-B4Z0s",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

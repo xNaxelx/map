@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Деревини",
+               "short_name" : "Деревини",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Городнянський район",
+               "short_name" : "Городнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернігівська область",
+               "short_name" : "Чернігівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "15110",
+               "short_name" : "15110",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Деревини, Чернігівська область, Україна, 15110",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.115491,
+                  "lng" : 31.5404641
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.0903849,
+                  "lng" : 31.4791931
+               }
+            },
+            "location" : 
+            {
+               "lat" : 52.1041592,
+               "lng" : 31.507608
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.115491,
+                  "lng" : 31.5404641
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.0903849,
+                  "lng" : 31.4791931
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJL-OHZCbv1EYR1rQRmEjK_4g",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Чернігівський район",
+               "short_name" : "Чернігівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернігівська область",
+               "short_name" : "Чернігівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Чернігівський район, Чернігівська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.7051801,
+                  "lng" : 31.695354
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.172694,
+                  "lng" : 30.5400821
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.3773101,
+               "lng" : 30.9443955
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.7051801,
+                  "lng" : 31.695354
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.172694,
+                  "lng" : 30.5400821
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ8eGKCCNF1UYRQPHQFM2rvLs",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

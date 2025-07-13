@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Кравцівка",
+               "short_name" : "Кравцівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Царичанський район",
+               "short_name" : "Царичанський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Дніпропетровська область",
+               "short_name" : "Дніпропетровська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "51031",
+               "short_name" : "51031",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Кравцівка, Дніпропетровська область, Україна, 51031",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.933647,
+                  "lng" : 34.395325
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.911552,
+                  "lng" : 34.3633379
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.9202853,
+               "lng" : 34.3819386
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.933647,
+                  "lng" : 34.395325
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.911552,
+                  "lng" : 34.3633379
+               }
+            }
+         },
+         "place_id" : "ChIJxZYHoiKQ2UAR8r2H_UB7zWg",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

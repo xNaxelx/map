@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Гаврилова Слобода",
+               "short_name" : "Гаврилова Слобода",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Середино-Будський район",
+               "short_name" : "Середино-Будський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сумська область",
+               "short_name" : "Сумська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "41030",
+               "short_name" : "41030",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Гаврилова Слобода, Сумська область, Україна, 41030",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.26587199999999,
+                  "lng" : 33.899534
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.252074,
+                  "lng" : 33.861992
+               }
+            },
+            "location" : 
+            {
+               "lat" : 52.2611468,
+               "lng" : 33.8821826
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.26587199999999,
+                  "lng" : 33.899534
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.252074,
+                  "lng" : 33.861992
+               }
+            }
+         },
+         "place_id" : "ChIJ1xiyntaKLEERBB_fmwVz5rw",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

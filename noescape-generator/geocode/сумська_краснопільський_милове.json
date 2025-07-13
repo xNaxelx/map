@@ -1,0 +1,257 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Краснопільський район",
+               "short_name" : "Краснопільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сумська область",
+               "short_name" : "Сумська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Краснопільський район, Сумська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.0833321,
+                  "lng" : 35.4964362
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.517741,
+                  "lng" : 34.9262011
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.7894006,
+               "lng" : 35.2889881
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.0833321,
+                  "lng" : 35.4964362
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.517741,
+                  "lng" : 34.9262011
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ9ZK7umPxKEERTosBkEaUzLk",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Мілове",
+               "short_name" : "Мілове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Міловський район",
+               "short_name" : "Міловський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Луганська область",
+               "short_name" : "Луганська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Мілове, Луганська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.388002,
+                  "lng" : 40.1741052
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.35600600000001,
+                  "lng" : 40.1109337
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.37562579999999,
+               "lng" : 40.1418221
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.388002,
+                  "lng" : 40.1741052
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.35600600000001,
+                  "lng" : 40.1109337
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJRy9PivhFH0ERVltyW37q7tk",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Милове",
+               "short_name" : "Милове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Бериславський район",
+               "short_name" : "Бериславський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Херсонська область",
+               "short_name" : "Херсонська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "74351",
+               "short_name" : "74351",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Милове, Херсонська область, Україна, 74351",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.072546,
+                  "lng" : 33.6433072
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.059493,
+                  "lng" : 33.620777
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.0640194,
+               "lng" : 33.6345146
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.072546,
+                  "lng" : 33.6433072
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.059493,
+                  "lng" : 33.620777
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJoagEJ4Njw0AR8rFOFT1v1YY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

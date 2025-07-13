@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Гайворон",
+               "short_name" : "Гайворон",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Гайворонський район",
+               "short_name" : "Гайворонський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кіровоградська область",
+               "short_name" : "Кіровоградська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "26300",
+               "short_name" : "26300",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Гайворон, Кіровоградська область, Україна, 26300",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.37418599999999,
+                  "lng" : 29.9025399
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.3282529,
+                  "lng" : 29.7964891
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.3367137,
+               "lng" : 29.8686351
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.37418599999999,
+                  "lng" : 29.9025399
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.3282529,
+                  "lng" : 29.7964891
+               }
+            }
+         },
+         "place_id" : "ChIJP7TvfGLCzUAR75-CQQOROq0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

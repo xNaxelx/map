@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Млини",
+               "short_name" : "Млини",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Лохвицький район",
+               "short_name" : "Лохвицький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Полтавська область",
+               "short_name" : "Полтавська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "37201",
+               "short_name" : "37201",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Млини, Полтавська область, Україна, 37201",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.3943479,
+                  "lng" : 33.324796
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.37983,
+                  "lng" : 33.291725
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.3873885,
+               "lng" : 33.3100882
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.3943479,
+                  "lng" : 33.324796
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.37983,
+                  "lng" : 33.291725
+               }
+            }
+         },
+         "place_id" : "ChIJ18HLL-4Z1kARjLv0XEPQ8oE",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Хмільницький район",
+               "short_name" : "Хмільницький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Хмільницький район, Вінницька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.8140291,
+                  "lng" : 28.49131
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.449293,
+                  "lng" : 27.734684
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.6495676,
+               "lng" : 28.0259523
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.8140291,
+                  "lng" : 28.49131
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.449293,
+                  "lng" : 27.734684
+               }
+            }
+         },
+         "place_id" : "ChIJueC1MDSnLUcRYM-MMWM18N8",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

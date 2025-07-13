@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Зарище",
+               "short_name" : "Зарище",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Жовківський район",
+               "short_name" : "Жовківський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "80337",
+               "short_name" : "80337",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Зарище, Львівська область, Україна, 80337",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.11449,
+                  "lng" : 23.8638051
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.10701210000001,
+                  "lng" : 23.850398
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.1127578,
+               "lng" : 23.860902
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.11449,
+                  "lng" : 23.8638051
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.10701210000001,
+                  "lng" : 23.850398
+               }
+            }
+         },
+         "place_id" : "ChIJnfZDEJAuO0cRPkwm9DDyfc0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

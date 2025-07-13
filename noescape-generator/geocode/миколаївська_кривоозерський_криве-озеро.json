@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Криве Озеро",
+               "short_name" : "Криве Озеро",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кривоозерський район",
+               "short_name" : "Кривоозерський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Миколаївська область",
+               "short_name" : "Миколаївська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Криве Озеро, Миколаївська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.9823314,
+                  "lng" : 30.3753518
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.93412850000001,
+                  "lng" : 30.2842212
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.9471775,
+               "lng" : 30.34066189999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.9823314,
+                  "lng" : 30.3753518
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.93412850000001,
+                  "lng" : 30.2842212
+               }
+            }
+         },
+         "place_id" : "ChIJRbjCq8VgzkARviFexeZ7JFo",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

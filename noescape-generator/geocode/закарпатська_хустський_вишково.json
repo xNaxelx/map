@@ -1,0 +1,91 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Вишково",
+               "short_name" : "Вишково",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Хустський район",
+               "short_name" : "Хустський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90454",
+               "short_name" : "90454",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Вишково, Закарпатська область, Україна, 90454",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.0508013,
+               "lng" : 23.4196651
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.0523644302915,
+                  "lng" : 23.4210675802915
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.04966646970851,
+                  "lng" : 23.4183696197085
+               }
+            }
+         },
+         "place_id" : "ChIJqRoDMMyIN0cRF8tPWOkyq6k",
+         "plus_code" : 
+         {
+            "compound_code" : "3C29+8V Вишково, Закарпатська область, Україна",
+            "global_code" : "8GW53C29+8V"
+         },
+         "types" : 
+         [
+            "establishment",
+            "health",
+            "hospital",
+            "point_of_interest"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

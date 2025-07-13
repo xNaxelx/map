@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Яблуниця",
+               "short_name" : "Яблуниця",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Путильський район",
+               "short_name" : "Путильський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "59126",
+               "short_name" : "59126",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Яблуниця, Чернівецька область, Україна, 59126",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.036795,
+                  "lng" : 24.9291959
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.0180119,
+                  "lng" : 24.9112809
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.0276266,
+               "lng" : 24.9168623
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.036795,
+                  "lng" : 24.9291959
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.0180119,
+                  "lng" : 24.9112809
+               }
+            }
+         },
+         "place_id" : "ChIJw592hfeMNkcR4BAKzM5W2ig",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

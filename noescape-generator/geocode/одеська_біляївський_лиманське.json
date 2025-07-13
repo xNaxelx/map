@@ -1,0 +1,87 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Лиманська вулиця",
+               "short_name" : "Лиманська вулиця",
+               "types" : 
+               [
+                  "route"
+               ]
+            },
+            {
+               "long_name" : "Біляївський район",
+               "short_name" : "Біляївський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Лиманська вулиця, Одеська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.57190100000003,
+                  "lng" : 30.7242782
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.56003329999998,
+                  "lng" : 30.71924069999999
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.565837,
+               "lng" : 30.7217394
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.57190100000003,
+                  "lng" : 30.7242782
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.56003329999998,
+                  "lng" : 30.71924069999999
+               }
+            }
+         },
+         "place_id" : "EiVMeW1hbnMna2EgU3QsIE9kZXMna2Egb2JsYXN0LCBVa3JhaW5lIi4qLAoUChIJJdDqwXAlxkARZ5F4mzCSKEESFAoSCa0gc_bDhchAEYB-62j79NNr",
+         "types" : 
+         [
+            "route"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

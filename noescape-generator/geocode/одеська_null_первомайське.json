@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Болгарка",
+               "short_name" : "Болгарка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Захарівський район",
+               "short_name" : "Захарівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66710",
+               "short_name" : "66710",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Болгарка, Одеська область, Україна, 66710",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.499896,
+                  "lng" : 29.6675409
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.488108,
+                  "lng" : 29.6445539
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.4926444,
+               "lng" : 29.6609476
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.499896,
+                  "lng" : 29.6675409
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.488108,
+                  "lng" : 29.6445539
+               }
+            }
+         },
+         "place_id" : "ChIJcfeCtRqxzkAR0rokcyTVJwM",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

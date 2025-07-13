@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Кременець",
+               "short_name" : "Кременець",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кременецький район",
+               "short_name" : "Кременецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Тернопільська область",
+               "short_name" : "Тернопільська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Кременець, Тернопільська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.1368648,
+                  "lng" : 25.7678071
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.072976,
+                  "lng" : 25.6781387
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.1078135,
+               "lng" : 25.7276661
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.1368648,
+                  "lng" : 25.7678071
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.072976,
+                  "lng" : 25.6781387
+               }
+            }
+         },
+         "place_id" : "ChIJ7d6i9yjAL0cR5CIOxfUuITY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

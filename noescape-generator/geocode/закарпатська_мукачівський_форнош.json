@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Форнош",
+               "short_name" : "Форнош",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Мукачівський район",
+               "short_name" : "Мукачівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Форнош, Закарпатська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.3743542,
+                  "lng" : 22.7520848
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.3528126,
+                  "lng" : 22.7297688
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.3628119,
+               "lng" : 22.7421639
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.3743542,
+                  "lng" : 22.7520848
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.3528126,
+                  "lng" : 22.7297688
+               }
+            }
+         },
+         "place_id" : "ChIJBfEiwe5SOEcRDtO8zKRxLzc",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

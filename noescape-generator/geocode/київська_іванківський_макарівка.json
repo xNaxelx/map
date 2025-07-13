@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Макарівка",
+               "short_name" : "Макарівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Іванківський район",
+               "short_name" : "Іванківський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Київська область",
+               "short_name" : "Київська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "07251",
+               "short_name" : "07251",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Макарівка, Київська область, Україна, 07251",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.037585,
+                  "lng" : 29.873256
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.004606,
+                  "lng" : 29.850197
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.00926519999999,
+               "lng" : 29.8660103
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.037585,
+                  "lng" : 29.873256
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.004606,
+                  "lng" : 29.850197
+               }
+            }
+         },
+         "place_id" : "ChIJURS0EfP5KkcRuDjE_2Fm9vY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

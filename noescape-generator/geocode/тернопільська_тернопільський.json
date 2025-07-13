@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Тернопільський район",
+               "short_name" : "Тернопільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Тернопільська область",
+               "short_name" : "Тернопільська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Тернопільський район, Тернопільська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.7229791,
+                  "lng" : 25.866407
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.3703651,
+                  "lng" : 25.3769499
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.4723315,
+               "lng" : 25.7541792
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.7229791,
+                  "lng" : 25.866407
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.3703651,
+                  "lng" : 25.3769499
+               }
+            }
+         },
+         "place_id" : "ChIJa-gpmAA0MEcR4ufsI5YFpNI",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,190 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Покровка",
+               "short_name" : "Покровка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Роздільнянський район",
+               "short_name" : "Роздільнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67432",
+               "short_name" : "67432",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Покровка, Одеська область, Україна, 67432",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.78870389999999,
+                  "lng" : 30.1456478
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.7714921,
+                  "lng" : 30.119261
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.7745475,
+               "lng" : 30.1268395
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.78870389999999,
+                  "lng" : 30.1456478
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.7714921,
+                  "lng" : 30.119261
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJJ1AdpejsyEARJncBJ4uOZms",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Ганно-Покровка",
+               "short_name" : "Ганно-Покровка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ширяївський район",
+               "short_name" : "Ширяївський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66861",
+               "short_name" : "66861",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Ганно-Покровка, Одеська область, Україна, 66861",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.155119,
+                  "lng" : 30.4869809
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.1143081,
+                  "lng" : 30.465168
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.1310868,
+               "lng" : 30.4771571
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.155119,
+                  "lng" : 30.4869809
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.1143081,
+                  "lng" : 30.465168
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJS9qHkEvLyEARcLyL6z_TrbI",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

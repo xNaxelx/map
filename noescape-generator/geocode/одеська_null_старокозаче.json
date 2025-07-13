@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Старокозаче",
+               "short_name" : "Старокозаче",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Білгород-Дністровський район",
+               "short_name" : "Білгород-Дністровський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67730",
+               "short_name" : "67730",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Старокозаче, Одеська область, Україна, 67730",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.3545519,
+                  "lng" : 30.000457
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.315786,
+                  "lng" : 29.9578319
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.3402997,
+               "lng" : 29.9799541
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.3545519,
+                  "lng" : 30.000457
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.315786,
+                  "lng" : 29.9578319
+               }
+            }
+         },
+         "place_id" : "ChIJiyIUjiRyyEAR1K9A1V2QUE8",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

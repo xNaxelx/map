@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Чистоводне",
+               "short_name" : "Чистоводне",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Білгород-Дністровський район",
+               "short_name" : "Білгород-Дністровський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67726",
+               "short_name" : "67726",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Чистоводне, Одеська область, Україна, 67726",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.44745,
+                  "lng" : 29.7638619
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.430779,
+                  "lng" : 29.75019
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.4394709,
+               "lng" : 29.7579118
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.44745,
+                  "lng" : 29.7638619
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.430779,
+                  "lng" : 29.75019
+               }
+            }
+         },
+         "place_id" : "ChIJt365KRJCyEARXb5B-eNgrqA",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

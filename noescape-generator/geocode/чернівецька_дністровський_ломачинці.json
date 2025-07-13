@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Ломачинці",
+               "short_name" : "Ломачинці",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сокирянський район",
+               "short_name" : "Сокирянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60235",
+               "short_name" : "60235",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Ломачинці, Чернівецька область, Україна, 60235",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.601866,
+                  "lng" : 27.397155
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.564621,
+                  "lng" : 27.3573571
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5845639,
+               "lng" : 27.379436
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.601866,
+                  "lng" : 27.397155
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.564621,
+                  "lng" : 27.3573571
+               }
+            }
+         },
+         "place_id" : "ChIJ7bFQXaIcM0cRgsaMex1rmX4",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

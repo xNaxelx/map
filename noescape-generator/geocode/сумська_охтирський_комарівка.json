@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Комарівка",
+               "short_name" : "Комарівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Охтирський район",
+               "short_name" : "Охтирський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сумська область",
+               "short_name" : "Сумська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "42726",
+               "short_name" : "42726",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Комарівка, Сумська область, Україна, 42726",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.42685609999999,
+                  "lng" : 34.8165959
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.4088929,
+                  "lng" : 34.7927389
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.4199215,
+               "lng" : 34.80237
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.42685609999999,
+                  "lng" : 34.8165959
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.4088929,
+                  "lng" : 34.7927389
+               }
+            }
+         },
+         "place_id" : "ChIJ4TykD-8_KEER6yPQlnZw_ok",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

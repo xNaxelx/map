@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Вільна",
+               "short_name" : "Вільна",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Уманський район",
+               "short_name" : "Уманський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Черкаська область",
+               "short_name" : "Черкаська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "19132",
+               "short_name" : "19132",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Вільна, Черкаська область, Україна, 19132",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.036957,
+                  "lng" : 29.713982
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.026616,
+                  "lng" : 29.7019079
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.031515,
+               "lng" : 29.7080858
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.036957,
+                  "lng" : 29.713982
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.026616,
+                  "lng" : 29.7019079
+               }
+            }
+         },
+         "place_id" : "ChIJXaJpxAuM0kARflVxf7vrGmY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

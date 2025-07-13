@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Тумень",
+               "short_name" : "Тумень",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Дубровицький район",
+               "short_name" : "Дубровицький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "34110",
+               "short_name" : "34110",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Тумень, Рівненська область, Україна, 34110",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.795626,
+                  "lng" : 26.6776051
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.7755331,
+                  "lng" : 26.640895
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.79000480000001,
+               "lng" : 26.6484029
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.795626,
+                  "lng" : 26.6776051
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.7755331,
+                  "lng" : 26.640895
+               }
+            }
+         },
+         "place_id" : "ChIJvXEEvujTJ0cRqpnKi6INCGM",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

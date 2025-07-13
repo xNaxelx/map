@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Хижа",
+               "short_name" : "Хижа",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Виноградівський район",
+               "short_name" : "Виноградівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90342",
+               "short_name" : "90342",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Хижа, Закарпатська область, Україна, 90342",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.12113,
+                  "lng" : 23.223594
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.096895,
+                  "lng" : 23.189652
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.1070225,
+               "lng" : 23.20322
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.12113,
+                  "lng" : 23.223594
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.096895,
+                  "lng" : 23.189652
+               }
+            }
+         },
+         "place_id" : "ChIJM2nsIOQlOEcRoBmHBoGJeuc",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

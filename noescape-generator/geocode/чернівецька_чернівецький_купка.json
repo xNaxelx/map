@@ -1,0 +1,98 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Купка",
+               "short_name" : "Купка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Глибоцький район",
+               "short_name" : "Глибоцький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60425",
+               "short_name" : "60425",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Купка, Чернівецька область, Україна, 60425",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.062643,
+                  "lng" : 25.8053721
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.025249,
+                  "lng" : 25.7586099
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.0409356,
+               "lng" : 25.7865398
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.062643,
+                  "lng" : 25.8053721
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.025249,
+                  "lng" : 25.7586099
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJV6Tzz_Q9NEcRZqc5GPbD9fg",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

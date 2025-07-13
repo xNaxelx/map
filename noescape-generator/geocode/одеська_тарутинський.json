@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "річка Ісерлія",
+               "short_name" : "річка Ісерлія",
+               "types" : 
+               [
+                  "establishment",
+                  "natural_feature"
+               ]
+            },
+            {
+               "long_name" : "Тарутинський район",
+               "short_name" : "Тарутинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "річка Ісерлія, Одеська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.99126,
+                  "lng" : 29.0562783
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.9702894,
+                  "lng" : 29.0345628
+               }
+            },
+            "location" : 
+            {
+               "lat" : 45.98077468598437,
+               "lng" : 29.04542055730143
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.99126,
+                  "lng" : 29.0562783
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.9702894,
+                  "lng" : 29.0345628
+               }
+            }
+         },
+         "place_id" : "ChIJi_ve1k3Et0AR0nkWaEJdeok",
+         "types" : 
+         [
+            "establishment",
+            "natural_feature"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

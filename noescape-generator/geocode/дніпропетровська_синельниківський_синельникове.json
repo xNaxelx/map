@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Синельникове",
+               "short_name" : "Синельникове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Синельниківська міськрада",
+               "short_name" : "Синельниківська міськрада",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Дніпропетровська область",
+               "short_name" : "Дніпропетровська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Синельникове, Дніпропетровська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.3452688,
+                  "lng" : 35.5718423
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.2899891,
+                  "lng" : 35.4669571
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.3229038,
+               "lng" : 35.521396
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.3452688,
+                  "lng" : 35.5718423
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.2899891,
+                  "lng" : 35.4669571
+               }
+            }
+         },
+         "place_id" : "ChIJp6DKDrcC3EAR3CUQhzKCjwc",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

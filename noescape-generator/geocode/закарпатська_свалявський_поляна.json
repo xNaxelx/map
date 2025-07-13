@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Поляна",
+               "short_name" : "Поляна",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Свалявський район",
+               "short_name" : "Свалявський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "89314",
+               "short_name" : "89314",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Поляна, Закарпатська область, Україна, 89314",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.639008,
+                  "lng" : 22.9820569
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.611406,
+                  "lng" : 22.9281039
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.6222709,
+               "lng" : 22.9624891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.639008,
+                  "lng" : 22.9820569
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.611406,
+                  "lng" : 22.9281039
+               }
+            }
+         },
+         "place_id" : "ChIJO_MHChajOUcRvhGm83qd6BQ",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

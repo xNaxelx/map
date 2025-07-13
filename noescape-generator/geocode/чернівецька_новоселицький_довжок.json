@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Довжок",
+               "short_name" : "Довжок",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Новоселицький район",
+               "short_name" : "Новоселицький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60334",
+               "short_name" : "60334",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Довжок, Чернівецька область, Україна, 60334",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.347988,
+                  "lng" : 26.3489279
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.33203,
+                  "lng" : 26.3181189
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.340986,
+               "lng" : 26.3323751
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.347988,
+                  "lng" : 26.3489279
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.33203,
+                  "lng" : 26.3181189
+               }
+            }
+         },
+         "place_id" : "ChIJ5Zeu0neMM0cRDFNZwuDqWXQ",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Бакош",
+               "short_name" : "Бакош",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Берегівський район",
+               "short_name" : "Берегівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90211",
+               "short_name" : "90211",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Бакош, Закарпатська область, Україна, 90211",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.384757,
+                  "lng" : 22.361846
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.366501,
+                  "lng" : 22.3455069
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.37941370000001,
+               "lng" : 22.3561514
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.384757,
+                  "lng" : 22.361846
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.366501,
+                  "lng" : 22.3455069
+               }
+            }
+         },
+         "place_id" : "ChIJV4JmMZv7OEcRZCkq8pKw4pI",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

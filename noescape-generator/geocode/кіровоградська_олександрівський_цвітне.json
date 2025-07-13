@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Цвітне",
+               "short_name" : "Цвітне",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Олександрівський район",
+               "short_name" : "Олександрівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кіровоградська область",
+               "short_name" : "Кіровоградська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "27320",
+               "short_name" : "27320",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Цвітне, Кіровоградська область, Україна, 27320",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.981314,
+                  "lng" : 32.523106
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.93642999999999,
+                  "lng" : 32.47674
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.9582974,
+               "lng" : 32.4988478
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.981314,
+                  "lng" : 32.523106
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.93642999999999,
+                  "lng" : 32.47674
+               }
+            }
+         },
+         "place_id" : "ChIJI_ZfGMTn0EARdIaYKsNelW4",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

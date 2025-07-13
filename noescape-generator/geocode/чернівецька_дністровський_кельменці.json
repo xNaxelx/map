@@ -1,0 +1,90 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Кельменці",
+               "short_name" : "Кельменці",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кельменецький район",
+               "short_name" : "Кельменецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Кельменці, Чернівецька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.4780992,
+                  "lng" : 26.8723869
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.4178088,
+                  "lng" : 26.804033
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.4435097,
+               "lng" : 26.8421332
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.4780992,
+                  "lng" : 26.8723869
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.4178088,
+                  "lng" : 26.804033
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJY2artG-fM0cRSff21gENyzo",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

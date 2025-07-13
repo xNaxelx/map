@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Овруч",
+               "short_name" : "Овруч",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Овруцький район",
+               "short_name" : "Овруцький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Житомирська область",
+               "short_name" : "Житомирська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "11106",
+               "short_name" : "11106",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Овруч, Житомирська область, Україна, 11106",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.345212,
+                  "lng" : 28.836839
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.303841,
+                  "lng" : 28.779321
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.3268314,
+               "lng" : 28.8028968
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.345212,
+                  "lng" : 28.836839
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.303841,
+                  "lng" : 28.779321
+               }
+            }
+         },
+         "place_id" : "ChIJ4ap0ufiHKUcRCsP53TK-M8E",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

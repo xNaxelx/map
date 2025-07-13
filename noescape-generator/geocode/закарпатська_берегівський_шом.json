@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Шом",
+               "short_name" : "Шом",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Берегівський район",
+               "short_name" : "Берегівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90220",
+               "short_name" : "90220",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Шом, Закарпатська область, Україна, 90220",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.29422,
+                  "lng" : 22.4510529
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.2818669,
+                  "lng" : 22.425111
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.2888451,
+               "lng" : 22.4369433
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.29422,
+                  "lng" : 22.4510529
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.2818669,
+                  "lng" : 22.425111
+               }
+            }
+         },
+         "place_id" : "ChIJH8pJiB74OEcRcPv8x-5RfvE",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

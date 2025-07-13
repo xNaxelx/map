@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Травневе",
+               "short_name" : "Травневе",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Міловський район",
+               "short_name" : "Міловський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Луганська область",
+               "short_name" : "Луганська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "92506",
+               "short_name" : "92506",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Травневе, Луганська область, Україна, 92506",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.396906,
+                  "lng" : 40.1041721
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.3841779,
+                  "lng" : 40.082273
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.3890208,
+               "lng" : 40.0951187
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.396906,
+                  "lng" : 40.1041721
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.3841779,
+                  "lng" : 40.082273
+               }
+            }
+         },
+         "place_id" : "ChIJSfbzL4BFH0ERONNhIp-D-Iw",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

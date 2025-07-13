@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Стенжаричі",
+               "short_name" : "Стенжаричі",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Володимир-Волинський район",
+               "short_name" : "Володимир-Волинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "44712",
+               "short_name" : "44712",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Стенжаричі, Волинська область, Україна, 44712",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.9433501,
+                  "lng" : 24.168736
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.91865989999999,
+                  "lng" : 24.0949129
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.9372425,
+               "lng" : 24.1094869
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.9433501,
+                  "lng" : 24.168736
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.91865989999999,
+                  "lng" : 24.0949129
+               }
+            }
+         },
+         "place_id" : "ChIJG5nXEjdhJEcR_KV_X06NbJI",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

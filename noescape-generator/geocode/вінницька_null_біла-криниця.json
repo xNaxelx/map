@@ -1,0 +1,274 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Біла Криниця",
+               "short_name" : "Біла Криниця",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненський район",
+               "short_name" : "Рівненський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "35342",
+               "short_name" : "35342",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Біла Криниця, Рівненська область, Україна, 35342",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.616225,
+                  "lng" : 26.4144959
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.593353,
+                  "lng" : 26.359276
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.6027219,
+               "lng" : 26.3970142
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.616225,
+                  "lng" : 26.4144959
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.593353,
+                  "lng" : 26.359276
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ7WHD264WL0cRxsRh3dhe79M",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Біла",
+               "short_name" : "Біла",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ямпільський район",
+               "short_name" : "Ямпільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "24505",
+               "short_name" : "24505",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Біла, Вінницька область, Україна, 24505",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.26519099999999,
+                  "lng" : 28.2284629
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.237996,
+                  "lng" : 28.1970361
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.2532175,
+               "lng" : 28.2171565
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.26519099999999,
+                  "lng" : 28.2284629
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.237996,
+                  "lng" : 28.1970361
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJUXJqXvHEzEARro6_HmMNTDc",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Біла",
+               "short_name" : "Біла",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Липовецький район",
+               "short_name" : "Липовецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Біла, Вінницька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.402549,
+                  "lng" : 28.9279796
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.378909,
+                  "lng" : 28.9047399
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.3910701,
+               "lng" : 28.9171805
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.402549,
+                  "lng" : 28.9279796
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.378909,
+                  "lng" : 28.9047399
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJDSz9PqI2LUcRDOJQ8teWs6Y",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

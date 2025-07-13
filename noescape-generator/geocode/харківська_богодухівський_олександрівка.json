@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Олександрівка",
+               "short_name" : "Олександрівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Богодухівський район",
+               "short_name" : "Богодухівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Харківська область",
+               "short_name" : "Харківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "62156",
+               "short_name" : "62156",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Олександрівка, Харківська область, Україна, 62156",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.0399271,
+                  "lng" : 35.6093828
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.001794,
+                  "lng" : 35.5129109
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.0242638,
+               "lng" : 35.539384
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.0399271,
+                  "lng" : 35.6093828
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.001794,
+                  "lng" : 35.5129109
+               }
+            }
+         },
+         "place_id" : "ChIJyXcQapvtJ0ER7m8kubK3BpU",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Великоберезнянський район",
+               "short_name" : "Великоберезнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Великоберезнянський район, Закарпатська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.0973109,
+                  "lng" : 22.918895
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.785478,
+                  "lng" : 22.3758611
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.949923,
+               "lng" : 22.6928687
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.0973109,
+                  "lng" : 22.918895
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.785478,
+                  "lng" : 22.3758611
+               }
+            }
+         },
+         "place_id" : "ChIJ6f4fDsFlOUcRIi5IHVWdVvo",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

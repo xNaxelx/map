@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Каракурт",
+               "short_name" : "Каракурт",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Болградський район",
+               "short_name" : "Болградський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68751",
+               "short_name" : "68751",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Каракурт, Одеська область, Україна, 68751",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.650596,
+                  "lng" : 28.718156
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.616375,
+                  "lng" : 28.69163399999999
+               }
+            },
+            "location" : 
+            {
+               "lat" : 45.6435827,
+               "lng" : 28.7052535
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.650596,
+                  "lng" : 28.718156
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.616375,
+                  "lng" : 28.69163399999999
+               }
+            }
+         },
+         "place_id" : "ChIJC8s_Glynt0ARpC8s2oZUWok",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Липове",
+               "short_name" : "Липове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Глобинський район",
+               "short_name" : "Глобинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Полтавська область",
+               "short_name" : "Полтавська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Липове, Полтавська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.49232610000001,
+                  "lng" : 32.7420473
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.4716101,
+                  "lng" : 32.7097107
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.4865557,
+               "lng" : 32.7254071
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.49232610000001,
+                  "lng" : 32.7420473
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.4716101,
+                  "lng" : 32.7097107
+               }
+            }
+         },
+         "place_id" : "ChIJed8QaSPa1kARRhwp1Quo3Hc",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

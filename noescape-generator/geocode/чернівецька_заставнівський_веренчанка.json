@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Веренчанка",
+               "short_name" : "Веренчанка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Заставнівський район",
+               "short_name" : "Заставнівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Веренчанка, Чернівецька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.55837529999999,
+                  "lng" : 25.760622
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.5324075,
+                  "lng" : 25.7194019
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5443793,
+               "lng" : 25.7418469
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.55837529999999,
+                  "lng" : 25.760622
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.5324075,
+                  "lng" : 25.7194019
+               }
+            }
+         },
+         "place_id" : "ChIJHXKpR7RQMUcRMKreZl6ztKw",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

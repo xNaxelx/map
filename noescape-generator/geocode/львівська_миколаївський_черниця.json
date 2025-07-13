@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Черниця",
+               "short_name" : "Черниця",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Миколаївський район",
+               "short_name" : "Миколаївський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Черниця, Львівська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.4508993,
+                  "lng" : 24.0018654
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.4403941,
+                  "lng" : 23.9802361
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.4447323,
+               "lng" : 23.9889963
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.4508993,
+                  "lng" : 24.0018654
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.4403941,
+                  "lng" : 23.9802361
+               }
+            }
+         },
+         "place_id" : "ChIJ80TH2NdfOkcRhyVsP4vBJXw",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

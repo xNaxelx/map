@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Новоселиця",
+               "short_name" : "Новоселиця",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Новоселицький район",
+               "short_name" : "Новоселицький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60300",
+               "short_name" : "60300",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Новоселиця, Чернівецька область, Україна, 60300",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.233524,
+                  "lng" : 26.297297
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.205015,
+                  "lng" : 26.23313
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.2211075,
+               "lng" : 26.2712988
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.233524,
+                  "lng" : 26.297297
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.205015,
+                  "lng" : 26.23313
+               }
+            }
+         },
+         "place_id" : "ChIJ3Sz_QPN2NEcR1PsZRr9eZr0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

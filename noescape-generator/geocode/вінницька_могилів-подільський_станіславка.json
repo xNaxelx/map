@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Станіславка",
+               "short_name" : "Станіславка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Поді́льськ",
+               "short_name" : "Поді́льськ",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66333",
+               "short_name" : "66333",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Станіславка, Одеська область, Україна, 66333",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.752646,
+                  "lng" : 29.298057
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.70335,
+                  "lng" : 29.214612
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.7214797,
+               "lng" : 29.2532795
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.752646,
+                  "lng" : 29.298057
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.70335,
+                  "lng" : 29.214612
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJxaFwCAoazEARBMQdt1Q6MsM",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Могилів-Подільський район",
+               "short_name" : "Могилів-Подільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Могилів-Подільський район, Вінницька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.6838191,
+                  "lng" : 28.105556
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.307752,
+                  "lng" : 27.4577519
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.53353569999999,
+               "lng" : 27.7746536
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.6838191,
+                  "lng" : 28.105556
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.307752,
+                  "lng" : 27.4577519
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ6ZrK7A4mM0cRyqQ2ELkRBmA",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

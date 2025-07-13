@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Садківці",
+               "short_name" : "Садківці",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Могилів-Подільський район",
+               "short_name" : "Могилів-Подільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Садківці, Вінницька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.36792699999999,
+                  "lng" : 27.9422
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.338219,
+                  "lng" : 27.889435
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.3512283,
+               "lng" : 27.9235636
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.36792699999999,
+                  "lng" : 27.9422
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.338219,
+                  "lng" : 27.889435
+               }
+            }
+         },
+         "place_id" : "ChIJfcwDqbsyM0cR1vQI3LYAi7s",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

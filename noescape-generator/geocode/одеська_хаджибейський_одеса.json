@@ -1,0 +1,108 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Хаджибейський район",
+               "short_name" : "Хаджибейський район",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+               ]
+            },
+            {
+               "long_name" : "Одеса",
+               "short_name" : "Одеса",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська міськрада",
+               "short_name" : "Одеська міськрада",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "65000",
+               "short_name" : "65000",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Хаджибейський район, Одеса, Одеська область, Україна, 65000",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.5078282,
+                  "lng" : 30.7455921
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.41352,
+                  "lng" : 30.6116849
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.4568737,
+               "lng" : 30.6821389
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.5078282,
+                  "lng" : 30.7455921
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.41352,
+                  "lng" : 30.6116849
+               }
+            }
+         },
+         "place_id" : "ChIJbRYnemwyxkARSq0p3GfmQC0",
+         "types" : 
+         [
+            "political",
+            "sublocality",
+            "sublocality_level_1"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

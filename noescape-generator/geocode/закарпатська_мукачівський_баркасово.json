@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Баркасово",
+               "short_name" : "Баркасово",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Мукачівський район",
+               "short_name" : "Мукачівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "89654",
+               "short_name" : "89654",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Баркасово, Закарпатська область, Україна, 89654",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.37382299999999,
+                  "lng" : 22.5088809
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.3568221,
+                  "lng" : 22.4826301
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.3674565,
+               "lng" : 22.4913141
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.37382299999999,
+                  "lng" : 22.5088809
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.3568221,
+                  "lng" : 22.4826301
+               }
+            }
+         },
+         "place_id" : "ChIJ16XpKkj_OEcRKtyKDhXOtR0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

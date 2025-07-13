@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Михайлівка",
+               "short_name" : "Михайлівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Лебединський район",
+               "short_name" : "Лебединський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сумська область",
+               "short_name" : "Сумська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "42218",
+               "short_name" : "42218",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Михайлівка, Сумська область, Україна, 42218",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.676172,
+                  "lng" : 34.435951
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.6519089,
+                  "lng" : 34.3887938
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.6564171,
+               "lng" : 34.4056071
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.676172,
+                  "lng" : 34.435951
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.6519089,
+                  "lng" : 34.3887938
+               }
+            }
+         },
+         "place_id" : "ChIJy7YbuoCzKUERDBv7ogx9958",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

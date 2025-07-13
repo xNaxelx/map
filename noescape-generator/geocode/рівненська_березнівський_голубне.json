@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Голубне",
+               "short_name" : "Голубне",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Березнівський район",
+               "short_name" : "Березнівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "34632",
+               "short_name" : "34632",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Голубне, Рівненська область, Україна, 34632",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.918124,
+                  "lng" : 26.7257391
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.878733,
+                  "lng" : 26.6311659
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.89953149999999,
+               "lng" : 26.6903882
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.918124,
+                  "lng" : 26.7257391
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.878733,
+                  "lng" : 26.6311659
+               }
+            }
+         },
+         "place_id" : "ChIJN_moafYzL0cRWqIaiuhha18",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

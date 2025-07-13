@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Буша",
+               "short_name" : "Буша",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ямпільський район",
+               "short_name" : "Ямпільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "24523",
+               "short_name" : "24523",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Буша, Вінницька область, Україна, 24523",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.355384,
+                  "lng" : 28.1349229
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.328385,
+                  "lng" : 28.1030309
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.3411664,
+               "lng" : 28.1200375
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.355384,
+                  "lng" : 28.1349229
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.328385,
+                  "lng" : 28.1030309
+               }
+            }
+         },
+         "place_id" : "ChIJD8rL67jRzEAR4CUaC3kC-E8",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Вільшанка",
+               "short_name" : "Вільшанка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Крижопільський район",
+               "short_name" : "Крижопільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "24624",
+               "short_name" : "24624",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Вільшанка, Вінницька область, Україна, 24624",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.272384,
+                  "lng" : 28.662083
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.219282,
+                  "lng" : 28.588913
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.2568169,
+               "lng" : 28.6309958
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.272384,
+                  "lng" : 28.662083
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.219282,
+                  "lng" : 28.588913
+               }
+            }
+         },
+         "place_id" : "ChIJc_Irv4_kzEARP9yW6lAaK_o",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,98 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Шишківці",
+               "short_name" : "Шишківці",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кіцманський район",
+               "short_name" : "Кіцманський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "59312",
+               "short_name" : "59312",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Шишківці, Чернівецька область, Україна, 59312",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.559166,
+                  "lng" : 25.645646
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.54302800000001,
+                  "lng" : 25.621517
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5501381,
+               "lng" : 25.6336563
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.559166,
+                  "lng" : 25.645646
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.54302800000001,
+                  "lng" : 25.621517
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJs60QTtNRMUcRXkJVMo0-K7o",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

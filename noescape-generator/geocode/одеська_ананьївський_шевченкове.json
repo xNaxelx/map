@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Шевченкове",
+               "short_name" : "Шевченкове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ананьївський район",
+               "short_name" : "Ананьївський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66434",
+               "short_name" : "66434",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Шевченкове, Одеська область, Україна, 66434",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.56891,
+                  "lng" : 30.042817
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.556902,
+                  "lng" : 30.029877
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.56180759999999,
+               "lng" : 30.0376461
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.56891,
+                  "lng" : 30.042817
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.556902,
+                  "lng" : 30.029877
+               }
+            }
+         },
+         "place_id" : "ChIJg_CcvQvBzkAR4GWEAyHm1xo",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

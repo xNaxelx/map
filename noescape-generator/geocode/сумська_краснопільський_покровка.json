@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Покровка",
+               "short_name" : "Покровка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Краснопільський район",
+               "short_name" : "Краснопільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сумська область",
+               "short_name" : "Сумська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "42437",
+               "short_name" : "42437",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Покровка, Сумська область, Україна, 42437",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.8141831,
+                  "lng" : 35.4037099
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.791222,
+                  "lng" : 35.3370819
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.80269639999999,
+               "lng" : 35.3790149
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.8141831,
+                  "lng" : 35.4037099
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.791222,
+                  "lng" : 35.3370819
+               }
+            }
+         },
+         "place_id" : "ChIJXz3iXqryKEER9RdxaOKx6Gc",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

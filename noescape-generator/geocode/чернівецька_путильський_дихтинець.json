@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Дихтинець",
+               "short_name" : "Дихтинець",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Путильський район",
+               "short_name" : "Путильський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "59115",
+               "short_name" : "59115",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Дихтинець, Чернівецька область, Україна, 59115",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.0762711,
+                  "lng" : 25.051879
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.051391,
+                  "lng" : 25.038806
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.0650787,
+               "lng" : 25.0429661
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.0762711,
+                  "lng" : 25.051879
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.051391,
+                  "lng" : 25.038806
+               }
+            }
+         },
+         "place_id" : "ChIJF6O3dO-RNkcRtikP3xttGo0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

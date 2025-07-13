@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Біляївка",
+               "short_name" : "Біляївка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Біляївський район",
+               "short_name" : "Біляївський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67600",
+               "short_name" : "67600",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Біляївка, Одеська область, Україна, 67600",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.500674,
+                  "lng" : 30.2437519
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.444596,
+                  "lng" : 30.1740848
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.4894881,
+               "lng" : 30.2016232
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.500674,
+                  "lng" : 30.2437519
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.444596,
+                  "lng" : 30.1740848
+               }
+            }
+         },
+         "place_id" : "ChIJ2Uw3Hjp8yEARDv4VL5vl9Vs",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

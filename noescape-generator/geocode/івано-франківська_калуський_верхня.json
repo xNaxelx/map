@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Верхня",
+               "short_name" : "Верхня",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Калуський район",
+               "short_name" : "Калуський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Івано-Франківська область",
+               "short_name" : "Івано-Франківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "77324",
+               "short_name" : "77324",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Верхня, Івано-Франківська область, Україна, 77324",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.112907,
+                  "lng" : 24.35297
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.091554,
+                  "lng" : 24.2766931
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.0995779,
+               "lng" : 24.2910147
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.112907,
+                  "lng" : 24.35297
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.091554,
+                  "lng" : 24.2766931
+               }
+            }
+         },
+         "place_id" : "ChIJn7FrABCfMEcR5NB783EpHho",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

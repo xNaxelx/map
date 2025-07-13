@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Шишлівці",
+               "short_name" : "Шишлівці",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ужгородський район",
+               "short_name" : "Ужгородський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "89420",
+               "short_name" : "89420",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Шишлівці, Закарпатська область, Україна, 89420",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.57867,
+                  "lng" : 22.2106709
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.56866609999999,
+                  "lng" : 22.198361
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5751331,
+               "lng" : 22.2073217
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.57867,
+                  "lng" : 22.2106709
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.56866609999999,
+                  "lng" : 22.198361
+               }
+            }
+         },
+         "place_id" : "ChIJM4u7nEUfOUcRDBsxOu-o4kE",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

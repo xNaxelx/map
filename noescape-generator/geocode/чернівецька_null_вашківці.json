@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Вашківці",
+               "short_name" : "Вашківці",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вижницький район",
+               "short_name" : "Вижницький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Вашківці, Чернівецька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.3963283,
+                  "lng" : 25.5505943
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.3547091,
+                  "lng" : 25.4506016
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.3842974,
+               "lng" : 25.5058522
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.3963283,
+                  "lng" : 25.5505943
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.3547091,
+                  "lng" : 25.4506016
+               }
+            }
+         },
+         "place_id" : "ChIJc7grfcWtNkcRDnqN8P3IBEw",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

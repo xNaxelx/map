@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Олег",
+               "short_name" : "Олег",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Великомихайлівський район",
+               "short_name" : "Великомихайлівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67142",
+               "short_name" : "67142",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Олег, Одеська область, Україна, 67142",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.9281331,
+                  "lng" : 29.7498849
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.922958,
+                  "lng" : 29.742411
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.9257138,
+               "lng" : 29.7462654
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.9281331,
+                  "lng" : 29.7498849
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.922958,
+                  "lng" : 29.742411
+               }
+            }
+         },
+         "place_id" : "ChIJNcLP0QseyUARpp2tq-63mzU",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

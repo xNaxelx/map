@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Монастирець",
+               "short_name" : "Монастирець",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Хустський район",
+               "short_name" : "Хустський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90427",
+               "short_name" : "90427",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Монастирець, Закарпатська область, Україна, 90427",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.301958,
+                  "lng" : 23.4338521
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.28385309999999,
+                  "lng" : 23.421904
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.2908276,
+               "lng" : 23.4299239
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.301958,
+                  "lng" : 23.4338521
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.28385309999999,
+                  "lng" : 23.421904
+               }
+            }
+         },
+         "place_id" : "ChIJ21oqylDUOUcR5uidSITKh2g",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

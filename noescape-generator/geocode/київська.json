@@ -1,0 +1,71 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Київська область",
+               "short_name" : "Київська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Київська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.554014,
+                  "lng" : 32.160736
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.1791191,
+                  "lng" : 29.2664181
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.0529506,
+               "lng" : 30.7667133
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.554014,
+                  "lng" : 32.160736
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.1791191,
+                  "lng" : 29.2664181
+               }
+            }
+         },
+         "place_id" : "ChIJ94pF_F3O1EARB10ge68K4KY",
+         "types" : 
+         [
+            "administrative_area_level_1",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

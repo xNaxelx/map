@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Рівне",
+               "short_name" : "Рівне",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Мурованокуриловецький район",
+               "short_name" : "Мурованокуриловецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "23425",
+               "short_name" : "23425",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Рівне, Вінницька область, Україна, 23425",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.64564499999999,
+                  "lng" : 27.590328
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.613268,
+                  "lng" : 27.5513519
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.6262912,
+               "lng" : 27.5742101
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.64564499999999,
+                  "lng" : 27.590328
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.613268,
+                  "lng" : 27.5513519
+               }
+            }
+         },
+         "place_id" : "ChIJ-bm1jCceM0cRMDoGcy8PPi8",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

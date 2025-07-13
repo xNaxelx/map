@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Веселе",
+               "short_name" : "Веселе",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Миколаївський район",
+               "short_name" : "Миколаївський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67024",
+               "short_name" : "67024",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Веселе, Одеська область, Україна, 67024",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.425162,
+                  "lng" : 30.54355
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.4176431,
+                  "lng" : 30.534656
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.4222003,
+               "lng" : 30.5406424
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.425162,
+                  "lng" : 30.54355
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.4176431,
+                  "lng" : 30.534656
+               }
+            }
+         },
+         "place_id" : "ChIJv0R0Rksiz0AR-iTKF0dIm5A",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

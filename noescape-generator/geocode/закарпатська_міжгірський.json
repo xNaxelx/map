@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Міжгірський район",
+               "short_name" : "Міжгірський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Міжгірський район, Закарпатська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.77270799999999,
+                  "lng" : 23.8621451
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.3728509,
+                  "lng" : 23.1653289
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5937008,
+               "lng" : 23.5738109
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.77270799999999,
+                  "lng" : 23.8621451
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.3728509,
+                  "lng" : 23.1653289
+               }
+            }
+         },
+         "place_id" : "ChIJKdmjKvLnOUcRrjJxGP497T4",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,108 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "вулиця Попельницька",
+               "short_name" : "вулиця Попельницька",
+               "types" : 
+               [
+                  "route"
+               ]
+            },
+            {
+               "long_name" : "Івано-Франківськ",
+               "short_name" : "Івано-Франківськ",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Івано-Франківська міськрада",
+               "short_name" : "Івано-Франківська міськрада",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Івано-Франківська область",
+               "short_name" : "Івано-Франківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "76000",
+               "short_name" : "76000",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "вулиця Попельницька, Івано-Франківськ, Івано-Франківська область, Україна, 76000",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.9277903,
+               "lng" : 24.6992103
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.9291337302915,
+                  "lng" : 24.7005775302915
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.9264357697085,
+                  "lng" : 24.6978795697085
+               }
+            }
+         },
+         "navigation_points" : 
+         [
+            {
+               "location" : 
+               {
+                  "latitude" : 48.92779789999999,
+                  "longitude" : 24.699185
+               }
+            }
+         ],
+         "partial_match" : true,
+         "place_id" : "ChIJD7ZWt1rBMEcRE3FNAU6t3Do",
+         "plus_code" : 
+         {
+            "compound_code" : "WMHX+4M Івано-Франківськ, Івано-Франківська область, Україна",
+            "global_code" : "8GW6WMHX+4M"
+         },
+         "types" : 
+         [
+            "establishment",
+            "point_of_interest"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

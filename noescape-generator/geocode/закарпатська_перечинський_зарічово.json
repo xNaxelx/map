@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Зарічово",
+               "short_name" : "Зарічово",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Перечинський район",
+               "short_name" : "Перечинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "89212",
+               "short_name" : "89212",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Зарічово, Закарпатська область, Україна, 89212",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.78061700000001,
+                  "lng" : 22.5358619
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.75911,
+                  "lng" : 22.492109
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.7661778,
+               "lng" : 22.5179809
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.78061700000001,
+                  "lng" : 22.5358619
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.75911,
+                  "lng" : 22.492109
+               }
+            }
+         },
+         "place_id" : "ChIJx8kkJjQTOUcRyKqaeOwA7A4",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

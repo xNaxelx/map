@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Міжгір'я",
+               "short_name" : "Міжгір'я",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Міжгірський район",
+               "short_name" : "Міжгірський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90001",
+               "short_name" : "90001",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Міжгір'я, Закарпатська область, Україна, 90001",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.5587021,
+                  "lng" : 23.6029819
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.49874699999999,
+                  "lng" : 23.487026
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5225505,
+               "lng" : 23.5051414
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.5587021,
+                  "lng" : 23.6029819
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.49874699999999,
+                  "lng" : 23.487026
+               }
+            }
+         },
+         "place_id" : "ChIJeRb3J6jdOUcRqw5QvNcIxKM",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

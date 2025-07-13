@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Гавришівка",
+               "short_name" : "Гавришівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницький район",
+               "short_name" : "Вінницький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Гавришівка, Вінницька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.2552505,
+                  "lng" : 28.655167
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.2189777,
+                  "lng" : 28.621241
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.24137109999999,
+               "lng" : 28.6361205
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.2552505,
+                  "lng" : 28.655167
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.2189777,
+                  "lng" : 28.621241
+               }
+            }
+         },
+         "place_id" : "ChIJ2flYPulPLUcRtj5W4LdSlAc",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

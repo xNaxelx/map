@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Козлів",
+               "short_name" : "Козлів",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Переяслав-Хмельницький район",
+               "short_name" : "Переяслав-Хмельницький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Київська область",
+               "short_name" : "Київська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "08422",
+               "short_name" : "08422",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Козлів, Київська область, Україна, 08422",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.228109,
+                  "lng" : 31.5937761
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.202659,
+                  "lng" : 31.5472151
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.2205784,
+               "lng" : 31.571116
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.228109,
+                  "lng" : 31.5937761
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.202659,
+                  "lng" : 31.5472151
+               }
+            }
+         },
+         "place_id" : "ChIJT-8nNDlQ1EAR_OYo60eZbbA",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

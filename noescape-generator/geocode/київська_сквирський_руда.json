@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Руда",
+               "short_name" : "Руда",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сквирський район",
+               "short_name" : "Сквирський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Київська область",
+               "short_name" : "Київська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "09035",
+               "short_name" : "09035",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Руда, Київська область, Україна, 09035",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.8212659,
+                  "lng" : 29.8632399
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.773339,
+                  "lng" : 29.808833
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.798156,
+               "lng" : 29.8401524
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.8212659,
+                  "lng" : 29.8632399
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.773339,
+                  "lng" : 29.808833
+               }
+            }
+         },
+         "place_id" : "ChIJuXtA7wtI00AReLk8gHFCwqY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

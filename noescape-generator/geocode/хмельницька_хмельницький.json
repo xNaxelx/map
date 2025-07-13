@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Хмельницький район",
+               "short_name" : "Хмельницький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Хмельницька область",
+               "short_name" : "Хмельницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Хмельницький район, Хмельницька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.60249,
+                  "lng" : 27.3152601
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.2952171,
+                  "lng" : 26.5378549
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.3897022,
+               "lng" : 26.8081863
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.60249,
+                  "lng" : 27.3152601
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.2952171,
+                  "lng" : 26.5378549
+               }
+            }
+         },
+         "place_id" : "ChIJSyqPydcAMkcRCpmRX1yE_3Y",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

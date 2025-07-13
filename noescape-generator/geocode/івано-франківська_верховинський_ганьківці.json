@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Верховинський район",
+               "short_name" : "Верховинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Івано-Франківська область",
+               "short_name" : "Івано-Франківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Верховинський район, Івано-Франківська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.279416,
+                  "lng" : 25.090284
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.7243762,
+                  "lng" : 24.5539909
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.0615596,
+               "lng" : 24.8211382
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.279416,
+                  "lng" : 25.090284
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.7243762,
+                  "lng" : 24.5539909
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJG8h067b0NkcRUvFqkXvYlQY",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Ганьківці",
+               "short_name" : "Ганьківці",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Снятинський район",
+               "short_name" : "Снятинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Івано-Франківська область",
+               "short_name" : "Івано-Франківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "78320",
+               "short_name" : "78320",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Ганьківці, Івано-Франківська область, Україна, 78320",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.558246,
+                  "lng" : 25.4331161
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.53136,
+                  "lng" : 25.4064841
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5464073,
+               "lng" : 25.4181613
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.558246,
+                  "lng" : 25.4331161
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.53136,
+                  "lng" : 25.4064841
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJsToyPcxLMUcRsNtTCMzmLtI",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

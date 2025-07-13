@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Запсонь",
+               "short_name" : "Запсонь",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Берегівський район",
+               "short_name" : "Берегівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90224",
+               "short_name" : "90224",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Запсонь, Закарпатська область, Україна, 90224",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.2902169,
+                  "lng" : 22.4844849
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.269796,
+                  "lng" : 22.4555679
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.27923089999999,
+               "lng" : 22.4742067
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.2902169,
+                  "lng" : 22.4844849
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.269796,
+                  "lng" : 22.4555679
+               }
+            }
+         },
+         "place_id" : "ChIJuyxIaPhXOEcRJtcMfO1tEFk",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Новорозівка",
+               "short_name" : "Новорозівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Окнянський район",
+               "short_name" : "Окнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67950",
+               "short_name" : "67950",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Новорозівка, Одеська область, Україна, 67950",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.422905,
+                  "lng" : 29.3331851
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.41563,
+                  "lng" : 29.325665
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.419114,
+               "lng" : 29.3299676
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.422905,
+                  "lng" : 29.3331851
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.41563,
+                  "lng" : 29.325665
+               }
+            }
+         },
+         "place_id" : "ChIJ34Ygpn5UyUARHkRi6JZiSRs",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

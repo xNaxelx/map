@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Михалкове",
+               "short_name" : "Михалкове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сокирянський район",
+               "short_name" : "Сокирянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60234",
+               "short_name" : "60234",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Михалкове, Чернівецька область, Україна, 60234",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.577982,
+                  "lng" : 27.314747
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.554659,
+                  "lng" : 27.2768241
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.56300160000001,
+               "lng" : 27.2949886
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.577982,
+                  "lng" : 27.314747
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.554659,
+                  "lng" : 27.2768241
+               }
+            }
+         },
+         "place_id" : "ChIJ91bcmy0FM0cRKJBizYo5VwQ",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

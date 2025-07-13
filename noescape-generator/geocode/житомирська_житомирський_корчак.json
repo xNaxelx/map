@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Корчак",
+               "short_name" : "Корчак",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Житомирський район",
+               "short_name" : "Житомирський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Житомирська область",
+               "short_name" : "Житомирська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "12421",
+               "short_name" : "12421",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Корчак, Житомирська область, Україна, 12421",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.21883099999999,
+                  "lng" : 28.491289
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.205908,
+                  "lng" : 28.4616168
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.2126517,
+               "lng" : 28.4793939
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.21883099999999,
+                  "lng" : 28.491289
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.205908,
+                  "lng" : 28.4616168
+               }
+            }
+         },
+         "place_id" : "ChIJL1v9mZxoLEcRfAH0_GstBvg",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

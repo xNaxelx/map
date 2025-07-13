@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Опори",
+               "short_name" : "Опори",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Дрогобицький район",
+               "short_name" : "Дрогобицький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "82164",
+               "short_name" : "82164",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Опори, Львівська область, Україна, 82164",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.419268,
+                  "lng" : 23.7079721
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.410153,
+                  "lng" : 23.6849421
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.41630869999999,
+               "lng" : 23.7000414
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.419268,
+                  "lng" : 23.7079721
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.410153,
+                  "lng" : 23.6849421
+               }
+            }
+         },
+         "place_id" : "ChIJy4SuoHhQOkcRkv1NxDKcHPY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

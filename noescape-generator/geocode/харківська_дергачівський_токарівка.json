@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Токарівка",
+               "short_name" : "Токарівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Дергачівський район",
+               "short_name" : "Дергачівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Харківська область",
+               "short_name" : "Харківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "62313",
+               "short_name" : "62313",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Токарівка, Харківська область, Україна, 62313",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.287693,
+                  "lng" : 36.2469329
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.275552,
+                  "lng" : 36.223106
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.28091509999999,
+               "lng" : 36.2364395
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.287693,
+                  "lng" : 36.2469329
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.275552,
+                  "lng" : 36.223106
+               }
+            }
+         },
+         "place_id" : "ChIJExcelGyzJ0ERya60FWeQVOk",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

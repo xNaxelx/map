@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Любашівка",
+               "short_name" : "Любашівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Любашівський район",
+               "short_name" : "Любашівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Любашівка, Одеська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.85391509999999,
+                  "lng" : 30.2936469
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.8157534,
+                  "lng" : 30.2345999
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.8329451,
+               "lng" : 30.2570494
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.85391509999999,
+                  "lng" : 30.2936469
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.8157534,
+                  "lng" : 30.2345999
+               }
+            }
+         },
+         "place_id" : "ChIJCbGX5NH0zkARREqJTrR7f94",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

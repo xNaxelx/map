@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Жовква",
+               "short_name" : "Жовква",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Жовківський район",
+               "short_name" : "Жовківський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "80300",
+               "short_name" : "80300",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Жовква, Львівська область, Україна, 80300",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.0697359,
+                  "lng" : 24.015393
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.040101,
+                  "lng" : 23.937807
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.0588756,
+               "lng" : 23.9736471
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.0697359,
+                  "lng" : 24.015393
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.040101,
+                  "lng" : 23.937807
+               }
+            }
+         },
+         "place_id" : "ChIJuyXKcs0pO0cRMPaHmvAcE10",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

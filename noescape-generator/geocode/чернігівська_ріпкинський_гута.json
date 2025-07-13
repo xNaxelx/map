@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Гута",
+               "short_name" : "Гута",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ріпкинський район",
+               "short_name" : "Ріпкинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернігівська область",
+               "short_name" : "Чернігівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "15046",
+               "short_name" : "15046",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Гута, Чернігівська область, Україна, 15046",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.547113,
+                  "lng" : 30.75465
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.5416679,
+                  "lng" : 30.7424718
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.5439793,
+               "lng" : 30.74816959999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.547113,
+                  "lng" : 30.75465
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.5416679,
+                  "lng" : 30.7424718
+               }
+            }
+         },
+         "place_id" : "ChIJMaMmg3Zv1UYR8rZyyTLwKnI",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

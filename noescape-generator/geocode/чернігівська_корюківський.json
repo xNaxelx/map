@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Корюківський район",
+               "short_name" : "Корюківський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернігівська область",
+               "short_name" : "Чернігівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Корюківський район, Чернігівська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.08212469999999,
+                  "lng" : 32.816909
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.586372,
+                  "lng" : 32.038431
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.8229352,
+               "lng" : 32.4216236
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.08212469999999,
+                  "lng" : 32.816909
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.586372,
+                  "lng" : 32.038431
+               }
+            }
+         },
+         "place_id" : "ChIJ_9Ha6U06K0ERTIYu8DHRUTw",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

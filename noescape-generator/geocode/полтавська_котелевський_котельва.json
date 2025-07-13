@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Котельва",
+               "short_name" : "Котельва",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Котелевський район",
+               "short_name" : "Котелевський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Полтавська область",
+               "short_name" : "Полтавська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Котельва, Полтавська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.09675679999999,
+                  "lng" : 34.8070048
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.0292474,
+                  "lng" : 34.7181273
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.0688235,
+               "lng" : 34.7645338
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.09675679999999,
+                  "lng" : 34.8070048
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.0292474,
+                  "lng" : 34.7181273
+               }
+            }
+         },
+         "place_id" : "ChIJ6wz3ewr910ARtqxEdrFtInU",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

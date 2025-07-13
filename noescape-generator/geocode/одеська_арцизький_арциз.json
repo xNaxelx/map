@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Арциз",
+               "short_name" : "Арциз",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Арцизький район",
+               "short_name" : "Арцизький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Арциз, Одеська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.0162176,
+                  "lng" : 29.4612121
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.9474497,
+                  "lng" : 29.3958092
+               }
+            },
+            "location" : 
+            {
+               "lat" : 45.9788437,
+               "lng" : 29.4235548
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.0162177,
+                  "lng" : 29.4612121
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.9474497,
+                  "lng" : 29.3958092
+               }
+            }
+         },
+         "place_id" : "ChIJh2mKKgTkt0ARXCqwdgdBnGI",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

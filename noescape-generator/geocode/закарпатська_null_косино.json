@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Косино",
+               "short_name" : "Косино",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Мукачівський район",
+               "short_name" : "Мукачівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "89643",
+               "short_name" : "89643",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Косино, Закарпатська область, Україна, 89643",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.51805,
+                  "lng" : 22.80394
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.506948,
+                  "lng" : 22.782114
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5140393,
+               "lng" : 22.7958925
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.51805,
+                  "lng" : 22.80394
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.506948,
+                  "lng" : 22.782114
+               }
+            }
+         },
+         "place_id" : "ChIJqVDT3S6vOUcR2qgEhpOk7hk",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Червоне",
+               "short_name" : "Червоне",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Березівський район",
+               "short_name" : "Березівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67352",
+               "short_name" : "67352",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Червоне, Одеська область, Україна, 67352",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.080879,
+                  "lng" : 30.922143
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.062584,
+                  "lng" : 30.9019681
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.0712948,
+               "lng" : 30.9146601
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.080879,
+                  "lng" : 30.922143
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.062584,
+                  "lng" : 30.9019681
+               }
+            }
+         },
+         "place_id" : "ChIJmXKADr9Tz0ARGiySZkFOCIE",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

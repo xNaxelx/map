@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Миропілля",
+               "short_name" : "Миропілля",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Краснопільський район",
+               "short_name" : "Краснопільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сумська область",
+               "short_name" : "Сумська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "42411",
+               "short_name" : "42411",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Миропілля, Сумська область, Україна, 42411",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.04998500000001,
+                  "lng" : 35.2851079
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.997302,
+                  "lng" : 35.23231200000001
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.0223909,
+               "lng" : 35.2603525
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.04998500000001,
+                  "lng" : 35.2851079
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.997302,
+                  "lng" : 35.23231200000001
+               }
+            }
+         },
+         "place_id" : "ChIJ9c6zMHDnKEER3j5k5EI35jc",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

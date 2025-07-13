@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Карпівка",
+               "short_name" : "Карпівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Могилів-Подільський район",
+               "short_name" : "Могилів-Подільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "24045",
+               "short_name" : "24045",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Карпівка, Вінницька область, Україна, 24045",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.490559,
+                  "lng" : 27.864274
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.467017,
+                  "lng" : 27.820186
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.4780305,
+               "lng" : 27.8471653
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.490559,
+                  "lng" : 27.864274
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.467017,
+                  "lng" : 27.820186
+               }
+            }
+         },
+         "place_id" : "ChIJsciduNAoM0cRjQF3DO4vpAE",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

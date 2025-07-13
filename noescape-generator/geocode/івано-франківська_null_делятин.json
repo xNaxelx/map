@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Делятин",
+               "short_name" : "Делятин",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Надворнянський район",
+               "short_name" : "Надворнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Івано-Франківська область",
+               "short_name" : "Івано-Франківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Делятин, Івано-Франківська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.561519,
+                  "lng" : 24.653786
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.4938291,
+                  "lng" : 24.544131
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5328777,
+               "lng" : 24.6250666
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.561519,
+                  "lng" : 24.653786
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.4938291,
+                  "lng" : 24.544131
+               }
+            }
+         },
+         "place_id" : "ChIJv-_02gQvN0cRIKhk-sIxlO4",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

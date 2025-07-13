@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Нестоїта",
+               "short_name" : "Нестоїта",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Поді́льськ",
+               "short_name" : "Поді́льськ",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66332",
+               "short_name" : "66332",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Нестоїта, Одеська область, Україна, 66332",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.790484,
+                  "lng" : 29.3733951
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.743117,
+                  "lng" : 29.338072
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.7692376,
+               "lng" : 29.3520901
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.790484,
+                  "lng" : 29.3733951
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.743117,
+                  "lng" : 29.338072
+               }
+            }
+         },
+         "place_id" : "ChIJ90C3haUZzEARH22UxEm-bbU",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

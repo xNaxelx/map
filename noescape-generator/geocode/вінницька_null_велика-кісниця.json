@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Велика Кісниця",
+               "short_name" : "Велика Кісниця",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ямпільський район",
+               "short_name" : "Ямпільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "24546",
+               "short_name" : "24546",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Велика Кісниця, Вінницька область, Україна, 24546",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.162997,
+                  "lng" : 28.5007449
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.115928,
+                  "lng" : 28.4240331
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.1357431,
+               "lng" : 28.449165
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.162997,
+                  "lng" : 28.5007449
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.115928,
+                  "lng" : 28.4240331
+               }
+            }
+         },
+         "place_id" : "ChIJm6lR2J7uzEARZPwoT4kd7bA",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

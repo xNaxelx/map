@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Миляч",
+               "short_name" : "Миляч",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Дубровицький район",
+               "short_name" : "Дубровицький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "34133",
+               "short_name" : "34133",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Миляч, Рівненська область, Україна, 34133",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.70889,
+                  "lng" : 26.7593139
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.667584,
+                  "lng" : 26.730453
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.68055409999999,
+               "lng" : 26.7419264
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.70889,
+                  "lng" : 26.7593139
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.667584,
+                  "lng" : 26.730453
+               }
+            }
+         },
+         "place_id" : "ChIJHcGjv_l_KEcRzKr81APX-dU",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

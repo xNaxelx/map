@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Могилів-Подільський район",
+               "short_name" : "Могилів-Подільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Могилів-Подільський район, Вінницька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.6838191,
+                  "lng" : 28.105556
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.307752,
+                  "lng" : 27.4577519
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.53353569999999,
+               "lng" : 27.7746536
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.6838191,
+                  "lng" : 28.105556
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.307752,
+                  "lng" : 27.4577519
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ6ZrK7A4mM0cRyqQ2ELkRBmA",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Кісниця",
+               "short_name" : "Кісниця",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Крижопільський район",
+               "short_name" : "Крижопільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "24613",
+               "short_name" : "24613",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Кісниця, Вінницька область, Україна, 24613",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.441592,
+                  "lng" : 28.7627969
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.406079,
+                  "lng" : 28.7070421
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.4331596,
+               "lng" : 28.7305117
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.441592,
+                  "lng" : 28.7627969
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.406079,
+                  "lng" : 28.7070421
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJiwwC-OEbzUARpn-RYWGEYOM",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

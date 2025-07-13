@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Любешів",
+               "short_name" : "Любешів",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Любешівський район",
+               "short_name" : "Любешівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Любешів, Волинська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.782949,
+                  "lng" : 25.526991
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.7358791,
+                  "lng" : 25.470729
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.7550673,
+               "lng" : 25.498235
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.782949,
+                  "lng" : 25.526991
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.7358791,
+                  "lng" : 25.470729
+               }
+            }
+         },
+         "place_id" : "ChIJcX7kAw73JkcRSLm8_PMnZd0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

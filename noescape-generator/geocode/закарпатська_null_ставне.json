@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Ставне",
+               "short_name" : "Ставне",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Великоберезнянський район",
+               "short_name" : "Великоберезнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "89014",
+               "short_name" : "89014",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Ставне, Закарпатська область, Україна, 89014",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.996551,
+                  "lng" : 22.7243001
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.9766519,
+                  "lng" : 22.657715
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.9911136,
+               "lng" : 22.6926807
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.996551,
+                  "lng" : 22.7243001
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.9766519,
+                  "lng" : 22.657715
+               }
+            }
+         },
+         "place_id" : "ChIJ8ybFTHNkOUcRIHXQlTW1joA",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

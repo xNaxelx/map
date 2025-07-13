@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Верхівка",
+               "short_name" : "Верхівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Розівський район",
+               "short_name" : "Розівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Запорізька область",
+               "short_name" : "Запорізька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "70310",
+               "short_name" : "70310",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Верхівка, Запорізька область, Україна, 70310",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.59428,
+                  "lng" : 36.749164
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.588172,
+                  "lng" : 36.730754
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.5918858,
+               "lng" : 36.7404741
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.59428,
+                  "lng" : 36.749164
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.588172,
+                  "lng" : 36.730754
+               }
+            }
+         },
+         "place_id" : "ChIJk-ny3JX13UARTH_jzd-Z94A",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

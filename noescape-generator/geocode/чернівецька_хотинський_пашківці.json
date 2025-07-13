@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Пашківці",
+               "short_name" : "Пашківці",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Хотинський район",
+               "short_name" : "Хотинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60052",
+               "short_name" : "60052",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Пашківці, Чернівецька область, Україна, 60052",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.402349,
+                  "lng" : 26.492384
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.380731,
+                  "lng" : 26.4614771
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.3932211,
+               "lng" : 26.4733524
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.402349,
+                  "lng" : 26.492384
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.380731,
+                  "lng" : 26.4614771
+               }
+            }
+         },
+         "place_id" : "ChIJtTOjz9iRM0cRxmPRKo27ivY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

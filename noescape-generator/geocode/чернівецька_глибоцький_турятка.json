@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Турятка",
+               "short_name" : "Турятка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Глибоцький район",
+               "short_name" : "Глибоцький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60433",
+               "short_name" : "60433",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Турятка, Чернівецька область, Україна, 60433",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.062988,
+                  "lng" : 26.154162
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.032957,
+                  "lng" : 26.1338421
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.0468224,
+               "lng" : 26.1458565
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.062988,
+                  "lng" : 26.154162
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.032957,
+                  "lng" : 26.1338421
+               }
+            }
+         },
+         "place_id" : "ChIJmbhvaDJpNEcR0WZ-kNgdUmU",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

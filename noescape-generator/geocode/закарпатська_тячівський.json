@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Великий струмок",
+               "short_name" : "Великий струмок",
+               "types" : 
+               [
+                  "establishment",
+                  "natural_feature"
+               ]
+            },
+            {
+               "long_name" : "Тячівський район",
+               "short_name" : "Тячівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Великий струмок, Закарпатська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.1367441,
+                  "lng" : 23.9096413
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.1089971,
+                  "lng" : 23.8502212
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.12287062553914,
+               "lng" : 23.8799312783811
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.1367441,
+                  "lng" : 23.9096413
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.1089971,
+                  "lng" : 23.8502212
+               }
+            }
+         },
+         "place_id" : "ChIJV-nvnSCgN0cRXd_gCq60Tlc",
+         "types" : 
+         [
+            "establishment",
+            "natural_feature"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Гришки",
+               "short_name" : "Гришки",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Деражнянський район",
+               "short_name" : "Деражнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Хмельницька область",
+               "short_name" : "Хмельницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "32236",
+               "short_name" : "32236",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Гришки, Хмельницька область, Україна, 32236",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.195064,
+                  "lng" : 27.7697351
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.176413,
+                  "lng" : 27.733142
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.1846526,
+               "lng" : 27.751861
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.195064,
+                  "lng" : 27.7697351
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.176413,
+                  "lng" : 27.733142
+               }
+            }
+         },
+         "place_id" : "ChIJq1ASRNaGMkcRlvd3ou_Fw2Y",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

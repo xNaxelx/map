@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Млинів",
+               "short_name" : "Млинів",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Млинівський район",
+               "short_name" : "Млинівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "35100",
+               "short_name" : "35100",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Млинів, Рівненська область, Україна, 35100",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.5282361,
+                  "lng" : 25.64568
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.499364,
+                  "lng" : 25.567689
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.5077642,
+               "lng" : 25.6110773
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.5282361,
+                  "lng" : 25.64568
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.499364,
+                  "lng" : 25.567689
+               }
+            }
+         },
+         "place_id" : "ChIJ184h5SaAL0cRelDXILfYvvY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Бабичеве",
+               "short_name" : "Бабичеве",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Троїцький район",
+               "short_name" : "Троїцький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Луганська область",
+               "short_name" : "Луганська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "92115",
+               "short_name" : "92115",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Бабичеве, Луганська область, Україна, 92115",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.97552,
+                  "lng" : 38.2668981
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.9231781,
+                  "lng" : 38.2067689
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.9458204,
+               "lng" : 38.2258721
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.97552,
+                  "lng" : 38.2668981
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.9231781,
+                  "lng" : 38.2067689
+               }
+            }
+         },
+         "place_id" : "ChIJ68MxUm8_IUERE4b4c4fHew8",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

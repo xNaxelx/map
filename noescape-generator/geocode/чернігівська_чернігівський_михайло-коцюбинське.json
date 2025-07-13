@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Михайло-Коцюбинське",
+               "short_name" : "Михайло-Коцюбинське",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернігівський район",
+               "short_name" : "Чернігівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернігівська область",
+               "short_name" : "Чернігівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "15552",
+               "short_name" : "15552",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Михайло-Коцюбинське, Чернігівська область, Україна, 15552",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.472299,
+                  "lng" : 31.100293
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.437749,
+                  "lng" : 31.05420789999999
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.452814,
+               "lng" : 31.0731481
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.472299,
+                  "lng" : 31.100293
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.437749,
+                  "lng" : 31.05420789999999
+               }
+            }
+         },
+         "place_id" : "ChIJx_HaZJVE1UYRNATIL1rsaio",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

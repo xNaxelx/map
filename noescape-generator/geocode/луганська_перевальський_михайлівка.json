@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Михайлівка",
+               "short_name" : "Михайлівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Перевальський район",
+               "short_name" : "Перевальський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Луганська область",
+               "short_name" : "Луганська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "94311",
+               "short_name" : "94311",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Михайлівка, Луганська область, Україна, 94311",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.515009,
+                  "lng" : 38.9656469
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.4528371,
+                  "lng" : 38.8734629
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.4967263,
+               "lng" : 38.9043571
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.515009,
+                  "lng" : 38.9656469
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.4528371,
+                  "lng" : 38.8734629
+               }
+            }
+         },
+         "place_id" : "ChIJbbAiaLIh4EARDueidtlWlKo",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,265 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Ратнівський район",
+               "short_name" : "Ратнівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Ратнівський район, Волинська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.916829,
+                  "lng" : 24.948951
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.497794,
+                  "lng" : 24.0351261
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.7157017,
+               "lng" : 24.4554706
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.916829,
+                  "lng" : 24.948951
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.497794,
+                  "lng" : 24.0351261
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJf_0LhjSyJkcRpKPEC95GFfg",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Черче",
+               "short_name" : "Черче",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Камінь-Каширський район",
+               "short_name" : "Камінь-Каширський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "44510",
+               "short_name" : "44510",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Черче, Волинська область, Україна, 44510",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.76882999999999,
+                  "lng" : 24.9136912
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.71511710000001,
+                  "lng" : 24.8491518
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.7403533,
+               "lng" : 24.8730036
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.76882999999999,
+                  "lng" : 24.9136912
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.71511710000001,
+                  "lng" : 24.8491518
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ8bYmuzu_JkcRDk25vhRnX3U",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Черче",
+               "short_name" : "Черче",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рогатинський район",
+               "short_name" : "Рогатинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Івано-Франківська область",
+               "short_name" : "Івано-Франківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "77015",
+               "short_name" : "77015",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Черче, Івано-Франківська область, Україна, 77015",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.4362301,
+                  "lng" : 24.571499
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.422042,
+                  "lng" : 24.535353
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.4273682,
+               "lng" : 24.5514002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.4362301,
+                  "lng" : 24.571499
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.422042,
+                  "lng" : 24.535353
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ6Z-6FkN_MEcRfCsZiYANsjI",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

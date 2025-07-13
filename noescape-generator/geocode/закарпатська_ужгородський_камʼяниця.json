@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Кам'яниця",
+               "short_name" : "Кам'яниця",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ужгородський район",
+               "short_name" : "Ужгородський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "89411",
+               "short_name" : "89411",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Кам'яниця, Закарпатська область, Україна, 89411",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.701195,
+                  "lng" : 22.426515
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.685343,
+                  "lng" : 22.3856931
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.6921268,
+               "lng" : 22.4154973
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.701195,
+                  "lng" : 22.426515
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.685343,
+                  "lng" : 22.3856931
+               }
+            }
+         },
+         "place_id" : "ChIJZ766x7UWOUcRbLGfheqmgCw",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

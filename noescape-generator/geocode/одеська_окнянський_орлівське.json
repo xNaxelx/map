@@ -1,0 +1,98 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Орлівське",
+               "short_name" : "Орлівське",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Окнянський район",
+               "short_name" : "Окнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67934",
+               "short_name" : "67934",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Орлівське, Одеська область, Україна, 67934",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.4875279,
+                  "lng" : 29.311188
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.465474,
+                  "lng" : 29.2874401
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.4779768,
+               "lng" : 29.3036999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.4875279,
+                  "lng" : 29.311188
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.465474,
+                  "lng" : 29.2874401
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ1XbT2zNVyUARP5Fof8_8FOM",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

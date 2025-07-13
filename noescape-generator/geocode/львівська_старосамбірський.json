@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Старосамбірський район",
+               "short_name" : "Старосамбірський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Старосамбірський район, Львівська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.7193037,
+                  "lng" : 23.1630341
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.23120189999999,
+                  "lng" : 22.6408309
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.5048262,
+               "lng" : 22.8988386
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.7193037,
+                  "lng" : 23.1630341
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.23120189999999,
+                  "lng" : 22.6408309
+               }
+            }
+         },
+         "place_id" : "ChIJW-y0WmyWO0cRpAY6uTw5TnQ",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,98 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Бузовиця",
+               "short_name" : "Бузовиця",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кельменецький район",
+               "short_name" : "Кельменецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60142",
+               "short_name" : "60142",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Бузовиця, Чернівецька область, Україна, 60142",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.51294,
+                  "lng" : 26.9473821
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.489762,
+                  "lng" : 26.90761
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.49941,
+               "lng" : 26.9298923
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.51294,
+                  "lng" : 26.9473821
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.489762,
+                  "lng" : 26.90761
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ8S5VNY2gM0cRyK2KW6EhBgY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

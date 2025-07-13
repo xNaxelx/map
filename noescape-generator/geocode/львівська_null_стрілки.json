@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Стрілки",
+               "short_name" : "Стрілки",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Старосамбірський район",
+               "short_name" : "Старосамбірський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "82092",
+               "short_name" : "82092",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Стрілки, Львівська область, Україна, 82092",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.339622,
+                  "lng" : 23.0011451
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.312888,
+                  "lng" : 22.941991
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.3269549,
+               "lng" : 22.9743522
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.339622,
+                  "lng" : 23.0011451
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.312888,
+                  "lng" : 22.941991
+               }
+            }
+         },
+         "place_id" : "ChIJEX0RgCTHO0cRHsWVuSLgU5Q",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

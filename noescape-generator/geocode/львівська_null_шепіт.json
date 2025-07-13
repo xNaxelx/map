@@ -1,0 +1,164 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Львівська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.6488831,
+                  "lng" : 25.426912
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.7189779,
+                  "lng" : 22.6408309
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.839683,
+               "lng" : 24.029717
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.6488831,
+                  "lng" : 25.426912
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.7189779,
+                  "lng" : 22.6408309
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJb5xjPmndOkcRYj26h4iMDWM",
+         "types" : 
+         [
+            "administrative_area_level_1",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Шепіт",
+               "short_name" : "Шепіт",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Косівський район",
+               "short_name" : "Косівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Івано-Франківська область",
+               "short_name" : "Івано-Франківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "78642",
+               "short_name" : "78642",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Шепіт, Івано-Франківська область, Україна, 78642",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.27101709999999,
+                  "lng" : 24.864357
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.238352,
+                  "lng" : 24.803243
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.26360469999999,
+               "lng" : 24.8565365
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.27101709999999,
+                  "lng" : 24.864357
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.238352,
+                  "lng" : 24.803243
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJEekf-T3oNkcRKsi9NZTdKFY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Фастівський район",
+               "short_name" : "Фастівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Київська область",
+               "short_name" : "Київська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Фастівський район, Київська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.231908,
+                  "lng" : 30.1842101
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.871013,
+                  "lng" : 29.627809
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.0091305,
+               "lng" : 29.8989518
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.231908,
+                  "lng" : 30.1842101
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.871013,
+                  "lng" : 29.627809
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJsdt3z4pU00ARem_ekWMwQ9I",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Бистрець",
+               "short_name" : "Бистрець",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Верховинський район",
+               "short_name" : "Верховинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Івано-Франківська область",
+               "short_name" : "Івано-Франківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "78707",
+               "short_name" : "78707",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Бистрець, Івано-Франківська область, Україна, 78707",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.127133,
+                  "lng" : 24.698855
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.118981,
+                  "lng" : 24.690009
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.1235162,
+               "lng" : 24.6918988
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.127133,
+                  "lng" : 24.698855
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.118981,
+                  "lng" : 24.690009
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJfb4QTQXwNkcRgGVM19YdsDo",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

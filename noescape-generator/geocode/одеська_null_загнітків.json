@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Загнітків",
+               "short_name" : "Загнітків",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кодимський район",
+               "short_name" : "Кодимський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66012",
+               "short_name" : "66012",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Загнітків, Одеська область, Україна, 66012",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.0742989,
+                  "lng" : 28.90957289999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.030258,
+                  "lng" : 28.85595889999999
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.04700829999999,
+               "lng" : 28.8848809
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.0742989,
+                  "lng" : 28.90957289999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.030258,
+                  "lng" : 28.85595889999999
+               }
+            }
+         },
+         "place_id" : "ChIJK-2kWmVZzEARfDpCqcWpZSE",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

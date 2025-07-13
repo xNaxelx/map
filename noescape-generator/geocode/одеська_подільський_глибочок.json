@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Глибочок",
+               "short_name" : "Глибочок",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Подільський район",
+               "short_name" : "Подільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66343",
+               "short_name" : "66343",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Глибочок, Одеська область, Україна, 66343",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.7458801,
+                  "lng" : 29.5041501
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.712316,
+                  "lng" : 29.4785839
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.7308547,
+               "lng" : 29.4888433
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.7458801,
+                  "lng" : 29.5041501
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.712316,
+                  "lng" : 29.4785839
+               }
+            }
+         },
+         "place_id" : "ChIJ41fDAlIezEARGjpQjDJjbMM",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

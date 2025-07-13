@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Передвір'я",
+               "short_name" : "Передвір'я",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Яворівський район",
+               "short_name" : "Яворівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Передвір'я, Львівська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.96270699999999,
+                  "lng" : 23.2062881
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.956224,
+                  "lng" : 23.192902
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.9598834,
+               "lng" : 23.1995399
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.96270699999999,
+                  "lng" : 23.2062881
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.956224,
+                  "lng" : 23.192902
+               }
+            }
+         },
+         "place_id" : "ChIJQdy-9p1pO0cRPhT9WoxTbos",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

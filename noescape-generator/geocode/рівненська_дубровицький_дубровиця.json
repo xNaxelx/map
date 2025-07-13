@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Дубровиця",
+               "short_name" : "Дубровиця",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Дубровицький район",
+               "short_name" : "Дубровицький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "34100",
+               "short_name" : "34100",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Дубровиця, Рівненська область, Україна, 34100",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.60163799999999,
+                  "lng" : 26.6135091
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.549543,
+                  "lng" : 26.541326
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.5764734,
+               "lng" : 26.5706452
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.60163799999999,
+                  "lng" : 26.6135091
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.549543,
+                  "lng" : 26.541326
+               }
+            }
+         },
+         "place_id" : "ChIJkTuzEEkoJkcRiL-M3uJ9YWc",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Рижівка",
+               "short_name" : "Рижівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Білопільський район",
+               "short_name" : "Білопільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сумська область",
+               "short_name" : "Сумська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "41820",
+               "short_name" : "41820",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Рижівка, Сумська область, Україна, 41820",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.25893689999999,
+                  "lng" : 34.2567552
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.243101,
+                  "lng" : 34.242444
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.25142719999999,
+               "lng" : 34.2470576
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.25893689999999,
+                  "lng" : 34.2567552
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.243101,
+                  "lng" : 34.242444
+               }
+            }
+         },
+         "place_id" : "ChIJqbswHL1lKUERELvWj4Km6TQ",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

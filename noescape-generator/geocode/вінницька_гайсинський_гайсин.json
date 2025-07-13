@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Гайсин",
+               "short_name" : "Гайсин",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Гайсинський район",
+               "short_name" : "Гайсинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "23700",
+               "short_name" : "23700",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Гайсин, Вінницька область, Україна, 23700",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.830141,
+                  "lng" : 29.415843
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.79064899999999,
+                  "lng" : 29.3526751
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.8139473,
+               "lng" : 29.3812035
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.830141,
+                  "lng" : 29.415843
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.79064899999999,
+                  "lng" : 29.3526751
+               }
+            }
+         },
+         "place_id" : "ChIJ1ak7uqN9zUARrm2wFBzE-cc",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

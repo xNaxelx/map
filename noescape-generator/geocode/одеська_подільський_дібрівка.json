@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Дібрівка",
+               "short_name" : "Дібрівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Подільський район",
+               "short_name" : "Подільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66322",
+               "short_name" : "66322",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Дібрівка, Одеська область, Україна, 66322",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.880294,
+                  "lng" : 29.4290868
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.85973,
+                  "lng" : 29.393081
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.8667446,
+               "lng" : 29.4082947
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.880294,
+                  "lng" : 29.4290868
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.85973,
+                  "lng" : 29.393081
+               }
+            }
+         },
+         "place_id" : "ChIJNe8DWUwjzEARkjJODIXDEYE",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

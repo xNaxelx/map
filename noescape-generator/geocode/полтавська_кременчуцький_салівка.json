@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Салівка",
+               "short_name" : "Салівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кременчуцький район",
+               "short_name" : "Кременчуцький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Полтавська область",
+               "short_name" : "Полтавська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "39752",
+               "short_name" : "39752",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Салівка, Полтавська область, Україна, 39752",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.0073699,
+                  "lng" : 33.793212
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.9905,
+                  "lng" : 33.7624071
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.00155059999999,
+               "lng" : 33.7824177
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.0073699,
+                  "lng" : 33.793212
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.9905,
+                  "lng" : 33.7624071
+               }
+            }
+         },
+         "place_id" : "ChIJQ97oIg352UARqt9QDCJAso4",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

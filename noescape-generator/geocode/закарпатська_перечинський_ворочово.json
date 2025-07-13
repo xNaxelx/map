@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Ворочово",
+               "short_name" : "Ворочово",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Перечинський район",
+               "short_name" : "Перечинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "89220",
+               "short_name" : "89220",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Ворочово, Закарпатська область, Україна, 89220",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.72705699999999,
+                  "lng" : 22.460973
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.7068869,
+                  "lng" : 22.4363109
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.7155668,
+               "lng" : 22.4492461
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.72705699999999,
+                  "lng" : 22.460973
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.7068869,
+                  "lng" : 22.4363109
+               }
+            }
+         },
+         "place_id" : "ChIJu-P6GOQTOUcRFfBMiPdFpFI",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

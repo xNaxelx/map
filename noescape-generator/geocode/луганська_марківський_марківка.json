@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Марківка",
+               "short_name" : "Марківка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Марківський район",
+               "short_name" : "Марківський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Луганська область",
+               "short_name" : "Луганська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "92400",
+               "short_name" : "92400",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Марківка, Луганська область, Україна, 92400",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.567111,
+                  "lng" : 39.5935749
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.483518,
+                  "lng" : 39.51749
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.5210039,
+               "lng" : 39.5620665
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.567111,
+                  "lng" : 39.5935749
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.483518,
+                  "lng" : 39.51749
+               }
+            }
+         },
+         "place_id" : "ChIJOafgLSvkIUERToinsXTm-Co",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

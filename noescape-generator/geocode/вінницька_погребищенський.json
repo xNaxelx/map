@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Погребищенський район",
+               "short_name" : "Погребищенський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Погребищенський район, Вінницька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.66225799999999,
+                  "lng" : 29.595108
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.296462,
+                  "lng" : 28.8614161
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.4586769,
+               "lng" : 29.2278708
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.66225799999999,
+                  "lng" : 29.595108
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.296462,
+                  "lng" : 28.8614161
+               }
+            }
+         },
+         "place_id" : "ChIJcZcJGRPT0kARRpgAF6scCMM",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,461 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Нове",
+               "short_name" : "Нове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Татарбунарський район",
+               "short_name" : "Татарбунарський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68152",
+               "short_name" : "68152",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Нове, Одеська область, Україна, 68152",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.912221,
+                  "lng" : 29.88298409999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.892784,
+                  "lng" : 29.8592929
+               }
+            },
+            "location" : 
+            {
+               "lat" : 45.9043021,
+               "lng" : 29.8730162
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.912221,
+                  "lng" : 29.88298409999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.892784,
+                  "lng" : 29.8592929
+               }
+            }
+         },
+         "place_id" : "ChIJX9dt68sGuEARZpRZMlnUu_E",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Нове",
+               "short_name" : "Нове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Білгород-Дністровський район",
+               "short_name" : "Білгород-Дністровський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67751",
+               "short_name" : "67751",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Нове, Одеська область, Україна, 67751",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.23249999999999,
+                  "lng" : 30.1723361
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.224975,
+                  "lng" : 30.1630909
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.2286772,
+               "lng" : 30.1683731
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.23249999999999,
+                  "lng" : 30.1723361
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.224975,
+                  "lng" : 30.1630909
+               }
+            }
+         },
+         "place_id" : "ChIJBY2k-crfx0ARwHGseIkwT7A",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Нове",
+               "short_name" : "Нове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Лиманський район",
+               "short_name" : "Лиманський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67540",
+               "short_name" : "67540",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Нове, Одеська область, Україна, 67540",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.789621,
+                  "lng" : 30.836671
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.7819179,
+                  "lng" : 30.828067
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.7865656,
+               "lng" : 30.8309593
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.789621,
+                  "lng" : 30.836671
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.7819179,
+                  "lng" : 30.828067
+               }
+            }
+         },
+         "place_id" : "ChIJKakQci0cxkARystNUYpzZy8",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Нове",
+               "short_name" : "Нове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Роздільнянський район",
+               "short_name" : "Роздільнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67462",
+               "short_name" : "67462",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Нове, Одеська область, Україна, 67462",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.892008,
+                  "lng" : 29.874813
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.885,
+                  "lng" : 29.865529
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.8888467,
+               "lng" : 29.8706085
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.892008,
+                  "lng" : 29.874813
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.885,
+                  "lng" : 29.865529
+               }
+            }
+         },
+         "place_id" : "ChIJ5zWEDVXhyEARWJDMHoaxTWI",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Нове",
+               "short_name" : "Нове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Роздільнянський район",
+               "short_name" : "Роздільнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67462",
+               "short_name" : "67462",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Нове, Одеська область, Україна, 67462",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.6488449,
+                  "lng" : 30.1293951
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.637714,
+                  "lng" : 30.124661
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.6438765,
+               "lng" : 30.127314
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.6488449,
+                  "lng" : 30.1293951
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.637714,
+                  "lng" : 30.124661
+               }
+            }
+         },
+         "place_id" : "ChIJU12LffWLyEARFMXKHEPisXI",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

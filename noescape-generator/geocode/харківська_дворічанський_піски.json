@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Піски",
+               "short_name" : "Піски",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Дворічанський район",
+               "short_name" : "Дворічанський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Харківська область",
+               "short_name" : "Харківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "62714",
+               "short_name" : "62714",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Піски, Харківська область, Україна, 62714",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.999059,
+                  "lng" : 37.9531829
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.9671219,
+                  "lng" : 37.894138
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.98505350000001,
+               "lng" : 37.9220743
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.999059,
+                  "lng" : 37.9531829
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.9671219,
+                  "lng" : 37.894138
+               }
+            }
+         },
+         "place_id" : "ChIJKx7M-dU2IUERyvVeLcr0AbI",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

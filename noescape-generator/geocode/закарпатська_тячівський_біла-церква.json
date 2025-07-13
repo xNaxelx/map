@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Біла Церква",
+               "short_name" : "Біла Церква",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рахівський район",
+               "short_name" : "Рахівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90614",
+               "short_name" : "90614",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Біла Церква, Закарпатська область, Україна, 90614",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.9547271,
+                  "lng" : 23.942969
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.946838,
+                  "lng" : 23.9100149
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.94956879999999,
+               "lng" : 23.9232776
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.9547271,
+                  "lng" : 23.942969
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.946838,
+                  "lng" : 23.9100149
+               }
+            }
+         },
+         "place_id" : "ChIJeY9Ffd-6N0cRdoSHzkxMnTo",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

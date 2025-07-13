@@ -1,0 +1,98 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Ожеве",
+               "short_name" : "Ожеве",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сокирянський район",
+               "short_name" : "Сокирянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60237",
+               "short_name" : "60237",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Ожеве, Чернівецька область, Україна, 60237",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.569071,
+                  "lng" : 27.4771611
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.547217,
+                  "lng" : 27.4474921
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5587269,
+               "lng" : 27.4588226
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.569071,
+                  "lng" : 27.4771611
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.547217,
+                  "lng" : 27.4474921
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ8Wl51FoZM0cRgHXU3coJtKM",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Терло",
+               "short_name" : "Терло",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Старосамбірський район",
+               "short_name" : "Старосамбірський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "82069",
+               "short_name" : "82069",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Терло, Львівська область, Україна, 82069",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.48350199999999,
+                  "lng" : 22.801994
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.4540369,
+                  "lng" : 22.747509
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.4701901,
+               "lng" : 22.7720905
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.48350199999999,
+                  "lng" : 22.801994
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.4540369,
+                  "lng" : 22.747509
+               }
+            }
+         },
+         "place_id" : "ChIJiwf7duuTO0cRcLqXsqJ0ye0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

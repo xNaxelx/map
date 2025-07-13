@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Старе",
+               "short_name" : "Старе",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Бориспільський район",
+               "short_name" : "Бориспільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Київська область",
+               "short_name" : "Київська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "08362",
+               "short_name" : "08362",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Старе, Київська область, Україна, 08362",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.161302,
+                  "lng" : 31.111018
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.11778289999999,
+                  "lng" : 31.0367072
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.1460529,
+               "lng" : 31.08661
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.161302,
+                  "lng" : 31.111018
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.11778289999999,
+                  "lng" : 31.0367072
+               }
+            }
+         },
+         "place_id" : "ChIJYzOfNDSL1EARNoUGCRcTZgw",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

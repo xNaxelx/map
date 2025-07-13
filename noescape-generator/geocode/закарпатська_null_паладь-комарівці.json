@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Паладь-Комарівці",
+               "short_name" : "Паладь-Комарівці",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ужгородський район",
+               "short_name" : "Ужгородський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "89431",
+               "short_name" : "89431",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Паладь-Комарівці, Закарпатська область, Україна, 89431",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.533506,
+                  "lng" : 22.1866071
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.5151209,
+                  "lng" : 22.164368
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5241534,
+               "lng" : 22.1734764
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.533506,
+                  "lng" : 22.1866071
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.5151209,
+                  "lng" : 22.164368
+               }
+            }
+         },
+         "place_id" : "ChIJ-XLYoJUfOUcReydlWSvsh-U",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

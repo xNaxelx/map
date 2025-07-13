@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Глибочок",
+               "short_name" : "Глибочок",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Тальнівський район",
+               "short_name" : "Тальнівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Черкаська область",
+               "short_name" : "Черкаська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "20440",
+               "short_name" : "20440",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Глибочок, Черкаська область, Україна, 20440",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.882405,
+                  "lng" : 30.822333
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.8510681,
+                  "lng" : 30.7795581
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.8678771,
+               "lng" : 30.7995478
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.882405,
+                  "lng" : 30.822333
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.8510681,
+                  "lng" : 30.7795581
+               }
+            }
+         },
+         "place_id" : "ChIJUQHbOSgh0kARzlpkC5s8XX0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

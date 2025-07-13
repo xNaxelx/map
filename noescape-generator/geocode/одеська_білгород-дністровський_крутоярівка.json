@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Крутоярівка",
+               "short_name" : "Крутоярівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Білгород-Дністровський район",
+               "short_name" : "Білгород-Дністровський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67722",
+               "short_name" : "67722",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Крутоярівка, Одеська область, Україна, 67722",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.3690811,
+                  "lng" : 29.834423
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.34267800000001,
+                  "lng" : 29.8044349
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.35452189999999,
+               "lng" : 29.8206774
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.3690811,
+                  "lng" : 29.834423
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.34267800000001,
+                  "lng" : 29.8044349
+               }
+            }
+         },
+         "place_id" : "ChIJlZj9WXlryEARkSsbDrebV2U",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Ковельський район",
+               "short_name" : "Ковельський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Ковельський район, Волинська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.412778,
+                  "lng" : 25.409608
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.001411,
+                  "lng" : 24.4706039
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.157963,
+               "lng" : 24.9486783
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.412778,
+                  "lng" : 25.409608
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.001411,
+                  "lng" : 24.4706039
+               }
+            }
+         },
+         "place_id" : "ChIJpwWsLfgtJEcR3j_eqEbcaZs",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

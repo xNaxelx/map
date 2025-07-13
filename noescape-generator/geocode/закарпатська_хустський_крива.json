@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Крива",
+               "short_name" : "Крива",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Хустський район",
+               "short_name" : "Хустський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90412",
+               "short_name" : "90412",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Крива, Закарпатська область, Україна, 90412",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.1770121,
+                  "lng" : 23.260218
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.16574199999999,
+                  "lng" : 23.208845
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.1719288,
+               "lng" : 23.2368985
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.1770121,
+                  "lng" : 23.260218
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.16574199999999,
+                  "lng" : 23.208845
+               }
+            }
+         },
+         "place_id" : "ChIJtQlnleguOEcRLqM9ApReZxI",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

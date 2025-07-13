@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Почаїв",
+               "short_name" : "Почаїв",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кременецький район",
+               "short_name" : "Кременецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Тернопільська область",
+               "short_name" : "Тернопільська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Почаїв, Тернопільська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.0305707,
+                  "lng" : 25.549929
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.981254,
+                  "lng" : 25.4823159
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.00056170000001,
+               "lng" : 25.5072523
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.0305707,
+                  "lng" : 25.549929
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.981254,
+                  "lng" : 25.4823159
+               }
+            }
+         },
+         "place_id" : "ChIJ9X6PaQPmL0cRwpBRzAAXvrU",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

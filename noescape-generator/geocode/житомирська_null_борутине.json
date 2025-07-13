@@ -1,0 +1,72 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Житомирська область",
+               "short_name" : "Житомирська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Житомирська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.6813502,
+                  "lng" : 29.7354618
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.58293099999999,
+                  "lng" : 27.1897231
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.25465,
+               "lng" : 28.658667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.6813502,
+                  "lng" : 29.7354618
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.58293099999999,
+                  "lng" : 27.1897231
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJC9KIyxTxK0cRoED2iIQGAQE",
+         "types" : 
+         [
+            "administrative_area_level_1",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

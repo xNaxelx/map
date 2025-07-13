@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Новоселівка",
+               "short_name" : "Новоселівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Тарутинський район",
+               "short_name" : "Тарутинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68531",
+               "short_name" : "68531",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Новоселівка, Одеська область, Україна, 68531",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.411675,
+                  "lng" : 29.412016
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.402601,
+                  "lng" : 29.4002251
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.4086218,
+               "lng" : 29.403613
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.411675,
+                  "lng" : 29.412016
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.402601,
+                  "lng" : 29.4002251
+               }
+            }
+         },
+         "place_id" : "ChIJQ02758k3yEARsjCFHbNIJj8",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

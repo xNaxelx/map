@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Долинське",
+               "short_name" : "Долинське",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ананьївський район",
+               "short_name" : "Ананьївський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66442",
+               "short_name" : "66442",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Долинське, Одеська область, Україна, 66442",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.5866839,
+                  "lng" : 30.0133101
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.49979099999999,
+                  "lng" : 29.8378129
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.5296619,
+               "lng" : 29.9222597
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.5866839,
+                  "lng" : 30.0133101
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.49979099999999,
+                  "lng" : 29.8378129
+               }
+            }
+         },
+         "place_id" : "ChIJs89ZhGfHzkAR3IuNSaiDf1c",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

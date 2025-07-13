@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Словечне",
+               "short_name" : "Словечне",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Овруцький район",
+               "short_name" : "Овруцький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Житомирська область",
+               "short_name" : "Житомирська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "11122",
+               "short_name" : "11122",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Словечне, Житомирська область, Україна, 11122",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.396739,
+                  "lng" : 28.37653
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.3655471,
+                  "lng" : 28.3322381
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.3808773,
+               "lng" : 28.3523857
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.396739,
+                  "lng" : 28.37653
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.3655471,
+                  "lng" : 28.3322381
+               }
+            }
+         },
+         "place_id" : "ChIJA15GAz6ZKUcRyxDRSJDwYTs",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

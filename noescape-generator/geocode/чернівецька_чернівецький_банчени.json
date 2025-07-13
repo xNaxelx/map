@@ -1,0 +1,98 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Банчени",
+               "short_name" : "Банчени",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Герцаївський район",
+               "short_name" : "Герцаївський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60523",
+               "short_name" : "60523",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Банчени, Чернівецька область, Україна, 60523",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.207665,
+                  "lng" : 26.210863
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.19804,
+                  "lng" : 26.1879399
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.2035787,
+               "lng" : 26.1958781
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.207665,
+                  "lng" : 26.210863
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.19804,
+                  "lng" : 26.1879399
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJpawvQHZ0NEcRytBhzXvj3Wo",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

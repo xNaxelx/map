@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Піски",
+               "short_name" : "Піски",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Горохівський район",
+               "short_name" : "Горохівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Піски, Волинська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.361698,
+                  "lng" : 25.1495934
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.3380106,
+                  "lng" : 25.1121711
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.35003099999999,
+               "lng" : 25.1269896
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.361698,
+                  "lng" : 25.1495934
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.3380106,
+                  "lng" : 25.1121711
+               }
+            }
+         },
+         "place_id" : "ChIJQYJDqRtmJUcRrujeCYj-NpM",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

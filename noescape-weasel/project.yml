@@ -1,0 +1,118 @@
+title: noescape.fyi 
+description: |-
+  Named Entity Recognition (NER) project for [noescape.fyi](https://noescape.fyi)
+
+  ## Project set up
+  Create virtual environment
+
+    python -m venv .env
+
+  Install required modules
+
+      pip install weasel spacey
+
+# Variables can be referenced across the project.yml using ${vars.var_name}
+vars:
+  name: "noecape"
+  version: "0.0.0"
+
+# These are the directories that the project needs. The project CLI will make
+# sure that they always exist.
+directories: ["corpus", "corpus/unannotated", "training", "scripts", "packages"]
+
+# Assets that should be downloaded or available in the directory.
+assets: []
+
+# Workflows are sequences of commands (see below) executed in order. You can
+# run them via "spacy project run [workflow]". If a commands's inputs/outputs
+# haven't changed, it won't be re-run.
+workflows:
+  all:
+    - prepare-pretrain
+    - pretrain
+    - prepare-train
+    - train
+    - evaluate
+
+# Project commands, specified in a style similar to CI config files (e.g. Azure
+# pipelines). The name is the command name that lets you trigger the command
+# via "spacy project run [command] [path]". The help message is optional and
+# shown when executing "spacy project run [optional command] [path] --help".
+commands:
+  - name: prepare-pretrain
+    script:
+      - "python scripts/convert_text.py ../noescape-text/text/0 corpus/unannotated/text_0.spacy"
+      - "python scripts/convert_text.py ../noescape-text/text/1 corpus/unannotated/text_1.spacy"
+      - "python scripts/convert_text.py ../noescape-text/text/2 corpus/unannotated/text_2.spacy"
+      - "python scripts/convert_text.py ../noescape-text/text/3 corpus/unannotated/text_3.spacy"
+      - "python scripts/convert_text.py ../noescape-text/text/4 corpus/unannotated/text_4.spacy"
+      - "python scripts/convert_text.py ../noescape-text/text/5 corpus/unannotated/text_5.spacy"
+      - "python scripts/convert_text.py ../noescape-text/text/6 corpus/unannotated/text_6.spacy"
+      - "python scripts/convert_text.py ../noescape-text/text/7 corpus/unannotated/text_7.spacy"
+      - "python scripts/convert_text.py ../noescape-text/text/8 corpus/unannotated/text_8.spacy"
+      - "python scripts/convert_text.py ../noescape-text/text/9 corpus/unannotated/text_9.spacy"
+    deps:
+      - "../noescape-text/text"
+      - "scripts/convert_text.py"
+    outputs:
+      - "corpus/unannotated/text_0.spacy"
+      - "corpus/unannotated/text_1.spacy"
+      - "corpus/unannotated/text_2.spacy"
+      - "corpus/unannotated/text_3.spacy"
+      - "corpus/unannotated/text_4.spacy"
+      - "corpus/unannotated/text_5.spacy"
+      - "corpus/unannotated/text_6.spacy"
+      - "corpus/unannotated/text_7.spacy"
+      - "corpus/unannotated/text_8.spacy"
+      - "corpus/unannotated/text_9.spacy"
+
+  - name: pretrain
+    script:
+      - "time python -m spacy pretrain config_tok2vec.cfg ./training/pretrained"
+    deps:
+      - "config_tok2vec.cfg"
+      - "corpus/unannotated"
+    outputs:
+      - "training/tok2vec/model-best"
+
+  - name: prepare-train
+    help: "Convert the data to spaCy's binary format"
+    script:
+      - "python scripts/convert.py ../noescape-nlp/corpus/annotated corpus/train.spacy"
+      - "python scripts/convert.py ../noescape-nlp/corpus/annotated/000 corpus/dev.spacy"
+    deps:
+      - "../noescape-nlp/corpus/annotated/"
+      - "scripts/convert.py"
+    outputs:
+      - "corpus/train.spacy"
+      - "corpus/dev.spacy"
+
+  - name: train
+    help: "Train the NER model"
+    script:
+      - "time python -m spacy train config_ner.cfg --output training/ner/ --paths.train corpus/train.spacy --paths.dev corpus/dev.spacy --verbose"
+    deps:
+      - "config_ner.cfg"
+      - "corpus/train.spacy"
+      - "corpus/dev.spacy"
+    outputs:
+      - "training/ner/model-best"
+
+  - name: evaluate
+    help: "Evaluate the model and export metrics"
+    script:
+      - "python -m spacy evaluate training/model-best corpus/dev.spacy --output training/metrics.json"
+    deps:
+      - "corpus/dev.spacy"
+      - "training/ner/model-best"
+    outputs:
+      - "training/ner/metrics.json"
+
+  - name: package
+    help: "Package the trained model as a pip package"
+    script:
+      - "python -m spacy package training/model-best packages --name ${vars.name} --version ${vars.version} --force"
+    deps:
+      - "training/model-best"
+    outputs_no_cache:
+      - "packages/uk_${vars.name}-${vars.version}/dist/uk_${vars.name}-${vars.version}.tar.gz"

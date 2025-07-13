@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Коси-Слобідка",
+               "short_name" : "Коси-Слобідка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Подільський район",
+               "short_name" : "Подільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66344",
+               "short_name" : "66344",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Коси-Слобідка, Одеська область, Україна, 66344",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.662428,
+                  "lng" : 29.474562
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.64275199999999,
+                  "lng" : 29.4540341
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.6526723,
+               "lng" : 29.4653798
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.662428,
+                  "lng" : 29.474562
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.64275199999999,
+                  "lng" : 29.4540341
+               }
+            }
+         },
+         "place_id" : "ChIJM4VH73ynzkARets4ddBi0cI",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

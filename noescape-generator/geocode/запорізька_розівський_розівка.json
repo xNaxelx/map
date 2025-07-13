@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Розівка",
+               "short_name" : "Розівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Розівський район",
+               "short_name" : "Розівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Запорізька область",
+               "short_name" : "Запорізька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "70300",
+               "short_name" : "70300",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Розівка, Запорізька область, Україна, 70300",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.41980299999999,
+                  "lng" : 37.0891871
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.3678929,
+                  "lng" : 37.044315
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.39030899999999,
+               "lng" : 37.0710228
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.41980299999999,
+                  "lng" : 37.0891871
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.3678929,
+                  "lng" : 37.044315
+               }
+            }
+         },
+         "place_id" : "ChIJD0U52ZJq50ARZtpgqnaUFYs",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

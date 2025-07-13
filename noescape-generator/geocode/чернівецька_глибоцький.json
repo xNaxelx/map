@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Глибоцький район",
+               "short_name" : "Глибоцький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Глибоцький район, Чернівецька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.262051,
+                  "lng" : 26.2441704
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.93948349999999,
+                  "lng" : 25.710975
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.0613675,
+               "lng" : 25.8999653
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.262051,
+                  "lng" : 26.2441704
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.93948349999999,
+                  "lng" : 25.710975
+               }
+            }
+         },
+         "place_id" : "ChIJ8YfgfEETNEcRDAjpZHnw-ko",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

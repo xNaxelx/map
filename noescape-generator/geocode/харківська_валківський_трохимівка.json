@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Трохимівка",
+               "short_name" : "Трохимівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Валківський район",
+               "short_name" : "Валківський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Харківська область",
+               "short_name" : "Харківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "63021",
+               "short_name" : "63021",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Трохимівка, Харківська область, Україна, 63021",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.909779,
+                  "lng" : 35.602826
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.89292100000001,
+                  "lng" : 35.568845
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.9031889,
+               "lng" : 35.5832489
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.909779,
+                  "lng" : 35.602826
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.89292100000001,
+                  "lng" : 35.568845
+               }
+            }
+         },
+         "place_id" : "ChIJw4oyNmmMJ0ERRGMJkAc-QVw",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

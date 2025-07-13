@@ -1,0 +1,98 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Веселий Кут",
+               "short_name" : "Веселий Кут",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Таращанський район",
+               "short_name" : "Таращанський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Київська область",
+               "short_name" : "Київська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "09553",
+               "short_name" : "09553",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Веселий Кут, Київська область, Україна, 09553",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.37213,
+                  "lng" : 30.5371211
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.359156,
+                  "lng" : 30.5072431
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.3677421,
+               "lng" : 30.5201362
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.37213,
+                  "lng" : 30.5371211
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.359156,
+                  "lng" : 30.5072431
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJXTxMUsmv00ARtgGE-4J-7lQ",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

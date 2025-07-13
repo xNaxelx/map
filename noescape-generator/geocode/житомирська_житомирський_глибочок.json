@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Глибочок",
+               "short_name" : "Глибочок",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Житомирський район",
+               "short_name" : "Житомирський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Житомирська область",
+               "short_name" : "Житомирська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "12461",
+               "short_name" : "12461",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Глибочок, Житомирська область, Україна, 12461",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.1374611,
+                  "lng" : 28.377171
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.087498,
+                  "lng" : 28.3139359
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.0991139,
+               "lng" : 28.3334093
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.1374611,
+                  "lng" : 28.377171
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.087498,
+                  "lng" : 28.3139359
+               }
+            }
+         },
+         "place_id" : "ChIJh1rgikJDLEcRfor--s3IBto",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

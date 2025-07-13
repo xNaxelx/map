@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Вигода",
+               "short_name" : "Вигода",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Крижопільський район",
+               "short_name" : "Крижопільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "24625",
+               "short_name" : "24625",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Вигода, Вінницька область, Україна, 24625",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.31801,
+                  "lng" : 28.846372
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.30893,
+                  "lng" : 28.833957
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.3133446,
+               "lng" : 28.838814
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.31801,
+                  "lng" : 28.846372
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.30893,
+                  "lng" : 28.833957
+               }
+            }
+         },
+         "place_id" : "ChIJy-2IYGcCzUAR0tzxrdSNP7c",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

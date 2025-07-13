@@ -1,0 +1,108 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Залізничний район",
+               "short_name" : "Залізничний район",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+               ]
+            },
+            {
+               "long_name" : "Львів",
+               "short_name" : "Львів",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська міськрада",
+               "short_name" : "Львівська міськрада",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "79000",
+               "short_name" : "79000",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Залізничний район, Львів, Львівська область, Україна, 79000",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.8646464,
+                  "lng" : 24.011803
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.8015672,
+                  "lng" : 23.9062801
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.8281211,
+               "lng" : 23.9541158
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.8646464,
+                  "lng" : 24.011803
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.8015672,
+                  "lng" : 23.9062801
+               }
+            }
+         },
+         "place_id" : "ChIJtd0r-lvnOkcRUE5nSxdwo7s",
+         "types" : 
+         [
+            "political",
+            "sublocality",
+            "sublocality_level_1"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

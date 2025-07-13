@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Іваничі",
+               "short_name" : "Іваничі",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Іваничівський район",
+               "short_name" : "Іваничівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Іваничі, Волинська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.6702995,
+                  "lng" : 24.4009352
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.6188653,
+                  "lng" : 24.3168641
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.6440796,
+               "lng" : 24.350338
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.6702995,
+                  "lng" : 24.4009352
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.6188653,
+                  "lng" : 24.3168641
+               }
+            }
+         },
+         "place_id" : "ChIJjxP_-kb7JEcR8qZc9wX3Pbo",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

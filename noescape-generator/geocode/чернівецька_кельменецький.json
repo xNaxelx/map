@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Кельменецький район",
+               "short_name" : "Кельменецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Кельменецький район, Чернівецька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.6110261,
+                  "lng" : 27.0813079
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.2912143,
+                  "lng" : 26.576223
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.4565296,
+               "lng" : 26.8116766
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.6110261,
+                  "lng" : 27.0813079
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.2912143,
+                  "lng" : 26.576223
+               }
+            }
+         },
+         "place_id" : "ChIJmRYJ3AyfM0cRUjPUsdmM48w",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Хрипськ",
+               "short_name" : "Хрипськ",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Шацький район",
+               "short_name" : "Шацький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "44012",
+               "short_name" : "44012",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Хрипськ, Волинська область, Україна, 44012",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.64732189999999,
+                  "lng" : 23.741643
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.6296,
+                  "lng" : 23.713262
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.63986310000001,
+               "lng" : 23.730776
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.64732189999999,
+                  "lng" : 23.741643
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.6296,
+                  "lng" : 23.713262
+               }
+            }
+         },
+         "place_id" : "ChIJ84Am2OLfI0cRYCozoAI-0Fw",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

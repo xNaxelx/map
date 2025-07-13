@@ -1,0 +1,98 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Мамаївці",
+               "short_name" : "Мамаївці",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кіцманський район",
+               "short_name" : "Кіцманський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "59343",
+               "short_name" : "59343",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Мамаївці, Чернівецька область, Україна, 59343",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.361792,
+                  "lng" : 25.8630739
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.338962,
+                  "lng" : 25.787848
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.3480538,
+               "lng" : 25.8253247
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.361792,
+                  "lng" : 25.8630739
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.338962,
+                  "lng" : 25.787848
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJi9H4Nc8ANEcRPv-MkMGhNnI",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

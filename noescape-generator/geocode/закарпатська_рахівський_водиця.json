@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Водиця",
+               "short_name" : "Водиця",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рахівський район",
+               "short_name" : "Рахівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90610",
+               "short_name" : "90610",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Водиця, Закарпатська область, Україна, 90610",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.101738,
+                  "lng" : 24.0100851
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.050005,
+                  "lng" : 23.941081
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.0757479,
+               "lng" : 23.9579882
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.101738,
+                  "lng" : 24.0100851
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.050005,
+                  "lng" : 23.941081
+               }
+            }
+         },
+         "place_id" : "ChIJNd-QeE6hN0cR8kCH--_D6s4",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Дубриничі",
+               "short_name" : "Дубриничі",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Перечинський район",
+               "short_name" : "Перечинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Дубриничі, Закарпатська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.8194111,
+                  "lng" : 22.5222301
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.7909201,
+                  "lng" : 22.4644662
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.8048092,
+               "lng" : 22.4972297
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.8194111,
+                  "lng" : 22.5222301
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.7909201,
+                  "lng" : 22.4644662
+               }
+            }
+         },
+         "place_id" : "ChIJRTsqfmhrOUcR2PtlgWR9HHw",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

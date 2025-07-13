@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Луковиця",
+               "short_name" : "Луковиця",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Глибоцький район",
+               "short_name" : "Глибоцький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60416",
+               "short_name" : "60416",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Луковиця, Чернівецька область, Україна, 60416",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.214733,
+                  "lng" : 26.089769
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.186071,
+                  "lng" : 26.0404369
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.2020671,
+               "lng" : 26.0764029
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.214733,
+                  "lng" : 26.089769
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.186071,
+                  "lng" : 26.0404369
+               }
+            }
+         },
+         "place_id" : "ChIJcyyLReYMNEcRvvp2BLpB-5I",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

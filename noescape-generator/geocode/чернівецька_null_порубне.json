@@ -1,0 +1,100 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "М19",
+               "short_name" : "М19",
+               "types" : 
+               [
+                  "route"
+               ]
+            },
+            {
+               "long_name" : "Тереблече",
+               "short_name" : "Тереблече",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Глибоцький район",
+               "short_name" : "Глибоцький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "М19, Тереблече, Чернівецька область, Україна",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.0046452,
+               "lng" : 26.0465599
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.0058616302915,
+                  "lng" : 26.0475949302915
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.0031636697085,
+                  "lng" : 26.0448969697085
+               }
+            }
+         },
+         "navigation_points" : 
+         [
+            {
+               "location" : 
+               {
+                  "latitude" : 48.0044137,
+                  "longitude" : 26.0460116
+               }
+            }
+         ],
+         "partial_match" : true,
+         "place_id" : "ChIJR6QxICBqNEcRMj8-lY9KSzg",
+         "plus_code" : 
+         {
+            "compound_code" : "223W+VJ Тереблече, Чернівецька область, Україна",
+            "global_code" : "8GW8223W+VJ"
+         },
+         "types" : 
+         [
+            "establishment",
+            "point_of_interest"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

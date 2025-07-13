@@ -1,0 +1,156 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Львівська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.6488831,
+                  "lng" : 25.426912
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.7189779,
+                  "lng" : 22.6408309
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.839683,
+               "lng" : 24.029717
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.6488831,
+                  "lng" : 25.426912
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.7189779,
+                  "lng" : 22.6408309
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJb5xjPmndOkcRYj26h4iMDWM",
+         "types" : 
+         [
+            "administrative_area_level_1",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Перечин",
+               "short_name" : "Перечин",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Перечинський район",
+               "short_name" : "Перечинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Перечин, Закарпатська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.7539252,
+                  "lng" : 22.5144195
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.7252272,
+                  "lng" : 22.435069
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.7359203,
+               "lng" : 22.4723243
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.7539252,
+                  "lng" : 22.5144195
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.7252272,
+                  "lng" : 22.435069
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJDQKKqwsTOUcRfG7GBA548kw",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

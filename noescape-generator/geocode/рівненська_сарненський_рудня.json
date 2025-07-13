@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Рудня",
+               "short_name" : "Рудня",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Дубровицький район",
+               "short_name" : "Дубровицький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "34189",
+               "short_name" : "34189",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Рудня, Рівненська область, Україна, 34189",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.69489,
+                  "lng" : 26.597742
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.6813151,
+                  "lng" : 26.567888
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.6870996,
+               "lng" : 26.5874254
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.69489,
+                  "lng" : 26.597742
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.6813151,
+                  "lng" : 26.567888
+               }
+            }
+         },
+         "place_id" : "ChIJH_1YuJ0sJkcRNIZXGqjmouM",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

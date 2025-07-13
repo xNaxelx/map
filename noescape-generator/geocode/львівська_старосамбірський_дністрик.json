@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Дністрик",
+               "short_name" : "Дністрик",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Старосамбірський район",
+               "short_name" : "Старосамбірський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "82096",
+               "short_name" : "82096",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Дністрик, Львівська область, Україна, 82096",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.2962591,
+                  "lng" : 22.867558
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.27537,
+                  "lng" : 22.8300969
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.2864959,
+               "lng" : 22.848089
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.2962591,
+                  "lng" : 22.867558
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.27537,
+                  "lng" : 22.8300969
+               }
+            }
+         },
+         "place_id" : "ChIJCecGj8zDO0cR2hL89lzXEvs",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

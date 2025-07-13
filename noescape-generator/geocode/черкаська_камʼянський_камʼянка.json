@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Кам'янка",
+               "short_name" : "Кам'янка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кам'янський район",
+               "short_name" : "Кам'янський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Черкаська область",
+               "short_name" : "Черкаська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "20800",
+               "short_name" : "20800",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Кам'янка, Черкаська область, Україна, 20800",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.05894199999999,
+                  "lng" : 32.14673990000001
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.0032759,
+                  "lng" : 32.0484241
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.0306474,
+               "lng" : 32.1150933
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.05894199999999,
+                  "lng" : 32.14673990000001
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.0032759,
+                  "lng" : 32.0484241
+               }
+            }
+         },
+         "place_id" : "ChIJC_Rej3MZ0UARuK3caBHJtmY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

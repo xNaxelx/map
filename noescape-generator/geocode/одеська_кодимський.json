@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Кодимський район",
+               "short_name" : "Кодимський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Кодимський район, Одеська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.1942521,
+                  "lng" : 29.413581
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.820269,
+                  "lng" : 28.8335546
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.0780316,
+               "lng" : 29.1448609
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.1942521,
+                  "lng" : 29.413581
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.820269,
+                  "lng" : 28.8335546
+               }
+            }
+         },
+         "place_id" : "ChIJr6HgZtBFzEARNHa9pnG3f_s",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

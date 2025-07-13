@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Підгородне",
+               "short_name" : "Підгородне",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Тернопільський район",
+               "short_name" : "Тернопільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Тернопільська область",
+               "short_name" : "Тернопільська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "46003",
+               "short_name" : "46003",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Підгородне, Тернопільська область, Україна, 46003",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.54322,
+                  "lng" : 25.550563
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.52311599999999,
+                  "lng" : 25.5021721
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.53555979999999,
+               "lng" : 25.5276081
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.54322,
+                  "lng" : 25.550563
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.52311599999999,
+                  "lng" : 25.5021721
+               }
+            }
+         },
+         "place_id" : "ChIJmRQDuAM3MEcRzvyPazOSDu4",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

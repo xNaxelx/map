@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Городок",
+               "short_name" : "Городок",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Іллінецький район",
+               "short_name" : "Іллінецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "22753",
+               "short_name" : "22753",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Городок, Вінницька область, Україна, 22753",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.9701921,
+                  "lng" : 29.549552
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.9428831,
+                  "lng" : 29.4986878
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.9505629,
+               "lng" : 29.5323063
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.9701921,
+                  "lng" : 29.549552
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.9428831,
+                  "lng" : 29.4986878
+               }
+            }
+         },
+         "place_id" : "ChIJiWzYuA2F0kAR06Sa8nv40nA",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

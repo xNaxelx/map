@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Семенівка",
+               "short_name" : "Семенівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кодимський район",
+               "short_name" : "Кодимський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66042",
+               "short_name" : "66042",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Семенівка, Одеська область, Україна, 66042",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.93363100000001,
+                  "lng" : 29.230507
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.916371,
+                  "lng" : 29.199225
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.9249325,
+               "lng" : 29.21444649999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.93363100000001,
+                  "lng" : 29.230507
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.916371,
+                  "lng" : 29.199225
+               }
+            }
+         },
+         "place_id" : "ChIJ-dueWk8_zEARUCqXbn5b-GY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

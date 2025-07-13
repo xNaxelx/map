@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Калчева",
+               "short_name" : "Калчева",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Болградський район",
+               "short_name" : "Болградський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68723",
+               "short_name" : "68723",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Калчева, Одеська область, Україна, 68723",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.7473761,
+                  "lng" : 28.8268729
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.719595,
+                  "lng" : 28.797013
+               }
+            },
+            "location" : 
+            {
+               "lat" : 45.7327203,
+               "lng" : 28.8115769
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.7473761,
+                  "lng" : 28.8268729
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.719595,
+                  "lng" : 28.797013
+               }
+            }
+         },
+         "place_id" : "ChIJ45Ur9r-kt0ARB6KQ6FXjX38",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

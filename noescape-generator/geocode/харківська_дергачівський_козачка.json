@@ -1,0 +1,81 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Дергачівський район",
+               "short_name" : "Дергачівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Харківська область",
+               "short_name" : "Харківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Дергачівський район, Харківська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.4064359,
+                  "lng" : 36.395018
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.968501,
+                  "lng" : 35.781439
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.1554448,
+               "lng" : 36.2761088
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.4064359,
+                  "lng" : 36.395018
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.968501,
+                  "lng" : 35.781439
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJXY7j7qSwJ0ER1h66tisuwt0",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,81 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Іванківський район",
+               "short_name" : "Іванківський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Київська область",
+               "short_name" : "Київська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Іванківський район, Київська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.512528,
+                  "lng" : 30.5610881
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.748259,
+                  "lng" : 29.4108731
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.9651021,
+               "lng" : 29.8092904
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.512528,
+                  "lng" : 30.5610881
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.748259,
+                  "lng" : 29.4108731
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ3bTuLXD0KkcRFlfls-nsZwQ",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Царичанка",
+               "short_name" : "Царичанка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Татарбунарський район",
+               "short_name" : "Татарбунарський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68152",
+               "short_name" : "68152",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Царичанка, Одеська область, Україна, 68152",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.8585419,
+                  "lng" : 29.923681
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.848444,
+                  "lng" : 29.9197269
+               }
+            },
+            "location" : 
+            {
+               "lat" : 45.853247,
+               "lng" : 29.9217097
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.8585419,
+                  "lng" : 29.923681
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.848444,
+                  "lng" : 29.9197269
+               }
+            }
+         },
+         "place_id" : "ChIJrYE15OUFuEAR3JLqUaWVhqY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

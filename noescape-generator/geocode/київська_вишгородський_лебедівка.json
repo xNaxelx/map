@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Лебедівка",
+               "short_name" : "Лебедівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вишгородський район",
+               "short_name" : "Вишгородський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Київська область",
+               "short_name" : "Київська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "07360",
+               "short_name" : "07360",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Лебедівка, Київська область, Україна, 07360",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.731026,
+                  "lng" : 30.5551789
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.69962599999999,
+                  "lng" : 30.533522
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.7132316,
+               "lng" : 30.5432332
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.731026,
+                  "lng" : 30.5551789
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.69962599999999,
+                  "lng" : 30.533522
+               }
+            }
+         },
+         "place_id" : "ChIJvUKVMf_UKkcRQrATUstLt5Q",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

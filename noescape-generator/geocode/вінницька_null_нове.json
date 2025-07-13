@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Нове",
+               "short_name" : "Нове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Липовецький район",
+               "short_name" : "Липовецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "22510",
+               "short_name" : "22510",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Нове, Вінницька область, Україна, 22510",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.433325,
+                  "lng" : 28.869468
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.42915499999999,
+                  "lng" : 28.8606399
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.4315007,
+               "lng" : 28.864525
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.433325,
+                  "lng" : 28.869468
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.42915499999999,
+                  "lng" : 28.8606399
+               }
+            }
+         },
+         "place_id" : "ChIJ6a0bg8kwLUcRZkFE7pWyAFQ",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

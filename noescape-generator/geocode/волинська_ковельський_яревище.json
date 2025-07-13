@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Ковельський район",
+               "short_name" : "Ковельський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Ковельський район, Волинська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.412778,
+                  "lng" : 25.409608
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.001411,
+                  "lng" : 24.4706039
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.157963,
+               "lng" : 24.9486783
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.412778,
+                  "lng" : 25.409608
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.001411,
+                  "lng" : 24.4706039
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJpwWsLfgtJEcR3j_eqEbcaZs",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Яревище",
+               "short_name" : "Яревище",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Старовижівський район",
+               "short_name" : "Старовижівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "44421",
+               "short_name" : "44421",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Яревище, Волинська область, Україна, 44421",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.574087,
+                  "lng" : 24.276769
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.5319031,
+                  "lng" : 24.1492029
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.551285,
+               "lng" : 24.1981816
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.574087,
+                  "lng" : 24.276769
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.5319031,
+                  "lng" : 24.1492029
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJC1bPeVpVIUcRDrNx-WvD_Tk",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

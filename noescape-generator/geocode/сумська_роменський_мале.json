@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Мале",
+               "short_name" : "Мале",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Роменський район",
+               "short_name" : "Роменський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сумська область",
+               "short_name" : "Сумська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "42072",
+               "short_name" : "42072",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Мале, Сумська область, Україна, 42072",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.7476671,
+                  "lng" : 33.7194269
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.7327771,
+                  "lng" : 33.69365320000001
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.7408102,
+               "lng" : 33.7034247
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.7476671,
+                  "lng" : 33.7194269
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.7327771,
+                  "lng" : 33.69365320000001
+               }
+            }
+         },
+         "place_id" : "ChIJEUNZT0TsKUERCgVIXkRVkMs",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

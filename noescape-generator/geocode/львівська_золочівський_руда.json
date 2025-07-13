@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Руда",
+               "short_name" : "Руда",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Золочівський район",
+               "short_name" : "Золочівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "80746",
+               "short_name" : "80746",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Руда, Львівська область, Україна, 80746",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.7478541,
+                  "lng" : 25.0475051
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.74400499999999,
+                  "lng" : 25.03247
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.7462293,
+               "lng" : 25.03535
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.7478541,
+                  "lng" : 25.0475051
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.74400499999999,
+                  "lng" : 25.03247
+               }
+            }
+         },
+         "place_id" : "ChIJJVA1p6EPMEcR-meww0TW65w",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

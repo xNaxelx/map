@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Кам'янка",
+               "short_name" : "Кам'янка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Середино-Будський район",
+               "short_name" : "Середино-Будський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сумська область",
+               "short_name" : "Сумська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "41053",
+               "short_name" : "41053",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Кам'янка, Сумська область, Україна, 41053",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.107297,
+                  "lng" : 33.903811
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.087036,
+                  "lng" : 33.861361
+               }
+            },
+            "location" : 
+            {
+               "lat" : 52.0990388,
+               "lng" : 33.8823077
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.107297,
+                  "lng" : 33.903811
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.087036,
+                  "lng" : 33.861361
+               }
+            }
+         },
+         "place_id" : "ChIJuzvCKF1jLEERHwdggc3-Sgk",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

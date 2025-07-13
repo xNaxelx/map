@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Русів",
+               "short_name" : "Русів",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Володимир-Волинський район",
+               "short_name" : "Володимир-Волинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "44731",
+               "short_name" : "44731",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Русів, Волинська область, Україна, 44731",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.8357031,
+                  "lng" : 24.1530259
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.82767,
+                  "lng" : 24.137894
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.8316543,
+               "lng" : 24.1438447
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.8357031,
+                  "lng" : 24.1530259
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.82767,
+                  "lng" : 24.137894
+               }
+            }
+         },
+         "place_id" : "ChIJd7ZacUv1JEcRxr2W5P7W9RQ",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

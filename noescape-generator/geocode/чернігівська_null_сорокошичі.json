@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Сорокошичі",
+               "short_name" : "Сорокошичі",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Козелецький район",
+               "short_name" : "Козелецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернігівська область",
+               "short_name" : "Чернігівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "17011",
+               "short_name" : "17011",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Сорокошичі, Чернігівська область, Україна, 17011",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.200896,
+                  "lng" : 30.6383309
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.185152,
+                  "lng" : 30.631112
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.192131,
+               "lng" : 30.6335941
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.200896,
+                  "lng" : 30.6383309
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.185152,
+                  "lng" : 30.631112
+               }
+            }
+         },
+         "place_id" : "ChIJu_CFpdWiKkcRCGnZmOim7gE",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

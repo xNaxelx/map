@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Лохвиця",
+               "short_name" : "Лохвиця",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Лохвицький район",
+               "short_name" : "Лохвицький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Полтавська область",
+               "short_name" : "Полтавська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Лохвиця, Полтавська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.3805299,
+                  "lng" : 33.3063413
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.3366548,
+                  "lng" : 33.2293726
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.35887229999999,
+               "lng" : 33.2590347
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.3805299,
+                  "lng" : 33.3063413
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.3366548,
+                  "lng" : 33.2293726
+               }
+            }
+         },
+         "place_id" : "ChIJlUZBL8sQ1kARClIiyWJb9tQ",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

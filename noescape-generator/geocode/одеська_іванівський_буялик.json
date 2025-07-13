@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Буялик",
+               "short_name" : "Буялик",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Іванівський район",
+               "short_name" : "Іванівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67240",
+               "short_name" : "67240",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Буялик, Одеська область, Україна, 67240",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.921988,
+                  "lng" : 30.7400861
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.894008,
+                  "lng" : 30.7029571
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.90885,
+               "lng" : 30.7181231
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.921988,
+                  "lng" : 30.7400861
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.894008,
+                  "lng" : 30.7029571
+               }
+            }
+         },
+         "place_id" : "ChIJMSx01WmvyEARqgtClWkftPs",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

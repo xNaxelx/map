@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Стрийський район",
+               "short_name" : "Стрийський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Стрийський район, Львівська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.393865,
+                  "lng" : 24.150262
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.099533,
+                  "lng" : 23.5624129
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.1895728,
+               "lng" : 23.9696786
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.393865,
+                  "lng" : 24.150262
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.099533,
+                  "lng" : 23.5624129
+               }
+            }
+         },
+         "place_id" : "ChIJPd-hKyNqOkcRSMwqyrlZWwQ",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Їжівці",
+               "short_name" : "Їжівці",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сторожинецький район",
+               "short_name" : "Сторожинецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "59033",
+               "short_name" : "59033",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Їжівці, Чернівецька область, Україна, 59033",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.056321,
+                  "lng" : 25.6869909
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.992639,
+                  "lng" : 25.618511
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.0414975,
+               "lng" : 25.6513963
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.056321,
+                  "lng" : 25.6869909
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.992639,
+                  "lng" : 25.618511
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJgfq1adgiNEcRPrfSFPxbnUk",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Чернівецький район",
+               "short_name" : "Чернівецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Чернівецький район, Вінницька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.651179,
+                  "lng" : 28.351943
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.349162,
+                  "lng" : 27.949276
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5128518,
+               "lng" : 28.1819806
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.651179,
+                  "lng" : 28.351943
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.349162,
+                  "lng" : 27.949276
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJm3N_qPIqzUARGsFHrKFURfw",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

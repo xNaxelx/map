@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Смільниця",
+               "short_name" : "Смільниця",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Старосамбірський район",
+               "short_name" : "Старосамбірський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "82063",
+               "short_name" : "82063",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Смільниця, Львівська область, Україна, 82063",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.481177,
+                  "lng" : 22.707285
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.4791089,
+                  "lng" : 22.7037659
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.4801899,
+               "lng" : 22.7059857
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.4814919302915,
+                  "lng" : 22.707285
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.4787939697085,
+                  "lng" : 22.7037659
+               }
+            }
+         },
+         "place_id" : "ChIJA7c2LmuSO0cROJ7-VjQibGk",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

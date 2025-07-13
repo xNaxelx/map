@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Тисобикень",
+               "short_name" : "Тисобикень",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Виноградівський район",
+               "short_name" : "Виноградівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Тисобикень, Закарпатська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.07736999999999,
+                  "lng" : 22.918418
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.0672959,
+                  "lng" : 22.873594
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.0713525,
+               "lng" : 22.8955561
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.07736999999999,
+                  "lng" : 22.918418
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.0672959,
+                  "lng" : 22.873594
+               }
+            }
+         },
+         "place_id" : "ChIJn8XB3ow-OEcRYnQLP7ucmq4",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

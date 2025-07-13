@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Гать",
+               "short_name" : "Гать",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Берегівський район",
+               "short_name" : "Берегівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90231",
+               "short_name" : "90231",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Гать, Закарпатська область, Україна, 90231",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.334043,
+                  "lng" : 22.648986
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.3065669,
+                  "lng" : 22.6300078
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.3125101,
+               "lng" : 22.6431621
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.334043,
+                  "lng" : 22.648986
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.3065669,
+                  "lng" : 22.6300078
+               }
+            }
+         },
+         "place_id" : "ChIJv6chU1pROEcROCcJx5LLCX8",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

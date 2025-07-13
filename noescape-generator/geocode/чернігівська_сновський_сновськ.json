@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Сновськ",
+               "short_name" : "Сновськ",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сновський район",
+               "short_name" : "Сновський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернігівська область",
+               "short_name" : "Чернігівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "15201",
+               "short_name" : "15201",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Сновськ, Чернігівська область, Україна, 15201",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.84404499999999,
+                  "lng" : 31.9728669
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.796493,
+                  "lng" : 31.928842
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.8178825,
+               "lng" : 31.9467381
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.84404499999999,
+                  "lng" : 31.9728669
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.796493,
+                  "lng" : 31.928842
+               }
+            }
+         },
+         "place_id" : "ChIJJSFsJ5nU1EYR-cN3OAUrxwY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Новоселівка",
+               "short_name" : "Новоселівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Поді́льськ",
+               "short_name" : "Поді́льськ",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66360",
+               "short_name" : "66360",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Новоселівка, Одеська область, Україна, 66360",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.657183,
+                  "lng" : 29.6348341
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.640935,
+                  "lng" : 29.5982869
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.6460094,
+               "lng" : 29.6177222
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.657183,
+                  "lng" : 29.6348341
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.640935,
+                  "lng" : 29.5982869
+               }
+            }
+         },
+         "place_id" : "ChIJQ40YAPqjzkARKjIFjsylk_o",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

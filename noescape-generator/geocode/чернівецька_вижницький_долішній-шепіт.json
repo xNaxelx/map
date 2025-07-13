@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Долішній Шепіт",
+               "short_name" : "Долішній Шепіт",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вижницький район",
+               "short_name" : "Вижницький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "59240",
+               "short_name" : "59240",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Долішній Шепіт, Чернівецька область, Україна, 59240",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.039472,
+                  "lng" : 25.308308
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.985552,
+                  "lng" : 25.267553
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.00015430000001,
+               "lng" : 25.278537
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.039472,
+                  "lng" : 25.308308
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.985552,
+                  "lng" : 25.267553
+               }
+            }
+         },
+         "place_id" : "ChIJ9awtwMOcNkcR4pwRUkc4rjU",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

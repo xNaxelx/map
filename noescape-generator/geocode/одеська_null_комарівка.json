@@ -1,0 +1,188 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Комарівка",
+               "short_name" : "Комарівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Любашівський район",
+               "short_name" : "Любашівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66565",
+               "short_name" : "66565",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Комарівка, Одеська область, Україна, 66565",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.600327,
+                  "lng" : 30.356633
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.574677,
+                  "lng" : 30.3040581
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.5865577,
+               "lng" : 30.3270973
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.600327,
+                  "lng" : 30.356633
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.574677,
+                  "lng" : 30.3040581
+               }
+            }
+         },
+         "place_id" : "ChIJ5d7YolbmzkARHlTwi1NLZgM",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Комарівка",
+               "short_name" : "Комарівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Великомихайлівський район",
+               "short_name" : "Великомихайлівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67111",
+               "short_name" : "67111",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Комарівка, Одеська область, Україна, 67111",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.165951,
+                  "lng" : 29.591321
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.153926,
+                  "lng" : 29.5742319
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.1586454,
+               "lng" : 29.5842035
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.165951,
+                  "lng" : 29.591321
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.153926,
+                  "lng" : 29.5742319
+               }
+            }
+         },
+         "place_id" : "ChIJzXWrdGk5yUAR7rPWwByCN_U",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

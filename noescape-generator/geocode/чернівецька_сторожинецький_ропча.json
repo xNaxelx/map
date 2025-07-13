@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Ропча",
+               "short_name" : "Ропча",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сторожинецький район",
+               "short_name" : "Сторожинецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "59032",
+               "short_name" : "59032",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Ропча, Чернівецька область, Україна, 59032",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.1529391,
+                  "lng" : 25.802349
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.082028,
+                  "lng" : 25.716139
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.1120825,
+               "lng" : 25.7664345
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.1529391,
+                  "lng" : 25.802349
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.082028,
+                  "lng" : 25.716139
+               }
+            }
+         },
+         "place_id" : "ChIJNa48vkkXNEcRd5e0P77aT-s",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

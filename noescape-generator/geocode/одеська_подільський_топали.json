@@ -1,0 +1,201 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Топали",
+               "short_name" : "Топали",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Окнянський район",
+               "short_name" : "Окнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67910",
+               "short_name" : "67910",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Топали, Одеська область, Україна, 67910",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.617099,
+                  "lng" : 29.34853799999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.59002400000001,
+                  "lng" : 29.2367589
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.6016275,
+               "lng" : 29.2976754
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.617099,
+                  "lng" : 29.34853799999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.59002400000001,
+                  "lng" : 29.2367589
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJs5hwo58DzEARluC_YUcf_V4",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Подільський район",
+               "short_name" : "Подільський район",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+               ]
+            },
+            {
+               "long_name" : "Київ",
+               "short_name" : "Київ",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "місто Київ",
+               "short_name" : "місто Київ",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "місто Київ",
+               "short_name" : "місто Київ",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "02000",
+               "short_name" : "02000",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Подільський район, Київ, Україна, 02000",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.5276071,
+                  "lng" : 30.541629
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.4549287,
+                  "lng" : 30.3618141
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.4938086,
+               "lng" : 30.4428556
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.5276071,
+                  "lng" : 30.541629
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.4549287,
+                  "lng" : 30.3618141
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJy83NtJDN1EARaPHBCc6fR6g",
+         "types" : 
+         [
+            "political",
+            "sublocality",
+            "sublocality_level_1"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

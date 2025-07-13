@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Млинище",
+               "short_name" : "Млинище",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Житомирський район",
+               "short_name" : "Житомирський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Житомирська область",
+               "short_name" : "Житомирська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "12434",
+               "short_name" : "12434",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Млинище, Житомирська область, Україна, 12434",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.1851139,
+                  "lng" : 28.8082389
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.166783,
+                  "lng" : 28.784954
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.17817369999999,
+               "lng" : 28.7955689
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.1851139,
+                  "lng" : 28.8082389
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.166783,
+                  "lng" : 28.784954
+               }
+            }
+         },
+         "place_id" : "ChIJYQYsUJSJLEcRDDloTKY1OMY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

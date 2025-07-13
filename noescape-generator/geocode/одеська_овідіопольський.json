@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Овідіопольський район",
+               "short_name" : "Овідіопольський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Овідіопольський район, Одеська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.4966241,
+                  "lng" : 30.7072951
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.092535,
+                  "lng" : 30.2669439
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.3398176,
+               "lng" : 30.44312399999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.4966241,
+                  "lng" : 30.7072951
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.092535,
+                  "lng" : 30.2669439
+               }
+            }
+         },
+         "place_id" : "ChIJScoJqPTPx0ARZHkD4O1U7DQ",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

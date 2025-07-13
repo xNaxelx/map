@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Раковець",
+               "short_name" : "Раковець",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Пустомитівський район",
+               "short_name" : "Пустомитівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "81164",
+               "short_name" : "81164",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Раковець, Львівська область, Україна, 81164",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.660367,
+                  "lng" : 24.027566
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.645466,
+                  "lng" : 24.0167341
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.6528217,
+               "lng" : 24.0216983
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.660367,
+                  "lng" : 24.027566
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.645466,
+                  "lng" : 24.0167341
+               }
+            }
+         },
+         "place_id" : "ChIJ91vx7h3uOkcReAr_k-9KaLc",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

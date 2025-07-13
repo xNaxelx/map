@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Заріччя",
+               "short_name" : "Заріччя",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ружинський район",
+               "short_name" : "Ружинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Житомирська область",
+               "short_name" : "Житомирська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "13605",
+               "short_name" : "13605",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Заріччя, Житомирська область, Україна, 13605",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.7206969,
+                  "lng" : 29.253126
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.701319,
+                  "lng" : 29.20446189999999
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.71188799999999,
+               "lng" : 29.2279955
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.7206969,
+                  "lng" : 29.253126
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.701319,
+                  "lng" : 29.20446189999999
+               }
+            }
+         },
+         "place_id" : "ChIJheqoXBrRLEcRrFt5TlfBRWU",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

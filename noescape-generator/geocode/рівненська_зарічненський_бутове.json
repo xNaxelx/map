@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Бутове",
+               "short_name" : "Бутове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Зарічненський район",
+               "short_name" : "Зарічненський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "34071",
+               "short_name" : "34071",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Бутове, Рівненська область, Україна, 34071",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.816927,
+                  "lng" : 26.4066019
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.770759,
+                  "lng" : 26.3720419
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.7972926,
+               "lng" : 26.3783558
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.816927,
+                  "lng" : 26.4066019
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.770759,
+                  "lng" : 26.3720419
+               }
+            }
+         },
+         "place_id" : "ChIJr8JKGGLLJ0cR0N3B-eurbVk",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

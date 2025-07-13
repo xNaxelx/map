@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Охтирський район",
+               "short_name" : "Охтирський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сумська область",
+               "short_name" : "Сумська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Охтирський район, Сумська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.48824,
+                  "lng" : 35.1130301
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.109886,
+                  "lng" : 34.3772499
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.2431823,
+               "lng" : 34.6819211
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.48824,
+                  "lng" : 35.1130301
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.109886,
+                  "lng" : 34.3772499
+               }
+            }
+         },
+         "place_id" : "ChIJkeOWXqQXKEERRhWoDMVCyPM",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

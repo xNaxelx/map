@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Володимирівка",
+               "short_name" : "Володимирівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Роздільнянський район",
+               "short_name" : "Роздільнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67433",
+               "short_name" : "67433",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Володимирівка, Одеська область, Україна, 67433",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.827541,
+                  "lng" : 30.0813029
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.8067321,
+                  "lng" : 30.06628
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.8200776,
+               "lng" : 30.0749854
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.827541,
+                  "lng" : 30.0813029
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.8067321,
+                  "lng" : 30.06628
+               }
+            }
+         },
+         "place_id" : "ChIJpbdX3afuyEARiq2vVMczHQ8",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

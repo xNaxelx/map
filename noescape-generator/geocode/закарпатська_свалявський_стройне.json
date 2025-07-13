@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Стройне",
+               "short_name" : "Стройне",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Свалявський район",
+               "short_name" : "Свалявський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "89331",
+               "short_name" : "89331",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Стройне, Закарпатська область, Україна, 89331",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.5344081,
+                  "lng" : 23.0517189
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.51386189999999,
+                  "lng" : 23.024005
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.526657,
+               "lng" : 23.0342017
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.5344081,
+                  "lng" : 23.0517189
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.51386189999999,
+                  "lng" : 23.024005
+               }
+            }
+         },
+         "place_id" : "ChIJWccFsiS6OUcREiaDK8oEgaQ",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

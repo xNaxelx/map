@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Харківський район",
+               "short_name" : "Харківський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Харківська область",
+               "short_name" : "Харківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Харківський район, Харківська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.33074209999999,
+                  "lng" : 36.7199379
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.745282,
+                  "lng" : 35.7918441
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.9708546,
+               "lng" : 36.5237539
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.33074209999999,
+                  "lng" : 36.7199379
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.745282,
+                  "lng" : 35.7918441
+               }
+            }
+         },
+         "place_id" : "ChIJVyLxgbimJ0ERtl5-xhhCC_Y",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Диканька",
+               "short_name" : "Диканька",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Диканський район",
+               "short_name" : "Диканський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Полтавська область",
+               "short_name" : "Полтавська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Диканька, Полтавська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.8411655,
+                  "lng" : 34.5709703
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.8020287,
+                  "lng" : 34.4981003
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.823894,
+               "lng" : 34.5260963
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.8411655,
+                  "lng" : 34.5709703
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.8020287,
+                  "lng" : 34.4981003
+               }
+            }
+         },
+         "place_id" : "ChIJ_zTUW4j010ARAJjl4uiRXCA",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

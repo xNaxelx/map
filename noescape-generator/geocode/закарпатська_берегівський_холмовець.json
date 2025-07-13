@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Берегівський район",
+               "short_name" : "Берегівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Берегівський район, Закарпатська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.404323,
+                  "lng" : 22.8778699
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.09168589999999,
+                  "lng" : 22.3078829
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.2351161,
+               "lng" : 22.5802865
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.404323,
+                  "lng" : 22.8778699
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.09168589999999,
+                  "lng" : 22.3078829
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJo1cLgXRaOEcRGDp5iGHSlfs",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Холмовець",
+               "short_name" : "Холмовець",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Виноградівський район",
+               "short_name" : "Виноградівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90363",
+               "short_name" : "90363",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Холмовець, Закарпатська область, Україна, 90363",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.064648,
+                  "lng" : 23.10707
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.051145,
+                  "lng" : 23.086195
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.0581764,
+               "lng" : 23.0943472
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.064648,
+                  "lng" : 23.10707
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.051145,
+                  "lng" : 23.086195
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJx1fNnnsjOEcRome4Q1Q7Gqk",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

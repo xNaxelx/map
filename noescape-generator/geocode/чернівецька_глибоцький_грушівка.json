@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Грушівка",
+               "short_name" : "Грушівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Глибоцький район",
+               "short_name" : "Глибоцький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60414",
+               "short_name" : "60414",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Грушівка, Чернівецька область, Україна, 60414",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.194704,
+                  "lng" : 25.9985429
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.1651539,
+                  "lng" : 25.937345
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.1758408,
+               "lng" : 25.9650421
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.194704,
+                  "lng" : 25.9985429
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.1651539,
+                  "lng" : 25.937345
+               }
+            }
+         },
+         "place_id" : "ChIJWyx68PANNEcRKO5EzWgsvUs",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Мілова",
+               "short_name" : "Мілова",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Балаклійський район",
+               "short_name" : "Балаклійський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Харківська область",
+               "short_name" : "Харківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "64253",
+               "short_name" : "64253",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Мілова, Харківська область, Україна, 64253",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.45921209999999,
+                  "lng" : 36.723801
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.43833,
+                  "lng" : 36.6790101
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.4493657,
+               "lng" : 36.7002521
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.45921209999999,
+                  "lng" : 36.723801
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.43833,
+                  "lng" : 36.6790101
+               }
+            }
+         },
+         "place_id" : "ChIJsakrXyZUJ0ERGuISTIxTo98",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

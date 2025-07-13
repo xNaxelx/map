@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Морочне",
+               "short_name" : "Морочне",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Зарічненський район",
+               "short_name" : "Зарічненський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "34022",
+               "short_name" : "34022",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Морочне, Рівненська область, Україна, 34022",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.856244,
+                  "lng" : 25.9755139
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.835891,
+                  "lng" : 25.8813268
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.84567620000001,
+               "lng" : 25.9201478
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.856244,
+                  "lng" : 25.9755139
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.835891,
+                  "lng" : 25.8813268
+               }
+            }
+         },
+         "place_id" : "ChIJqw2DLhtTJkcRzw2tK-EDpT8",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

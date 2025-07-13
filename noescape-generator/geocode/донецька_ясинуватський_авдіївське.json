@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Авдіївське",
+               "short_name" : "Авдіївське",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ясинуватський район",
+               "short_name" : "Ясинуватський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Донецька область",
+               "short_name" : "Донецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Авдіївське, Донецька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.1074527,
+                  "lng" : 37.6486015
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.0668667,
+                  "lng" : 37.5732421
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.09152,
+               "lng" : 37.6069894
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.1074527,
+                  "lng" : 37.6486015
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.0668667,
+                  "lng" : 37.5732421
+               }
+            }
+         },
+         "place_id" : "ChIJuygpERyd4EARdpKqiQTTqjc",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

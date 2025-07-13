@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Великий Березний",
+               "short_name" : "Великий Березний",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Великоберезнянський район",
+               "short_name" : "Великоберезнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "89000",
+               "short_name" : "89000",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Великий Березний, Закарпатська область, Україна, 89000",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.914606,
+                  "lng" : 22.48057
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.872614,
+                  "lng" : 22.4459569
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.8851206,
+               "lng" : 22.4539975
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.914606,
+                  "lng" : 22.48057
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.872614,
+                  "lng" : 22.4459569
+               }
+            }
+         },
+         "place_id" : "ChIJR4m3Id1pOUcRBG6k1R9db2I",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

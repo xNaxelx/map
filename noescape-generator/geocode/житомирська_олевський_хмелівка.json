@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Хмелівка",
+               "short_name" : "Хмелівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Олевський район",
+               "short_name" : "Олевський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Житомирська область",
+               "short_name" : "Житомирська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "11001",
+               "short_name" : "11001",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Хмелівка, Житомирська область, Україна, 11001",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.271955,
+                  "lng" : 27.7041281
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.250857,
+                  "lng" : 27.675316
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.261391,
+               "lng" : 27.6902472
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.271955,
+                  "lng" : 27.7041281
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.250857,
+                  "lng" : 27.675316
+               }
+            }
+         },
+         "place_id" : "ChIJhQdxvrQEKUcRFN_UR0M7JNU",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Дубове",
+               "short_name" : "Дубове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Окнянський район",
+               "short_name" : "Окнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67933",
+               "short_name" : "67933",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Дубове, Одеська область, Україна, 67933",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.4492971,
+                  "lng" : 29.299916
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.42677,
+                  "lng" : 29.254985
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.4395774,
+               "lng" : 29.27830939999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.4492971,
+                  "lng" : 29.299916
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.42677,
+                  "lng" : 29.254985
+               }
+            }
+         },
+         "place_id" : "ChIJAYmBh7pVyUARWLGh4Os5v6I",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

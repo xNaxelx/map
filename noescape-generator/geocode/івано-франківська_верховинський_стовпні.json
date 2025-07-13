@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Стовпні",
+               "short_name" : "Стовпні",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Верховинський район",
+               "short_name" : "Верховинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Івано-Франківська область",
+               "short_name" : "Івано-Франківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "78736",
+               "short_name" : "78736",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Стовпні, Івано-Франківська область, Україна, 78736",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.994953,
+                  "lng" : 24.8258901
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.980587,
+                  "lng" : 24.8057821
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.9873607,
+               "lng" : 24.8198812
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.994953,
+                  "lng" : 24.8258901
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.980587,
+                  "lng" : 24.8057821
+               }
+            }
+         },
+         "place_id" : "ChIJ5XUCjdL0NkcR4mOP1RaiYM0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

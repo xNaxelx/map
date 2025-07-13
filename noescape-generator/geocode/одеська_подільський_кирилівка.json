@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Кирилівка",
+               "short_name" : "Кирилівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Подільський район",
+               "short_name" : "Подільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66355",
+               "short_name" : "66355",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Кирилівка, Одеська область, Україна, 66355",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.662596,
+                  "lng" : 29.8176389
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.654881,
+                  "lng" : 29.806475
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.6588036,
+               "lng" : 29.8120588
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.662596,
+                  "lng" : 29.8176389
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.654881,
+                  "lng" : 29.806475
+               }
+            }
+         },
+         "place_id" : "ChIJ8VFDhXG9zkARKhPlJ7AToQs",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

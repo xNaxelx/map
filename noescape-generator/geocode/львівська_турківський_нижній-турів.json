@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Нижній Турів",
+               "short_name" : "Нижній Турів",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Турківський район",
+               "short_name" : "Турківський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "82533",
+               "short_name" : "82533",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Нижній Турів, Львівська область, Україна, 82533",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.105608,
+                  "lng" : 22.965666
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.0749199,
+                  "lng" : 22.8957621
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.093682,
+               "lng" : 22.9409593
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.105608,
+                  "lng" : 22.965666
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.0749199,
+                  "lng" : 22.8957621
+               }
+            }
+         },
+         "place_id" : "ChIJK9s5QxjXO0cRArSNxa0eMs4",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

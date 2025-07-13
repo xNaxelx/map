@@ -1,0 +1,81 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Мукачівський район",
+               "short_name" : "Мукачівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Мукачівський район, Закарпатська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.650665,
+                  "lng" : 22.9546729
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.2775459,
+                  "lng" : 22.3595321
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5206301,
+               "lng" : 22.723114
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.650665,
+                  "lng" : 22.9546729
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.2775459,
+                  "lng" : 22.3595321
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJjdeevUWqOUcRXOKNF__MK4s",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,197 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Нижня Яблунька",
+               "short_name" : "Ниж. Яблонька",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Турківський район",
+               "short_name" : "Турківський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "82532",
+               "short_name" : "82532",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Нижня Яблунька, Львівська область, Україна, 82532",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.141047,
+                  "lng" : 22.996362
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.098473,
+                  "lng" : 22.9522271
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.1238392,
+               "lng" : 22.9750715
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.141047,
+                  "lng" : 22.996362
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.098473,
+                  "lng" : 22.9522271
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ72uV0ybRO0cR7iEurCbYu8g",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "вулиця Нижня",
+               "short_name" : "вулиця Нижня",
+               "types" : 
+               [
+                  "route"
+               ]
+            },
+            {
+               "long_name" : "Хлопчиці",
+               "short_name" : "Хлопчиці",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Самбірський район",
+               "short_name" : "Самбірський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "81436",
+               "short_name" : "81436",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "вулиця Нижня, Хлопчиці, Львівська область, Україна, 81436",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.6116397,
+                  "lng" : 23.4180488
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.6063108,
+                  "lng" : 23.4095217
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.6090186,
+               "lng" : 23.4142564
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.6116397,
+                  "lng" : 23.4180488
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.6063108,
+                  "lng" : 23.4095217
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ_ZNmZ9ipO0cRKQvoiegqumw",
+         "types" : 
+         [
+            "route"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

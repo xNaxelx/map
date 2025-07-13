@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Козацьке",
+               "short_name" : "Козацьке",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Бобровицький район",
+               "short_name" : "Бобровицький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернігівська область",
+               "short_name" : "Чернігівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "17450",
+               "short_name" : "17450",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Козацьке, Чернігівська область, Україна, 17450",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.6511419,
+                  "lng" : 31.6669861
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.617052,
+                  "lng" : 31.6207781
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.6359743,
+               "lng" : 31.6396206
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.6511419,
+                  "lng" : 31.6669861
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.617052,
+                  "lng" : 31.6207781
+               }
+            }
+         },
+         "place_id" : "ChIJ95T3mvUL1UAR1ID1PtO3BdE",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

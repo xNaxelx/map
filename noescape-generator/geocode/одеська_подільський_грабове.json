@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Грабове",
+               "short_name" : "Грабове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кодимський район",
+               "short_name" : "Кодимський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66030",
+               "short_name" : "66030",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Грабове, Одеська область, Україна, 66030",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.035396,
+                  "lng" : 29.0529031
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.008844,
+                  "lng" : 29.02078999999999
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.0230075,
+               "lng" : 29.0359048
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.035396,
+                  "lng" : 29.0529031
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.008844,
+                  "lng" : 29.02078999999999
+               }
+            }
+         },
+         "place_id" : "ChIJb2ebTSdFzEAR3vEtEg6vOQk",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

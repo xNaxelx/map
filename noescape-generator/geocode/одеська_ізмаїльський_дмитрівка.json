@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Дмитрівка",
+               "short_name" : "Дмитрівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кілійський район",
+               "short_name" : "Кілійський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68330",
+               "short_name" : "68330",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Дмитрівка, Одеська область, Україна, 68330",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.653776,
+                  "lng" : 29.3946029
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.630047,
+                  "lng" : 29.362394
+               }
+            },
+            "location" : 
+            {
+               "lat" : 45.6429121,
+               "lng" : 29.3753657
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.653776,
+                  "lng" : 29.3946029
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.630047,
+                  "lng" : 29.362394
+               }
+            }
+         },
+         "place_id" : "ChIJ13f9P0eIt0ARHEgedPaQcvI",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

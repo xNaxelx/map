@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Переброди",
+               "short_name" : "Переброди",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Дубровицький район",
+               "short_name" : "Дубровицький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "34130",
+               "short_name" : "34130",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Переброди, Рівненська область, Україна, 34130",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.766343,
+                  "lng" : 27.011078
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.702879,
+                  "lng" : 26.9441579
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.725246,
+               "lng" : 26.9813227
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.766343,
+                  "lng" : 27.011078
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.702879,
+                  "lng" : 26.9441579
+               }
+            }
+         },
+         "place_id" : "ChIJM3zuHb57KEcRygzAN4h8DZs",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

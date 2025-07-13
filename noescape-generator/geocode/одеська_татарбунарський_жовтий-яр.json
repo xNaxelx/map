@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Жовтий Яр",
+               "short_name" : "Жовтий Яр",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Татарбунарський район",
+               "short_name" : "Татарбунарський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68152",
+               "short_name" : "68152",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Жовтий Яр, Одеська область, Україна, 68152",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.8776,
+                  "lng" : 29.935675
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.85380989999999,
+                  "lng" : 29.911165
+               }
+            },
+            "location" : 
+            {
+               "lat" : 45.8694801,
+               "lng" : 29.926297
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.8776,
+                  "lng" : 29.935675
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.85380989999999,
+                  "lng" : 29.911165
+               }
+            }
+         },
+         "place_id" : "ChIJPaGwamsGuEAROSsb16CYa7c",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

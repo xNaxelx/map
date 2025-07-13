@@ -1,0 +1,182 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Шептицький",
+               "short_name" : "Шептицький",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Червоноградська міськрада",
+               "short_name" : "Червоноградська міськрада",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Шептицький, Львівська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.410203,
+                  "lng" : 24.2574262
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.362054,
+                  "lng" : 24.1892337
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.3871767,
+               "lng" : 24.2199454
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.410203,
+                  "lng" : 24.2574262
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.362054,
+                  "lng" : 24.1892337
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ-6mlotXeJEcRhsBaeORTd-4",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Заболоття",
+               "short_name" : "Заболоття",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ратнівський район",
+               "short_name" : "Ратнівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "44142",
+               "short_name" : "44142",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Заболоття, Волинська область, Україна, 44142",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.6595249,
+                  "lng" : 24.28696
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.59359509999999,
+                  "lng" : 24.203766
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.6337599,
+               "lng" : 24.2426659
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.6595249,
+                  "lng" : 24.28696
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.59359509999999,
+                  "lng" : 24.203766
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJW3-HTJ1UIUcRftlbgx39gNQ",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

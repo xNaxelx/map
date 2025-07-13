@@ -1,0 +1,92 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "2CW9+PF",
+               "short_name" : "2CW9+PF",
+               "types" : 
+               [
+                  "plus_code"
+               ]
+            },
+            {
+               "long_name" : "Вербляни",
+               "short_name" : "Вербляни",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Яворівський район",
+               "short_name" : "Яворівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "81017",
+               "short_name" : "81017",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "2CW9+PF, Вербляни, Львівська область, Україна, 81017",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 50.046874,
+               "lng" : 23.418648
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.0482262802915,
+                  "lng" : 23.4200230802915
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.0455283197085,
+                  "lng" : 23.4173251197085
+               }
+            }
+         },
+         "place_id" : "ChIJD_FgOgBHO0cRoHeo9jQU46I",
+         "types" : 
+         [
+            "establishment",
+            "point_of_interest"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

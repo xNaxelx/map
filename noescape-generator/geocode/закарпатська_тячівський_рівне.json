@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Рівне",
+               "short_name" : "Рівне",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Тячівський район",
+               "short_name" : "Тячівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Рівне, Закарпатська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.1698831,
+                  "lng" : 23.5425969
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.166709,
+                  "lng" : 23.532358
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.168139,
+               "lng" : 23.5385033
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.1698831,
+                  "lng" : 23.5425969
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.166709,
+                  "lng" : 23.532358
+               }
+            }
+         },
+         "place_id" : "ChIJ846U99mDN0cRTrJSa_gL23Q",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

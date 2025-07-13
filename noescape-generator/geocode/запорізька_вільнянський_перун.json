@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Перун",
+               "short_name" : "Перун",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вільнянський район",
+               "short_name" : "Вільнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Запорізька область",
+               "short_name" : "Запорізька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "70014",
+               "short_name" : "70014",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Перун, Запорізька область, Україна, 70014",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.094909,
+                  "lng" : 35.1037632
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.0858651,
+                  "lng" : 35.094852
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.0906369,
+               "lng" : 35.0996983
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.094909,
+                  "lng" : 35.1037632
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.0858651,
+                  "lng" : 35.094852
+               }
+            }
+         },
+         "place_id" : "ChIJWTGsXBFz3EARClcvBrXiS9E",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

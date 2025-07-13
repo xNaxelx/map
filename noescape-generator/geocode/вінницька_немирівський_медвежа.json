@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Медвежа",
+               "short_name" : "Медвежа",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Немирівський район",
+               "short_name" : "Немирівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "22822",
+               "short_name" : "22822",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Медвежа, Вінницька область, Україна, 22822",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.000456,
+                  "lng" : 28.7922159
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.976589,
+                  "lng" : 28.7545711
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.9899552,
+               "lng" : 28.7721516
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.000456,
+                  "lng" : 28.7922159
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.976589,
+                  "lng" : 28.7545711
+               }
+            }
+         },
+         "place_id" : "ChIJ5_mjPuBVzUAR7gKaPwCJPkE",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

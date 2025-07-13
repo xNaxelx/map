@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Великомихайлівський район",
+               "short_name" : "Великомихайлівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Великомихайлівський район, Одеська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.249882,
+                  "lng" : 30.3481639
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.8611133,
+                  "lng" : 29.49564539999999
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.0928171,
+               "lng" : 29.8948423
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.249882,
+                  "lng" : 30.3481639
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.8611133,
+                  "lng" : 29.49564539999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJIWCOY1gnyUAROlE3CouveXw",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Глибокояр",
+               "short_name" : "Глибокояр",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Захарівський район",
+               "short_name" : "Захарівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66705",
+               "short_name" : "66705",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Глибокояр, Одеська область, Україна, 66705",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.237568,
+                  "lng" : 29.797875
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.2253911,
+                  "lng" : 29.7852581
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.2322695,
+               "lng" : 29.79234679999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.237568,
+                  "lng" : 29.797875
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.2253911,
+                  "lng" : 29.7852581
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ-acfWpYxyUARMJAChR55sx4",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

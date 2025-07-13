@@ -1,0 +1,182 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Белз",
+               "short_name" : "Белз",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сокальський район",
+               "short_name" : "Сокальський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "80062",
+               "short_name" : "80062",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Белз, Львівська область, Україна, 80062",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.385489,
+                  "lng" : 24.0228031
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.3746759,
+                  "lng" : 23.9817351
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.3815209,
+               "lng" : 24.0089352
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.385489,
+                  "lng" : 24.0228031
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.3746759,
+                  "lng" : 23.9817351
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJDzVR1MzaJEcRr00kAr3MoOk",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Шептицький",
+               "short_name" : "Шептицький",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Червоноградська міськрада",
+               "short_name" : "Червоноградська міськрада",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Шептицький, Львівська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.410203,
+                  "lng" : 24.2574262
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.362054,
+                  "lng" : 24.1892337
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.3871767,
+               "lng" : 24.2199454
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.410203,
+                  "lng" : 24.2574262
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.362054,
+                  "lng" : 24.1892337
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ-6mlotXeJEcRhsBaeORTd-4",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

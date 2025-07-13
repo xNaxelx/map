@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Хащів",
+               "short_name" : "Хащів",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Турківський район",
+               "short_name" : "Турківський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "82510",
+               "short_name" : "82510",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Хащів, Львівська область, Україна, 82510",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.276793,
+                  "lng" : 22.7963611
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.259607,
+                  "lng" : 22.761529
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.2665413,
+               "lng" : 22.7770808
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.276793,
+                  "lng" : 22.7963611
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.259607,
+                  "lng" : 22.761529
+               }
+            }
+         },
+         "place_id" : "ChIJDYuWl5HCO0cRsTIUVqtrfE8",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

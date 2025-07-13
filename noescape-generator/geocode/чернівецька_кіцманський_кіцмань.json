@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Кіцмань",
+               "short_name" : "Кіцмань",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кіцманський район",
+               "short_name" : "Кіцманський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Кіцмань, Чернівецька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.45650209999999,
+                  "lng" : 25.7914996
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.4239037,
+                  "lng" : 25.7420611
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.4413013,
+               "lng" : 25.7704167
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.45650209999999,
+                  "lng" : 25.7914996
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.4239037,
+                  "lng" : 25.7420611
+               }
+            }
+         },
+         "place_id" : "ChIJXbJy25tVMUcRVMwHbqV34tQ",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

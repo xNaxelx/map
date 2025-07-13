@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Коритняни",
+               "short_name" : "Коритняни",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ужгородський район",
+               "short_name" : "Ужгородський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "89435",
+               "short_name" : "89435",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Коритняни, Закарпатська область, Україна, 89435",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.5675189,
+                  "lng" : 22.304988
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.54748,
+                  "lng" : 22.2878361
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.55462259999999,
+               "lng" : 22.2954081
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.5675189,
+                  "lng" : 22.304988
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.54748,
+                  "lng" : 22.2878361
+               }
+            }
+         },
+         "place_id" : "ChIJX4TwqAIcOUcR8rzBCQvlT5c",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

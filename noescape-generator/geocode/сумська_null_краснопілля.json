@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Краснопілля",
+               "short_name" : "Краснопілля",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Краснопільський район",
+               "short_name" : "Краснопільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сумська область",
+               "short_name" : "Сумська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "42400",
+               "short_name" : "42400",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Краснопілля, Сумська область, Україна, 42400",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.799707,
+                  "lng" : 35.3325069
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.740433,
+                  "lng" : 35.219367
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.7671084,
+               "lng" : 35.26766600000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.799707,
+                  "lng" : 35.3325069
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.740433,
+                  "lng" : 35.219367
+               }
+            }
+         },
+         "place_id" : "ChIJi9qZMnPzKEERKBMSVZJgzfs",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

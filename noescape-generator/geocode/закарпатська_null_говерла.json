@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Говерла",
+               "short_name" : "Говерла",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рахівський район",
+               "short_name" : "Рахівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90647",
+               "short_name" : "90647",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Говерла, Закарпатська область, Україна, 90647",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.08546,
+                  "lng" : 24.455806
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.070487,
+                  "lng" : 24.445692
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.08147330000001,
+               "lng" : 24.4504487
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.08546,
+                  "lng" : 24.455806
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.070487,
+                  "lng" : 24.445692
+               }
+            }
+         },
+         "place_id" : "ChIJc8qMJPL-NkcRoHBxoBSW3QE",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

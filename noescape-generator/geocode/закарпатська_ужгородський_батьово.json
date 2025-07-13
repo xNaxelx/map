@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Ужгородський район",
+               "short_name" : "Ужгородський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Ужгородський район, Закарпатська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.7826304,
+                  "lng" : 22.6558761
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.3534499,
+                  "lng" : 22.1370556
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.529475,
+               "lng" : 22.3736162
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.7826304,
+                  "lng" : 22.6558761
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.3534499,
+                  "lng" : 22.1370556
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJeR_tQhMbOUcRHCBVLcdS2jg",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Батьово",
+               "short_name" : "Батьово",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Берегівський район",
+               "short_name" : "Берегівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90212",
+               "short_name" : "90212",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Батьово, Закарпатська область, Україна, 90212",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.3707111,
+                  "lng" : 22.4051299
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.352969,
+                  "lng" : 22.3747631
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.3605267,
+               "lng" : 22.3908265
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.3707111,
+                  "lng" : 22.4051299
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.352969,
+                  "lng" : 22.3747631
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ2U_S_1f5OEcRQaFlx_jiKtE",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

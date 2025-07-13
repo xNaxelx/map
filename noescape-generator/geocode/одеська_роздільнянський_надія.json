@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Надія",
+               "short_name" : "Надія",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Роздільнянський район",
+               "short_name" : "Роздільнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67421",
+               "short_name" : "67421",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Надія, Одеська область, Україна, 67421",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.966102,
+                  "lng" : 30.0689421
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.9581521,
+                  "lng" : 30.0577859
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.9627951,
+               "lng" : 30.0642371
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.966102,
+                  "lng" : 30.0689421
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.9581521,
+                  "lng" : 30.0577859
+               }
+            }
+         },
+         "place_id" : "ChIJ34gM2B_dyEARWvjnPoxqxRg",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

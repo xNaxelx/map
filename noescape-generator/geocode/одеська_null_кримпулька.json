@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Кримпулька",
+               "short_name" : "Кримпулька",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Захарівський район",
+               "short_name" : "Захарівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66711",
+               "short_name" : "66711",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Кримпулька, Одеська область, Україна, 66711",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.463917,
+                  "lng" : 29.652817
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.448782,
+                  "lng" : 29.6373668
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.4584981,
+               "lng" : 29.6488899
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.463917,
+                  "lng" : 29.652817
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.448782,
+                  "lng" : 29.6373668
+               }
+            }
+         },
+         "place_id" : "ChIJi7NJyvCzzkARi-6gHGoHTas",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

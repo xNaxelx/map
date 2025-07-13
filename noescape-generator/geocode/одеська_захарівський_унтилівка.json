@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Унтилівка",
+               "short_name" : "Унтилівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Захарівський район",
+               "short_name" : "Захарівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66731",
+               "short_name" : "66731",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Унтилівка, Одеська область, Україна, 66731",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.275402,
+                  "lng" : 29.6742319
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.263634,
+                  "lng" : 29.6587471
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.27106149999999,
+               "lng" : 29.667809
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.275402,
+                  "lng" : 29.6742319
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.263634,
+                  "lng" : 29.6587471
+               }
+            }
+         },
+         "place_id" : "ChIJh1X3kYo2yUARb1BKBOh81yI",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

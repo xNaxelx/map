@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Троїцьке",
+               "short_name" : "Троїцьке",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Глобинський район",
+               "short_name" : "Глобинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Полтавська область",
+               "short_name" : "Полтавська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Троїцьке, Полтавська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.3756251,
+                  "lng" : 33.5561299
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.3553211,
+                  "lng" : 33.5156393
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.3676769,
+               "lng" : 33.5362346
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.3756251,
+                  "lng" : 33.5561299
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.3553211,
+                  "lng" : 33.5156393
+               }
+            }
+         },
+         "place_id" : "ChIJaUz_kOVB10AR9JWoc1UDPAE",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

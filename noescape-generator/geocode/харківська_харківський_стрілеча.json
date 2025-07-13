@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Стрілеча",
+               "short_name" : "Стрілеча",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Харківський район",
+               "short_name" : "Харківський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Харківська область",
+               "short_name" : "Харківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "62411",
+               "short_name" : "62411",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Стрілеча, Харківська область, Україна, 62411",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.30986799999999,
+                  "lng" : 36.416242
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.29550709999999,
+                  "lng" : 36.380448
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.3021119,
+               "lng" : 36.39970630000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.30986799999999,
+                  "lng" : 36.416242
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.29550709999999,
+                  "lng" : 36.380448
+               }
+            }
+         },
+         "place_id" : "ChIJc2NAi4FNJkER1hrmVs-xNK0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

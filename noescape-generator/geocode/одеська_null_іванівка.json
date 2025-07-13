@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Іванівка",
+               "short_name" : "Іванівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Іванівський район",
+               "short_name" : "Іванівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67200",
+               "short_name" : "67200",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Іванівка, Одеська область, Україна, 67200",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.999619,
+                  "lng" : 30.480997
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.958396,
+                  "lng" : 30.447726
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.9755236,
+               "lng" : 30.469358
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.999619,
+                  "lng" : 30.480997
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.958396,
+                  "lng" : 30.447726
+               }
+            }
+         },
+         "place_id" : "ChIJj_0orYK3yEAR7i6OhUI3l_k",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

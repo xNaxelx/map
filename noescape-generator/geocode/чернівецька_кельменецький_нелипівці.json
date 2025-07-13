@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Нелипівці",
+               "short_name" : "Нелипівці",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кельменецький район",
+               "short_name" : "Кельменецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60152",
+               "short_name" : "60152",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Нелипівці, Чернівецька область, Україна, 60152",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.43333200000001,
+                  "lng" : 26.934233
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.411549,
+                  "lng" : 26.8812869
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.4212293,
+               "lng" : 26.9199956
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.43333200000001,
+                  "lng" : 26.934233
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.411549,
+                  "lng" : 26.8812869
+               }
+            }
+         },
+         "place_id" : "ChIJAbrkCG51M0cRyKZGMC-jfjs",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

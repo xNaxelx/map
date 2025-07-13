@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Скелівка",
+               "short_name" : "Скелівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Старосамбірський район",
+               "short_name" : "Старосамбірський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "82052",
+               "short_name" : "82052",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Скелівка, Львівська область, Україна, 82052",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.541354,
+                  "lng" : 22.977233
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.5291131,
+                  "lng" : 22.9480109
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.5376067,
+               "lng" : 22.9667529
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.541354,
+                  "lng" : 22.977233
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.5291131,
+                  "lng" : 22.9480109
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ5adwc_SXO0cR9F7i2vNq0VM",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Самбірський район",
+               "short_name" : "Самбірський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Самбірський район, Львівська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.7607029,
+                  "lng" : 23.6554599
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.337475,
+                  "lng" : 23.039228
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.578198,
+               "lng" : 23.3664274
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.7607029,
+                  "lng" : 23.6554599
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.337475,
+                  "lng" : 23.039228
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJY-WFvSipO0cRIg7jX41_UbI",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

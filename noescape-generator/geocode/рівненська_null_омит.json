@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Омит",
+               "short_name" : "Омит",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Зарічненський район",
+               "short_name" : "Зарічненський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "34010",
+               "short_name" : "34010",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Омит, Рівненська область, Україна, 34010",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.91652699999999,
+                  "lng" : 25.780265
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.90717799999999,
+                  "lng" : 25.7609799
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.9104951,
+               "lng" : 25.7709876
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.91652699999999,
+                  "lng" : 25.780265
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.90717799999999,
+                  "lng" : 25.7609799
+               }
+            }
+         },
+         "place_id" : "ChIJb6B701JVJkcRHk4Ws-Z2UmY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

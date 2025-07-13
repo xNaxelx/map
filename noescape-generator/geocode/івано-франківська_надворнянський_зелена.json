@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Зелена",
+               "short_name" : "Зелена",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Надворнянський район",
+               "short_name" : "Надворнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Івано-Франківська область",
+               "short_name" : "Івано-Франківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "78433",
+               "short_name" : "78433",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Зелена, Івано-Франківська область, Україна, 78433",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.59249699999999,
+                  "lng" : 24.4518691
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.436832,
+                  "lng" : 24.2741219
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5303054,
+               "lng" : 24.3602001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.59249699999999,
+                  "lng" : 24.4518691
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.436832,
+                  "lng" : 24.2741219
+               }
+            }
+         },
+         "place_id" : "ChIJVzXII4Y5N0cR8p-7dGRhVVM",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

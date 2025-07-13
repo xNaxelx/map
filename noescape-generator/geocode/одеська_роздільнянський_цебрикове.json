@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Роздільнянський район",
+               "short_name" : "Роздільнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Роздільнянський район, Одеська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.990412,
+                  "lng" : 30.530109
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.615347,
+                  "lng" : 29.833626
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.8414095,
+               "lng" : 30.1756639
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.990412,
+                  "lng" : 30.530109
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.615347,
+                  "lng" : 29.833626
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJg5xTIlrryEAR7A2kyucBGkw",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Цебрикове",
+               "short_name" : "Цебрикове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Великомихайлівський район",
+               "short_name" : "Великомихайлівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67131",
+               "short_name" : "67131",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Цебрикове, Одеська область, Україна, 67131",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.171928,
+                  "lng" : 30.1306701
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.118453,
+                  "lng" : 30.0779491
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.1469833,
+               "lng" : 30.1055479
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.171928,
+                  "lng" : 30.1306701
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.118453,
+                  "lng" : 30.0779491
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJTTW-M4XWyEARq2SQs7nBrBo",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

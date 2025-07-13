@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Міжгір'я",
+               "short_name" : "Міжгір'я",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Міжгірський район",
+               "short_name" : "Міжгірський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90001",
+               "short_name" : "90001",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Міжгір'я, Закарпатська область, Україна, 90001",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.5587021,
+                  "lng" : 23.6029819
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.49874699999999,
+                  "lng" : 23.487026
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5225505,
+               "lng" : 23.5051414
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.5587021,
+                  "lng" : 23.6029819
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.49874699999999,
+                  "lng" : 23.487026
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJeRb3J6jdOUcRqw5QvNcIxKM",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Воловецький район",
+               "short_name" : "Воловецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Воловецький район, Закарпатська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.929823,
+                  "lng" : 23.318533
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.610834,
+                  "lng" : 22.8345281
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.784336,
+               "lng" : 23.07877
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.929823,
+                  "lng" : 23.318533
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.610834,
+                  "lng" : 22.8345281
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ-8Yrn06aOUcRVFxbf7EoUb4",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

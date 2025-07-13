@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Широке",
+               "short_name" : "Широке",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Запорізький район",
+               "short_name" : "Запорізький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Запорізька область",
+               "short_name" : "Запорізька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "70413",
+               "short_name" : "70413",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Широке, Запорізька область, Україна, 70413",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.929416,
+                  "lng" : 34.91352
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.897007,
+                  "lng" : 34.889556
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.9101846,
+               "lng" : 34.8998547
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.929416,
+                  "lng" : 34.91352
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.897007,
+                  "lng" : 34.889556
+               }
+            }
+         },
+         "place_id" : "ChIJAedmvZx83EARMFffmVliITA",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

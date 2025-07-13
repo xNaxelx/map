@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Кам'яне-Случанське",
+               "short_name" : "Кам'яне-Случанське",
+               "types" :
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сарненський район",
+               "short_name" : "Сарненський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "34543",
+               "short_name" : "34543",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Кам'яне-Случанське, Рівненська область, Україна, 34543",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.23072,
+                  "lng" : 26.8138851
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.20390099999999,
+                  "lng" : 26.759144
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.2203757,
+               "lng" : 26.7851315
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.23072,
+                  "lng" : 26.8138851
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.20390099999999,
+                  "lng" : 26.759144
+               }
+            }
+         },
+         "place_id" : "ChIJlec_FSu_KEcRQMoiFgRNbjg",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

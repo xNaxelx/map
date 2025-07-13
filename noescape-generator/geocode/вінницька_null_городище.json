@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Городище",
+               "short_name" : "Городище",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Літинський район",
+               "short_name" : "Літинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "22347",
+               "short_name" : "22347",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Городище, Вінницька область, Україна, 22347",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.377781,
+                  "lng" : 28.1226099
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.3559129,
+                  "lng" : 28.0847711
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.3630009,
+               "lng" : 28.0979372
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.377781,
+                  "lng" : 28.1226099
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.3559129,
+                  "lng" : 28.0847711
+               }
+            }
+         },
+         "place_id" : "ChIJ2U2MTHhwLUcRWBi4BjGFYgk",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Дюла",
+               "short_name" : "Дюла",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Виноградівський район",
+               "short_name" : "Виноградівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90364",
+               "short_name" : "90364",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Дюла, Закарпатська область, Україна, 90364",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.04082409999999,
+                  "lng" : 23.092795
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.02754299999999,
+                  "lng" : 23.0627629
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.0349491,
+               "lng" : 23.0774665
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.04082409999999,
+                  "lng" : 23.092795
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.02754299999999,
+                  "lng" : 23.0627629
+               }
+            }
+         },
+         "place_id" : "ChIJPZalSgQjOEcRiApYOA6mymo",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Весела Балка",
+               "short_name" : "Весела Балка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Татарбунарський район",
+               "short_name" : "Татарбунарський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68160",
+               "short_name" : "68160",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Весела Балка, Одеська область, Україна, 68160",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.8591,
+                  "lng" : 30.0484031
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.846305,
+                  "lng" : 30.0339001
+               }
+            },
+            "location" : 
+            {
+               "lat" : 45.8534909,
+               "lng" : 30.0403883
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.8591,
+                  "lng" : 30.0484031
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.846305,
+                  "lng" : 30.0339001
+               }
+            }
+         },
+         "place_id" : "ChIJTZmYnBYJuEARsIiJ7UUjeeU",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

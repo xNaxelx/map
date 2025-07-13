@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Нова Гута",
+               "short_name" : "Нова Гута",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Тисменицький район",
+               "short_name" : "Тисменицький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Івано-Франківська область",
+               "short_name" : "Івано-Франківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "77420",
+               "short_name" : "77420",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Нова Гута, Івано-Франківська область, Україна, 77420",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.9984261,
+                  "lng" : 24.5974939
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.984339,
+                  "lng" : 24.566955
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.9926723,
+               "lng" : 24.5755974
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.9984261,
+                  "lng" : 24.5974939
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.984339,
+                  "lng" : 24.566955
+               }
+            }
+         },
+         "place_id" : "ChIJw_u5Azm-MEcR8mGg3IEdoHk",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

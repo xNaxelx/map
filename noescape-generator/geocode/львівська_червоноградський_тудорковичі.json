@@ -1,0 +1,182 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Тудорковичі",
+               "short_name" : "Тудорковичі",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сокальський район",
+               "short_name" : "Сокальський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "80010",
+               "short_name" : "80010",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Тудорковичі, Львівська область, Україна, 80010",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.58682289999999,
+                  "lng" : 24.181108
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.575674,
+                  "lng" : 24.1614839
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.58136709999999,
+               "lng" : 24.1734162
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.58682289999999,
+                  "lng" : 24.181108
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.575674,
+                  "lng" : 24.1614839
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJGbbt8kzvJEcRTMeQg7N9gEg",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Шептицький",
+               "short_name" : "Шептицький",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Червоноградська міськрада",
+               "short_name" : "Червоноградська міськрада",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Шептицький, Львівська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.410203,
+                  "lng" : 24.2574262
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.362054,
+                  "lng" : 24.1892337
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.3871767,
+               "lng" : 24.2199454
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.410203,
+                  "lng" : 24.2574262
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.362054,
+                  "lng" : 24.1892337
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ-6mlotXeJEcRhsBaeORTd-4",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

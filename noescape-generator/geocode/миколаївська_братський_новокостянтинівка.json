@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Новокостянтинівка",
+               "short_name" : "Новокостянтинівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Братський район",
+               "short_name" : "Братський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Миколаївська область",
+               "short_name" : "Миколаївська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "55482",
+               "short_name" : "55482",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Новокостянтинівка, Миколаївська область, Україна, 55482",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.815772,
+                  "lng" : 31.787848
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.7967291,
+                  "lng" : 31.763644
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.8069138,
+               "lng" : 31.7745635
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.815772,
+                  "lng" : 31.787848
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.7967291,
+                  "lng" : 31.763644
+               }
+            }
+         },
+         "place_id" : "ChIJo9WaC9_yz0ARuHFdBDjzq9g",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

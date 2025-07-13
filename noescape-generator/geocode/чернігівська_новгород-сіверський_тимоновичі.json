@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Новгород-Сіверський район",
+               "short_name" : "Новгород-Сіверський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернігівська область",
+               "short_name" : "Чернігівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Новгород-Сіверський район, Чернігівська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.3797309,
+                  "lng" : 33.5009611
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.803715,
+                  "lng" : 32.6461982
+               }
+            },
+            "location" : 
+            {
+               "lat" : 52.0304095,
+               "lng" : 33.1235809
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.3797309,
+                  "lng" : 33.5009611
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.803715,
+                  "lng" : 32.6461982
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJK0Nu5opgK0ERsp7-m6R13YE",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Тимоновичі",
+               "short_name" : "Тимоновичі",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Семенівський район",
+               "short_name" : "Семенівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернігівська область",
+               "short_name" : "Чернігівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "15410",
+               "short_name" : "15410",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Тимоновичі, Чернігівська область, Україна, 15410",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.307786,
+                  "lng" : 32.4417741
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.282014,
+                  "lng" : 32.408431
+               }
+            },
+            "location" : 
+            {
+               "lat" : 52.29442840000001,
+               "lng" : 32.4249544
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.307786,
+                  "lng" : 32.4417741
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.282014,
+                  "lng" : 32.408431
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJPxW3E3ip1EYR3Ar7q4pIHmw",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

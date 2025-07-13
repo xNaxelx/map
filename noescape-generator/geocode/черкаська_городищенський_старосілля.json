@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Старосілля",
+               "short_name" : "Старосілля",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Городищенський район",
+               "short_name" : "Городищенський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Черкаська область",
+               "short_name" : "Черкаська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "19510",
+               "short_name" : "19510",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Старосілля, Черкаська область, Україна, 19510",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.422143,
+                  "lng" : 31.649243
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.384521,
+                  "lng" : 31.528599
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.401024,
+               "lng" : 31.5967342
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.422143,
+                  "lng" : 31.649243
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.384521,
+                  "lng" : 31.528599
+               }
+            }
+         },
+         "place_id" : "ChIJx3ie_VhY0UAR2EkuaZFSdVA",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

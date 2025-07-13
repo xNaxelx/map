@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Бориспільський район",
+               "short_name" : "Бориспільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Київська область",
+               "short_name" : "Київська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Бориспільський район, Київська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.481725,
+                  "lng" : 31.295693
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.935921,
+                  "lng" : 30.590309
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.2032065,
+               "lng" : 31.0281662
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.481725,
+                  "lng" : 31.295693
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.935921,
+                  "lng" : 30.590309
+               }
+            }
+         },
+         "place_id" : "ChIJe7CmImLt1EARYN1ZO_Xd-ZM",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

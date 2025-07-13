@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Сюрте",
+               "short_name" : "Сюрте",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ужгородський район",
+               "short_name" : "Ужгородський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "89432",
+               "short_name" : "89432",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Сюрте, Закарпатська область, Україна, 89432",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.51241,
+                  "lng" : 22.2436309
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.494081,
+                  "lng" : 22.219987
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5048051,
+               "lng" : 22.2300957
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.51241,
+                  "lng" : 22.2436309
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.494081,
+                  "lng" : 22.219987
+               }
+            }
+         },
+         "place_id" : "ChIJn15hLRoeOUcR_BCEg2rkkpg",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

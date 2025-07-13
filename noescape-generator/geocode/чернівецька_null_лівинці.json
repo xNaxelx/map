@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Лівинці",
+               "short_name" : "Лівинці",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кельменецький район",
+               "short_name" : "Кельменецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60125",
+               "short_name" : "60125",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Лівинці, Чернівецька область, Україна, 60125",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.4173839,
+                  "lng" : 26.6236281
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.398698,
+                  "lng" : 26.5927439
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.40769359999999,
+               "lng" : 26.6095437
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.4173839,
+                  "lng" : 26.6236281
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.398698,
+                  "lng" : 26.5927439
+               }
+            }
+         },
+         "place_id" : "ChIJcR8dHmWaM0cRir0LvwvOJZE",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

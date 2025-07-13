@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Коростенський район",
+               "short_name" : "Коростенський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Житомирська область",
+               "short_name" : "Житомирська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Коростенський район, Житомирська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.136945,
+                  "lng" : 29.0643949
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.7181261,
+                  "lng" : 28.1161571
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.8643054,
+               "lng" : 28.6813104
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.136945,
+                  "lng" : 29.0643949
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.7181261,
+                  "lng" : 28.1161571
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ77lzF3zcK0cRHM3-XR8Akik",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Народичі",
+               "short_name" : "Народичі",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Народицький район",
+               "short_name" : "Народицький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Житомирська область",
+               "short_name" : "Житомирська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "11401",
+               "short_name" : "11401",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Народичі, Житомирська область, Україна, 11401",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.215023,
+                  "lng" : 29.1234061
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.1906911,
+                  "lng" : 29.03939189999999
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.2037922,
+               "lng" : 29.0788297
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.215023,
+                  "lng" : 29.1234061
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.1906911,
+                  "lng" : 29.03939189999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJNQFH2QQxKkcRlkFjdzi6-FA",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

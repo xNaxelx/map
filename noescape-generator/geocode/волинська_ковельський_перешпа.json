@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Ковельський район",
+               "short_name" : "Ковельський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Ковельський район, Волинська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.412778,
+                  "lng" : 25.409608
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.001411,
+                  "lng" : 24.4706039
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.157963,
+               "lng" : 24.9486783
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.412778,
+                  "lng" : 25.409608
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.001411,
+                  "lng" : 24.4706039
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJpwWsLfgtJEcR3j_eqEbcaZs",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Перешпа",
+               "short_name" : "Перешпа",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Шацький район",
+               "short_name" : "Шацький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "44012",
+               "short_name" : "44012",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Перешпа, Волинська область, Україна, 44012",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.599219,
+                  "lng" : 23.6658321
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.594487,
+                  "lng" : 23.640211
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.5972075,
+               "lng" : 23.656363
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.599219,
+                  "lng" : 23.6658321
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.594487,
+                  "lng" : 23.640211
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJo7TQU2reI0cRkoIrrwImjzA",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

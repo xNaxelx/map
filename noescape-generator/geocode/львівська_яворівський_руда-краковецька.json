@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Руда-Краковецька",
+               "short_name" : "Руда-Краковецька",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Яворівський район",
+               "short_name" : "Яворівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "81008",
+               "short_name" : "81008",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Руда-Краковецька, Львівська область, Україна, 81008",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.9822251,
+                  "lng" : 23.202257
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.9646451,
+                  "lng" : 23.1788071
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.9739762,
+               "lng" : 23.1872948
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.9822251,
+                  "lng" : 23.202257
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.9646451,
+                  "lng" : 23.1788071
+               }
+            }
+         },
+         "place_id" : "ChIJOxd5FrtpO0cROmCQUJcBp1s",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

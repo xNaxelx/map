@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Велика Писарівка",
+               "short_name" : "Велика Писарівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Великописарівський район",
+               "short_name" : "Великописарівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сумська область",
+               "short_name" : "Сумська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "42801",
+               "short_name" : "42801",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Велика Писарівка, Сумська область, Україна, 42801",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.44390199999999,
+                  "lng" : 35.527089
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.4035699,
+                  "lng" : 35.4359859
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.4202773,
+               "lng" : 35.4812634
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.44390199999999,
+                  "lng" : 35.527089
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.4035699,
+                  "lng" : 35.4359859
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJjcuC_ER4KEERMqUlQYnZlZw",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Охтирський район",
+               "short_name" : "Охтирський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сумська область",
+               "short_name" : "Сумська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Охтирський район, Сумська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.48824,
+                  "lng" : 35.1130301
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.109886,
+                  "lng" : 34.3772499
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.2431823,
+               "lng" : 34.6819211
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.48824,
+                  "lng" : 35.1130301
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.109886,
+                  "lng" : 34.3772499
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJkeOWXqQXKEERRhWoDMVCyPM",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

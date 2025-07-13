@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Олександрівка",
+               "short_name" : "Олександрівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кодимський район",
+               "short_name" : "Кодимський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66040",
+               "short_name" : "66040",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Олександрівка, Одеська область, Україна, 66040",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.001684,
+                  "lng" : 29.241376
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.988439,
+                  "lng" : 29.217407
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.9959277,
+               "lng" : 29.2311168
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.001684,
+                  "lng" : 29.241376
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.988439,
+                  "lng" : 29.217407
+               }
+            }
+         },
+         "place_id" : "ChIJR1rMz-pHzEARY84DpKz-aKQ",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

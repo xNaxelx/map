@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Котюжани",
+               "short_name" : "Котюжани",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Мурованокуриловецький район",
+               "short_name" : "Мурованокуриловецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "23440",
+               "short_name" : "23440",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Котюжани, Вінницька область, Україна, 23440",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.796045,
+                  "lng" : 27.7614011
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.784629,
+                  "lng" : 27.744071
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.7889547,
+               "lng" : 27.7573735
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.796045,
+                  "lng" : 27.7614011
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.784629,
+                  "lng" : 27.744071
+               }
+            }
+         },
+         "place_id" : "ChIJMUN9jPnoMkcRno3TA7aW0vo",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Малий",
+               "short_name" : "Малий",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Жовківський район",
+               "short_name" : "Жовківський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "80318",
+               "short_name" : "80318",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Малий, Львівська область, Україна, 80318",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.2234179,
+                  "lng" : 23.74433
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.220825,
+                  "lng" : 23.735319
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.2220632,
+               "lng" : 23.740213
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.2234704302915,
+                  "lng" : 23.74433
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.2207724697085,
+                  "lng" : 23.735319
+               }
+            }
+         },
+         "place_id" : "ChIJufVbL1ozO0cRlON80PLhbgs",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

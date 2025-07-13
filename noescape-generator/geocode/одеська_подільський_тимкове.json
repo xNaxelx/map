@@ -1,0 +1,201 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Тимкове",
+               "short_name" : "Тимкове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кодимський район",
+               "short_name" : "Кодимський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66052",
+               "short_name" : "66052",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Тимкове, Одеська область, Україна, 66052",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.89067310000001,
+                  "lng" : 29.3126591
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.857135,
+                  "lng" : 29.258815
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.8750156,
+               "lng" : 29.2822387
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.89067310000001,
+                  "lng" : 29.3126591
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.857135,
+                  "lng" : 29.258815
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJjdEF1S48zEARLFQ0vqIy_5o",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Подільський район",
+               "short_name" : "Подільський район",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+               ]
+            },
+            {
+               "long_name" : "Київ",
+               "short_name" : "Київ",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "місто Київ",
+               "short_name" : "місто Київ",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "місто Київ",
+               "short_name" : "місто Київ",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "02000",
+               "short_name" : "02000",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Подільський район, Київ, Україна, 02000",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.5276071,
+                  "lng" : 30.541629
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.4549287,
+                  "lng" : 30.3618141
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.4938086,
+               "lng" : 30.4428556
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.5276071,
+                  "lng" : 30.541629
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.4549287,
+                  "lng" : 30.3618141
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJy83NtJDN1EARaPHBCc6fR6g",
+         "types" : 
+         [
+            "political",
+            "sublocality",
+            "sublocality_level_1"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

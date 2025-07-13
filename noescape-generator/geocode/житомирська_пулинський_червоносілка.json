@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Червоносілка",
+               "short_name" : "Червоносілка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Пулинський район",
+               "short_name" : "Пулинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Житомирська область",
+               "short_name" : "Житомирська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "12050",
+               "short_name" : "12050",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Червоносілка, Житомирська область, Україна, 12050",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.4342779,
+                  "lng" : 28.0084849
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.4189549,
+                  "lng" : 27.984231
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.4281608,
+               "lng" : 27.9970941
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.4342779,
+                  "lng" : 28.0084849
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.4189549,
+                  "lng" : 27.984231
+               }
+            }
+         },
+         "place_id" : "ChIJxUwsN24bLEcRNm9ysY02gbc",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

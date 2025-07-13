@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Ужгородський район",
+               "short_name" : "Ужгородський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Ужгородський район, Закарпатська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.7826304,
+                  "lng" : 22.6558761
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.3534499,
+                  "lng" : 22.1370556
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.529475,
+               "lng" : 22.3736162
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.7826304,
+                  "lng" : 22.6558761
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.3534499,
+                  "lng" : 22.1370556
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJeR_tQhMbOUcRHCBVLcdS2jg",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Гусний",
+               "short_name" : "Гусний",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Великоберезнянський район",
+               "short_name" : "Великоберезнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "89031",
+               "short_name" : "89031",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Гусний, Закарпатська область, Україна, 89031",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.9585581,
+                  "lng" : 22.863082
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.9269589,
+                  "lng" : 22.8412559
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.9456059,
+               "lng" : 22.8477269
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.9585581,
+                  "lng" : 22.863082
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.9269589,
+                  "lng" : 22.8412559
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ-9nGUet7OUcRTG4z0iC1Bqw",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Петриківка",
+               "short_name" : "Петриківка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Петриківський район",
+               "short_name" : "Петриківський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Дніпропетровська область",
+               "short_name" : "Дніпропетровська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "51801",
+               "short_name" : "51801",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Петриківка, Дніпропетровська область, Україна, 51801",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.75615990000001,
+                  "lng" : 34.671187
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.697328,
+                  "lng" : 34.591699
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.7294942,
+               "lng" : 34.6324038
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.75615990000001,
+                  "lng" : 34.671187
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.697328,
+                  "lng" : 34.591699
+               }
+            }
+         },
+         "place_id" : "ChIJM_vF6al-2UARgmMORUoFGoE",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

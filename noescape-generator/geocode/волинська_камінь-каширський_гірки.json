@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Гірки",
+               "short_name" : "Гірки",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Любешівський район",
+               "short_name" : "Любешівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "44230",
+               "short_name" : "44230",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Гірки, Волинська область, Україна, 44230",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.928665,
+                  "lng" : 25.409134
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.885627,
+                  "lng" : 25.260258
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.8921715,
+               "lng" : 25.2830434
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.928665,
+                  "lng" : 25.409134
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.885627,
+                  "lng" : 25.260258
+               }
+            }
+         },
+         "place_id" : "ChIJAxonoBPkJkcR0B_9sFzkKjA",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

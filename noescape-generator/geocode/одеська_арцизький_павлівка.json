@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Павлівка",
+               "short_name" : "Павлівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Арцизький район",
+               "short_name" : "Арцизький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68450",
+               "short_name" : "68450",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Павлівка, Одеська область, Україна, 68450",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.971282,
+                  "lng" : 29.5085581
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.959634,
+                  "lng" : 29.465993
+               }
+            },
+            "location" : 
+            {
+               "lat" : 45.96327489999999,
+               "lng" : 29.4879295
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.971282,
+                  "lng" : 29.5085581
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.959634,
+                  "lng" : 29.465993
+               }
+            }
+         },
+         "place_id" : "ChIJPdzdqMHkt0ARNaHjzPLRe0Q",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

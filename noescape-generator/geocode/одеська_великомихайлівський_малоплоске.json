@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Малоплоске",
+               "short_name" : "Малоплоске",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Великомихайлівський район",
+               "short_name" : "Великомихайлівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67141",
+               "short_name" : "67141",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Малоплоске, Одеська область, Україна, 67141",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.016462,
+                  "lng" : 29.7452469
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.009087,
+                  "lng" : 29.7343739
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.0137623,
+               "lng" : 29.7404154
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.016462,
+                  "lng" : 29.7452469
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.009087,
+                  "lng" : 29.7343739
+               }
+            }
+         },
+         "place_id" : "ChIJIWAnkv0hyUAR2bzLTkwfuWs",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

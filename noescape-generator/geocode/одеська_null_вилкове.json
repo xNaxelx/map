@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Вилкове",
+               "short_name" : "Вилкове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кілійський район",
+               "short_name" : "Кілійський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Вилкове, Одеська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.4129881,
+                  "lng" : 29.6274662
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.3836824,
+                  "lng" : 29.5599309
+               }
+            },
+            "location" : 
+            {
+               "lat" : 45.40029939999999,
+               "lng" : 29.5961736
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.4129881,
+                  "lng" : 29.6274662
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.3836824,
+                  "lng" : 29.5599309
+               }
+            }
+         },
+         "place_id" : "ChIJBb-UAJQ0uEARtuqGrrj3ZFQ",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

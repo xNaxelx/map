@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Мала Слобідка",
+               "short_name" : "Мал. Слободка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кодимський район",
+               "short_name" : "Кодимський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66051",
+               "short_name" : "66051",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Мала Слобідка, Одеська область, Україна, 66051",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.92108590000001,
+                  "lng" : 29.298205
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.8901031,
+                  "lng" : 29.2698489
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.9012874,
+               "lng" : 29.2847942
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.92108590000001,
+                  "lng" : 29.298205
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.8901031,
+                  "lng" : 29.2698489
+               }
+            }
+         },
+         "place_id" : "ChIJH9OncrQ-zEARGsZtEkBdxTI",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

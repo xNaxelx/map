@@ -1,0 +1,106 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Ізмаїл",
+               "short_name" : "Ізмаїл",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ізмаїльська міськрада",
+               "short_name" : "Ізмаїльська міськрада",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ізмаїльський район",
+               "short_name" : "Ізмаїльський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68600",
+               "short_name" : "68600",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Ізмаїл, Одеська область, Україна, 68600",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.397766,
+                  "lng" : 28.900754
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.30334,
+                  "lng" : 28.789699
+               }
+            },
+            "location" : 
+            {
+               "lat" : 45.3501944,
+               "lng" : 28.8501919
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.397766,
+                  "lng" : 28.900754
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.30334,
+                  "lng" : 28.789699
+               }
+            }
+         },
+         "place_id" : "ChIJH1ZB9-Rlt0ARfWJy7C3Ymr0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

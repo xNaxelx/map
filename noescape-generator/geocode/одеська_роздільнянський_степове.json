@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Степове",
+               "short_name" : "Степове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Роздільнянський район",
+               "short_name" : "Роздільнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67451",
+               "short_name" : "67451",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Степове, Одеська область, Україна, 67451",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.710151,
+                  "lng" : 30.0874521
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.687804,
+                  "lng" : 30.0558919
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.703781,
+               "lng" : 30.0735739
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.710151,
+                  "lng" : 30.0874521
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.687804,
+                  "lng" : 30.0558919
+               }
+            }
+         },
+         "place_id" : "ChIJBUeOeCnzyEARnuhl5nk3aIY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

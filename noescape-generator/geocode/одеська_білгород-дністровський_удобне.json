@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Удобне",
+               "short_name" : "Удобне",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Білгород-Дністровський район",
+               "short_name" : "Білгород-Дністровський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67731",
+               "short_name" : "67731",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Удобне, Одеська область, Україна, 67731",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.3922739,
+                  "lng" : 30.0607649
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.369449,
+                  "lng" : 30.0256841
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.3798659,
+               "lng" : 30.0433221
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.3922739,
+                  "lng" : 30.0607649
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.369449,
+                  "lng" : 30.0256841
+               }
+            }
+         },
+         "place_id" : "ChIJ92OLEU9wyEARYP0F_hDtAic",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

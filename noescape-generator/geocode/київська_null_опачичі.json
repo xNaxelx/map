@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Нові Опачичі",
+               "short_name" : "Нові Опачичі",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Макарівський район",
+               "short_name" : "Макарівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Київська область",
+               "short_name" : "Київська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "08035",
+               "short_name" : "08035",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Нові Опачичі, Київська область, Україна, 08035",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.2577649,
+                  "lng" : 29.7964181
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.248546,
+                  "lng" : 29.779958
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.25283599999999,
+               "lng" : 29.7899952
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.2577649,
+                  "lng" : 29.7964181
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.248546,
+                  "lng" : 29.779958
+               }
+            }
+         },
+         "place_id" : "ChIJteb8NLdQK0cRMiNN0oUduZM",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

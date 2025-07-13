@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Тязів",
+               "short_name" : "Тязів",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Тисменицький район",
+               "short_name" : "Тисменицький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Івано-Франківська область",
+               "short_name" : "Івано-Франківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "77415",
+               "short_name" : "77415",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Тязів, Івано-Франківська область, Україна, 77415",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.0280109,
+                  "lng" : 24.711548
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.004683,
+                  "lng" : 24.6564649
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.021714,
+               "lng" : 24.689886
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.0280109,
+                  "lng" : 24.711548
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.004683,
+                  "lng" : 24.6564649
+               }
+            }
+         },
+         "place_id" : "ChIJEfKJpzGVMEcR1ODjKCVdZSw",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

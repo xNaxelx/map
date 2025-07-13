@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Слобідка",
+               "short_name" : "Слобідка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кельменецький район",
+               "short_name" : "Кельменецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60131",
+               "short_name" : "60131",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Слобідка, Чернівецька область, Україна, 60131",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.43081309999999,
+                  "lng" : 26.78793
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.409271,
+                  "lng" : 26.721567
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.4221242,
+               "lng" : 26.7613991
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.43081309999999,
+                  "lng" : 26.78793
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.409271,
+                  "lng" : 26.721567
+               }
+            }
+         },
+         "place_id" : "ChIJOzKR9LCeM0cRYBjFsht1D5Q",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

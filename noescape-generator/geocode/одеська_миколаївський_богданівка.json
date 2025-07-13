@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Богданівка",
+               "short_name" : "Богданівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Миколаївський район",
+               "short_name" : "Миколаївський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67024",
+               "short_name" : "67024",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Богданівка, Одеська область, Україна, 67024",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.42527399999999,
+                  "lng" : 30.5623311
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.400256,
+                  "lng" : 30.5485991
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.408983,
+               "lng" : 30.5557963
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.42527399999999,
+                  "lng" : 30.5623311
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.400256,
+                  "lng" : 30.5485991
+               }
+            }
+         },
+         "place_id" : "ChIJa1TRXaojz0ARAlGmRVT0uKY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

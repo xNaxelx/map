@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Бериславський район",
+               "short_name" : "Бериславський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Херсонська область",
+               "short_name" : "Херсонська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Бериславський район, Херсонська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.196426,
+                  "lng" : 33.8189741
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.74411800000001,
+                  "lng" : 32.835754
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.9571386,
+               "lng" : 33.4207435
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.196426,
+                  "lng" : 33.8189741
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.74411800000001,
+                  "lng" : 32.835754
+               }
+            }
+         },
+         "place_id" : "ChIJN2yGPT-AxEARJoCLabajCzE",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Йорданешти",
+               "short_name" : "Йорданешти",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Глибоцький район",
+               "short_name" : "Глибоцький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60421",
+               "short_name" : "60421",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Йорданешти, Чернівецька область, Україна, 60421",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.1256579,
+                  "lng" : 25.832605
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.069796,
+                  "lng" : 25.779991
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.1021464,
+               "lng" : 25.8078088
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.1256579,
+                  "lng" : 25.832605
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.069796,
+                  "lng" : 25.779991
+               }
+            }
+         },
+         "place_id" : "ChIJYy82muMWNEcRWCbGqqds2l4",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Павлоград",
+               "short_name" : "Павлоград",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Павлоградська міськрада",
+               "short_name" : "Павлоградська міськрада",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Дніпропетровська область",
+               "short_name" : "Дніпропетровська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "51400",
+               "short_name" : "51400",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Павлоград, Дніпропетровська область, Україна, 51400",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.58526699999999,
+                  "lng" : 35.987334
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.473816,
+                  "lng" : 35.8007491
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5294478,
+               "lng" : 35.9032574
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.58526699999999,
+                  "lng" : 35.987334
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.473816,
+                  "lng" : 35.8007491
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ_0hLcDK43kARPadNhDFxWpY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Павлоградський район",
+               "short_name" : "Павлоградський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Дніпропетровська область",
+               "short_name" : "Дніпропетровська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Павлоградський район, Дніпропетровська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.7812439,
+                  "lng" : 36.319297
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.35039099999999,
+                  "lng" : 35.520375
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.6557962,
+               "lng" : 35.774814
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.7812439,
+                  "lng" : 36.319297
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.35039099999999,
+                  "lng" : 35.520375
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJl7kZ4_DH3kARctGhSeSgyAw",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

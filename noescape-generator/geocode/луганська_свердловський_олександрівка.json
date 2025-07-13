@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Олександрівка",
+               "short_name" : "Олександрівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Свердловський район",
+               "short_name" : "Свердловський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Луганська область",
+               "short_name" : "Луганська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "94860",
+               "short_name" : "94860",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Олександрівка, Луганська область, Україна, 94860",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.08579899999999,
+                  "lng" : 39.7578189
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.059739,
+                  "lng" : 39.7396169
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.07503089999999,
+               "lng" : 39.7490117
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.08579899999999,
+                  "lng" : 39.7578189
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.059739,
+                  "lng" : 39.7396169
+               }
+            }
+         },
+         "place_id" : "ChIJp2G7FI7m4UAR0xXPPBEg6sU",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

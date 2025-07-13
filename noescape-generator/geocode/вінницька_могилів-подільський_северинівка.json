@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Северинівка",
+               "short_name" : "Северинівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ямпільський район",
+               "short_name" : "Ямпільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "24540",
+               "short_name" : "24540",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Северинівка, Вінницька область, Україна, 24540",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.24537,
+                  "lng" : 28.436014
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.227502,
+                  "lng" : 28.393162
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.2370772,
+               "lng" : 28.4186843
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.24537,
+                  "lng" : 28.436014
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.227502,
+                  "lng" : 28.393162
+               }
+            }
+         },
+         "place_id" : "ChIJQSbxpeHnzEARRPX7FCg4B44",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

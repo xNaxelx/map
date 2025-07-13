@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Селятин",
+               "short_name" : "Селятин",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Путильський район",
+               "short_name" : "Путильський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "59131",
+               "short_name" : "59131",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Селятин, Чернівецька область, Україна, 59131",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.891476,
+                  "lng" : 25.22179
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.855647,
+                  "lng" : 25.1505562
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.8757993,
+               "lng" : 25.1900458
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.891476,
+                  "lng" : 25.22179
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.855647,
+                  "lng" : 25.1505562
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJCQ65pDmANkcR1m0lwUWvevE",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Яворівський район",
+               "short_name" : "Яворівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Яворівський район, Львівська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.193844,
+                  "lng" : 23.9387161
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.81258,
+                  "lng" : 23.0927957
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.015466,
+               "lng" : 23.5466891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.193844,
+                  "lng" : 23.9387161
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.81258,
+                  "lng" : 23.0927957
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJM9bvHb0-O0cRuAJVd2LB3l0",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

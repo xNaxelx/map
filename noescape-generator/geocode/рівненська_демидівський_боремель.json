@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Боремель",
+               "short_name" : "Боремель",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Демидівський район",
+               "short_name" : "Демидівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "35210",
+               "short_name" : "35210",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Боремель, Рівненська область, Україна, 35210",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.494266,
+                  "lng" : 25.2007329
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.45803799999999,
+                  "lng" : 25.1588381
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.4771307,
+               "lng" : 25.1793158
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.494266,
+                  "lng" : 25.2007329
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.45803799999999,
+                  "lng" : 25.1588381
+               }
+            }
+         },
+         "place_id" : "ChIJWxO1cD5wJUcRVMnuVQeQQYo",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

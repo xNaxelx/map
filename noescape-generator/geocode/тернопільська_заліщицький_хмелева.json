@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Хмелева",
+               "short_name" : "Хмелева",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Заліщицький район",
+               "short_name" : "Заліщицький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Тернопільська область",
+               "short_name" : "Тернопільська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "48683",
+               "short_name" : "48683",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Хмелева, Тернопільська область, Україна, 48683",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.8724019,
+                  "lng" : 25.4901671
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.860648,
+                  "lng" : 25.470122
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.8672285,
+               "lng" : 25.4835755
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.8724019,
+                  "lng" : 25.4901671
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.860648,
+                  "lng" : 25.470122
+               }
+            }
+         },
+         "place_id" : "ChIJKXN4qeoWMUcRZv7kU1bdCt4",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Оріховиця",
+               "short_name" : "Оріховиця",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ужгородський район",
+               "short_name" : "Ужгородський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "89413",
+               "short_name" : "89413",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Оріховиця, Закарпатська область, Україна, 89413",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.6594789,
+                  "lng" : 22.4109109
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.646591,
+                  "lng" : 22.389698
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.6524522,
+               "lng" : 22.3967252
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.6594789,
+                  "lng" : 22.4109109
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.646591,
+                  "lng" : 22.389698
+               }
+            }
+         },
+         "place_id" : "ChIJQc9XHccQOUcRmgnqiStYb30",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

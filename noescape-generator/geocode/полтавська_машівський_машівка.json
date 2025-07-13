@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Машівка",
+               "short_name" : "Машівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Машівський район",
+               "short_name" : "Машівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Полтавська область",
+               "short_name" : "Полтавська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Машівка, Полтавська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.4527406,
+                  "lng" : 34.9079633
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.433222,
+                  "lng" : 34.8342347
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.4411026,
+               "lng" : 34.866492
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.4527406,
+                  "lng" : 34.9079633
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.433222,
+                  "lng" : 34.8342347
+               }
+            }
+         },
+         "place_id" : "ChIJHSP78kZI2EAR4LQ0K59UVwE",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

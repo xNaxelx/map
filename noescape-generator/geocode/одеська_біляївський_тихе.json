@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Тихе",
+               "short_name" : "Тихе",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Біляївський район",
+               "short_name" : "Біляївський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67630",
+               "short_name" : "67630",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Тихе, Одеська область, Україна, 67630",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.679185,
+                  "lng" : 30.5998079
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.672631,
+                  "lng" : 30.5873241
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.67595499999999,
+               "lng" : 30.5935082
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.679185,
+                  "lng" : 30.5998079
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.672631,
+                  "lng" : 30.5873241
+               }
+            }
+         },
+         "place_id" : "ChIJpXQZMOCdyEARQvgShchMhj8",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

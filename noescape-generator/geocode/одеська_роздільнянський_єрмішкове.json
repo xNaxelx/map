@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Роздільнянський район",
+               "short_name" : "Роздільнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Роздільнянський район, Одеська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.990412,
+                  "lng" : 30.530109
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.615347,
+                  "lng" : 29.833626
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.8414095,
+               "lng" : 30.1756639
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.990412,
+                  "lng" : 30.530109
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.615347,
+                  "lng" : 29.833626
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJg5xTIlrryEAR7A2kyucBGkw",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Єрмішкове",
+               "short_name" : "Єрмішкове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Великомихайлівський район",
+               "short_name" : "Великомихайлівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67144",
+               "short_name" : "67144",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Єрмішкове, Одеська область, Україна, 67144",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.931822,
+                  "lng" : 29.821201
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.917679,
+                  "lng" : 29.7912711
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.922123,
+               "lng" : 29.8076957
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.931822,
+                  "lng" : 29.821201
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.917679,
+                  "lng" : 29.7912711
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJAXjZ6erhyEARujEQos_2UvI",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

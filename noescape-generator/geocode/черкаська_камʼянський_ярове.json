@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Ярове",
+               "short_name" : "Ярове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кам'янський район",
+               "short_name" : "Кам'янський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Черкаська область",
+               "short_name" : "Черкаська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "20824",
+               "short_name" : "20824",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Ярове, Черкаська область, Україна, 20824",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.0729321,
+                  "lng" : 32.004045
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.060817,
+                  "lng" : 31.964146
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.0686136,
+               "lng" : 31.9857927
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.0729321,
+                  "lng" : 32.004045
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.060817,
+                  "lng" : 31.964146
+               }
+            }
+         },
+         "place_id" : "ChIJQViJDCYX0UARSsdYZKdTJqo",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

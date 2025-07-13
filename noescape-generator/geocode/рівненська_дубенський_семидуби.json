@@ -1,0 +1,117 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "57",
+               "short_name" : "57",
+               "types" : 
+               [
+                  "street_number"
+               ]
+            },
+            {
+               "long_name" : "вулиця Центральна",
+               "short_name" : "вулиця Центральна",
+               "types" : 
+               [
+                  "route"
+               ]
+            },
+            {
+               "long_name" : "Семидуби",
+               "short_name" : "Семидуби",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Дубенський район",
+               "short_name" : "Дубенський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "35650",
+               "short_name" : "35650",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "вулиця Центральна, 57, Семидуби, Рівненська область, Україна, 35650",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 50.3465183,
+               "lng" : 25.8059883
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.3478977802915,
+                  "lng" : 25.8073914302915
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.3451998197085,
+                  "lng" : 25.8046934697085
+               }
+            }
+         },
+         "navigation_points" : 
+         [
+            {
+               "location" : 
+               {
+                  "latitude" : 50.3465376,
+                  "longitude" : 25.8060226
+               }
+            }
+         ],
+         "partial_match" : true,
+         "place_id" : "ChIJU2icbiObL0cRPP04cr9fPr8",
+         "plus_code" : 
+         {
+            "compound_code" : "8RW4+J9 Семидуби, Рівненська область, Україна",
+            "global_code" : "9G278RW4+J9"
+         },
+         "types" : 
+         [
+            "car_repair",
+            "establishment",
+            "point_of_interest"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

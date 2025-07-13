@@ -1,0 +1,81 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "гора Стаїки",
+               "short_name" : "гора Стаїки",
+               "types" : 
+               [
+                  "establishment",
+                  "natural_feature"
+               ]
+            },
+            {
+               "long_name" : "Верховинський район",
+               "short_name" : "Верховинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Івано-Франківська область",
+               "short_name" : "Івано-Франківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "гора Стаїки, Івано-Франківська область, Україна",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.05416049999999,
+               "lng" : 24.6791124
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.0555094802915,
+                  "lng" : 24.6804613802915
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.0528115197085,
+                  "lng" : 24.6777634197085
+               }
+            }
+         },
+         "place_id" : "ChIJ28Kbc9XwNkcR133T5hLsRCo",
+         "plus_code" : 
+         {
+            "compound_code" : "3M3H+MJ Зелене, Івано-Франківська область, Україна",
+            "global_code" : "8GW63M3H+MJ"
+         },
+         "types" : 
+         [
+            "establishment",
+            "natural_feature"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

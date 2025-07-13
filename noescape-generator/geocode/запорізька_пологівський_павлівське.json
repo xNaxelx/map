@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Павлівське",
+               "short_name" : "Павлівське",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Пологівський район",
+               "short_name" : "Пологівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Запорізька область",
+               "short_name" : "Запорізька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "70632",
+               "short_name" : "70632",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Павлівське, Запорізька область, Україна, 70632",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.4820931,
+                  "lng" : 36.0630491
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.46476699999999,
+                  "lng" : 36.0347321
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.4751598,
+               "lng" : 36.0469319
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.4820931,
+                  "lng" : 36.0630491
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.46476699999999,
+                  "lng" : 36.0347321
+               }
+            }
+         },
+         "place_id" : "ChIJy9ytdvqe3UARXp9bXxRTZOg",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

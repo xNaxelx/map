@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Добротвір",
+               "short_name" : "Добротвір",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кам'янка-Бузький район",
+               "short_name" : "Кам'янка-Бузький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Добротвір, Львівська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.2135337,
+                  "lng" : 24.3951202
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.1975477,
+                  "lng" : 24.3782543
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.2036713,
+               "lng" : 24.3867252
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.2135337,
+                  "lng" : 24.3951202
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.1975477,
+                  "lng" : 24.3782543
+               }
+            }
+         },
+         "place_id" : "ChIJFVDWhz4uJUcRvBx5Uf4ExIo",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

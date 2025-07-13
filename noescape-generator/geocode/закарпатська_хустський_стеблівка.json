@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Стеблівка",
+               "short_name" : "Стеблівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Хустський район",
+               "short_name" : "Хустський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90451",
+               "short_name" : "90451",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Стеблівка, Закарпатська область, Україна, 90451",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.099986,
+                  "lng" : 23.43479
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.081298,
+                  "lng" : 23.408824
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.0902024,
+               "lng" : 23.4224283
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.099986,
+                  "lng" : 23.43479
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.081298,
+                  "lng" : 23.408824
+               }
+            }
+         },
+         "place_id" : "ChIJ-XtWlzyGN0cRolWo6f7a1Fc",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,164 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Одеська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.233306,
+                  "lng" : 31.305305
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.2026136,
+                  "lng" : 28.2139431
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.484583,
+               "lng" : 30.7326
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.233306,
+                  "lng" : 31.305305
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.2026136,
+                  "lng" : 28.2139431
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJaRSOmoExxkARxdd-tWjwax8",
+         "types" : 
+         [
+            "administrative_area_level_1",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Тернувате",
+               "short_name" : "Тернувате",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Новомиколаївський район",
+               "short_name" : "Новомиколаївський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Запорізька область",
+               "short_name" : "Запорізька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "70150",
+               "short_name" : "70150",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Тернувате, Запорізька область, Україна, 70150",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.83976699999999,
+                  "lng" : 36.1483379
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.8194801,
+                  "lng" : 36.1116631
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.8301304,
+               "lng" : 36.1267969
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.83976699999999,
+                  "lng" : 36.1483379
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.8194801,
+                  "lng" : 36.1116631
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJFT8Q0KXI3UARiteXxU4_n5k",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

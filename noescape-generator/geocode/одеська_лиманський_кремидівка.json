@@ -1,0 +1,98 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Кремидівка",
+               "short_name" : "Кремидівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Лиманський район",
+               "short_name" : "Лиманський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67540",
+               "short_name" : "67540",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Кремидівка, Одеська область, Україна, 67540",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.74463900000001,
+                  "lng" : 30.7958809
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.720003,
+                  "lng" : 30.776116
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.7391101,
+               "lng" : 30.7866668
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.74463900000001,
+                  "lng" : 30.7958809
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.720003,
+                  "lng" : 30.776116
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJoaS0lhEfxkARpjbVEB2LDRA",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

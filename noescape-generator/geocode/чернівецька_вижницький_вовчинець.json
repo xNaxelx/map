@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Вовчинець",
+               "short_name" : "Вовчинець",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вижницький район",
+               "short_name" : "Вижницький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "59232",
+               "short_name" : "59232",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Вовчинець, Чернівецька область, Україна, 59232",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.191766,
+                  "lng" : 25.4654471
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.145218,
+                  "lng" : 25.431097
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.1730901,
+               "lng" : 25.4434362
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.191766,
+                  "lng" : 25.4654471
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.145218,
+                  "lng" : 25.431097
+               }
+            }
+         },
+         "place_id" : "ChIJcbxTzqmhNkcRrPQUt6arvq0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

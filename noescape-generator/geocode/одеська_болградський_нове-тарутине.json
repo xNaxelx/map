@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Новодолинське",
+               "short_name" : "Новодолинське",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Тарутинський район",
+               "short_name" : "Тарутинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68512",
+               "short_name" : "68512",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Новодолинське, Одеська область, Україна, 68512",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.4751871,
+                  "lng" : 29.128488
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.46210989999999,
+                  "lng" : 29.1171701
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.4687406,
+               "lng" : 29.1231888
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.4751871,
+                  "lng" : 29.128488
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.46210989999999,
+                  "lng" : 29.1171701
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJl1BWvivKyUARrIivvH9Jw_o",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Болградський район",
+               "short_name" : "Болградський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Болградський район, Одеська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.00345919999999,
+                  "lng" : 29.0752861
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.466108,
+                  "lng" : 28.4806966
+               }
+            },
+            "location" : 
+            {
+               "lat" : 45.7290886,
+               "lng" : 28.7779353
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.00345919999999,
+                  "lng" : 29.0752861
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.466108,
+                  "lng" : 28.4806966
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ-YeN5wOlt0ARRFZgXOIII9Q",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

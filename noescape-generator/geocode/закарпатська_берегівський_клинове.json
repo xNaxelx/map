@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Берегівський район",
+               "short_name" : "Берегівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Берегівський район, Закарпатська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.404323,
+                  "lng" : 22.8778699
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.09168589999999,
+                  "lng" : 22.3078829
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.2351161,
+               "lng" : 22.5802865
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.404323,
+                  "lng" : 22.8778699
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.09168589999999,
+                  "lng" : 22.3078829
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJo1cLgXRaOEcRGDp5iGHSlfs",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Клинове",
+               "short_name" : "Клинове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Городоцький район",
+               "short_name" : "Городоцький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Хмельницька область",
+               "short_name" : "Хмельницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "32048",
+               "short_name" : "32048",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Клинове, Хмельницька область, Україна, 32048",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.203161,
+                  "lng" : 26.3958129
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.14399,
+                  "lng" : 26.339426
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.1718439,
+               "lng" : 26.3785662
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.203161,
+                  "lng" : 26.3958129
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.14399,
+                  "lng" : 26.339426
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJK3_h27WOMUcRzArh1Jx73EU",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

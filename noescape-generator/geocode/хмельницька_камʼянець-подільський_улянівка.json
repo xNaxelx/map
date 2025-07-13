@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Улянівка",
+               "short_name" : "Улянівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кам'янець-Подільський район",
+               "short_name" : "Кам'янець-Подільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Хмельницька область",
+               "short_name" : "Хмельницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "32340",
+               "short_name" : "32340",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Улянівка, Хмельницька область, Україна, 32340",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.759429,
+                  "lng" : 26.536048
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.744234,
+                  "lng" : 26.511688
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.7524212,
+               "lng" : 26.5236809
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.759429,
+                  "lng" : 26.536048
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.744234,
+                  "lng" : 26.511688
+               }
+            }
+         },
+         "place_id" : "ChIJfUH71M3IM0cRRtWCUjiDHaQ",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

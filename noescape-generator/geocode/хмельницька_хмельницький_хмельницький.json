@@ -1,0 +1,119 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Аеропорт \"Хмельницький\"",
+               "short_name" : "Аеропорт \"Хмельницький\"",
+               "types" : 
+               [
+                  "airport",
+                  "establishment",
+                  "point_of_interest"
+               ]
+            },
+            {
+               "long_name" : "Airport",
+               "short_name" : "Airport",
+               "types" : 
+               [
+                  "route"
+               ]
+            },
+            {
+               "long_name" : "Хмельницький",
+               "short_name" : "Хмельницький",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Хмельницький район",
+               "short_name" : "Хмельницький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Хмельницька область",
+               "short_name" : "Хмельницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "29000",
+               "short_name" : "29000",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Аеропорт \"Хмельницький\", Airport, Хмельницький, Хмельницька область, Україна, 29000",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 49.3600438,
+               "lng" : 26.9378278
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.36144623029151,
+                  "lng" : 26.9395075802915
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.35874826970851,
+                  "lng" : 26.9368096197085
+               }
+            }
+         },
+         "navigation_points" : 
+         [
+            {
+               "location" : 
+               {
+                  "latitude" : 49.3601355,
+                  "longitude" : 26.9383955
+               }
+            }
+         ],
+         "partial_match" : true,
+         "place_id" : "ChIJ5zE-iKgFMkcRaQNCVGardZY",
+         "plus_code" : 
+         {
+            "compound_code" : "9W6Q+24 Хмельницький, Хмельницька область, Україна",
+            "global_code" : "8GX89W6Q+24"
+         },
+         "types" : 
+         [
+            "airport",
+            "establishment",
+            "point_of_interest"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

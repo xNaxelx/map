@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Сокирниця",
+               "short_name" : "Сокирниця",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Хустський район",
+               "short_name" : "Хустський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Сокирниця, Закарпатська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.139423,
+                  "lng" : 23.4230233
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.108631,
+                  "lng" : 23.3718681
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.1204087,
+               "lng" : 23.3978165
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.139423,
+                  "lng" : 23.4230233
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.108631,
+                  "lng" : 23.3718681
+               }
+            }
+         },
+         "place_id" : "ChIJiZswuKCHN0cRCla-tEvco30",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

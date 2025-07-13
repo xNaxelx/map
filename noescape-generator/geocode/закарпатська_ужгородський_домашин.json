@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Ужгородський район",
+               "short_name" : "Ужгородський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Ужгородський район, Закарпатська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.7826304,
+                  "lng" : 22.6558761
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.3534499,
+                  "lng" : 22.1370556
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.529475,
+               "lng" : 22.3736162
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.7826304,
+                  "lng" : 22.6558761
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.3534499,
+                  "lng" : 22.1370556
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJeR_tQhMbOUcRHCBVLcdS2jg",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Домашин",
+               "short_name" : "Домашин",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Великоберезнянський район",
+               "short_name" : "Великоберезнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "89021",
+               "short_name" : "89021",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Домашин, Закарпатська область, Україна, 89021",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.976505,
+                  "lng" : 22.557603
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.96197300000001,
+                  "lng" : 22.5463969
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.9698183,
+               "lng" : 22.5514588
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.976505,
+                  "lng" : 22.557603
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.96197300000001,
+                  "lng" : 22.5463969
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJn9MsW6NnOUcRnI6yCOZbQ9c",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

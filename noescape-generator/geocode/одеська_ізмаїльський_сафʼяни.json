@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Саф'яни",
+               "short_name" : "Саф'яни",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ізмаїльський район",
+               "short_name" : "Ізмаїльський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68670",
+               "short_name" : "68670",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Саф'яни, Одеська область, Україна, 68670",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.4215241,
+                  "lng" : 28.89963089999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.378437,
+                  "lng" : 28.866708
+               }
+            },
+            "location" : 
+            {
+               "lat" : 45.4072076,
+               "lng" : 28.8752088
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.4215241,
+                  "lng" : 28.89963089999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.378437,
+                  "lng" : 28.866708
+               }
+            }
+         },
+         "place_id" : "ChIJKVk9FONvt0ARLOOJs5Z7pWE",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

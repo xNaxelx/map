@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Ріпки",
+               "short_name" : "Ріпки",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ріпкинський район",
+               "short_name" : "Ріпкинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернігівська область",
+               "short_name" : "Чернігівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "15000",
+               "short_name" : "15000",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Ріпки, Чернігівська область, Україна, 15000",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.83421999999999,
+                  "lng" : 31.13082709999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.764397,
+                  "lng" : 31.0679501
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.8051758,
+               "lng" : 31.0940875
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.83421999999999,
+                  "lng" : 31.13082709999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.764397,
+                  "lng" : 31.0679501
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJdzLm23Ua1UYRRxTRYWC9idg",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Чернігівський район",
+               "short_name" : "Чернігівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернігівська область",
+               "short_name" : "Чернігівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Чернігівський район, Чернігівська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.7051801,
+                  "lng" : 31.695354
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.172694,
+                  "lng" : 30.5400821
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.3773101,
+               "lng" : 30.9443955
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.7051801,
+                  "lng" : 31.695354
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.172694,
+                  "lng" : 30.5400821
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ8eGKCCNF1UYRQPHQFM2rvLs",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

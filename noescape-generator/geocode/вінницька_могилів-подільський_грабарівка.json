@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Грабарівка",
+               "short_name" : "Грабарівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Могилів-Подільський район",
+               "short_name" : "Могилів-Подільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "24015",
+               "short_name" : "24015",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Грабарівка, Вінницька область, Україна, 24015",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.553166,
+                  "lng" : 27.7455369
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.531962,
+                  "lng" : 27.7160021
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5438674,
+               "lng" : 27.7298987
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.553166,
+                  "lng" : 27.7455369
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.531962,
+                  "lng" : 27.7160021
+               }
+            }
+         },
+         "place_id" : "ChIJK2QJKtgmM0cRLoOA0fxQKJo",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

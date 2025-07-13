@@ -1,0 +1,90 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Романківці",
+               "short_name" : "Романківці",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сокирянський район",
+               "short_name" : "Сокирянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Романківці, Чернівецька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.500895,
+                  "lng" : 27.2379851
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.46530600000001,
+                  "lng" : 27.190733
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.4789732,
+               "lng" : 27.2121767
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.500895,
+                  "lng" : 27.2379851
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.46530600000001,
+                  "lng" : 27.190733
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJwX-9PiIOM0cRgVu0uqfUWCY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

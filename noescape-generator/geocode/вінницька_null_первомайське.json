@@ -1,0 +1,188 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Первомайське",
+               "short_name" : "Первомайське",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Іллінецький район",
+               "short_name" : "Іллінецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "22750",
+               "short_name" : "22750",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Первомайське, Вінницька область, Україна, 22750",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.032924,
+                  "lng" : 29.587344
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.0157021,
+                  "lng" : 29.5330372
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.0249172,
+               "lng" : 29.5696741
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.032924,
+                  "lng" : 29.587344
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.0157021,
+                  "lng" : 29.5330372
+               }
+            }
+         },
+         "place_id" : "ChIJK9-GtieO0kARLKmWPOR9G8M",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Постолове",
+               "short_name" : "Постолове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Калинівський район",
+               "short_name" : "Калинівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "22442",
+               "short_name" : "22442",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Постолове, Вінницька область, Україна, 22442",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.5804331,
+                  "lng" : 28.709809
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.573672,
+                  "lng" : 28.696716
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.575849,
+               "lng" : 28.7027334
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.5804331,
+                  "lng" : 28.709809
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.573672,
+                  "lng" : 28.696716
+               }
+            }
+         },
+         "place_id" : "ChIJEUWFHaMiLUcRduvDU5_0Lp0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

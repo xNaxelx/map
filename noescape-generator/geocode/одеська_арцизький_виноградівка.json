@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Виноградівка",
+               "short_name" : "Виноградівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Арцизький район",
+               "short_name" : "Арцизький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68452",
+               "short_name" : "68452",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Виноградівка, Одеська область, Україна, 68452",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.847134,
+                  "lng" : 29.396134
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.802616,
+                  "lng" : 29.363025
+               }
+            },
+            "location" : 
+            {
+               "lat" : 45.8281341,
+               "lng" : 29.3783965
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.847134,
+                  "lng" : 29.396134
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.802616,
+                  "lng" : 29.363025
+               }
+            }
+         },
+         "place_id" : "ChIJV_u8Nwzyt0ARpooJOk3EmH0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Мостиський район",
+               "short_name" : "Мостиський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Мостиський район, Львівська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.9287192,
+                  "lng" : 23.4615261
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.624187,
+                  "lng" : 22.8516603
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.7965969,
+               "lng" : 23.1501342
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.9287192,
+                  "lng" : 23.4615261
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.624187,
+                  "lng" : 22.8516603
+               }
+            }
+         },
+         "place_id" : "ChIJSSTldhNzO0cRCPGlLNlxiKg",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

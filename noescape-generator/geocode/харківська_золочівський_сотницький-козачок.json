@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Сотницький Козачок",
+               "short_name" : "Сотницький Козачок",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Золочівський район",
+               "short_name" : "Золочівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Харківська область",
+               "short_name" : "Харківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "62212",
+               "short_name" : "62212",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Сотницький Козачок, Харківська область, Україна, 62212",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.4385729,
+                  "lng" : 35.94286
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.427603,
+                  "lng" : 35.8865748
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.4321081,
+               "lng" : 35.9155769
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.4385729,
+                  "lng" : 35.94286
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.427603,
+                  "lng" : 35.8865748
+               }
+            }
+         },
+         "place_id" : "ChIJhwaaHawyJkERoK43tIyBbY4",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

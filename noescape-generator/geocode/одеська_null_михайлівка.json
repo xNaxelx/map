@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Михайлівка",
+               "short_name" : "Михайлівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Саратський район",
+               "short_name" : "Саратський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68252",
+               "short_name" : "68252",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Михайлівка, Одеська область, Україна, 68252",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.964733,
+                  "lng" : 29.713393
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.934554,
+                  "lng" : 29.685957
+               }
+            },
+            "location" : 
+            {
+               "lat" : 45.9504149,
+               "lng" : 29.698159
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.964733,
+                  "lng" : 29.713393
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.934554,
+                  "lng" : 29.685957
+               }
+            }
+         },
+         "place_id" : "ChIJ9fq43-b-t0ARYe5yFoCJiUQ",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

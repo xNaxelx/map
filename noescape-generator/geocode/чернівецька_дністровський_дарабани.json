@@ -1,0 +1,63 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.3797309,
+                  "lng" : 40.2278191
+               },
+               "southwest" : 
+               {
+                  "lat" : 44.2924,
+                  "lng" : 22.1370556
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.379433,
+               "lng" : 31.16558
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.3797309,
+                  "lng" : 40.2278191
+               },
+               "southwest" : 
+               {
+                  "lat" : 44.2924,
+                  "lng" : 22.1370556
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJjw5wVMHZ0UAREED2iIQGAQA",
+         "types" : 
+         [
+            "country",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

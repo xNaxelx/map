@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Рівне",
+               "short_name" : "Рівне",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Любомльський район",
+               "short_name" : "Любомльський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "44332",
+               "short_name" : "44332",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Рівне, Волинська область, Україна, 44332",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.250303,
+                  "lng" : 23.828157
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.2201151,
+                  "lng" : 23.780237
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.23715499999999,
+               "lng" : 23.8057846
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.250303,
+                  "lng" : 23.828157
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.2201151,
+                  "lng" : 23.780237
+               }
+            }
+         },
+         "place_id" : "ChIJ-XQVQoGLI0cRIdqiptKvST0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

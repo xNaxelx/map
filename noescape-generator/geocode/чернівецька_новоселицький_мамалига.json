@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Мамалига",
+               "short_name" : "Мамалига",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Новоселицький район",
+               "short_name" : "Новоселицький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60364",
+               "short_name" : "60364",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Мамалига, Чернівецька область, Україна, 60364",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.27032,
+                  "lng" : 26.6032231
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.240856,
+                  "lng" : 26.5717639
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.2533474,
+               "lng" : 26.5841501
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.27032,
+                  "lng" : 26.6032231
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.240856,
+                  "lng" : 26.5717639
+               }
+            }
+         },
+         "place_id" : "ChIJCdSftz-BM0cRic0_9RxQIew",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

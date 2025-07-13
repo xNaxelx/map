@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Косівська Поляна",
+               "short_name" : "Косівська Поляна",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рахівський район",
+               "short_name" : "Рахівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90621",
+               "short_name" : "90621",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Косівська Поляна, Закарпатська область, Україна, 90621",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.155431,
+                  "lng" : 24.1779069
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.979057,
+                  "lng" : 24.0851639
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.0084202,
+               "lng" : 24.1135333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.155431,
+                  "lng" : 24.1779069
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.979057,
+                  "lng" : 24.0851639
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJc5mMtUGoN0cRtsHd8CU0iJ0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Берегівський район",
+               "short_name" : "Берегівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Берегівський район, Закарпатська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.404323,
+                  "lng" : 22.8778699
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.09168589999999,
+                  "lng" : 22.3078829
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.2351161,
+               "lng" : 22.5802865
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.404323,
+                  "lng" : 22.8778699
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.09168589999999,
+                  "lng" : 22.3078829
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJo1cLgXRaOEcRGDp5iGHSlfs",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

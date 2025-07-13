@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Шевченкове",
+               "short_name" : "Шевченкове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кілійський район",
+               "short_name" : "Кілійський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68332",
+               "short_name" : "68332",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Шевченкове, Одеська область, Україна, 68332",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.57416,
+                  "lng" : 29.3517159
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.536381,
+                  "lng" : 29.315178
+               }
+            },
+            "location" : 
+            {
+               "lat" : 45.54900010000001,
+               "lng" : 29.3337006
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.57416,
+                  "lng" : 29.3517159
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.536381,
+                  "lng" : 29.315178
+               }
+            }
+         },
+         "place_id" : "ChIJfduIwNwpuEARVhxQwZvdCFc",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

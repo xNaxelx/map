@@ -1,0 +1,188 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Дольськ",
+               "short_name" : "Дольськ",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Любешівський район",
+               "short_name" : "Любешівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "44232",
+               "short_name" : "44232",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Дольськ, Волинська область, Україна, 44232",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.90282089999999,
+                  "lng" : 25.5333609
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.8835299,
+                  "lng" : 25.5012579
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.8936822,
+               "lng" : 25.5154056
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.90282089999999,
+                  "lng" : 25.5333609
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.8835299,
+                  "lng" : 25.5012579
+               }
+            }
+         },
+         "place_id" : "ChIJnTHb94v8JkcR71W1PzA9cao",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Дольськ",
+               "short_name" : "Дольськ",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Турійський район",
+               "short_name" : "Турійський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "44814",
+               "short_name" : "44814",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Дольськ, Волинська область, Україна, 44814",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.12069,
+                  "lng" : 24.3978721
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.097473,
+                  "lng" : 24.356466
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.1048176,
+               "lng" : 24.3799132
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.12069,
+                  "lng" : 24.3978721
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.097473,
+                  "lng" : 24.356466
+               }
+            }
+         },
+         "place_id" : "ChIJ-9gJx49qJEcR4Gd53jOnu4Q",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

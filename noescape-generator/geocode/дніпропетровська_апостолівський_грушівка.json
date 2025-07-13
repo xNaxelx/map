@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Грушівка",
+               "short_name" : "Грушівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Апостолівський район",
+               "short_name" : "Апостолівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Дніпропетровська область",
+               "short_name" : "Дніпропетровська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "53850",
+               "short_name" : "53850",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Грушівка, Дніпропетровська область, Україна, 53850",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.6084071,
+                  "lng" : 34.0482039
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.56873,
+                  "lng" : 33.977028
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.5864603,
+               "lng" : 34.0168312
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.6084071,
+                  "lng" : 34.0482039
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.56873,
+                  "lng" : 33.977028
+               }
+            }
+         },
+         "place_id" : "ChIJR3MqmKVQ20ARPt4a0Htt75Q",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

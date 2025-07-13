@@ -1,0 +1,98 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Данківці",
+               "short_name" : "Данківці",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Хотинський район",
+               "short_name" : "Хотинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60041",
+               "short_name" : "60041",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Данківці, Чернівецька область, Україна, 60041",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.434028,
+                  "lng" : 26.524093
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.413781,
+                  "lng" : 26.4971401
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.4252048,
+               "lng" : 26.5119739
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.434028,
+                  "lng" : 26.524093
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.413781,
+                  "lng" : 26.4971401
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ_9cEXqeRM0cR8CWgqsf5EtU",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

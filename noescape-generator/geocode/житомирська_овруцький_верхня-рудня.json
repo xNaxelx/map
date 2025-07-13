@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Верхня Рудня",
+               "short_name" : "Верхня Рудня",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Овруцький район",
+               "short_name" : "Овруцький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Житомирська область",
+               "short_name" : "Житомирська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "11100",
+               "short_name" : "11100",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Верхня Рудня, Житомирська область, Україна, 11100",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.5692411,
+                  "lng" : 28.5342449
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.55694399999999,
+                  "lng" : 28.5137389
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.5635691,
+               "lng" : 28.5262211
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.5692411,
+                  "lng" : 28.5342449
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.55694399999999,
+                  "lng" : 28.5137389
+               }
+            }
+         },
+         "place_id" : "ChIJTVmg7h6VKUcR6s5Luy6T5fQ",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

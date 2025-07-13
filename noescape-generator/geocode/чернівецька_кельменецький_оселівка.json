@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Оселівка",
+               "short_name" : "Оселівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кельменецький район",
+               "short_name" : "Кельменецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60124",
+               "short_name" : "60124",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Оселівка, Чернівецька область, Україна, 60124",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.4514599,
+                  "lng" : 26.6329111
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.4257619,
+                  "lng" : 26.603838
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.43861649999999,
+               "lng" : 26.61464
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.4514599,
+                  "lng" : 26.6329111
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.4257619,
+                  "lng" : 26.603838
+               }
+            }
+         },
+         "place_id" : "ChIJEVTtm6qQM0cRpq5V_soVuRg",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

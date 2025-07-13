@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Єлизаветівка",
+               "short_name" : "Єлизаветівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Роздільнянський район",
+               "short_name" : "Роздільнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67471",
+               "short_name" : "67471",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Єлизаветівка, Одеська область, Україна, 67471",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.70457409999999,
+                  "lng" : 30.5083171
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.6914069,
+                  "lng" : 30.490229
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.6972312,
+               "lng" : 30.5009881
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.70457409999999,
+                  "lng" : 30.5083171
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.6914069,
+                  "lng" : 30.490229
+               }
+            }
+         },
+         "place_id" : "ChIJReZs4fubyEAReIS_gyeO-vI",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

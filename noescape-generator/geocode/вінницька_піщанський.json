@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "річка Хрустова",
+               "short_name" : "річка Хрустова",
+               "types" : 
+               [
+                  "establishment",
+                  "natural_feature"
+               ]
+            },
+            {
+               "long_name" : "Піщанський район",
+               "short_name" : "Піщанський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "річка Хрустова, Вінницька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.1981039,
+                  "lng" : 28.9021273
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.1841701,
+                  "lng" : 28.8445061
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.19113698820256,
+               "lng" : 28.87331670684629
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.1981039,
+                  "lng" : 28.9021273
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.1841701,
+                  "lng" : 28.8445061
+               }
+            }
+         },
+         "place_id" : "ChIJv0rFFsr4zEARt-gqrxboS14",
+         "types" : 
+         [
+            "establishment",
+            "natural_feature"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Бердичівський район",
+               "short_name" : "Бердичівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Житомирська область",
+               "short_name" : "Житомирська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Бердичівський район, Житомирська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.062158,
+                  "lng" : 28.8682371
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.774074,
+                  "lng" : 28.247563
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.9825206,
+               "lng" : 28.6132661
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.062158,
+                  "lng" : 28.8682371
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.774074,
+                  "lng" : 28.247563
+               }
+            }
+         },
+         "place_id" : "ChIJoaazxq_5LEcRjurOkAVR6ak",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

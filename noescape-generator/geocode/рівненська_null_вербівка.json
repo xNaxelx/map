@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Вербівка",
+               "short_name" : "Вербівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Дубровицький район",
+               "short_name" : "Дубровицький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "34112",
+               "short_name" : "34112",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Вербівка, Рівненська область, Україна, 34112",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.7727661,
+                  "lng" : 26.57283
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.75619,
+                  "lng" : 26.5339658
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.7627619,
+               "lng" : 26.556218
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.7727661,
+                  "lng" : 26.57283
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.75619,
+                  "lng" : 26.5339658
+               }
+            }
+         },
+         "place_id" : "ChIJT0s2Z_PSJ0cRAjb0K-D87pI",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

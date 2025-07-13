@@ -1,0 +1,98 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Добромиль",
+               "short_name" : "Добромиль",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Старосамбірський район",
+               "short_name" : "Старосамбірський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "82043",
+               "short_name" : "82043",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Добромиль, Львівська область, Україна, 82043",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.586128,
+                  "lng" : 22.8220471
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.55504999999999,
+                  "lng" : 22.7568101
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.57389999999999,
+               "lng" : 22.7860759
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.586128,
+                  "lng" : 22.8220471
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.55504999999999,
+                  "lng" : 22.7568101
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJE85oQaOaO0cR_9kJKM7TdcQ",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

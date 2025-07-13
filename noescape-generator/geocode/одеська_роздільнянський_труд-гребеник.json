@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Труд-Гребеник",
+               "short_name" : "Труд-Гребеник",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Роздільнянський район",
+               "short_name" : "Роздільнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67411",
+               "short_name" : "67411",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Труд-Гребеник, Одеська область, Україна, 67411",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.915995,
+                  "lng" : 29.898571
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.90671,
+                  "lng" : 29.890268
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.9098159,
+               "lng" : 29.8947604
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.915995,
+                  "lng" : 29.898571
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.90671,
+                  "lng" : 29.890268
+               }
+            }
+         },
+         "place_id" : "ChIJyb6TejLhyEARSm0HiZyN4Os",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

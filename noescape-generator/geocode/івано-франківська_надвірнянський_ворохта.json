@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Надворнянський район",
+               "short_name" : "Надворнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Івано-Франківська область",
+               "short_name" : "Івано-Франківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Надворнянський район, Івано-Франківська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.812133,
+                  "lng" : 24.8485221
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.349735,
+                  "lng" : 24.116384
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.56301999999999,
+               "lng" : 24.4803568
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.812133,
+                  "lng" : 24.8485221
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.349735,
+                  "lng" : 24.116384
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJg2R3dg0xN0cRrLLImbZwRIk",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Ворохта",
+               "short_name" : "Ворохта",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Яремчанська міськрада",
+               "short_name" : "Яремчанська міськрада",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Івано-Франківська область",
+               "short_name" : "Івано-Франківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "78595",
+               "short_name" : "78595",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Ворохта, Івано-Франківська область, Україна, 78595",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.307457,
+                  "lng" : 24.630696
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.175565,
+                  "lng" : 24.5326531
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.2834458,
+               "lng" : 24.5670568
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.307457,
+                  "lng" : 24.630696
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.175565,
+                  "lng" : 24.5326531
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJQXhJQyriNkcRttfa0RSGiAg",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

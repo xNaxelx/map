@@ -1,0 +1,84 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Слобідка",
+               "short_name" : "Слобідка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Подільський район",
+               "short_name" : "Подільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66332",
+               "short_name" : "66332",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Слобідка, Одеська область, Україна, 66332",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.716389,
+               "lng" : 29.344167
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.7177379802915,
+                  "lng" : 29.3455159802915
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.7150400197085,
+                  "lng" : 29.3428180197085
+               }
+            }
+         },
+         "place_id" : "ChIJNWib6t4bzEARWOMmt5YiXBw",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

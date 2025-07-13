@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Голованівський район",
+               "short_name" : "Голованівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кіровоградська область",
+               "short_name" : "Кіровоградська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Голованівський район, Кіровоградська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.58340800000001,
+                  "lng" : 30.763505
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.154384,
+                  "lng" : 30.2962199
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.3823905,
+               "lng" : 30.5256849
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.58340800000001,
+                  "lng" : 30.763505
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.154384,
+                  "lng" : 30.2962199
+               }
+            }
+         },
+         "place_id" : "ChIJBw3lGhAFzkARygb6ngEwDeg",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

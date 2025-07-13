@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Сокальський район",
+               "short_name" : "Сокальський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Сокальський район, Львівська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.6488831,
+                  "lng" : 24.598796
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.180981,
+                  "lng" : 23.6732849
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.3793483,
+               "lng" : 24.0813217
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.6488831,
+                  "lng" : 24.598796
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.180981,
+                  "lng" : 23.6732849
+               }
+            }
+         },
+         "place_id" : "ChIJheC65nbcJEcRqPU39yeg2fc",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

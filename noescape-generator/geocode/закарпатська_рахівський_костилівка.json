@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Костилівка",
+               "short_name" : "Костилівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рахівський район",
+               "short_name" : "Рахівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90623",
+               "short_name" : "90623",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Костилівка, Закарпатська область, Україна, 90623",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.998774,
+                  "lng" : 24.210268
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.986752,
+                  "lng" : 24.197243
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.9929685,
+               "lng" : 24.20048
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.998774,
+                  "lng" : 24.210268
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.986752,
+                  "lng" : 24.197243
+               }
+            }
+         },
+         "place_id" : "ChIJB7PnkImrN0cRIuiShDrb_kQ",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

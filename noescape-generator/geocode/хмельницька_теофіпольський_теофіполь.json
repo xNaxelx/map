@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Теофіполь",
+               "short_name" : "Теофіполь",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Теофіпольський район",
+               "short_name" : "Теофіпольський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Хмельницька область",
+               "short_name" : "Хмельницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "30601",
+               "short_name" : "30601",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Теофіполь, Хмельницька область, Україна, 30601",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.8529179,
+                  "lng" : 26.4293651
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.830817,
+                  "lng" : 26.3946049
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.8399541,
+               "lng" : 26.4170991
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.8529179,
+                  "lng" : 26.4293651
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.830817,
+                  "lng" : 26.3946049
+               }
+            }
+         },
+         "place_id" : "ChIJj9x4t6s7LkcRMmFbCamrdEQ",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

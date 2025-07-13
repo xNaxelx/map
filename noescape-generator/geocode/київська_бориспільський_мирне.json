@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Мирне",
+               "short_name" : "Мирне",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Бориспільський район",
+               "short_name" : "Бориспільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Київська область",
+               "short_name" : "Київська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "08361",
+               "short_name" : "08361",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Мирне, Київська область, Україна, 08361",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.1882959,
+                  "lng" : 31.191402
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.1693521,
+                  "lng" : 31.155525
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.1801694,
+               "lng" : 31.1729983
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.1882959,
+                  "lng" : 31.191402
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.1693521,
+                  "lng" : 31.155525
+               }
+            }
+         },
+         "place_id" : "ChIJs7hQFLf11EARHCrvnhDnwk8",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

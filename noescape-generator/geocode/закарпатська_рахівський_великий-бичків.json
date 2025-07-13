@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Великий Бичків",
+               "short_name" : "Великий Бичків",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рахівський район",
+               "short_name" : "Рахівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90615",
+               "short_name" : "90615",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Великий Бичків, Закарпатська область, Україна, 90615",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.999036,
+                  "lng" : 24.0316221
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.9550439,
+                  "lng" : 23.9733021
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.9739665,
+               "lng" : 24.0086251
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.999036,
+                  "lng" : 24.0316221
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.9550439,
+                  "lng" : 23.9733021
+               }
+            }
+         },
+         "place_id" : "ChIJv2Q3ZGalN0cRQq48pLoXnhE",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

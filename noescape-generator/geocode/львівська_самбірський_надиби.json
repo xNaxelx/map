@@ -1,0 +1,112 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "станція Надиби",
+               "short_name" : "станція Надиби",
+               "types" : 
+               [
+                  "establishment",
+                  "point_of_interest",
+                  "train_station",
+                  "transit_station"
+               ]
+            },
+            {
+               "long_name" : "Язи",
+               "short_name" : "Язи",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Самбірський район",
+               "short_name" : "Самбірський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "81465",
+               "short_name" : "81465",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "станція Надиби, Язи, Львівська область, Україна, 81465",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 49.542705,
+               "lng" : 23.086054
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.5439297802915,
+                  "lng" : 23.0874845302915
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.54123181970851,
+                  "lng" : 23.0847865697085
+               }
+            }
+         },
+         "navigation_points" : 
+         [
+            {
+               "location" : 
+               {
+                  "latitude" : 49.5425146,
+                  "longitude" : 23.086179
+               }
+            }
+         ],
+         "place_id" : "ChIJnauUsQ-jO0cRvn6PXyO0yXw",
+         "plus_code" : 
+         {
+            "compound_code" : "G3VP+3C Язи, Львівська область, Україна",
+            "global_code" : "8GX5G3VP+3C"
+         },
+         "types" : 
+         [
+            "establishment",
+            "point_of_interest",
+            "train_station",
+            "transit_station"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

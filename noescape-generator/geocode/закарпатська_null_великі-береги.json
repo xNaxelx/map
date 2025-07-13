@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Великі Береги",
+               "short_name" : "Великі Береги",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Берегівський район",
+               "short_name" : "Берегівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90242",
+               "short_name" : "90242",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Великі Береги, Закарпатська область, Україна, 90242",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.238599,
+                  "lng" : 22.767298
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.224309,
+                  "lng" : 22.733496
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.22901179999999,
+               "lng" : 22.7485725
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.238599,
+                  "lng" : 22.767298
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.224309,
+                  "lng" : 22.733496
+               }
+            }
+         },
+         "place_id" : "ChIJt5tCDHlPOEcRRLvOW-GdoBI",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

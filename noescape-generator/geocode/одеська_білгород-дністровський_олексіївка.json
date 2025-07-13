@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Олексіївка",
+               "short_name" : "Олексіївка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Білгород-Дністровський район",
+               "short_name" : "Білгород-Дністровський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67761",
+               "short_name" : "67761",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Олексіївка, Одеська область, Україна, 67761",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.130236,
+                  "lng" : 30.0749289
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.1122131,
+                  "lng" : 30.0552669
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.1211793,
+               "lng" : 30.0622225
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.130236,
+                  "lng" : 30.0749289
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.1122131,
+                  "lng" : 30.0552669
+               }
+            }
+         },
+         "place_id" : "ChIJD3g7hKXjx0ARHtPOGCSGPrI",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

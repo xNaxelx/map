@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Кам'янський район",
+               "short_name" : "Кам'янський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Черкаська область",
+               "short_name" : "Черкаська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Кам'янський район, Черкаська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.22373,
+                  "lng" : 32.283496
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.879997,
+                  "lng" : 31.7828241
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.0573598,
+               "lng" : 32.1195832
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.22373,
+                  "lng" : 32.283496
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.879997,
+                  "lng" : 31.7828241
+               }
+            }
+         },
+         "place_id" : "ChIJPaArZlgX0UARREv8xaAim-c",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

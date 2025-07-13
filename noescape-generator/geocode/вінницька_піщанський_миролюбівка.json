@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Миролюбівка",
+               "short_name" : "Миролюбівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Піщанський район",
+               "short_name" : "Піщанський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "24720",
+               "short_name" : "24720",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Миролюбівка, Вінницька область, Україна, 24720",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.272452,
+                  "lng" : 28.8544111
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.2447021,
+                  "lng" : 28.82265
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.2561884,
+               "lng" : 28.8420901
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.272452,
+                  "lng" : 28.8544111
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.2447021,
+                  "lng" : 28.82265
+               }
+            }
+         },
+         "place_id" : "ChIJvx326df9zEARLOr_S2aKjsM",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

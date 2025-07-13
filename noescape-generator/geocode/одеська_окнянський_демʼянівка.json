@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Дем'янівка",
+               "short_name" : "Дем'янівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Окнянський район",
+               "short_name" : "Окнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67940",
+               "short_name" : "67940",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Дем'янівка, Одеська область, Україна, 67940",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.5808641,
+                  "lng" : 29.566274
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.57148000000001,
+                  "lng" : 29.559573
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.576387,
+               "lng" : 29.5619732
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.5808641,
+                  "lng" : 29.566274
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.57148000000001,
+                  "lng" : 29.559573
+               }
+            }
+         },
+         "place_id" : "ChIJZ3-6EomlzkARRoOnOwQi2H4",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

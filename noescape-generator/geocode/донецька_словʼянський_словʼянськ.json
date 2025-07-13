@@ -1,0 +1,98 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Слов'янськ",
+               "short_name" : "Слов'янськ",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Слов'янська міськрада",
+               "short_name" : "Слов'янська міськрада",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Слов'янський район",
+               "short_name" : "Слов'янський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Донецька область",
+               "short_name" : "Донецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Слов'янськ, Донецька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.8963239,
+                  "lng" : 37.7196693
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.8116399,
+                  "lng" : 37.5092125
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.8532,
+               "lng" : 37.6053
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.8963239,
+                  "lng" : 37.7196693
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.8116399,
+                  "lng" : 37.5092125
+               }
+            }
+         },
+         "place_id" : "ChIJzfwgVc2a30ARYnfShIcrj98",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

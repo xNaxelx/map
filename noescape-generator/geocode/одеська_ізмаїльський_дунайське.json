@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Дунайське",
+               "short_name" : "Дунайське",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ізмаїльський район",
+               "short_name" : "Ізмаїльський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68681",
+               "short_name" : "68681",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Дунайське, Одеська область, Україна, 68681",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.30727,
+                  "lng" : 28.928475
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.30137209999999,
+                  "lng" : 28.919205
+               }
+            },
+            "location" : 
+            {
+               "lat" : 45.3034318,
+               "lng" : 28.9225096
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.30727,
+                  "lng" : 28.928475
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.30137209999999,
+                  "lng" : 28.919205
+               }
+            }
+         },
+         "place_id" : "ChIJ1yyJ9Utht0ARWEjD5r3m-eg",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

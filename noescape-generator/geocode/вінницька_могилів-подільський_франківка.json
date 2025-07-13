@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Франківка",
+               "short_name" : "Франківка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ямпільський район",
+               "short_name" : "Ямпільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "24500",
+               "short_name" : "24500",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Франківка, Вінницька область, Україна, 24500",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.257042,
+                  "lng" : 28.37317
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.249335,
+                  "lng" : 28.3610809
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.25312230000001,
+               "lng" : 28.3689975
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.257042,
+                  "lng" : 28.37317
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.249335,
+                  "lng" : 28.3610809
+               }
+            }
+         },
+         "place_id" : "ChIJU_C040ndzEAReHMLymy7dpk",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

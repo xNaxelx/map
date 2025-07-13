@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Римарівка",
+               "short_name" : "Римарівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Окнянський район",
+               "short_name" : "Окнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67952",
+               "short_name" : "67952",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Римарівка, Одеська область, Україна, 67952",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.3526501,
+                  "lng" : 29.4392461
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.33459999999999,
+                  "lng" : 29.406053
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.3407754,
+               "lng" : 29.4210177
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.3526501,
+                  "lng" : 29.4392461
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.33459999999999,
+                  "lng" : 29.406053
+               }
+            }
+         },
+         "place_id" : "ChIJrbVPGxJOyUAR9ipzDPd-1KM",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

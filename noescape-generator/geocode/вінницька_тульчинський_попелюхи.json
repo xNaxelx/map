@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Попелюхи",
+               "short_name" : "Попелюхи",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Піщанський район",
+               "short_name" : "Піщанський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "24733",
+               "short_name" : "24733",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Попелюхи, Вінницька область, Україна, 24733",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.226475,
+                  "lng" : 28.9863561
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.209051,
+                  "lng" : 28.955347
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.21650409999999,
+               "lng" : 28.971929
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.226475,
+                  "lng" : 28.9863561
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.209051,
+                  "lng" : 28.955347
+               }
+            }
+         },
+         "place_id" : "ChIJ93TPfXRVzEARts853rN7Skw",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

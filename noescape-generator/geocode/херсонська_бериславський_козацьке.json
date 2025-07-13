@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Козацьке",
+               "short_name" : "Козацьке",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Бериславський район",
+               "short_name" : "Бериславський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Херсонська область",
+               "short_name" : "Херсонська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "74343",
+               "short_name" : "74343",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Козацьке, Херсонська область, Україна, 74343",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.794329,
+                  "lng" : 33.3512749
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.7790869,
+                  "lng" : 33.311839
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.7870421,
+               "lng" : 33.3340572
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.794329,
+                  "lng" : 33.3512749
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.7790869,
+                  "lng" : 33.311839
+               }
+            }
+         },
+         "place_id" : "ChIJcwb9vpmFw0ARBAtovVNYlSM",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

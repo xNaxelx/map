@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Оноківці",
+               "short_name" : "Оноківці",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ужгородський район",
+               "short_name" : "Ужгородський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "89412",
+               "short_name" : "89412",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Оноківці, Закарпатська область, Україна, 89412",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.666218,
+                  "lng" : 22.3554359
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.642504,
+                  "lng" : 22.327192
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.6541216,
+               "lng" : 22.3433482
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.666218,
+                  "lng" : 22.3554359
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.642504,
+                  "lng" : 22.327192
+               }
+            }
+         },
+         "place_id" : "ChIJrXn7H2kXOUcRiHABZxYcd-o",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

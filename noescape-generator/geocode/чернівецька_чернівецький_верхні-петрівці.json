@@ -1,0 +1,98 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Верхні Петрівці",
+               "short_name" : "Верхні Петрівці",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сторожинецький район",
+               "short_name" : "Сторожинецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "59034",
+               "short_name" : "59034",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Верхні Петрівці, Чернівецька область, Україна, 59034",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.0993371,
+                  "lng" : 25.7544839
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.04186199999999,
+                  "lng" : 25.6727841
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.0607452,
+               "lng" : 25.703915
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.0993371,
+                  "lng" : 25.7544839
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.04186199999999,
+                  "lng" : 25.6727841
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ7Ys93_sXNEcRREiOui3KSqU",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

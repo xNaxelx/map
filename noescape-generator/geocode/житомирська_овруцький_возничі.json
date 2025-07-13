@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Возничі",
+               "short_name" : "Возничі",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Овруцький район",
+               "short_name" : "Овруцький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Житомирська область",
+               "short_name" : "Житомирська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "11100",
+               "short_name" : "11100",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Возничі, Житомирська область, Україна, 11100",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.54101199999999,
+                  "lng" : 28.3933671
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.503195,
+                  "lng" : 28.3294711
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.514544,
+               "lng" : 28.3814246
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.54101199999999,
+                  "lng" : 28.3933671
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.503195,
+                  "lng" : 28.3294711
+               }
+            }
+         },
+         "place_id" : "ChIJaZDkEMG9KUcRwq4lA6aVU-4",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

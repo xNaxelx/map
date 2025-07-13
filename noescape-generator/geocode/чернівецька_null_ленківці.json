@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Ленківці",
+               "short_name" : "Ленківці",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кельменецький район",
+               "short_name" : "Кельменецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60111",
+               "short_name" : "60111",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Ленківці, Чернівецька область, Україна, 60111",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.518263,
+                  "lng" : 26.780584
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.49265,
+                  "lng" : 26.736865
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5044563,
+               "lng" : 26.7598623
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.518263,
+                  "lng" : 26.780584
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.49265,
+                  "lng" : 26.736865
+               }
+            }
+         },
+         "place_id" : "ChIJ_23dXIeiM0cRhD4NRDDt4xs",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

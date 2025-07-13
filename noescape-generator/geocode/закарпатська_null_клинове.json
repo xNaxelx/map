@@ -1,0 +1,164 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Закарпатська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.09732289999999,
+                  "lng" : 24.627378
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.896506,
+                  "lng" : 22.1370556
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.6208,
+               "lng" : 22.287883
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.09732289999999,
+                  "lng" : 24.627378
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.896506,
+                  "lng" : 22.1370556
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJDQKKqwsTOUcRLtC2-ZaZ5Fk",
+         "types" : 
+         [
+            "administrative_area_level_1",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Клинове",
+               "short_name" : "Клинове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Городоцький район",
+               "short_name" : "Городоцький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Хмельницька область",
+               "short_name" : "Хмельницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "32048",
+               "short_name" : "32048",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Клинове, Хмельницька область, Україна, 32048",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.203161,
+                  "lng" : 26.3958129
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.14399,
+                  "lng" : 26.339426
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.1718439,
+               "lng" : 26.3785662
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.203161,
+                  "lng" : 26.3958129
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.14399,
+                  "lng" : 26.339426
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJK3_h27WOMUcRzArh1Jx73EU",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

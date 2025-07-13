@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Євгенівка",
+               "short_name" : "Євгенівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Снігурівський район",
+               "short_name" : "Снігурівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Миколаївська область",
+               "short_name" : "Миколаївська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "57311",
+               "short_name" : "57311",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Євгенівка, Миколаївська область, Україна, 57311",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.096144,
+                  "lng" : 32.913461
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.081285,
+                  "lng" : 32.88725
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.0873961,
+               "lng" : 32.8998212
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.096144,
+                  "lng" : 32.913461
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.081285,
+                  "lng" : 32.88725
+               }
+            }
+         },
+         "place_id" : "ChIJH-eH91P1xEARmiML3kdwZOc",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

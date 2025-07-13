@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Сватове",
+               "short_name" : "Сватове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сватівський район",
+               "short_name" : "Сватівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Луганська область",
+               "short_name" : "Луганська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Сватове, Луганська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.446149,
+                  "lng" : 38.2142849
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.372411,
+                  "lng" : 38.1098229
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.4154809,
+               "lng" : 38.1568889
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.446149,
+                  "lng" : 38.2142849
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.372411,
+                  "lng" : 38.1098229
+               }
+            }
+         },
+         "place_id" : "ChIJOUb8ZSb4IEERhBSAq2EPBZw",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

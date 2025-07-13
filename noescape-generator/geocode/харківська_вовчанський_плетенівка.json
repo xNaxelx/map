@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Плетенівка",
+               "short_name" : "Плетенівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вовчанський район",
+               "short_name" : "Вовчанський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Харківська область",
+               "short_name" : "Харківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "62503",
+               "short_name" : "62503",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Плетенівка, Харківська область, Україна, 62503",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.337334,
+                  "lng" : 36.935616
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.329744,
+                  "lng" : 36.9236942
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.33472159999999,
+               "lng" : 36.9296619
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.337334,
+                  "lng" : 36.935616
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.329744,
+                  "lng" : 36.9236942
+               }
+            }
+         },
+         "place_id" : "ChIJRWCOBpr2JkER9tPBBNsfTLY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Окнянський район",
+               "short_name" : "Окнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Окнянський район, Одеська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.692398,
+                  "lng" : 29.683165
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.2922157,
+                  "lng" : 29.1171336
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.51860490000001,
+               "lng" : 29.4502863
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.692398,
+                  "lng" : 29.683165
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.2922157,
+                  "lng" : 29.1171336
+               }
+            }
+         },
+         "place_id" : "ChIJ6QsSH52rzkARhBdnf_MElJs",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

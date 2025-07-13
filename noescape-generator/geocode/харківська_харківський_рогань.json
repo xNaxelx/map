@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Рогань",
+               "short_name" : "Рогань",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Харківський район",
+               "short_name" : "Харківський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Харківська область",
+               "short_name" : "Харківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Рогань, Харківська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.9176969,
+                  "lng" : 36.512168
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.889854,
+                  "lng" : 36.453586
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.902584,
+               "lng" : 36.4920771
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.9176969,
+                  "lng" : 36.512168
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.889854,
+                  "lng" : 36.453586
+               }
+            }
+         },
+         "place_id" : "ChIJWXWHOZANJ0ERTsAmWCjLhF8",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

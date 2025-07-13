@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Василівка",
+               "short_name" : "Василівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Василівський район",
+               "short_name" : "Василівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Запорізька область",
+               "short_name" : "Запорізька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "71600",
+               "short_name" : "71600",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Василівка, Запорізька область, Україна, 71600",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.468582,
+                  "lng" : 35.3229749
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.416954,
+                  "lng" : 35.230648
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.4414731,
+               "lng" : 35.2867265
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.468582,
+                  "lng" : 35.3229749
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.416954,
+                  "lng" : 35.230648
+               }
+            }
+         },
+         "place_id" : "ChIJXaHxAeQd3UARPnxU2SGgFAs",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

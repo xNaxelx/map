@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Степанівка",
+               "short_name" : "Степанівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сумський район",
+               "short_name" : "Сумський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сумська область",
+               "short_name" : "Сумська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "42304",
+               "short_name" : "42304",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Степанівка, Сумська область, Україна, 42304",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.96811899999999,
+                  "lng" : 34.690735
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.9243691,
+                  "lng" : 34.5864068
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.9400402,
+               "lng" : 34.6323712
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.96811899999999,
+                  "lng" : 34.690735
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.9243691,
+                  "lng" : 34.5864068
+               }
+            }
+         },
+         "place_id" : "ChIJn0CZZ2EGKUER2K_oRPZEdJM",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

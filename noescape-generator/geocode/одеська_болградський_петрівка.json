@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Петрівка",
+               "short_name" : "Петрівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Тарутинський район",
+               "short_name" : "Тарутинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68510",
+               "short_name" : "68510",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Петрівка, Одеська область, Україна, 68510",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.514621,
+                  "lng" : 29.1814361
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.49777,
+                  "lng" : 29.159682
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.5058166,
+               "lng" : 29.1689393
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.514621,
+                  "lng" : 29.1814361
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.49777,
+                  "lng" : 29.159682
+               }
+            }
+         },
+         "place_id" : "ChIJAfFOo_C1yUARa1EUxk8rVnY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

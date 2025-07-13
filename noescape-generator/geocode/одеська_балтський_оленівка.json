@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Оленівка",
+               "short_name" : "Оленівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Балтський район",
+               "short_name" : "Балтський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66143",
+               "short_name" : "66143",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Оленівка, Одеська область, Україна, 66143",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.9599169,
+                  "lng" : 29.529151
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.94744799999999,
+                  "lng" : 29.4740751
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.9528023,
+               "lng" : 29.5060066
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.9599169,
+                  "lng" : 29.529151
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.94744799999999,
+                  "lng" : 29.4740751
+               }
+            }
+         },
+         "place_id" : "ChIJxxcqLxkwzEARVm2u-uNre7s",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

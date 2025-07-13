@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Єлизаветівка",
+               "short_name" : "Єлизаветівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Мар'їнський район",
+               "short_name" : "Мар'їнський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Донецька область",
+               "short_name" : "Донецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "85651",
+               "short_name" : "85651",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Єлизаветівка, Донецька область, Україна, 85651",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.896913,
+                  "lng" : 37.31532
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.874803,
+                  "lng" : 37.2781259
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.8819621,
+               "lng" : 37.30798679999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.896913,
+                  "lng" : 37.31532
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.874803,
+                  "lng" : 37.2781259
+               }
+            }
+         },
+         "place_id" : "ChIJ5U6ycMmn4EARzOMYn3c2Vls",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

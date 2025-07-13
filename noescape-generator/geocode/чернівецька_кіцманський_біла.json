@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Біла",
+               "short_name" : "Біла",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кіцманський район",
+               "short_name" : "Кіцманський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "59346",
+               "short_name" : "59346",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Біла, Чернівецька область, Україна, 59346",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.323135,
+                  "lng" : 25.891505
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.3127679,
+                  "lng" : 25.8743661
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.3184034,
+               "lng" : 25.8820456
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.323135,
+                  "lng" : 25.891505
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.3127679,
+                  "lng" : 25.8743661
+               }
+            }
+         },
+         "place_id" : "ChIJpY2gWVQGNEcRRtqRKGpZQfc",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Велика Добронь",
+               "short_name" : "Велика Добронь",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ужгородський район",
+               "short_name" : "Ужгородський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Велика Добронь, Закарпатська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.4327031,
+                  "lng" : 22.4160576
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.405003,
+                  "lng" : 22.3712111
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.42421969999999,
+               "lng" : 22.3872519
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.4327031,
+                  "lng" : 22.4160576
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.405003,
+                  "lng" : 22.3712111
+               }
+            }
+         },
+         "place_id" : "ChIJwyHjrFP8OEcR1nie8JLdb1I",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

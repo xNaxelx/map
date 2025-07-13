@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Улянівка",
+               "short_name" : "Улянівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Богодухівський район",
+               "short_name" : "Богодухівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Харківська область",
+               "short_name" : "Харківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "62113",
+               "short_name" : "62113",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Улянівка, Харківська область, Україна, 62113",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.24152489999999,
+                  "lng" : 35.32173400000001
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.225736,
+                  "lng" : 35.306541
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.2323052,
+               "lng" : 35.3144906
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.24152489999999,
+                  "lng" : 35.32173400000001
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.225736,
+                  "lng" : 35.306541
+               }
+            }
+         },
+         "place_id" : "ChIJgZ4SAUHgJ0ERSvVw7UBSsQ0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Глибока",
+               "short_name" : "Глибока",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Глибоцький район",
+               "short_name" : "Глибоцький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Глибока, Чернівецька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.1058694,
+                  "lng" : 25.9608435
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.0638268,
+                  "lng" : 25.8925653
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.0931021,
+               "lng" : 25.9224603
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.1058694,
+                  "lng" : 25.9608435
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.0638268,
+                  "lng" : 25.8925653
+               }
+            }
+         },
+         "place_id" : "ChIJ6zagoZMUNEcR3kq5FirC9vk",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

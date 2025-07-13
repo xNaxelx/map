@@ -1,0 +1,188 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Серебрія",
+               "short_name" : "Серебрія",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Могилів-Подільський район",
+               "short_name" : "Могилів-Подільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "24026",
+               "short_name" : "24026",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Серебрія, Вінницька область, Україна, 24026",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.472882,
+                  "lng" : 27.7398702
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.447879,
+                  "lng" : 27.676616
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.4542565,
+               "lng" : 27.6951119
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.472882,
+                  "lng" : 27.7398702
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.447879,
+                  "lng" : 27.676616
+               }
+            }
+         },
+         "place_id" : "ChIJl4noOQIlM0cRVoNPsSiHuhs",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Серебрія",
+               "short_name" : "Серебрія",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Бершадський район",
+               "short_name" : "Бершадський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "24441",
+               "short_name" : "24441",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Серебрія, Вінницька область, Україна, 24441",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.574903,
+                  "lng" : 29.954474
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.5410789,
+                  "lng" : 29.920255
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.552299,
+               "lng" : 29.9286737
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.574903,
+                  "lng" : 29.954474
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.5410789,
+                  "lng" : 29.920255
+               }
+            }
+         },
+         "place_id" : "ChIJ-eHOnybzzUAR7tiCq9-2sbA",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

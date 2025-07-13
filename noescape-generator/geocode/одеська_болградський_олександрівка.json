@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Олександрівка",
+               "short_name" : "Олександрівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Болградський район",
+               "short_name" : "Болградський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68713",
+               "short_name" : "68713",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Олександрівка, Одеська область, Україна, 68713",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.903095,
+                  "lng" : 28.9678759
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.876046,
+                  "lng" : 28.933534
+               }
+            },
+            "location" : 
+            {
+               "lat" : 45.8902806,
+               "lng" : 28.9514631
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.903095,
+                  "lng" : 28.9678759
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.876046,
+                  "lng" : 28.933534
+               }
+            }
+         },
+         "place_id" : "ChIJYcDbE3i4t0ARZs6zShQ5v_A",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

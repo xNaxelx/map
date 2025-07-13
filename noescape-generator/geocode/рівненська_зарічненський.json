@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Зарічненський район",
+               "short_name" : "Зарічненський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Зарічненський район, Рівненська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.9500636,
+                  "lng" : 26.4699628
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.554402,
+                  "lng" : 25.5927387
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.80634509999999,
+               "lng" : 26.0265105
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.9500636,
+                  "lng" : 26.4699628
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.554402,
+                  "lng" : 25.5927387
+               }
+            }
+         },
+         "place_id" : "ChIJa1lOcq9OJkcRuFCkcLM6lKY",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

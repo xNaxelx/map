@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Путила",
+               "short_name" : "Путила",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Путильський район",
+               "short_name" : "Путильський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "59101",
+               "short_name" : "59101",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Путила, Чернівецька область, Україна, 59101",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.02138,
+                  "lng" : 25.1425261
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.969141,
+                  "lng" : 25.048464
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.9949749,
+               "lng" : 25.0974541
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.02138,
+                  "lng" : 25.1425261
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.969141,
+                  "lng" : 25.048464
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJCY0fi4CFNkcREEpmC6EepWQ",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Чернівецький район",
+               "short_name" : "Чернівецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Чернівецький район, Вінницька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.651179,
+                  "lng" : 28.351943
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.349162,
+                  "lng" : 27.949276
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5128518,
+               "lng" : 28.1819806
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.651179,
+                  "lng" : 28.351943
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.349162,
+                  "lng" : 27.949276
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJm3N_qPIqzUARGsFHrKFURfw",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

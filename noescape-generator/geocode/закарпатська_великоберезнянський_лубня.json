@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Лубня",
+               "short_name" : "Лубня",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Великоберезнянський район",
+               "short_name" : "Великоберезнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "89013",
+               "short_name" : "89013",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Лубня, Закарпатська область, Україна, 89013",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.0375929,
+                  "lng" : 22.729061
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.014317,
+                  "lng" : 22.7138921
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.0280171,
+               "lng" : 22.7197499
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.0375929,
+                  "lng" : 22.729061
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.014317,
+                  "lng" : 22.7138921
+               }
+            }
+         },
+         "place_id" : "ChIJc7bCW8pjOUcRgNgc_qHDMJQ",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Приморське",
+               "short_name" : "Приморське",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Татарбунарський район",
+               "short_name" : "Татарбунарський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68142",
+               "short_name" : "68142",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Приморське, Одеська область, Україна, 68142",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.706742,
+                  "lng" : 29.816124
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.679206,
+                  "lng" : 29.775673
+               }
+            },
+            "location" : 
+            {
+               "lat" : 45.6945017,
+               "lng" : 29.7945462
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.706742,
+                  "lng" : 29.816124
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.679206,
+                  "lng" : 29.775673
+               }
+            }
+         },
+         "place_id" : "ChIJE3s1OHUXuEAR8juZS2ADzdk",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

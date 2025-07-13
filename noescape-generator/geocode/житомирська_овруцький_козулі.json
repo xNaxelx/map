@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Козулі",
+               "short_name" : "Козулі",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Овруцький район",
+               "short_name" : "Овруцький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Житомирська область",
+               "short_name" : "Житомирська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "11100",
+               "short_name" : "11100",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Козулі, Житомирська область, Україна, 11100",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.468871,
+                  "lng" : 28.3791831
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.461071,
+                  "lng" : 28.3705171
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.4648252,
+               "lng" : 28.3749519
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.468871,
+                  "lng" : 28.3791831
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.461071,
+                  "lng" : 28.3705171
+               }
+            }
+         },
+         "place_id" : "ChIJd5xOwOuXKUcRnh4PmBeqpLY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

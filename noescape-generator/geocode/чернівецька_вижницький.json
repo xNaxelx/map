@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Вижницький район",
+               "short_name" : "Вижницький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Вижницький район, Чернівецька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.403335,
+                  "lng" : 25.558001
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.913639,
+                  "lng" : 25.133772
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.1929172,
+               "lng" : 25.3481463
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.403335,
+                  "lng" : 25.558001
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.913639,
+                  "lng" : 25.133772
+               }
+            }
+         },
+         "place_id" : "ChIJDf5fQnOiNkcRjjUhi2riRGY",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

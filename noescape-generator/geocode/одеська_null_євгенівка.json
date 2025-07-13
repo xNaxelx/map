@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Євгенівка",
+               "short_name" : "Євгенівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Тарутинський район",
+               "short_name" : "Тарутинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68515",
+               "short_name" : "68515",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Євгенівка, Одеська область, Україна, 68515",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.398498,
+                  "lng" : 29.2131151
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.3770641,
+                  "lng" : 29.191442
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.3868495,
+               "lng" : 29.20090609999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.398498,
+                  "lng" : 29.2131151
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.3770641,
+                  "lng" : 29.191442
+               }
+            }
+         },
+         "place_id" : "ChIJ3RQtS2gzyEARhqXBwshGT4o",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

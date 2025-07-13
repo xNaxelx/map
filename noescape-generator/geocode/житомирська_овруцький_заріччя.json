@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Заріччя",
+               "short_name" : "Заріччя",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Овруцький район",
+               "short_name" : "Овруцький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Житомирська область",
+               "short_name" : "Житомирська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "11106",
+               "short_name" : "11106",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Заріччя, Житомирська область, Україна, 11106",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.3107171,
+                  "lng" : 28.801317
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.298401,
+                  "lng" : 28.7436911
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.3037029,
+               "lng" : 28.7719706
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.3107171,
+                  "lng" : 28.801317
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.298401,
+                  "lng" : 28.7436911
+               }
+            }
+         },
+         "place_id" : "ChIJHcFrCYWHKUcRoLB279tavPo",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

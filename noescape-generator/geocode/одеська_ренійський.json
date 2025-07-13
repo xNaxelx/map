@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Ренійський район",
+               "short_name" : "Ренійський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Ренійський район, Одеська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.580025,
+                  "lng" : 28.745349
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.2430443,
+                  "lng" : 28.2139431
+               }
+            },
+            "location" : 
+            {
+               "lat" : 45.3850074,
+               "lng" : 28.5363782
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.580025,
+                  "lng" : 28.745349
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.2430443,
+                  "lng" : 28.2139431
+               }
+            }
+         },
+         "place_id" : "ChIJRxt8P5AWt0ARrP0ABivxPiE",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

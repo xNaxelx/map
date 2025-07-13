@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Глибочок",
+               "short_name" : "Глибочок",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Борщівський район",
+               "short_name" : "Борщівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Тернопільська область",
+               "short_name" : "Тернопільська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "48731",
+               "short_name" : "48731",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Глибочок, Тернопільська область, Україна, 48731",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.854104,
+                  "lng" : 25.9508489
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.80898999999999,
+                  "lng" : 25.8947281
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.8160325,
+               "lng" : 25.9293403
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.854104,
+                  "lng" : 25.9508489
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.80898999999999,
+                  "lng" : 25.8947281
+               }
+            }
+         },
+         "place_id" : "ChIJI0YuVnFlMUcRCHAvQZlwED4",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

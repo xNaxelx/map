@@ -1,0 +1,90 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Опришени",
+               "short_name" : "Опришени",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Глибоцький район",
+               "short_name" : "Глибоцький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Опришени, Чернівецька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.0689388,
+                  "lng" : 26.0481334
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.0375344,
+                  "lng" : 25.9999073
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.0505442,
+               "lng" : 26.0214424
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.0689388,
+                  "lng" : 26.0481334
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.0375344,
+                  "lng" : 25.9999073
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJt2WzmXVrNEcROlYRFBATQZc",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

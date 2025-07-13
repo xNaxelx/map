@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Костопільський район",
+               "short_name" : "Костопільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Костопільський район, Рівненська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.206055,
+                  "lng" : 26.779099
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.725975,
+                  "lng" : 25.938013
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.9231606,
+               "lng" : 26.3298469
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.206055,
+                  "lng" : 26.779099
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.725975,
+                  "lng" : 25.938013
+               }
+            }
+         },
+         "place_id" : "ChIJQ06-L9dNL0cREhpPRUYeQsE",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

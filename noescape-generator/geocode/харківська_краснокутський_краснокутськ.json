@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Краснокутськ",
+               "short_name" : "Краснокутськ",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Краснокутський район",
+               "short_name" : "Краснокутський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Харківська область",
+               "short_name" : "Харківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "62000",
+               "short_name" : "62000",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Краснокутськ, Харківська область, Україна, 62000",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.084946,
+                  "lng" : 35.198056
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.027007,
+                  "lng" : 35.097211
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.0620325,
+               "lng" : 35.15822259999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.084946,
+                  "lng" : 35.198056
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.027007,
+                  "lng" : 35.097211
+               }
+            }
+         },
+         "place_id" : "ChIJ7QhaHmv8J0ERBshzbP6pMVs",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Корчівці",
+               "short_name" : "Корчівці",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Глибоцький район",
+               "short_name" : "Глибоцький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Корчівці, Чернівецька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.0275045,
+                  "lng" : 25.796306
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.9945959,
+                  "lng" : 25.7481552
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.0105194,
+               "lng" : 25.7697257
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.0275045,
+                  "lng" : 25.796306
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.9945959,
+                  "lng" : 25.7481552
+               }
+            }
+         },
+         "place_id" : "ChIJ63biFNQ9NEcR_mdFM0v6WXU",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

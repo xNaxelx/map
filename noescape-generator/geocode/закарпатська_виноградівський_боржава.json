@@ -1,0 +1,112 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "вулиця Ватутіна",
+               "short_name" : "вулиця Ватутіна",
+               "types" : 
+               [
+                  "route"
+               ]
+            },
+            {
+               "long_name" : "Великі Ком'яти",
+               "short_name" : "Великі Ком'яти",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Виноградівський район",
+               "short_name" : "Виноградівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90312",
+               "short_name" : "90312",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "вулиця Ватутіна, Великі Ком'яти, Закарпатська область, Україна, 90312",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.2393394,
+               "lng" : 22.976253
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.2407092802915,
+                  "lng" : 22.9776113302915
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.23801131970851,
+                  "lng" : 22.9749133697085
+               }
+            }
+         },
+         "navigation_points" : 
+         [
+            {
+               "location" : 
+               {
+                  "latitude" : 48.2393301,
+                  "longitude" : 22.9762489
+               }
+            }
+         ],
+         "partial_match" : true,
+         "place_id" : "ChIJA61mqWs2OEcRx9SXCvGpetU",
+         "plus_code" : 
+         {
+            "compound_code" : "6XQG+PG Великі Ком'яти, Закарпатська область, Україна",
+            "global_code" : "8GW46XQG+PG"
+         },
+         "types" : 
+         [
+            "cafe",
+            "establishment",
+            "food",
+            "grocery_or_supermarket",
+            "point_of_interest",
+            "store"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

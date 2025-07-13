@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Трудове",
+               "short_name" : "Трудове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Піщанський район",
+               "short_name" : "Піщанський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "24703",
+               "short_name" : "24703",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Трудове, Вінницька область, Україна, 24703",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.198308,
+                  "lng" : 28.8143451
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.187707,
+                  "lng" : 28.7976059
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.1949538,
+               "lng" : 28.80358279999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.198308,
+                  "lng" : 28.8143451
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.187707,
+                  "lng" : 28.7976059
+               }
+            }
+         },
+         "place_id" : "ChIJtRDk3z_5zEARjlvK7MG1L9I",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Ананьїв",
+               "short_name" : "Ананьїв",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ананьївський район",
+               "short_name" : "Ананьївський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66409",
+               "short_name" : "66409",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Ананьїв, Одеська область, Україна, 66409",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.770839,
+                  "lng" : 30.099649
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.682308,
+                  "lng" : 29.908754
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.714758,
+               "lng" : 29.9913264
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.770839,
+                  "lng" : 30.099649
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.682308,
+                  "lng" : 29.908754
+               }
+            }
+         },
+         "place_id" : "ChIJv6Dszf6TzkAR6YuOMeizKHQ",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

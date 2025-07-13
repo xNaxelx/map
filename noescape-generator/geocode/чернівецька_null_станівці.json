@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Станівці",
+               "short_name" : "Станівці",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Глибоцький район",
+               "short_name" : "Глибоцький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60432",
+               "short_name" : "60432",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Станівці, Чернівецька область, Україна, 60432",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.09115,
+                  "lng" : 26.081077
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.054658,
+                  "lng" : 26.0488499
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.0727404,
+               "lng" : 26.0667328
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.09115,
+                  "lng" : 26.081077
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.054658,
+                  "lng" : 26.0488499
+               }
+            }
+         },
+         "place_id" : "ChIJ47rIdXBsNEcR8kEQt6phS1Q",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

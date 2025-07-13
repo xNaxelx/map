@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Костопіль",
+               "short_name" : "Костопіль",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Костопільський район",
+               "short_name" : "Костопільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Костопіль, Рівненська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.906551,
+                  "lng" : 26.4859772
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.8596021,
+                  "lng" : 26.4061546
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.8790699,
+               "lng" : 26.4423222
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.906551,
+                  "lng" : 26.4859772
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.8596021,
+                  "lng" : 26.4061546
+               }
+            }
+         },
+         "place_id" : "ChIJkQjHBFBIL0cRieuVTYLwV1U",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

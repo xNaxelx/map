@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Біличі",
+               "short_name" : "Біличі",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Старосамбірський район",
+               "short_name" : "Старосамбірський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "82070",
+               "short_name" : "82070",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Біличі, Львівська область, Україна, 82070",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.464484,
+                  "lng" : 22.9176261
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.44217800000001,
+                  "lng" : 22.836305
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.4536589,
+               "lng" : 22.8645297
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.464484,
+                  "lng" : 22.9176261
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.44217800000001,
+                  "lng" : 22.836305
+               }
+            }
+         },
+         "place_id" : "ChIJm48998SVO0cRdFewGUMuTqs",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

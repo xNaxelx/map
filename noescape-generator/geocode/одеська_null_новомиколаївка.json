@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Новомиколаївка",
+               "short_name" : "Новомиколаївка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Лиманський район",
+               "short_name" : "Лиманський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67511",
+               "short_name" : "67511",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Новомиколаївка, Одеська область, Україна, 67511",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.97305799999999,
+                  "lng" : 30.837089
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.956169,
+                  "lng" : 30.8121439
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.9645683,
+               "lng" : 30.8231308
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.97305799999999,
+                  "lng" : 30.837089
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.956169,
+                  "lng" : 30.8121439
+               }
+            }
+         },
+         "place_id" : "ChIJHfJU5AmsyEAR3tSSGXS8Zk0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

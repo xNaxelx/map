@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Первомайське",
+               "short_name" : "Первомайське",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Іллінецький район",
+               "short_name" : "Іллінецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "22750",
+               "short_name" : "22750",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Первомайське, Вінницька область, Україна, 22750",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.032924,
+                  "lng" : 29.587344
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.0157021,
+                  "lng" : 29.5330372
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.0249172,
+               "lng" : 29.5696741
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.032924,
+                  "lng" : 29.587344
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.0157021,
+                  "lng" : 29.5330372
+               }
+            }
+         },
+         "place_id" : "ChIJK9-GtieO0kARLKmWPOR9G8M",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

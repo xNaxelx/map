@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Трохимівка",
+               "short_name" : "Трохимівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Іванівський район",
+               "short_name" : "Іванівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Херсонська область",
+               "short_name" : "Херсонська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "75420",
+               "short_name" : "75420",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Трохимівка, Херсонська область, Україна, 75420",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.73344789999999,
+                  "lng" : 34.36892
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.71796,
+                  "lng" : 34.347303
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.72681499999999,
+               "lng" : 34.3563297
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.73344789999999,
+                  "lng" : 34.36892
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.71796,
+                  "lng" : 34.347303
+               }
+            }
+         },
+         "place_id" : "ChIJ-66ffEX8wkARZQUPvYsmcvQ",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Талалаївка",
+               "short_name" : "Талалаївка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Талалаївський район",
+               "short_name" : "Талалаївський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернігівська область",
+               "short_name" : "Чернігівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "17200",
+               "short_name" : "17200",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Талалаївка, Чернігівська область, Україна, 17200",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.859578,
+                  "lng" : 33.1639911
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.8145951,
+                  "lng" : 33.1175341
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.8424855,
+               "lng" : 33.1399988
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.859578,
+                  "lng" : 33.1639911
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.8145951,
+                  "lng" : 33.1175341
+               }
+            }
+         },
+         "place_id" : "ChIJl7FIXQIbKkERGCcyeD_RsRo",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

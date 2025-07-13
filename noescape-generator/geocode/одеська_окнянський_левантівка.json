@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Левантівка",
+               "short_name" : "Левантівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Окнянський район",
+               "short_name" : "Окнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67943",
+               "short_name" : "67943",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Левантівка, Одеська область, Україна, 67943",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.4716359,
+                  "lng" : 29.523304
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.46136509999999,
+                  "lng" : 29.5050111
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.4681276,
+               "lng" : 29.5128997
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.4716359,
+                  "lng" : 29.523304
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.46136509999999,
+                  "lng" : 29.5050111
+               }
+            }
+         },
+         "place_id" : "ChIJ2Wph6JqtzkARyvIPvvo7u3I",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

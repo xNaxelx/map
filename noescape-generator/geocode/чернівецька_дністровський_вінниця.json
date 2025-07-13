@@ -1,0 +1,98 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Вінниця",
+               "short_name" : "Вінниця",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Vinnyts'ka city council",
+               "short_name" : "Vinnyts'ka city council",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "21000",
+               "short_name" : "21000",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Вінниця, Вінницька область, Україна, 21000",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.27902,
+                  "lng" : 28.5710879
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.190448,
+                  "lng" : 28.3681799
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.233083,
+               "lng" : 28.468217
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.27902,
+                  "lng" : 28.5710879
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.190448,
+                  "lng" : 28.3681799
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJiWRaGWVbLUcR_nTd7lnh1Ms",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Саврань",
+               "short_name" : "Саврань",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Савранський район",
+               "short_name" : "Савранський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66201",
+               "short_name" : "66201",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Саврань, Одеська область, Україна, 66201",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.14628399999999,
+                  "lng" : 30.1307591
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.113353,
+                  "lng" : 30.027901
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.1351158,
+               "lng" : 30.077048
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.14628399999999,
+                  "lng" : 30.1307591
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.113353,
+                  "lng" : 30.027901
+               }
+            }
+         },
+         "place_id" : "ChIJW1-q4HF3zkARdGMBb_W-LZA",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

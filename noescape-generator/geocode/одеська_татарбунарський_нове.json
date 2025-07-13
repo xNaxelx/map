@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Нове",
+               "short_name" : "Нове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Татарбунарський район",
+               "short_name" : "Татарбунарський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68152",
+               "short_name" : "68152",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Нове, Одеська область, Україна, 68152",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.912221,
+                  "lng" : 29.88298409999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.892784,
+                  "lng" : 29.8592929
+               }
+            },
+            "location" : 
+            {
+               "lat" : 45.9043021,
+               "lng" : 29.8730162
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.912221,
+                  "lng" : 29.88298409999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.892784,
+                  "lng" : 29.8592929
+               }
+            }
+         },
+         "place_id" : "ChIJX9dt68sGuEARZpRZMlnUu_E",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Тростянець",
+               "short_name" : "Тростянець",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Великомихайлівський район",
+               "short_name" : "Великомихайлівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67141",
+               "short_name" : "67141",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Тростянець, Одеська область, Україна, 67141",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.0400161,
+                  "lng" : 29.798409
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.0279541,
+                  "lng" : 29.776054
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.0347838,
+               "lng" : 29.7856737
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.0400161,
+                  "lng" : 29.798409
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.0279541,
+                  "lng" : 29.776054
+               }
+            }
+         },
+         "place_id" : "ChIJe1YpJ58hyUARKnsa82Bns9s",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

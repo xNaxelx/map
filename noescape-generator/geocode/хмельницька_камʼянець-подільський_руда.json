@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Руда",
+               "short_name" : "Руда",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кам'янець-Подільський район",
+               "short_name" : "Кам'янець-Подільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Хмельницька область",
+               "short_name" : "Хмельницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "32366",
+               "short_name" : "32366",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Руда, Хмельницька область, Україна, 32366",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.5676839,
+                  "lng" : 26.581728
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.5440131,
+                  "lng" : 26.553514
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.556788,
+               "lng" : 26.56602
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.5676839,
+                  "lng" : 26.581728
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.5440131,
+                  "lng" : 26.553514
+               }
+            }
+         },
+         "place_id" : "ChIJA3RYRhi-M0cR8njET17jimo",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

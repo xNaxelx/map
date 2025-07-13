@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Котелевський район",
+               "short_name" : "Котелевський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Полтавська область",
+               "short_name" : "Полтавська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Котелевський район, Полтавська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.165504,
+                  "lng" : 34.9635619
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.737828,
+                  "lng" : 34.533685
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.1018529,
+               "lng" : 34.8217514
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.165504,
+                  "lng" : 34.9635619
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.737828,
+                  "lng" : 34.533685
+               }
+            }
+         },
+         "place_id" : "ChIJofO4AQ7510AR6lov8EJIA5s",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

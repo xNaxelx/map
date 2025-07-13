@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Бурдюг",
+               "short_name" : "Бурдюг",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кельменецький район",
+               "short_name" : "Кельменецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60143",
+               "short_name" : "60143",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Бурдюг, Чернівецька область, Україна, 60143",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.4898861,
+                  "lng" : 26.8992951
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.471182,
+                  "lng" : 26.8781081
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.4832833,
+               "lng" : 26.887101
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.4898861,
+                  "lng" : 26.8992951
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.471182,
+                  "lng" : 26.8781081
+               }
+            }
+         },
+         "place_id" : "ChIJ827-_UegM0cRDgiK8vDhnVg",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

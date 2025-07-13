@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Струмок",
+               "short_name" : "Струмок",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сокирянський район",
+               "short_name" : "Сокирянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60221",
+               "short_name" : "60221",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Струмок, Чернівецька область, Україна, 60221",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.476074,
+                  "lng" : 27.1596389
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.470982,
+                  "lng" : 27.149873
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.4739546,
+               "lng" : 27.15524
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.476074,
+                  "lng" : 27.1596389
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.470982,
+                  "lng" : 27.149873
+               }
+            }
+         },
+         "place_id" : "ChIJqZIlmNYNM0cREhQuxWMTBGU",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

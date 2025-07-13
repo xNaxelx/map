@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Карпівка",
+               "short_name" : "Карпівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Роздільнянський район",
+               "short_name" : "Роздільнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67461",
+               "short_name" : "67461",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Карпівка, Одеська область, Україна, 67461",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.79805,
+                  "lng" : 30.2760291
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.779727,
+                  "lng" : 30.2242909
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.7880396,
+               "lng" : 30.2541458
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.79805,
+                  "lng" : 30.2760291
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.779727,
+                  "lng" : 30.2242909
+               }
+            }
+         },
+         "place_id" : "ChIJRdOuvoiUyEARKM8tEb9D__g",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

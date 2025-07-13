@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Тернавка",
+               "short_name" : "Тернавка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Герцаївський район",
+               "short_name" : "Герцаївський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60543",
+               "short_name" : "60543",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Тернавка, Чернівецька область, Україна, 60543",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.139751,
+                  "lng" : 26.2333949
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.0877419,
+                  "lng" : 26.1799391
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.1130089,
+               "lng" : 26.2177383
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.139751,
+                  "lng" : 26.2333949
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.0877419,
+                  "lng" : 26.1799391
+               }
+            }
+         },
+         "place_id" : "ChIJJ5-9aDJuNEcRoVEVJtLAXWg",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

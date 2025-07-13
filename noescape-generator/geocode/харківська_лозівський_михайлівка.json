@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Михайлівка",
+               "short_name" : "Михайлівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Лозівський район",
+               "short_name" : "Лозівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Харківська область",
+               "short_name" : "Харківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "64663",
+               "short_name" : "64663",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Михайлівка, Харківська область, Україна, 64663",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.952288,
+                  "lng" : 36.419846
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.9082349,
+                  "lng" : 36.39558890000001
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.9387978,
+               "lng" : 36.409336
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.952288,
+                  "lng" : 36.419846
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.9082349,
+                  "lng" : 36.39558890000001
+               }
+            }
+         },
+         "place_id" : "ChIJV7jDQ-Mv30ARAjYe4UNuUlQ",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

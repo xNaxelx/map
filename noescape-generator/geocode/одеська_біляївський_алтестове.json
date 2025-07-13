@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Алтестове",
+               "short_name" : "Алтестове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Біляївський район",
+               "short_name" : "Біляївський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67660",
+               "short_name" : "67660",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Алтестове, Одеська область, Україна, 67660",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.63623399999999,
+                  "lng" : 30.553134
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.626043,
+                  "lng" : 30.5432961
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.630693,
+               "lng" : 30.5489072
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.63623399999999,
+                  "lng" : 30.553134
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.626043,
+                  "lng" : 30.5432961
+               }
+            }
+         },
+         "place_id" : "ChIJ6TB73GidyEAR2gdXzsxlbpY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

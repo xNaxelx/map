@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Паланки",
+               "short_name" : "Паланки",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Яворівський район",
+               "short_name" : "Яворівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Паланки, Львівська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.87003929999999,
+                  "lng" : 23.8858974
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.8459104,
+                  "lng" : 23.8436897
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.8527669,
+               "lng" : 23.8715826
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.87003929999999,
+                  "lng" : 23.8858974
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.8459104,
+                  "lng" : 23.8436897
+               }
+            }
+         },
+         "place_id" : "ChIJcZaVO3jgOkcRYhVXmIVDETs",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

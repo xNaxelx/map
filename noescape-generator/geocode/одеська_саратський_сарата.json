@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Сарата",
+               "short_name" : "Сарата",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Саратський район",
+               "short_name" : "Саратський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Сарата, Одеська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.03504969999999,
+                  "lng" : 29.69900609999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.0029835,
+                  "lng" : 29.6490955
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.0199358,
+               "lng" : 29.6734385
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.03504969999999,
+                  "lng" : 29.69900609999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.0029835,
+                  "lng" : 29.6490955
+               }
+            }
+         },
+         "place_id" : "ChIJIaAy-nYCyEARQC3z-DF3gZ0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

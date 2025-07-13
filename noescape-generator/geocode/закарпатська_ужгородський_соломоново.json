@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Соломоново",
+               "short_name" : "Соломоново",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ужгородський район",
+               "short_name" : "Ужгородський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "89460",
+               "short_name" : "89460",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Соломоново, Закарпатська область, Україна, 89460",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.440847,
+                  "lng" : 22.17189
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.42018789999999,
+                  "lng" : 22.1556529
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.4319471,
+               "lng" : 22.1621546
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.440847,
+                  "lng" : 22.17189
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.42018789999999,
+                  "lng" : 22.1556529
+               }
+            }
+         },
+         "place_id" : "ChIJAw6m-UnhOEcRsuYYyriBUV4",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

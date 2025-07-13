@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Довжанка",
+               "short_name" : "Довжанка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Окнянський район",
+               "short_name" : "Окнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67930",
+               "short_name" : "67930",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Довжанка, Одеська область, Україна, 67930",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.491301,
+                  "lng" : 29.416177
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.473463,
+                  "lng" : 29.373581
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.4828281,
+               "lng" : 29.3963402
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.491301,
+                  "lng" : 29.416177
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.473463,
+                  "lng" : 29.373581
+               }
+            }
+         },
+         "place_id" : "ChIJKWWh5XqrzkARnESS__mMMiA",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

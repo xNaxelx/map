@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Роздільнянський район",
+               "short_name" : "Роздільнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Роздільнянський район, Одеська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.990412,
+                  "lng" : 30.530109
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.615347,
+                  "lng" : 29.833626
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.8414095,
+               "lng" : 30.1756639
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.990412,
+                  "lng" : 30.530109
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.615347,
+                  "lng" : 29.833626
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJg5xTIlrryEAR7A2kyucBGkw",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Кошарка",
+               "short_name" : "Кошарка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Захарівський район",
+               "short_name" : "Захарівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66712",
+               "short_name" : "66712",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Кошарка, Одеська область, Україна, 66712",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.477328,
+                  "lng" : 29.6115871
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.4673829,
+                  "lng" : 29.591917
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.4719578,
+               "lng" : 29.6013758
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.477328,
+                  "lng" : 29.6115871
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.4673829,
+                  "lng" : 29.591917
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJjSmAvC6yzkAR-BVhoLHX8sA",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

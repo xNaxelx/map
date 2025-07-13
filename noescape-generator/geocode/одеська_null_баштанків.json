@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Баштанків",
+               "short_name" : "Баштанків",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кодимський район",
+               "short_name" : "Кодимський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66010",
+               "short_name" : "66010",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Баштанків, Одеська область, Україна, 66010",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.120651,
+                  "lng" : 29.025548
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.095139,
+                  "lng" : 28.9742311
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.1048751,
+               "lng" : 28.9987808
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.120651,
+                  "lng" : 29.025548
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.095139,
+                  "lng" : 28.9742311
+               }
+            }
+         },
+         "place_id" : "ChIJm6Kcdc9QzEARbGqwGQtSdRQ",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

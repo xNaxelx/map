@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Палло",
+               "short_name" : "Палло",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ужгородський район",
+               "short_name" : "Ужгородський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "89430",
+               "short_name" : "89430",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Палло, Закарпатська область, Україна, 89430",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.572351,
+                  "lng" : 22.1770319
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.563704,
+                  "lng" : 22.1615441
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.56650579999999,
+               "lng" : 22.1719861
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.572351,
+                  "lng" : 22.1770319
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.563704,
+                  "lng" : 22.1615441
+               }
+            }
+         },
+         "place_id" : "ChIJ26AJNtwhOUcRxNcHiNrMaNI",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

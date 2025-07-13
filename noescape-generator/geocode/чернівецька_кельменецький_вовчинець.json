@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Вовчинець",
+               "short_name" : "Вовчинець",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кельменецький район",
+               "short_name" : "Кельменецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60150",
+               "short_name" : "60150",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Вовчинець, Чернівецька область, Україна, 60150",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.4654861,
+                  "lng" : 26.9267559
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.4401439,
+                  "lng" : 26.8986421
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.4556471,
+               "lng" : 26.9114152
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.4654861,
+                  "lng" : 26.9267559
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.4401439,
+                  "lng" : 26.8986421
+               }
+            }
+         },
+         "place_id" : "ChIJOXH3AACgM0cR2g2qARPC5T0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

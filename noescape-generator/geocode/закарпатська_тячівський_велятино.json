@@ -1,0 +1,165 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Велятино",
+               "short_name" : "Велятино",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Хустський район",
+               "short_name" : "Хустський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Велятино, Закарпатська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.121045,
+                  "lng" : 23.3307279
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.09761,
+                  "lng" : 23.2963391
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.1100917,
+               "lng" : 23.3115098
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.121045,
+                  "lng" : 23.3307279
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.09761,
+                  "lng" : 23.2963391
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJCSWkSgkoOEcRLEsHNGeEcK4",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Тячівський район",
+               "short_name" : "Тячівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Тячівський район, Закарпатська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.562767,
+                  "lng" : 24.1937511
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.9317857,
+                  "lng" : 23.4391649
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.2370369,
+               "lng" : 23.8528469
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.562767,
+                  "lng" : 24.1937511
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.9317857,
+                  "lng" : 23.4391649
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJRZhmRy1xN0cRzHqvLWrpw2Y",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

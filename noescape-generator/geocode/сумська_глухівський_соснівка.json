@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Соснівка",
+               "short_name" : "Соснівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Глухівський район",
+               "short_name" : "Глухівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сумська область",
+               "short_name" : "Сумська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "41442",
+               "short_name" : "41442",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Соснівка, Сумська область, Україна, 41442",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.63456499999999,
+                  "lng" : 34.069101
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.6159701,
+                  "lng" : 34.0376671
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.6256692,
+               "lng" : 34.0593618
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.63456499999999,
+                  "lng" : 34.069101
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.6159701,
+                  "lng" : 34.0376671
+               }
+            }
+         },
+         "place_id" : "ChIJF5hivdHvK0EROvLlcesQPds",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

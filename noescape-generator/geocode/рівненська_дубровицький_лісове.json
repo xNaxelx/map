@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Лісове",
+               "short_name" : "Лісове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Дубровицький район",
+               "short_name" : "Дубровицький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "34121",
+               "short_name" : "34121",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Лісове, Рівненська область, Україна, 34121",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.668628,
+                  "lng" : 26.4207889
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.65563410000001,
+                  "lng" : 26.3959441
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.66294809999999,
+               "lng" : 26.4066624
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.668628,
+                  "lng" : 26.4207889
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.65563410000001,
+                  "lng" : 26.3959441
+               }
+            }
+         },
+         "place_id" : "ChIJ88RtdgIuJkcRPjngpuDi1Js",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

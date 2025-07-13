@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Богдан",
+               "short_name" : "Богдан",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рахівський район",
+               "short_name" : "Рахівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90645",
+               "short_name" : "90645",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Богдан, Закарпатська область, Україна, 90645",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.049847,
+                  "lng" : 24.3753701
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.02188,
+                  "lng" : 24.325115
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.0392785,
+               "lng" : 24.3456792
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.049847,
+                  "lng" : 24.3753701
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.02188,
+                  "lng" : 24.325115
+               }
+            }
+         },
+         "place_id" : "ChIJ8yOTE1pVNkcRgCpjY3muLKE",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

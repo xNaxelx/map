@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Косівський район",
+               "short_name" : "Косівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Івано-Франківська область",
+               "short_name" : "Івано-Франківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Косівський район, Івано-Франківська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.459392,
+                  "lng" : 25.3100311
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.160179,
+                  "lng" : 24.702701
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.3181015,
+               "lng" : 24.9937597
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.459392,
+                  "lng" : 25.3100311
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.160179,
+                  "lng" : 24.702701
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJMXDs2E3BNkcRAu7DoY2kwo0",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Буркут",
+               "short_name" : "Буркут",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Верховинський район",
+               "short_name" : "Верховинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Івано-Франківська область",
+               "short_name" : "Івано-Франківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "78730",
+               "short_name" : "78730",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Буркут, Івано-Франківська область, Україна, 78730",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.947274,
+                  "lng" : 24.816442
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.8769031,
+                  "lng" : 24.6896231
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.9404292,
+               "lng" : 24.6973436
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.947274,
+                  "lng" : 24.816442
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.8769031,
+                  "lng" : 24.6896231
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJyfmaHX9gNkcRrD9HtikYT0o",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

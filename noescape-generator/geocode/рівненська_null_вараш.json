@@ -1,0 +1,90 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Вараш",
+               "short_name" : "Вараш",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кузнецовська міськрада",
+               "short_name" : "Кузнецовська міськрада",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Вараш, Рівненська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.35894589999999,
+                  "lng" : 25.8681679
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.3290563,
+                  "lng" : 25.836147
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.34365529999999,
+               "lng" : 25.8490867
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.35894589999999,
+                  "lng" : 25.8681679
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.3290563,
+                  "lng" : 25.836147
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJDYtdvHsNJkcRAOHxDuPbKPs",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

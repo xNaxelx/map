@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Дергачі",
+               "short_name" : "Дергачі",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Дергачівський район",
+               "short_name" : "Дергачівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Харківська область",
+               "short_name" : "Харківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "62303",
+               "short_name" : "62303",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Дергачі, Харківська область, Україна, 62303",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.14226499999999,
+                  "lng" : 36.15406
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.081195,
+                  "lng" : 36.043502
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.1097212,
+               "lng" : 36.1155026
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.14226499999999,
+                  "lng" : 36.15406
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.081195,
+                  "lng" : 36.043502
+               }
+            }
+         },
+         "place_id" : "ChIJye4bwzq7J0ERKMx0RYCzMA0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

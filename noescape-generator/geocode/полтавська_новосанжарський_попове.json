@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Попове",
+               "short_name" : "Попове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Новосанжарський район",
+               "short_name" : "Новосанжарський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Полтавська область",
+               "short_name" : "Полтавська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "39332",
+               "short_name" : "39332",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Попове, Полтавська область, Україна, 39332",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.363362,
+                  "lng" : 34.049441
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.3503051,
+                  "lng" : 34.018927
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.3580312,
+               "lng" : 34.0328504
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.363362,
+                  "lng" : 34.049441
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.3503051,
+                  "lng" : 34.018927
+               }
+            }
+         },
+         "place_id" : "ChIJgd2aaIJi10ARuCTs17MuToM",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Неньковичі",
+               "short_name" : "Неньковичі",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Зарічненський район",
+               "short_name" : "Зарічненський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "34020",
+               "short_name" : "34020",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Неньковичі, Рівненська область, Україна, 34020",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.885234,
+                  "lng" : 26.104087
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.8669449,
+                  "lng" : 26.0530159
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.8746714,
+               "lng" : 26.0787762
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.885234,
+                  "lng" : 26.104087
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.8669449,
+                  "lng" : 26.0530159
+               }
+            }
+         },
+         "place_id" : "ChIJX6D3QfeyJ0cRENW6OWj0V-M",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

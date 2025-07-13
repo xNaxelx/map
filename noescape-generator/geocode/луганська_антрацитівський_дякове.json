@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Дякове",
+               "short_name" : "Дякове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Антрацитівський район",
+               "short_name" : "Антрацитівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Луганська область",
+               "short_name" : "Луганська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "94690",
+               "short_name" : "94690",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Дякове, Луганська область, Україна, 94690",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.967977,
+                  "lng" : 39.169104
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.9308221,
+                  "lng" : 39.1107759
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.9452008,
+               "lng" : 39.1390199
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.967977,
+                  "lng" : 39.169104
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.9308221,
+                  "lng" : 39.1107759
+               }
+            }
+         },
+         "place_id" : "ChIJEc8E1aG74UAR8mQ3BlDpJ6M",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

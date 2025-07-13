@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Яблуниця",
+               "short_name" : "Яблуниця",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Верховинський район",
+               "short_name" : "Верховинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Івано-Франківська область",
+               "short_name" : "Івано-Франківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "78731",
+               "short_name" : "78731",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Яблуниця, Івано-Франківська область, Україна, 78731",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.037814,
+                  "lng" : 24.923866
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.005715,
+                  "lng" : 24.849897
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.0092656,
+               "lng" : 24.9164146
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.037814,
+                  "lng" : 24.923866
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.005715,
+                  "lng" : 24.849897
+               }
+            }
+         },
+         "place_id" : "ChIJ8b30u5WMNkcRWvieaor8afM",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Коровія",
+               "short_name" : "Коровія",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Глибоцький район",
+               "short_name" : "Глибоцький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Коровія, Чернівецька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.23903749999999,
+                  "lng" : 25.9907769
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.2122056,
+                  "lng" : 25.9521531
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.2212578,
+               "lng" : 25.9753485
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.23903749999999,
+                  "lng" : 25.9907769
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.2122056,
+                  "lng" : 25.9521531
+               }
+            }
+         },
+         "place_id" : "ChIJl7aHlrsONEcRUxUJsxJrXkQ",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

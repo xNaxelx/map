@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Мардарівка",
+               "short_name" : "Мардарівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Поді́льськ",
+               "short_name" : "Поді́льськ",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66373",
+               "short_name" : "66373",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Мардарівка, Одеська область, Україна, 66373",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.558401,
+                  "lng" : 29.7526722
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.521898,
+                  "lng" : 29.716293
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.5369915,
+               "lng" : 29.7364979
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.558401,
+                  "lng" : 29.7526722
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.521898,
+                  "lng" : 29.716293
+               }
+            }
+         },
+         "place_id" : "ChIJqYOTPBy6zkARJa9sx12FyQc",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

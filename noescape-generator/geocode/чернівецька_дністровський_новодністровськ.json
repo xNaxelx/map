@@ -1,0 +1,98 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Новодністровськ",
+               "short_name" : "Новодністровськ",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Новодністровська міськрада",
+               "short_name" : "Новодністровська міськрада",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60236",
+               "short_name" : "60236",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Новодністровськ, Чернівецька область, Україна, 60236",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.58897899999999,
+                  "lng" : 27.45898
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.566363,
+                  "lng" : 27.423913
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5780854,
+               "lng" : 27.4413888
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.58897899999999,
+                  "lng" : 27.45898
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.566363,
+                  "lng" : 27.423913
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJZ_HxwwkcM0cR_B3lMkxKkkw",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

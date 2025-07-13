@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Никифорівці",
+               "short_name" : "Никифорівці",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Немирівський район",
+               "short_name" : "Немирівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "22821",
+               "short_name" : "22821",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Никифорівці, Вінницька область, Україна, 22821",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.0198071,
+                  "lng" : 28.6992391
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.005166,
+                  "lng" : 28.6764581
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.01295289999999,
+               "lng" : 28.6874177
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.0198071,
+                  "lng" : 28.6992391
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.005166,
+                  "lng" : 28.6764581
+               }
+            }
+         },
+         "place_id" : "ChIJx0iIUUBVzUARUk0DO78kYa0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

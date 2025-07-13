@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Лиманське",
+               "short_name" : "Лиманське",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ренійський район",
+               "short_name" : "Ренійський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Лиманське, Одеська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.4492179,
+                  "lng" : 28.4180689
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.4153451,
+                  "lng" : 28.3944655
+               }
+            },
+            "location" : 
+            {
+               "lat" : 45.4267973,
+               "lng" : 28.4104899
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.4492179,
+                  "lng" : 28.4180689
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.4153451,
+                  "lng" : 28.3944655
+               }
+            }
+         },
+         "place_id" : "ChIJ-_onWm4Xt0ARJnK24t7zBAc",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Рахнівка",
+               "short_name" : "Рахнівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Дунаєвецький район",
+               "short_name" : "Дунаєвецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Хмельницька область",
+               "short_name" : "Хмельницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "32452",
+               "short_name" : "32452",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Рахнівка, Хмельницька область, Україна, 32452",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.830496,
+                  "lng" : 26.8184271
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.8165009,
+                  "lng" : 26.7903761
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.8234091,
+               "lng" : 26.8055704
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.830496,
+                  "lng" : 26.8184271
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.8165009,
+                  "lng" : 26.7903761
+               }
+            }
+         },
+         "place_id" : "ChIJ5flI5tS0M0cR5NfFs9UDbCc",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

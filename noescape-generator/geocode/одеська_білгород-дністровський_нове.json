@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Нове",
+               "short_name" : "Нове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Білгород-Дністровський район",
+               "short_name" : "Білгород-Дністровський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67751",
+               "short_name" : "67751",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Нове, Одеська область, Україна, 67751",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.23249999999999,
+                  "lng" : 30.1723361
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.224975,
+                  "lng" : 30.1630909
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.2286772,
+               "lng" : 30.1683731
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.23249999999999,
+                  "lng" : 30.1723361
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.224975,
+                  "lng" : 30.1630909
+               }
+            }
+         },
+         "place_id" : "ChIJBY2k-crfx0ARwHGseIkwT7A",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

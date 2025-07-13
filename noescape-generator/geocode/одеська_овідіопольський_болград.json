@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Овідіопольський район",
+               "short_name" : "Овідіопольський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Овідіопольський район, Одеська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.4966241,
+                  "lng" : 30.7072951
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.092535,
+                  "lng" : 30.2669439
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.3398176,
+               "lng" : 30.44312399999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.4966241,
+                  "lng" : 30.7072951
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.092535,
+                  "lng" : 30.2669439
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJScoJqPTPx0ARZHkD4O1U7DQ",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Болград",
+               "short_name" : "Болград",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Болградський район",
+               "short_name" : "Болградський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68700",
+               "short_name" : "68700",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Болград, Одеська область, Україна, 68700",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.7043589,
+                  "lng" : 28.636763
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.657916,
+                  "lng" : 28.5886482
+               }
+            },
+            "location" : 
+            {
+               "lat" : 45.6838431,
+               "lng" : 28.6143107
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.7043589,
+                  "lng" : 28.636763
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.657916,
+                  "lng" : 28.5886482
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ29uYYFyot0ARYV8fZIGbQEk",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

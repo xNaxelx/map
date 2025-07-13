@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Замагора",
+               "short_name" : "Замагора",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Верховинський район",
+               "short_name" : "Верховинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Івано-Франківська область",
+               "short_name" : "Івано-Франківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "78720",
+               "short_name" : "78720",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Замагора, Івано-Франківська область, Україна, 78720",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.127576,
+                  "lng" : 24.8694191
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.086835,
+                  "lng" : 24.8054989
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.1033706,
+               "lng" : 24.8287224
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.127576,
+                  "lng" : 24.8694191
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.086835,
+                  "lng" : 24.8054989
+               }
+            }
+         },
+         "place_id" : "ChIJC5XIOoztNkcRJqLy2uYn9x4",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

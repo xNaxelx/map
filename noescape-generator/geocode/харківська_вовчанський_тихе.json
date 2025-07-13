@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Тихе",
+               "short_name" : "Тихе",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вовчанський район",
+               "short_name" : "Вовчанський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Харківська область",
+               "short_name" : "Харківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "62508",
+               "short_name" : "62508",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Тихе, Харківська область, Україна, 62508",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.31242,
+                  "lng" : 37.0234812
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.303093,
+                  "lng" : 37.0038001
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.3064447,
+               "lng" : 37.0141798
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.31242,
+                  "lng" : 37.0234812
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.303093,
+                  "lng" : 37.0038001
+               }
+            }
+         },
+         "place_id" : "ChIJ4UdiU3vxJkERhHzX0gP2K8E",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

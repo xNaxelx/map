@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Соколівка",
+               "short_name" : "Соколівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Козелецький район",
+               "short_name" : "Козелецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернігівська область",
+               "short_name" : "Чернігівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "17020",
+               "short_name" : "17020",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Соколівка, Чернігівська область, Україна, 17020",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.171869,
+                  "lng" : 30.9221169
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.143086,
+                  "lng" : 30.8888851
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.155689,
+               "lng" : 30.9004169
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.171869,
+                  "lng" : 30.9221169
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.143086,
+                  "lng" : 30.8888851
+               }
+            }
+         },
+         "place_id" : "ChIJyQeUyQavKkcREGNc6PpzWkA",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

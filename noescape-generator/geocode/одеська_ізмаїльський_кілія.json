@@ -1,0 +1,165 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Ізмаїльський район",
+               "short_name" : "Ізмаїльський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Ізмаїльський район, Одеська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.7535119,
+                  "lng" : 29.181676
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.2239219,
+                  "lng" : 28.6321104
+               }
+            },
+            "location" : 
+            {
+               "lat" : 45.5171309,
+               "lng" : 28.9502649
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.7535119,
+                  "lng" : 29.181676
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.2239219,
+                  "lng" : 28.6321104
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJs0j0KdN2t0ARQNn7qMSeEA0",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Кілія",
+               "short_name" : "Кілія",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кілійський район",
+               "short_name" : "Кілійський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Кілія, Одеська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.5063469,
+                  "lng" : 29.3174457
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.4279735,
+                  "lng" : 29.1807603
+               }
+            },
+            "location" : 
+            {
+               "lat" : 45.4650742,
+               "lng" : 29.2480308
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.5063469,
+                  "lng" : 29.3174457
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.4279735,
+                  "lng" : 29.1807603
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJc0pALFjVuUARruTbka5fR8U",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

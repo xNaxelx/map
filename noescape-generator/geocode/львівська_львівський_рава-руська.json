@@ -1,0 +1,90 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Рава-Руська",
+               "short_name" : "Рава-Руська",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Жовківський район",
+               "short_name" : "Жовківський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Рава-Руська, Львівська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.2454759,
+                  "lng" : 23.6554098
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.2146733,
+                  "lng" : 23.5830975
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.2260935,
+               "lng" : 23.6172156
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.2454759,
+                  "lng" : 23.6554098
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.2146733,
+                  "lng" : 23.5830975
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ5zhdQmw1O0cRAs-MRv9kd7c",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

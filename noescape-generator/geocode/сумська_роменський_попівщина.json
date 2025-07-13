@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Попівщина",
+               "short_name" : "Попівщина",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Роменський район",
+               "short_name" : "Роменський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сумська область",
+               "short_name" : "Сумська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "42076",
+               "short_name" : "42076",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Попівщина, Сумська область, Україна, 42076",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.616834,
+                  "lng" : 33.6155839
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.601211,
+                  "lng" : 33.5957011
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.6135452,
+               "lng" : 33.6093937
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.616834,
+                  "lng" : 33.6155839
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.601211,
+                  "lng" : 33.5957011
+               }
+            }
+         },
+         "place_id" : "ChIJgaESNXvmKUERON4YmeYcNxI",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

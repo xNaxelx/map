@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Виноградне",
+               "short_name" : "Виноградне",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Болградський район",
+               "short_name" : "Болградський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68722",
+               "short_name" : "68722",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Виноградне, Одеська область, Україна, 68722",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.8198639,
+                  "lng" : 29.018549
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.7918421,
+                  "lng" : 28.9755331
+               }
+            },
+            "location" : 
+            {
+               "lat" : 45.8078227,
+               "lng" : 28.9879789
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.8198639,
+                  "lng" : 29.018549
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.7918421,
+                  "lng" : 28.9755331
+               }
+            }
+         },
+         "place_id" : "ChIJFV_QGmC-t0ARKhRGQpofNyI",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

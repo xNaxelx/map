@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Виноградівка",
+               "short_name" : "Виноградівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ярмолинецький район",
+               "short_name" : "Ярмолинецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Хмельницька область",
+               "short_name" : "Хмельницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "32123",
+               "short_name" : "32123",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Виноградівка, Хмельницька область, Україна, 32123",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.293034,
+                  "lng" : 27.067623
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.27021,
+                  "lng" : 27.0178919
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.28074729999999,
+               "lng" : 27.0300404
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.293034,
+                  "lng" : 27.067623
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.27021,
+                  "lng" : 27.0178919
+               }
+            }
+         },
+         "place_id" : "ChIJm-1Wh_sRMkcRFFqgW8ussGk",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

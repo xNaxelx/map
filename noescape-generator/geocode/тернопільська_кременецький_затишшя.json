@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Затишшя",
+               "short_name" : "Затишшя",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кременецький район",
+               "short_name" : "Кременецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Тернопільська область",
+               "short_name" : "Тернопільська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "47025",
+               "short_name" : "47025",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Затишшя, Тернопільська область, Україна, 47025",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.037943,
+                  "lng" : 25.559677
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.01458,
+                  "lng" : 25.538993
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.02688080000001,
+               "lng" : 25.5527972
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.037943,
+                  "lng" : 25.559677
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.01458,
+                  "lng" : 25.538993
+               }
+            }
+         },
+         "place_id" : "ChIJB2e7LMDoL0cRPjkhVusm7YQ",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

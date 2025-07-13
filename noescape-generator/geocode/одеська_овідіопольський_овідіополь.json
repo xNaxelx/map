@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Овідіополь",
+               "short_name" : "Овідіополь",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Овідіопольський район",
+               "short_name" : "Овідіопольський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67800",
+               "short_name" : "67800",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Овідіополь, Одеська область, Україна, 67800",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.2830701,
+                  "lng" : 30.457249
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.2118869,
+                  "lng" : 30.398245
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.2519995,
+               "lng" : 30.4372882
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.2830701,
+                  "lng" : 30.457249
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.2118869,
+                  "lng" : 30.398245
+               }
+            }
+         },
+         "place_id" : "ChIJhQp-4ufEx0AR4GHXzWmOB_A",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

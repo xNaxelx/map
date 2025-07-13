@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Данилівка",
+               "short_name" : "Данилівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Васильківський район",
+               "short_name" : "Васильківський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Київська область",
+               "short_name" : "Київська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "08618",
+               "short_name" : "08618",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Данилівка, Київська область, Україна, 08618",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.2720409,
+                  "lng" : 30.2286981
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.234798,
+                  "lng" : 30.206574
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.2605408,
+               "lng" : 30.2213357
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.2720409,
+                  "lng" : 30.2286981
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.234798,
+                  "lng" : 30.206574
+               }
+            }
+         },
+         "place_id" : "ChIJ0avnlSuy1EARHK7ZEAqK82I",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Оріхівка",
+               "short_name" : "Оріхівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Болградський район",
+               "short_name" : "Болградський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68721",
+               "short_name" : "68721",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Оріхівка, Одеська область, Україна, 68721",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.81736,
+                  "lng" : 28.9256311
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.794787,
+                  "lng" : 28.892375
+               }
+            },
+            "location" : 
+            {
+               "lat" : 45.8060701,
+               "lng" : 28.9009312
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.81736,
+                  "lng" : 28.9256311
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.794787,
+                  "lng" : 28.892375
+               }
+            }
+         },
+         "place_id" : "ChIJf0Rlluy7t0ARPApIDoiqd5Q",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Марківський район",
+               "short_name" : "Марківський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Луганська область",
+               "short_name" : "Луганська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Марківський район, Луганська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.7398118,
+                  "lng" : 39.860647
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.35301399999999,
+                  "lng" : 39.14101489999999
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.49232550000001,
+               "lng" : 39.6175141
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.7398118,
+                  "lng" : 39.860647
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.35301399999999,
+                  "lng" : 39.14101489999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ4WQjAk7vIUER7DQ35xPY530",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Попасне",
+               "short_name" : "Попасне",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Новомосковський район",
+               "short_name" : "Новомосковський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Дніпропетровська область",
+               "short_name" : "Дніпропетровська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "51242",
+               "short_name" : "51242",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Попасне, Дніпропетровська область, Україна, 51242",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.824986,
+                  "lng" : 35.547601
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.79976,
+                  "lng" : 35.5100379
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.8144304,
+               "lng" : 35.5306409
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.824986,
+                  "lng" : 35.547601
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.79976,
+                  "lng" : 35.5100379
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ8ZnOnDE62UARfEE9t90vqFQ",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

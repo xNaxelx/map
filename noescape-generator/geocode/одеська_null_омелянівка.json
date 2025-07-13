@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Омелянівка",
+               "short_name" : "Омелянівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Окнянський район",
+               "short_name" : "Окнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67934",
+               "short_name" : "67934",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Омелянівка, Одеська область, Україна, 67934",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.5349,
+                  "lng" : 29.279353
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.5269541,
+                  "lng" : 29.2625551
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.53160339999999,
+               "lng" : 29.2747401
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.5349,
+                  "lng" : 29.279353
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.5269541,
+                  "lng" : 29.2625551
+               }
+            }
+         },
+         "place_id" : "ChIJSUkVSbIBzEARVMH1NMPXL2I",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

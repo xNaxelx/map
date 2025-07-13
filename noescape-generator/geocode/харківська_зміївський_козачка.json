@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Козачка",
+               "short_name" : "Козачка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Зміївський район",
+               "short_name" : "Зміївський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Харківська область",
+               "short_name" : "Харківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "63452",
+               "short_name" : "63452",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Козачка, Харківська область, Україна, 63452",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.6045551,
+                  "lng" : 36.2210441
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.594969,
+                  "lng" : 36.1952222
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.6012466,
+               "lng" : 36.2074667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.6045551,
+                  "lng" : 36.2210441
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.594969,
+                  "lng" : 36.1952222
+               }
+            }
+         },
+         "place_id" : "ChIJ10MYKyViJ0ERphpHkfNYUmg",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

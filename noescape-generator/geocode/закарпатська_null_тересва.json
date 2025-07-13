@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Тересва",
+               "short_name" : "Тересва",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Тячівський район",
+               "short_name" : "Тячівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90564",
+               "short_name" : "90564",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Тересва, Закарпатська область, Україна, 90564",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.015649,
+                  "lng" : 23.712382
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.986634,
+                  "lng" : 23.6710819
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.0006147,
+               "lng" : 23.6966322
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.015649,
+                  "lng" : 23.712382
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.986634,
+                  "lng" : 23.6710819
+               }
+            }
+         },
+         "place_id" : "ChIJodiycW2XN0cRaMhTjWSl1WE",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

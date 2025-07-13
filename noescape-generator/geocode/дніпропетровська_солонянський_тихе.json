@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Тихе",
+               "short_name" : "Тихе",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Солонянський район",
+               "short_name" : "Солонянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Дніпропетровська область",
+               "short_name" : "Дніпропетровська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "52423",
+               "short_name" : "52423",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Тихе, Дніпропетровська область, Україна, 52423",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.985367,
+                  "lng" : 34.4712649
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.978502,
+                  "lng" : 34.462003
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.98212849999999,
+               "lng" : 34.4665158
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.985367,
+                  "lng" : 34.4712649
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.978502,
+                  "lng" : 34.462003
+               }
+            }
+         },
+         "place_id" : "ChIJI62oQZyC20AR8CsnOfqc240",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

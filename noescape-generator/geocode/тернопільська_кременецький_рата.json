@@ -1,0 +1,165 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Кременецький район",
+               "short_name" : "Кременецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Тернопільська область",
+               "short_name" : "Тернопільська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Кременецький район, Тернопільська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.187458,
+                  "lng" : 25.89876
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.774977,
+                  "lng" : 25.348312
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.0349932,
+               "lng" : 25.5940803
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.187458,
+                  "lng" : 25.89876
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.774977,
+                  "lng" : 25.348312
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJgdFFnlPdL0cR3kcW2OUDjq8",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Рата",
+               "short_name" : "Рата",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Жовківський район",
+               "short_name" : "Жовківський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Рата, Львівська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.2534067,
+                  "lng" : 23.6199188
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.2353754,
+                  "lng" : 23.5932899
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.24068279999999,
+               "lng" : 23.606405
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.2534067,
+                  "lng" : 23.6199188
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.2353754,
+                  "lng" : 23.5932899
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJv6R_ImA1O0cRkn0cboGZrU0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

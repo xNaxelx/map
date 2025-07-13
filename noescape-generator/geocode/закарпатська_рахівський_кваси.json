@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Кваси",
+               "short_name" : "Кваси",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рахівський район",
+               "short_name" : "Рахівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90641",
+               "short_name" : "90641",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Кваси, Закарпатська область, Україна, 90641",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.179066,
+                  "lng" : 24.302064
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.1316279,
+                  "lng" : 24.2591961
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.1495982,
+               "lng" : 24.2824443
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.179066,
+                  "lng" : 24.302064
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.1316279,
+                  "lng" : 24.2591961
+               }
+            }
+         },
+         "place_id" : "ChIJgdn5gqgGN0cRjUUiJPS9npw",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

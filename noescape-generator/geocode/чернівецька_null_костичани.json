@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Костичани",
+               "short_name" : "Костичани",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Новоселицький район",
+               "short_name" : "Новоселицький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60352",
+               "short_name" : "60352",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Костичани, Чернівецька область, Україна, 60352",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.23227,
+                  "lng" : 26.5156269
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.223369,
+                  "lng" : 26.4919331
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.227943,
+               "lng" : 26.5088466
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.23227,
+                  "lng" : 26.5156269
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.223369,
+                  "lng" : 26.4919331
+               }
+            }
+         },
+         "place_id" : "ChIJ49G6WGmHM0cRgGFVWbHyKHM",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

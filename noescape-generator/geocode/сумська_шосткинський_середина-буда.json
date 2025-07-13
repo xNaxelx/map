@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Середина-Буда",
+               "short_name" : "Середина-Буда",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Середино-Будський район",
+               "short_name" : "Середино-Будський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сумська область",
+               "short_name" : "Сумська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "41001",
+               "short_name" : "41001",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Середина-Буда, Сумська область, Україна, 41001",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.201746,
+                  "lng" : 34.060967
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.166007,
+                  "lng" : 34.01126199999999
+               }
+            },
+            "location" : 
+            {
+               "lat" : 52.1837429,
+               "lng" : 34.0412051
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.201746,
+                  "lng" : 34.060967
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.166007,
+                  "lng" : 34.01126199999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJJVM7xTNnLEERo8Qrkm8y6p0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Шосткинський район",
+               "short_name" : "Шосткинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сумська область",
+               "short_name" : "Сумська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Шосткинський район, Сумська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.152964,
+                  "lng" : 33.7589659
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.655972,
+                  "lng" : 33.0781822
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.8347252,
+               "lng" : 33.2901283
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.152964,
+                  "lng" : 33.7589659
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.655972,
+                  "lng" : 33.0781822
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJcTlzMOx4K0ERsK_f97UemkQ",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

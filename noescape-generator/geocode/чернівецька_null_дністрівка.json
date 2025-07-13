@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Дністрівка",
+               "short_name" : "Дністрівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кельменецький район",
+               "short_name" : "Кельменецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60141",
+               "short_name" : "60141",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Дністрівка, Чернівецька область, Україна, 60141",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.5453919,
+                  "lng" : 26.940591
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.5268559,
+                  "lng" : 26.911253
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5338804,
+               "lng" : 26.921297
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.5453919,
+                  "lng" : 26.940591
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.5268559,
+                  "lng" : 26.911253
+               }
+            }
+         },
+         "place_id" : "ChIJ9wboR9WmM0cRJDPseKSoO_o",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

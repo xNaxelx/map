@@ -1,0 +1,81 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Балтський район",
+               "short_name" : "Балтський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Балтський район, Одеська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.212535,
+                  "lng" : 29.9410241
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.797797,
+                  "lng" : 29.2990389
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.9719585,
+               "lng" : 29.6778556
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.212535,
+                  "lng" : 29.9410241
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.797797,
+                  "lng" : 29.2990389
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJhdFDjcYtzEARypD1ksD_FpU",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

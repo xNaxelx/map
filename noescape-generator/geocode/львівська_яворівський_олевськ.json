@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Олевськ",
+               "short_name" : "Олевськ",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Олевський район",
+               "short_name" : "Олевський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Житомирська область",
+               "short_name" : "Житомирська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "11002",
+               "short_name" : "11002",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Олевськ, Житомирська область, Україна, 11002",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.247212,
+                  "lng" : 27.6748769
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.208537,
+                  "lng" : 27.6212019
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.22075599999999,
+               "lng" : 27.6442211
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.247212,
+                  "lng" : 27.6748769
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.208537,
+                  "lng" : 27.6212019
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJeVzEG54bKUcRqnSCuUzwEjU",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Яворівський район",
+               "short_name" : "Яворівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Яворівський район, Львівська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.193844,
+                  "lng" : 23.9387161
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.81258,
+                  "lng" : 23.0927957
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.015466,
+               "lng" : 23.5466891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.193844,
+                  "lng" : 23.9387161
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.81258,
+                  "lng" : 23.0927957
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJM9bvHb0-O0cRuAJVd2LB3l0",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

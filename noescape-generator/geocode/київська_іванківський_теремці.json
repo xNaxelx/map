@@ -1,0 +1,82 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Київська область",
+               "short_name" : "Київська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Іванківський район",
+               "short_name" : "Іванківський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Київська область, Україна",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 51.2338858,
+               "lng" : 30.5010304
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.2352439802915,
+                  "lng" : 30.5023889302915
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.2325460197085,
+                  "lng" : 30.4996909697085
+               }
+            }
+         },
+         "navigation_points" : 
+         [
+            {
+               "location" : 
+               {
+                  "latitude" : 51.2339214,
+                  "longitude" : 30.5010674
+               }
+            }
+         ],
+         "place_id" : "ChIJ1eBm082ZKkcRyJoK3Bs3-TU",
+         "plus_code" : 
+         {
+            "compound_code" : "",
+            "global_code" : "9G3G6GM2+HC"
+         },
+         "types" : 
+         [
+            "establishment",
+            "point_of_interest"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

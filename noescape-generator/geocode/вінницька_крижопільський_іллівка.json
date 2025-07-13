@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Іллівка",
+               "short_name" : "Іллівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Крижопільський район",
+               "short_name" : "Крижопільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "24642",
+               "short_name" : "24642",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Іллівка, Вінницька область, Україна, 24642",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.3414559,
+                  "lng" : 28.942794
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.333229,
+                  "lng" : 28.9228651
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.3388115,
+               "lng" : 28.93160689999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.3414559,
+                  "lng" : 28.942794
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.333229,
+                  "lng" : 28.9228651
+               }
+            }
+         },
+         "place_id" : "ChIJ5-Z2LFkBzUARClcXSCgrCcQ",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

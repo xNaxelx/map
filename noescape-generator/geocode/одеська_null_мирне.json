@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Мирне",
+               "short_name" : "Мирне",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Біляївський район",
+               "short_name" : "Біляївський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67652",
+               "short_name" : "67652",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Мирне, Одеська область, Україна, 67652",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.476632,
+                  "lng" : 30.391918
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.461901,
+                  "lng" : 30.353095
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.4672163,
+               "lng" : 30.3730622
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.476632,
+                  "lng" : 30.391918
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.461901,
+                  "lng" : 30.353095
+               }
+            }
+         },
+         "place_id" : "ChIJhUu8hfN_yEARPBQIfl6nyHw",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

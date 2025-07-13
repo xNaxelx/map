@@ -1,0 +1,265 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Сарненський район",
+               "short_name" : "Сарненський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Сарненський район, Рівненська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.529086,
+                  "lng" : 27.0874719
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.026294,
+                  "lng" : 26.0815509
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.2828982,
+               "lng" : 26.6970732
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.529086,
+                  "lng" : 27.0874719
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.026294,
+                  "lng" : 26.0815509
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ3UIIJEOjKEcRvAmeDKWaWPw",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Залав'я",
+               "short_name" : "Залав'я",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Млинівський район",
+               "short_name" : "Млинівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "35184",
+               "short_name" : "35184",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Залав'я, Рівненська область, Україна, 35184",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.671273,
+                  "lng" : 25.5319149
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.65025199999999,
+                  "lng" : 25.500026
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.6562988,
+               "lng" : 25.5210269
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.671273,
+                  "lng" : 25.5319149
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.65025199999999,
+                  "lng" : 25.500026
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJk3n3hkiEJUcRqGcyOmu1TuU",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Залав'я",
+               "short_name" : "Залав'я",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рокитнівський район",
+               "short_name" : "Рокитнівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "34232",
+               "short_name" : "34232",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Залав'я, Рівненська область, Україна, 34232",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.40774,
+                  "lng" : 27.3524209
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.3833429,
+                  "lng" : 27.317814
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.391751,
+               "lng" : 27.3333763
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.40774,
+                  "lng" : 27.3524209
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.3833429,
+                  "lng" : 27.317814
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ8fUbAH7wKEcRmkccU_2Z6rg",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

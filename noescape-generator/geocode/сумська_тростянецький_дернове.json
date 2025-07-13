@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Дернове",
+               "short_name" : "Дернове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Тростянецький район",
+               "short_name" : "Тростянецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сумська область",
+               "short_name" : "Сумська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "42645",
+               "short_name" : "42645",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Дернове, Сумська область, Україна, 42645",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.517293,
+                  "lng" : 35.270501
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.486259,
+                  "lng" : 35.231388
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.5027284,
+               "lng" : 35.2573914
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.517293,
+                  "lng" : 35.270501
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.486259,
+                  "lng" : 35.231388
+               }
+            }
+         },
+         "place_id" : "ChIJNesbJz1lKEERUPaflAcT7SI",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

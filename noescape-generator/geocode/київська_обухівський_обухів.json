@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Обухів",
+               "short_name" : "Обухів",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Обухівський район",
+               "short_name" : "Обухівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Київська область",
+               "short_name" : "Київська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "08700",
+               "short_name" : "08700",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Обухів, Київська область, Україна, 08700",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.1473849,
+                  "lng" : 30.706629
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.0811149,
+                  "lng" : 30.5892381
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.109938,
+               "lng" : 30.6298846
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.1473849,
+                  "lng" : 30.706629
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.0811149,
+                  "lng" : 30.5892381
+               }
+            }
+         },
+         "place_id" : "ChIJJZuNXGiX1EAR75RQAG5TlzE",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

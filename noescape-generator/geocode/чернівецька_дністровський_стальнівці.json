@@ -1,0 +1,98 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Стальнівці",
+               "short_name" : "Стальнівці",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Новоселицький район",
+               "short_name" : "Новоселицький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60362",
+               "short_name" : "60362",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Стальнівці, Чернівецька область, Україна, 60362",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.31348999999999,
+                  "lng" : 26.5662931
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.290295,
+                  "lng" : 26.532019
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.29879589999999,
+               "lng" : 26.5519226
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.31348999999999,
+                  "lng" : 26.5662931
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.290295,
+                  "lng" : 26.532019
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJLyK5OjOEM0cRf_QMIxMVYPs",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

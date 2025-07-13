@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Калинівський район",
+               "short_name" : "Калинівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Калинівський район, Вінницька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.69832599999999,
+                  "lng" : 28.88253
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.3321171,
+                  "lng" : 28.2128281
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.52783489999999,
+               "lng" : 28.4848325
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.69832599999999,
+                  "lng" : 28.88253
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.3321171,
+                  "lng" : 28.2128281
+               }
+            }
+         },
+         "place_id" : "ChIJvYH0an4WLUcR6mN32Jyeduw",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

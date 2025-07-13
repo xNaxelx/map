@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Рудниця",
+               "short_name" : "Рудниця",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Піщанський район",
+               "short_name" : "Піщанський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "24723",
+               "short_name" : "24723",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Рудниця, Вінницька область, Україна, 24723",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.269935,
+                  "lng" : 28.949849
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.24824,
+                  "lng" : 28.922604
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.258541,
+               "lng" : 28.9373435
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.269935,
+                  "lng" : 28.949849
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.24824,
+                  "lng" : 28.922604
+               }
+            }
+         },
+         "place_id" : "ChIJT5Hey9v_zEAReqVKUOFqmao",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

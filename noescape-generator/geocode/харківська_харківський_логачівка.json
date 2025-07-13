@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Логачівка",
+               "short_name" : "Логачівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Харківський район",
+               "short_name" : "Харківський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Харківська область",
+               "short_name" : "Харківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "62480",
+               "short_name" : "62480",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Логачівка, Харківська область, Україна, 62480",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.924976,
+                  "lng" : 36.36540919999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.9118,
+                  "lng" : 36.348773
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.9202976,
+               "lng" : 36.3580718
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.924976,
+                  "lng" : 36.36540919999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.9118,
+                  "lng" : 36.348773
+               }
+            }
+         },
+         "place_id" : "ChIJ2QoobWILJ0ER_o39VRPIzHs",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

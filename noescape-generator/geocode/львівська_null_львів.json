@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Львів",
+               "short_name" : "Львів",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська міськрада",
+               "short_name" : "Львівська міськрада",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "79000",
+               "short_name" : "79000",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Львів, Львівська область, Україна, 79000",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.897471,
+                  "lng" : 24.118191
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.7679071,
+                  "lng" : 23.9062801
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.839683,
+               "lng" : 24.029717
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.897471,
+                  "lng" : 24.118191
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.7679071,
+                  "lng" : 23.9062801
+               }
+            }
+         },
+         "place_id" : "ChIJV5oQCXzdOkcR4ngjARfFI0I",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

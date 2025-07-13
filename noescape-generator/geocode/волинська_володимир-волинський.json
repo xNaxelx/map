@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Володимир-Волинський район",
+               "short_name" : "Володимир-Волинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Володимир-Волинський район, Волинська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.055234,
+                  "lng" : 24.6317749
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.70718,
+                  "lng" : 23.9129106
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.8956572,
+               "lng" : 24.2358874
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.055234,
+                  "lng" : 24.6317749
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.70718,
+                  "lng" : 23.9129106
+               }
+            }
+         },
+         "place_id" : "ChIJY5tAkPFeJEcRGDsYuqLdqEo",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

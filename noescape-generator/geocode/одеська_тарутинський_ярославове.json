@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Ярославове",
+               "short_name" : "Ярославове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Тарутинський район",
+               "short_name" : "Тарутинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68551",
+               "short_name" : "68551",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Ярославове, Одеська область, Україна, 68551",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.1675589,
+                  "lng" : 29.094761
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.1383131,
+                  "lng" : 29.077142
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.1525599,
+               "lng" : 29.0862743
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.1675589,
+                  "lng" : 29.094761
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.1383131,
+                  "lng" : 29.077142
+               }
+            }
+         },
+         "place_id" : "ChIJjwPQlkTWt0ARcD7DhG09pog",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

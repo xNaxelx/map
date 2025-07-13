@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Болградський район",
+               "short_name" : "Болградський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Болградський район, Одеська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.00345919999999,
+                  "lng" : 29.0752861
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.466108,
+                  "lng" : 28.4806966
+               }
+            },
+            "location" : 
+            {
+               "lat" : 45.7290886,
+               "lng" : 28.7779353
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.00345919999999,
+                  "lng" : 29.0752861
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.466108,
+                  "lng" : 28.4806966
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ-YeN5wOlt0ARRFZgXOIII9Q",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Єлизаветівка",
+               "short_name" : "Єлизаветівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Петриківський район",
+               "short_name" : "Петриківський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Дніпропетровська область",
+               "short_name" : "Дніпропетровська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "51831",
+               "short_name" : "51831",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Єлизаветівка, Дніпропетровська область, Україна, 51831",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.6262451,
+                  "lng" : 34.676892
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.593918,
+                  "lng" : 34.614461
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.6168781,
+               "lng" : 34.65381199999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.6262451,
+                  "lng" : 34.676892
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.593918,
+                  "lng" : 34.614461
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJFWeSNPXX20ARetMJwSMOUO4",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

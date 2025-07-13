@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Руська Лозова",
+               "short_name" : "Руська Лозова",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Дергачівський район",
+               "short_name" : "Дергачівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Харківська область",
+               "short_name" : "Харківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Руська Лозова, Харківська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.1519088,
+                  "lng" : 36.3081838
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.1290936,
+                  "lng" : 36.2433172
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.1394184,
+               "lng" : 36.2794872
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.1519088,
+                  "lng" : 36.3081838
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.1290936,
+                  "lng" : 36.2433172
+               }
+            }
+         },
+         "place_id" : "ChIJPW_TWRCvJ0ERzoa_DZxJiMk",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

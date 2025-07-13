@@ -1,0 +1,108 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Галицький район",
+               "short_name" : "Галицький район",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+               ]
+            },
+            {
+               "long_name" : "Львів",
+               "short_name" : "Львів",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська міськрада",
+               "short_name" : "Львівська міськрада",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "79000",
+               "short_name" : "79000",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Галицький район, Львів, Львівська область, Україна, 79000",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.852101,
+                  "lng" : 24.0557909
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.815853,
+                  "lng" : 24.0038471
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.8396917,
+               "lng" : 24.0296934
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.852101,
+                  "lng" : 24.0557909
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.815853,
+                  "lng" : 24.0038471
+               }
+            }
+         },
+         "place_id" : "ChIJoYm2B2bdOkcRGLycFmEkv5s",
+         "types" : 
+         [
+            "political",
+            "sublocality",
+            "sublocality_level_1"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

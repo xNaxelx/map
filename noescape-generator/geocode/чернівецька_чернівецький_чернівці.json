@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Чернівці",
+               "short_name" : "Чернівці",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецький район",
+               "short_name" : "Чернівецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "24100",
+               "short_name" : "24100",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Чернівці, Вінницька область, Україна, 24100",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.5569821,
+                  "lng" : 28.12871
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.528417,
+                  "lng" : 28.0860399
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5404811,
+               "lng" : 28.108548
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.5569821,
+                  "lng" : 28.12871
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.528417,
+                  "lng" : 28.0860399
+               }
+            }
+         },
+         "place_id" : "ChIJi68wYM_UMkcRFhqhylA7tt4",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

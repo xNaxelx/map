@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Диканський район",
+               "short_name" : "Диканський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Полтавська область",
+               "short_name" : "Полтавська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Диканський район, Полтавська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.947757,
+                  "lng" : 34.675948
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.695893,
+                  "lng" : 34.171858
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.84949210000001,
+               "lng" : 34.46766059999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.947757,
+                  "lng" : 34.675948
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.695893,
+                  "lng" : 34.171858
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJMzysTNTy10ARBKWseIUS18Y",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Рудка",
+               "short_name" : "Рудка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Володимирецький район",
+               "short_name" : "Володимирецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "34350",
+               "short_name" : "34350",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Рудка, Рівненська область, Україна, 34350",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.514063,
+                  "lng" : 25.8159251
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.480177,
+                  "lng" : 25.748051
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.4976401,
+               "lng" : 25.7861576
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.514063,
+                  "lng" : 25.8159251
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.480177,
+                  "lng" : 25.748051
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ2Rbr4ntpJkcRXkPyp7TVKcw",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

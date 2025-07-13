@@ -1,0 +1,108 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Комунарський район",
+               "short_name" : "Комунарський район",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+               ]
+            },
+            {
+               "long_name" : "Запоріжжя",
+               "short_name" : "Запоріжжя",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Запорізька міськрада",
+               "short_name" : "Запорізька міськрада",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Запорізька область",
+               "short_name" : "Запорізька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "69061",
+               "short_name" : "69061",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Комунарський район, Запоріжжя, Запорізька область, Україна, 69061",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.814305,
+                  "lng" : 35.3108861
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.75259699999999,
+                  "lng" : 35.1479109
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.78606620000001,
+               "lng" : 35.2367226
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.814305,
+                  "lng" : 35.3108861
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.75259699999999,
+                  "lng" : 35.1479109
+               }
+            }
+         },
+         "place_id" : "ChIJE-u9LL9e3EARonckjgMxWX8",
+         "types" : 
+         [
+            "political",
+            "sublocality",
+            "sublocality_level_1"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

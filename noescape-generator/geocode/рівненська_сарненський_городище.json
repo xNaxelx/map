@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Городище",
+               "short_name" : "Городище",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Дубровицький район",
+               "short_name" : "Дубровицький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "34185",
+               "short_name" : "34185",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Городище, Рівненська область, Україна, 34185",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.814997,
+                  "lng" : 26.7116629
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.792658,
+                  "lng" : 26.6795651
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.7991349,
+               "lng" : 26.6982803
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.814997,
+                  "lng" : 26.7116629
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.792658,
+                  "lng" : 26.6795651
+               }
+            }
+         },
+         "place_id" : "ChIJIyDw_knRJ0cR9lEx8Nf4XJg",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

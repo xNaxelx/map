@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Золочівський район",
+               "short_name" : "Золочівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Золочівський район, Львівська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.9418669,
+                  "lng" : 25.144828
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.5988919,
+                  "lng" : 24.347293
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.7840108,
+               "lng" : 24.7901478
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.9418669,
+                  "lng" : 25.144828
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.5988919,
+                  "lng" : 24.347293
+               }
+            }
+         },
+         "place_id" : "ChIJ4wTkWcCmOkcR5k9oaQWLz84",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

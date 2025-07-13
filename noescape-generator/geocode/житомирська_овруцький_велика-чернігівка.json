@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Велика Чернігівка",
+               "short_name" : "Велика Чернігівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Овруцький район",
+               "short_name" : "Овруцький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Житомирська область",
+               "short_name" : "Житомирська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "11117",
+               "short_name" : "11117",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Велика Чернігівка, Житомирська область, Україна, 11117",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.2887341,
+                  "lng" : 28.935633
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.278195,
+                  "lng" : 28.9051009
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.2826313,
+               "lng" : 28.9141458
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.2887341,
+                  "lng" : 28.935633
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.278195,
+                  "lng" : 28.9051009
+               }
+            }
+         },
+         "place_id" : "ChIJz6F3VEsvKkcRBM0iejzpTac",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

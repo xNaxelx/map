@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Козлів",
+               "short_name" : "Козлів",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Козівський район",
+               "short_name" : "Козівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Тернопільська область",
+               "short_name" : "Тернопільська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "47631",
+               "short_name" : "47631",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Козлів, Тернопільська область, Україна, 47631",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.59493699999999,
+                  "lng" : 25.3695109
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.527532,
+                  "lng" : 25.286455
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.5552935,
+               "lng" : 25.3449242
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.59493699999999,
+                  "lng" : 25.3695109
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.527532,
+                  "lng" : 25.286455
+               }
+            }
+         },
+         "place_id" : "ChIJnbTAxTo_MEcRel3n0rdfJ98",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

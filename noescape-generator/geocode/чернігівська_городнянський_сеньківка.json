@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Сеньківка",
+               "short_name" : "Сеньківка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Городнянський район",
+               "short_name" : "Городнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернігівська область",
+               "short_name" : "Чернігівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "15120",
+               "short_name" : "15120",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Сеньківка, Чернігівська область, Україна, 15120",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.098302,
+                  "lng" : 31.7900681
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.07837000000001,
+                  "lng" : 31.7657671
+               }
+            },
+            "location" : 
+            {
+               "lat" : 52.08867979999999,
+               "lng" : 31.7765104
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.098302,
+                  "lng" : 31.7900681
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.07837000000001,
+                  "lng" : 31.7657671
+               }
+            }
+         },
+         "place_id" : "ChIJMykUIm3B1EYRfk7YWx4aE8o",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Нове Клинове",
+               "short_name" : "Нове Клинове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Виноградівський район",
+               "short_name" : "Виноградівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90365",
+               "short_name" : "90365",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Нове Клинове, Закарпатська область, Україна, 90365",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.024988,
+                  "lng" : 23.043202
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.009897,
+                  "lng" : 23.0343031
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.0171642,
+               "lng" : 23.0380028
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.024988,
+                  "lng" : 23.043202
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.009897,
+                  "lng" : 23.0343031
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJTZidvsEiOEcRHjTctflXla8",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Берегівський район",
+               "short_name" : "Берегівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Берегівський район, Закарпатська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.404323,
+                  "lng" : 22.8778699
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.09168589999999,
+                  "lng" : 22.3078829
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.2351161,
+               "lng" : 22.5802865
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.404323,
+                  "lng" : 22.8778699
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.09168589999999,
+                  "lng" : 22.3078829
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJo1cLgXRaOEcRGDp5iGHSlfs",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

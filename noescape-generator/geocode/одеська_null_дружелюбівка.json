@@ -1,0 +1,279 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Дружелюбівка",
+               "short_name" : "Дружелюбівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Захарівський район",
+               "short_name" : "Захарівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66740",
+               "short_name" : "66740",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Дружелюбівка, Одеська область, Україна, 66740",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.281438,
+                  "lng" : 29.9221139
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.261798,
+                  "lng" : 29.9007612
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.2764019,
+               "lng" : 29.9115857
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.281438,
+                  "lng" : 29.9221139
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.261798,
+                  "lng" : 29.9007612
+               }
+            }
+         },
+         "place_id" : "ChIJvbWub24tyUARasCSylfq2GE",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Дружелюбівка",
+               "short_name" : "Дружелюбівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Миколаївський район",
+               "short_name" : "Миколаївський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67004",
+               "short_name" : "67004",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Дружелюбівка, Одеська область, Україна, 67004",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.607333,
+                  "lng" : 30.7765719
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.590301,
+                  "lng" : 30.76006
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.5994671,
+               "lng" : 30.766469
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.607333,
+                  "lng" : 30.7765719
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.590301,
+                  "lng" : 30.76006
+               }
+            }
+         },
+         "place_id" : "ChIJZ6FqA-UEz0ARR0mr9rxB6Q0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Дружелюбівка",
+               "short_name" : "Дружелюбівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ананьївський район",
+               "short_name" : "Ананьївський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66433",
+               "short_name" : "66433",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Дружелюбівка, Одеська область, Україна, 66433",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.54831,
+                  "lng" : 30.1640139
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.541332,
+                  "lng" : 30.1453381
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.5447346,
+               "lng" : 30.1551502
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.54831,
+                  "lng" : 30.1640139
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.541332,
+                  "lng" : 30.1453381
+               }
+            }
+         },
+         "place_id" : "ChIJfZmnbO_CzkAR4LXpl524o1I",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

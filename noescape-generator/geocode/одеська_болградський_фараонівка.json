@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Болградський район",
+               "short_name" : "Болградський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Болградський район, Одеська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.00345919999999,
+                  "lng" : 29.0752861
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.466108,
+                  "lng" : 28.4806966
+               }
+            },
+            "location" : 
+            {
+               "lat" : 45.7290886,
+               "lng" : 28.7779353
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.00345919999999,
+                  "lng" : 29.0752861
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.466108,
+                  "lng" : 28.4806966
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ-YeN5wOlt0ARRFZgXOIII9Q",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Фараонівка",
+               "short_name" : "Фараонівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Саратський район",
+               "short_name" : "Саратський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68213",
+               "short_name" : "68213",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Фараонівка, Одеська область, Україна, 68213",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.3398,
+                  "lng" : 29.63011
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.304993,
+                  "lng" : 29.610809
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.3235254,
+               "lng" : 29.6211683
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.3398,
+                  "lng" : 29.63011
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.304993,
+                  "lng" : 29.610809
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJIefK-cs_yEARagy4fSgwVFM",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

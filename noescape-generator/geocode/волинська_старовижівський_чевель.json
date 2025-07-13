@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Чевель",
+               "short_name" : "Чевель",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Старовижівський район",
+               "short_name" : "Старовижівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "44415",
+               "short_name" : "44415",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Чевель, Волинська область, Україна, 44415",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.51726799999999,
+                  "lng" : 24.4547311
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.487322,
+                  "lng" : 24.420413
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.5045651,
+               "lng" : 24.4358309
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.51726799999999,
+                  "lng" : 24.4547311
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.487322,
+                  "lng" : 24.420413
+               }
+            }
+         },
+         "place_id" : "ChIJFfLq4yCoJkcROiJ8yLQ-2C0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

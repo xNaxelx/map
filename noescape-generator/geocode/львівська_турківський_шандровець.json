@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Шандровець",
+               "short_name" : "Шандровець",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Турківський район",
+               "short_name" : "Турківський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "82531",
+               "short_name" : "82531",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Шандровець, Львівська область, Україна, 82531",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.18138810000001,
+                  "lng" : 22.877761
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.157638,
+                  "lng" : 22.832262
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.1699164,
+               "lng" : 22.8567506
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.18138810000001,
+                  "lng" : 22.877761
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.157638,
+                  "lng" : 22.832262
+               }
+            }
+         },
+         "place_id" : "ChIJb-XKHLvbO0cRz6H57FSN994",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

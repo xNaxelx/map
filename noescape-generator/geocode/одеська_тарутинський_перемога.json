@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Перемога",
+               "short_name" : "Перемога",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Тарутинський район",
+               "short_name" : "Тарутинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68545",
+               "short_name" : "68545",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Перемога, Одеська область, Україна, 68545",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.197998,
+                  "lng" : 29.3469171
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.1828581,
+                  "lng" : 29.3337959
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.19092699999999,
+               "lng" : 29.3406944
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.197998,
+                  "lng" : 29.3469171
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.1828581,
+                  "lng" : 29.3337959
+               }
+            }
+         },
+         "place_id" : "ChIJ64-OEqYmyEAROBxg2KBLOLc",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Кривий",
+               "short_name" : "Кривий",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Хустський район",
+               "short_name" : "Хустський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90415",
+               "short_name" : "90415",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Кривий, Закарпатська область, Україна, 90415",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.290235,
+                  "lng" : 23.3477629
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.281807,
+                  "lng" : 23.3278649
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.2853198,
+               "lng" : 23.3422771
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.290235,
+                  "lng" : 23.3477629
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.281807,
+                  "lng" : 23.3278649
+               }
+            }
+         },
+         "place_id" : "ChIJE2S2rGrTOUcRIBYhYviFxgM",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

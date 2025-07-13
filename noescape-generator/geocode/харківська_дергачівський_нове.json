@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Нове",
+               "short_name" : "Нове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Дергачівський район",
+               "short_name" : "Дергачівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Харківська область",
+               "short_name" : "Харківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "62332",
+               "short_name" : "62332",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Нове, Харківська область, Україна, 62332",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.18838299999999,
+                  "lng" : 36.2420959
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.185527,
+                  "lng" : 36.235691
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.1870105,
+               "lng" : 36.2399274
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.18838299999999,
+                  "lng" : 36.2420959
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.185527,
+                  "lng" : 36.235691
+               }
+            }
+         },
+         "place_id" : "ChIJBwrPyyCuJ0ERlmLqsmK23Go",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

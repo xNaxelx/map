@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Дем'янівка",
+               "short_name" : "Дем'янівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Нижньосірогозький район",
+               "short_name" : "Нижньосірогозький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Херсонська область",
+               "short_name" : "Херсонська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "74730",
+               "short_name" : "74730",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Дем'янівка, Херсонська область, Україна, 74730",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.957747,
+                  "lng" : 34.566813
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.9270651,
+                  "lng" : 34.5340219
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.94098169999999,
+               "lng" : 34.5513242
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.957747,
+                  "lng" : 34.566813
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.9270651,
+                  "lng" : 34.5340219
+               }
+            }
+         },
+         "place_id" : "ChIJo47Aa5wgw0ARsOSwz2isOA8",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

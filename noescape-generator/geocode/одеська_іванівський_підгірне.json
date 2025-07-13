@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Іванівський район",
+               "short_name" : "Іванівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Іванівський район, Одеська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.127294,
+                  "lng" : 30.815251
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.7528261,
+                  "lng" : 30.124705
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.9058395,
+               "lng" : 30.538491
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.127294,
+                  "lng" : 30.815251
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.7528261,
+                  "lng" : 30.124705
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ4wZzj725yEARwMNndf4kqyg",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Підгірне",
+               "short_name" : "Підгірне",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Пустомитівський район",
+               "short_name" : "Пустомитівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "81140",
+               "short_name" : "81140",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Підгірне, Львівська область, Україна, 81140",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.821248,
+                  "lng" : 24.2073051
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.8135809,
+                  "lng" : 24.1979731
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.8184462,
+               "lng" : 24.204301
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.821248,
+                  "lng" : 24.2073051
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.8135809,
+                  "lng" : 24.1979731
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJF4jFvIjBOkcRXKXj5cdB-hw",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

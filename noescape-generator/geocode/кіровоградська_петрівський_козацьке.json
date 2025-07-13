@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Козацьке",
+               "short_name" : "Козацьке",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Петрівський район",
+               "short_name" : "Петрівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кіровоградська область",
+               "short_name" : "Кіровоградська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "28322",
+               "short_name" : "28322",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Козацьке, Кіровоградська область, Україна, 28322",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.34429900000001,
+                  "lng" : 33.472615
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.326863,
+                  "lng" : 33.4397251
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.3350997,
+               "lng" : 33.4581121
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.34429900000001,
+                  "lng" : 33.472615
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.326863,
+                  "lng" : 33.4397251
+               }
+            }
+         },
+         "place_id" : "ChIJ3VmJyktf2kARVsB6agpx6-0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

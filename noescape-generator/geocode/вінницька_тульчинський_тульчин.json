@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Тульчин",
+               "short_name" : "Тульчин",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Тульчинський район",
+               "short_name" : "Тульчинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Тульчин, Вінницька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.690637,
+                  "lng" : 28.8842541
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.6580149,
+                  "lng" : 28.815437
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.6739771,
+               "lng" : 28.8563795
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.690637,
+                  "lng" : 28.8842541
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.6580149,
+                  "lng" : 28.815437
+               }
+            }
+         },
+         "place_id" : "ChIJFxA-mdZBzUARN529Laqkh9Y",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

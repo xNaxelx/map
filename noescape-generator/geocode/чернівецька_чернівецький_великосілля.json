@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Великосілля",
+               "short_name" : "Великосілля",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Герцаївський район",
+               "short_name" : "Герцаївський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60511",
+               "short_name" : "60511",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Великосілля, Чернівецька область, Україна, 60511",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.17128599999999,
+                  "lng" : 26.318183
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.15182309999999,
+                  "lng" : 26.279104
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.1575363,
+               "lng" : 26.299495
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.17128599999999,
+                  "lng" : 26.318183
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.15182309999999,
+                  "lng" : 26.279104
+               }
+            }
+         },
+         "place_id" : "ChIJG50sqcZwNEcRsDWIyWXFRK4",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

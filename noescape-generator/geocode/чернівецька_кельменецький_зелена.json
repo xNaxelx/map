@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Зелена",
+               "short_name" : "Зелена",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кельменецький район",
+               "short_name" : "Кельменецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60133",
+               "short_name" : "60133",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Зелена, Чернівецька область, Україна, 60133",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.375339,
+                  "lng" : 26.748313
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.350228,
+                  "lng" : 26.7018461
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.3661873,
+               "lng" : 26.7329562
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.375339,
+                  "lng" : 26.748313
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.350228,
+                  "lng" : 26.7018461
+               }
+            }
+         },
+         "place_id" : "ChIJG36yKvKcM0cRMEv7WBv-6_4",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

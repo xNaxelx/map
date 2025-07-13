@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "річка Охтирка",
+               "short_name" : "річка Охтирка",
+               "types" : 
+               [
+                  "establishment",
+                  "natural_feature"
+               ]
+            },
+            {
+               "long_name" : "Сумська область",
+               "short_name" : "Сумська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "річка Охтирка, Сумська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.3155313,
+                  "lng" : 35.0679608
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.2672714,
+                  "lng" : 34.8366688
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.29140132821254,
+               "lng" : 34.95231483982039
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.3155313,
+                  "lng" : 35.0679608
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.2672714,
+                  "lng" : 34.8366688
+               }
+            }
+         },
+         "place_id" : "ChIJKU464CYSKEERSBSLTkx5SNo",
+         "types" : 
+         [
+            "establishment",
+            "natural_feature"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

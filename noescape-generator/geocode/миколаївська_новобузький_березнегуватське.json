@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Березнегуватське",
+               "short_name" : "Березнегуватське",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Новобузький район",
+               "short_name" : "Новобузький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Миколаївська область",
+               "short_name" : "Миколаївська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "55620",
+               "short_name" : "55620",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Березнегуватське, Миколаївська область, Україна, 55620",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.770474,
+                  "lng" : 32.2870591
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.73746,
+                  "lng" : 32.2630439
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.753124,
+               "lng" : 32.277808
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.770474,
+                  "lng" : 32.2870591
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.73746,
+                  "lng" : 32.2630439
+               }
+            }
+         },
+         "place_id" : "ChIJCwOEwtxExUARgquWtCO9Gr4",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

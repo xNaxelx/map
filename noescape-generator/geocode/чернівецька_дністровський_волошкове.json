@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Волошкове",
+               "short_name" : "Волошкове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сокирянський район",
+               "short_name" : "Сокирянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60209",
+               "short_name" : "60209",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Волошкове, Чернівецька область, Україна, 60209",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.480685,
+                  "lng" : 27.52082
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.465341,
+                  "lng" : 27.489451
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.4728103,
+               "lng" : 27.5039479
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.480685,
+                  "lng" : 27.52082
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.465341,
+                  "lng" : 27.489451
+               }
+            }
+         },
+         "place_id" : "ChIJk-7fulQ9M0cRRpBGZZFe6CA",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

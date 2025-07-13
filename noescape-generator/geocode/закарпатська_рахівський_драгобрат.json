@@ -1,0 +1,90 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Драгобрат",
+               "short_name" : "Драгобрат",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рахівський район",
+               "short_name" : "Рахівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90630",
+               "short_name" : "90630",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Драгобрат, Закарпатська область, Україна, 90630",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.249586,
+               "lng" : 24.249591
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.2509706302915,
+                  "lng" : 24.2509135302915
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.2482726697085,
+                  "lng" : 24.2482155697085
+               }
+            }
+         },
+         "place_id" : "ChIJX7eHjRAQN0cRzEL5Rx-AYzA",
+         "plus_code" : 
+         {
+            "compound_code" : "66XX+RR Чорна Тиса, Закарпатська область, Україна",
+            "global_code" : "8GW666XX+RR"
+         },
+         "types" : 
+         [
+            "establishment",
+            "point_of_interest",
+            "tourist_attraction"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

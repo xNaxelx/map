@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Лазурне",
+               "short_name" : "Лазурне",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Скадовський район",
+               "short_name" : "Скадовський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Херсонська область",
+               "short_name" : "Херсонська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Лазурне, Херсонська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.099632,
+                  "lng" : 32.5627899
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.0665018,
+                  "lng" : 32.4916364
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.0771644,
+               "lng" : 32.5299379
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.099632,
+                  "lng" : 32.5627899
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.0665018,
+                  "lng" : 32.4916364
+               }
+            }
+         },
+         "place_id" : "ChIJtZophQM6wUARTmNoSZkzkyE",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

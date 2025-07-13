@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Пороги",
+               "short_name" : "Пороги",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ямпільський район",
+               "short_name" : "Ямпільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "24512",
+               "short_name" : "24512",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Пороги, Вінницька область, Україна, 24512",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.24729,
+                  "lng" : 28.333784
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.234231,
+                  "lng" : 28.311612
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.2402094,
+               "lng" : 28.3214316
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.24729,
+                  "lng" : 28.333784
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.234231,
+                  "lng" : 28.311612
+               }
+            }
+         },
+         "place_id" : "ChIJj7lo5N7CzEARBO260TO5eSY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

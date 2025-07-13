@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Черче",
+               "short_name" : "Черче",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рогатинський район",
+               "short_name" : "Рогатинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Івано-Франківська область",
+               "short_name" : "Івано-Франківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "77015",
+               "short_name" : "77015",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Черче, Івано-Франківська область, Україна, 77015",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.4362301,
+                  "lng" : 24.571499
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.422042,
+                  "lng" : 24.535353
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.4273682,
+               "lng" : 24.5514002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.4362301,
+                  "lng" : 24.571499
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.422042,
+                  "lng" : 24.535353
+               }
+            }
+         },
+         "place_id" : "ChIJ6Z-6FkN_MEcRfCsZiYANsjI",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

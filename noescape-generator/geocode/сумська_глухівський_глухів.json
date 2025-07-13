@@ -1,0 +1,272 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Глухів",
+               "short_name" : "Глухів",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Глухівська міськрада",
+               "short_name" : "Глухівська міськрада",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сумська область",
+               "short_name" : "Сумська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Глухів, Сумська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.70537179999999,
+                  "lng" : 33.9592339
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.6433766,
+                  "lng" : 33.8713001
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.6708844,
+               "lng" : 33.9078925
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.70537179999999,
+                  "lng" : 33.9592339
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.6433766,
+                  "lng" : 33.8713001
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJN49XgGLtK0ER4edkdLgr8_Y",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Глухівський район",
+               "short_name" : "Глухівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сумська область",
+               "short_name" : "Сумська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Глухівський район, Сумська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.9706123,
+                  "lng" : 34.4405554
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.4625511,
+                  "lng" : 33.505384
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.7726116,
+               "lng" : 34.0706581
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.9706123,
+                  "lng" : 34.4405554
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.4625511,
+                  "lng" : 33.505384
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJj9LcuATzK0ERzmdsRgh4ZGk",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "станція Глухів",
+               "short_name" : "станція Глухів",
+               "types" : 
+               [
+                  "establishment",
+                  "point_of_interest",
+                  "train_station",
+                  "transit_station"
+               ]
+            },
+            {
+               "long_name" : "Глухів",
+               "short_name" : "Глухів",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Глухівська міськрада",
+               "short_name" : "Глухівська міськрада",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сумська область",
+               "short_name" : "Сумська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "41400",
+               "short_name" : "41400",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "станція Глухів, Глухів, Сумська область, Україна, 41400",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 51.679907,
+               "lng" : 33.938458
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.6812532802915,
+                  "lng" : 33.9398000802915
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.6785553197085,
+                  "lng" : 33.9371021197085
+               }
+            }
+         },
+         "navigation_points" : 
+         [
+            {
+               "location" : 
+               {
+                  "latitude" : 51.6798876,
+                  "longitude" : 33.938408
+               }
+            }
+         ],
+         "partial_match" : true,
+         "place_id" : "ChIJx65zPIfyK0ERbJfZ7RIlSeY",
+         "plus_code" : 
+         {
+            "compound_code" : "MWHQ+X9 Глухів, Сумська область, Україна",
+            "global_code" : "9G3MMWHQ+X9"
+         },
+         "types" : 
+         [
+            "establishment",
+            "point_of_interest",
+            "train_station",
+            "transit_station"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

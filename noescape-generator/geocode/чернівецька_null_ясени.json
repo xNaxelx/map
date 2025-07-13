@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Ясени",
+               "short_name" : "Ясени",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сторожинецький район",
+               "short_name" : "Сторожинецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "59012",
+               "short_name" : "59012",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Ясени, Чернівецька область, Україна, 59012",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.287374,
+                  "lng" : 25.6810871
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.2623289,
+                  "lng" : 25.646245
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.27619869999999,
+               "lng" : 25.6637145
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.287374,
+                  "lng" : 25.6810871
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.2623289,
+                  "lng" : 25.646245
+               }
+            }
+         },
+         "place_id" : "ChIJYbslKJMCNEcRQpCndmUP40E",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

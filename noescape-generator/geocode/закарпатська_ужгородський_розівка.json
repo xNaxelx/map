@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Розівка",
+               "short_name" : "Розівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ужгородський район",
+               "short_name" : "Ужгородський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "89424",
+               "short_name" : "89424",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Розівка, Закарпатська область, Україна, 89424",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.5853121,
+                  "lng" : 22.2834911
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.576123,
+                  "lng" : 22.2594111
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5826327,
+               "lng" : 22.2740915
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.5853121,
+                  "lng" : 22.2834911
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.576123,
+                  "lng" : 22.2594111
+               }
+            }
+         },
+         "place_id" : "ChIJ9f4gxDAZOUcRCgjYdHE-zHM",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

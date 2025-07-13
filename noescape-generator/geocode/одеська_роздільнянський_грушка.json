@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Грушка",
+               "short_name" : "Грушка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Великомихайлівський район",
+               "short_name" : "Великомихайлівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67114",
+               "short_name" : "67114",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Грушка, Одеська область, Україна, 67114",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.146122,
+                  "lng" : 29.6466828
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.142469,
+                  "lng" : 29.6405561
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.1436938,
+               "lng" : 29.6440147
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.146122,
+                  "lng" : 29.6466828
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.142469,
+                  "lng" : 29.6405561
+               }
+            }
+         },
+         "place_id" : "ChIJRdPVlL07yUARNL94uaFor8Y",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

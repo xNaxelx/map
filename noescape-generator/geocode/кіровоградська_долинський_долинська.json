@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Долинська",
+               "short_name" : "Долинська",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Долинський район",
+               "short_name" : "Долинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кіровоградська область",
+               "short_name" : "Кіровоградська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "28500",
+               "short_name" : "28500",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Долинська, Кіровоградська область, Україна, 28500",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.140678,
+                  "lng" : 32.7855631
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.0808911,
+                  "lng" : 32.7437969
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.1132559,
+               "lng" : 32.7658684
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.140678,
+                  "lng" : 32.7855631
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.0808911,
+                  "lng" : 32.7437969
+               }
+            }
+         },
+         "place_id" : "ChIJg6VSDvO82kARqi1SXswtkzk",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

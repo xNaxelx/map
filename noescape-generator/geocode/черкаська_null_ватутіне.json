@@ -1,0 +1,90 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Ватутіне",
+               "short_name" : "Ватутіне",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ватутінська міськрада",
+               "short_name" : "Ватутінська міськрада",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Черкаська область",
+               "short_name" : "Черкаська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Ватутіне, Черкаська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.0234051,
+                  "lng" : 31.1112642
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.999831,
+                  "lng" : 31.0293174
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.0149775,
+               "lng" : 31.0539029
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.0234051,
+                  "lng" : 31.1112642
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.999831,
+                  "lng" : 31.0293174
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJy-i0xIKA0UARXt7yq26-e_I",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Домниця",
+               "short_name" : "Домниця",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Подільський район",
+               "short_name" : "Подільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66331",
+               "short_name" : "66331",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Домниця, Одеська область, Україна, 66331",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.815747,
+                  "lng" : 29.2438901
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.797999,
+                  "lng" : 29.2132819
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.8055371,
+               "lng" : 29.2220367
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.815747,
+                  "lng" : 29.2438901
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.797999,
+                  "lng" : 29.2132819
+               }
+            }
+         },
+         "place_id" : "ChIJ220orGgWzEARntPzwRBGq5Q",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

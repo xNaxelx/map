@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Димка",
+               "short_name" : "Димка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Глибоцький район",
+               "short_name" : "Глибоцький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Димка, Чернівецька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.1069727,
+                  "lng" : 25.9946179
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.07583529999999,
+                  "lng" : 25.946145
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.10063239999999,
+               "lng" : 25.9682054
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.1069727,
+                  "lng" : 25.9946179
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.07583529999999,
+                  "lng" : 25.946145
+               }
+            }
+         },
+         "place_id" : "ChIJV8mdD14TNEcRkOkxIlxpc3E",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

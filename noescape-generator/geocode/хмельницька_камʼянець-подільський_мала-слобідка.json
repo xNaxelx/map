@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Мала Слобідка",
+               "short_name" : "Мал. Слободка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кам'янець-Подільський район",
+               "short_name" : "Кам'янець-Подільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Хмельницька область",
+               "short_name" : "Хмельницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "32376",
+               "short_name" : "32376",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Мала Слобідка, Хмельницька область, Україна, 32376",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.635006,
+                  "lng" : 26.6522861
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.622842,
+                  "lng" : 26.6398919
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.6248483,
+               "lng" : 26.6467607
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.635006,
+                  "lng" : 26.6522861
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.622842,
+                  "lng" : 26.6398919
+               }
+            }
+         },
+         "place_id" : "ChIJP74ij2m5M0cRAPl9Z8ywCeA",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

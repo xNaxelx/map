@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Сільце",
+               "short_name" : "Сільце",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Іршавський район",
+               "short_name" : "Іршавський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90124",
+               "short_name" : "90124",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Сільце, Закарпатська область, Україна, 90124",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.298172,
+                  "lng" : 23.011373
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.286169,
+                  "lng" : 22.966286
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.2923925,
+               "lng" : 22.9968459
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.298172,
+                  "lng" : 23.011373
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.286169,
+                  "lng" : 22.966286
+               }
+            }
+         },
+         "place_id" : "ChIJHSQxJoE1OEcRBDQ5V1g52tk",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

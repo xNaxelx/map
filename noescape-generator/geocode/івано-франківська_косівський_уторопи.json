@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Уторопи",
+               "short_name" : "Уторопи",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Косівський район",
+               "short_name" : "Косівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Івано-Франківська область",
+               "short_name" : "Івано-Франківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "78622",
+               "short_name" : "78622",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Уторопи, Івано-Франківська область, Україна, 78622",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.404025,
+                  "lng" : 25.001996
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.368814,
+                  "lng" : 24.963908
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.38190760000001,
+               "lng" : 24.981939
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.404025,
+                  "lng" : 25.001996
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.368814,
+                  "lng" : 24.963908
+               }
+            }
+         },
+         "place_id" : "ChIJS0RmhXTFNkcRBiSHXlkndS4",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

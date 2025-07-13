@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Роздільнянський район",
+               "short_name" : "Роздільнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Роздільнянський район, Одеська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.990412,
+                  "lng" : 30.530109
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.615347,
+                  "lng" : 29.833626
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.8414095,
+               "lng" : 30.1756639
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.990412,
+                  "lng" : 30.530109
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.615347,
+                  "lng" : 29.833626
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJg5xTIlrryEAR7A2kyucBGkw",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Парканівка",
+               "short_name" : "Парканівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Захарівський район",
+               "short_name" : "Захарівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66733",
+               "short_name" : "66733",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Парканівка, Одеська область, Україна, 66733",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.271959,
+                  "lng" : 29.6242899
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.255298,
+                  "lng" : 29.6067721
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.2654492,
+               "lng" : 29.6122253
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.271959,
+                  "lng" : 29.6242899
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.255298,
+                  "lng" : 29.6067721
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJT0dGNzM2yUARq1wc-94Y0lE",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,190 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Олександрівка",
+               "short_name" : "Олександрівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Станично-Луганський район",
+               "short_name" : "Станично-Луганський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Луганська область",
+               "short_name" : "Луганська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "93620",
+               "short_name" : "93620",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Олександрівка, Луганська область, Україна, 93620",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.983242,
+                  "lng" : 39.747899
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.9708609,
+                  "lng" : 39.733971
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.97748420000001,
+               "lng" : 39.7407843
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.983242,
+                  "lng" : 39.747899
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.9708609,
+                  "lng" : 39.733971
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJWWj1Q44KH0ER4vStXc5ZOXk",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Демино-Олександрівка",
+               "short_name" : "Демино-Олександрівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Троїцький район",
+               "short_name" : "Троїцький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Луганська область",
+               "short_name" : "Луганська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "92110",
+               "short_name" : "92110",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Демино-Олександрівка, Луганська область, Україна, 92110",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.047827,
+                  "lng" : 38.2509191
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.022454,
+                  "lng" : 38.20063409999999
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.0288665,
+               "lng" : 38.2286537
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.047827,
+                  "lng" : 38.2509191
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.022454,
+                  "lng" : 38.20063409999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJu4Pq-odGIUERUlZc42v6Cos",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

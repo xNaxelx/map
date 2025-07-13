@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Шершенці",
+               "short_name" : "Шершенці",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кодимський район",
+               "short_name" : "Кодимський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66034",
+               "short_name" : "66034",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Шершенці, Одеська область, Україна, 66034",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.009054,
+                  "lng" : 29.032235
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.9619459,
+                  "lng" : 28.990029
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.9835555,
+               "lng" : 29.007641
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.009054,
+                  "lng" : 29.032235
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.9619459,
+                  "lng" : 28.990029
+               }
+            }
+         },
+         "place_id" : "ChIJ6Y9PJp5EzEAREO9yaTaY1fg",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

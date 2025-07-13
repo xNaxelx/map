@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Ємилівка",
+               "short_name" : "Ємилівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Голованівський район",
+               "short_name" : "Голованівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кіровоградська область",
+               "short_name" : "Кіровоградська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "26532",
+               "short_name" : "26532",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Ємилівка, Кіровоградська область, Україна, 26532",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.393213,
+                  "lng" : 30.6219989
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.360574,
+                  "lng" : 30.58815
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.3773239,
+               "lng" : 30.6085254
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.393213,
+                  "lng" : 30.6219989
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.360574,
+                  "lng" : 30.58815
+               }
+            }
+         },
+         "place_id" : "ChIJ24sVo9gazkARUrYqcYiQEIs",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

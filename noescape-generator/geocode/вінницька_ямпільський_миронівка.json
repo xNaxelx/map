@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Миронівка",
+               "short_name" : "Миронівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ямпільський район",
+               "short_name" : "Ямпільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "24526",
+               "short_name" : "24526",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Миронівка, Вінницька область, Україна, 24526",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.31119899999999,
+                  "lng" : 28.1945371
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.295767,
+                  "lng" : 28.1641661
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.3013832,
+               "lng" : 28.1731707
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.31119899999999,
+                  "lng" : 28.1945371
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.295767,
+                  "lng" : 28.1641661
+               }
+            }
+         },
+         "place_id" : "ChIJr_5mUazazEAR-hLsahNi4Zk",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

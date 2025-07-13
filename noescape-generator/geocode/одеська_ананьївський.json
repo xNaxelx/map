@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Ананьївський район",
+               "short_name" : "Ананьївський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Ананьївський район, Одеська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.875071,
+                  "lng" : 30.276067
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.4347629,
+                  "lng" : 29.6308589
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.6684926,
+               "lng" : 29.9831708
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.875071,
+                  "lng" : 30.276067
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.4347629,
+                  "lng" : 29.6308589
+               }
+            }
+         },
+         "place_id" : "ChIJy4b3fJiVzkAR4NfvjguTxWE",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Сказинці",
+               "short_name" : "Сказинці",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Могилів-Подільський район",
+               "short_name" : "Могилів-Подільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Сказинці, Вінницька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.529111,
+                  "lng" : 27.915586
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.495785,
+                  "lng" : 27.887215
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.51031589999999,
+               "lng" : 27.8994178
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.529111,
+                  "lng" : 27.915586
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.495785,
+                  "lng" : 27.887215
+               }
+            }
+         },
+         "place_id" : "ChIJV1diarIpM0cRCq4ZBnMwsQw",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

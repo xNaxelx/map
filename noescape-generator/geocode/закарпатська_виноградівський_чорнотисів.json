@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Чорнотисів",
+               "short_name" : "Чорнотисів",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Виноградівський район",
+               "short_name" : "Виноградівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90363",
+               "short_name" : "90363",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Чорнотисів, Закарпатська область, Україна, 90363",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.08725700000001,
+                  "lng" : 23.061625
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.0691619,
+                  "lng" : 23.0310331
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.0757149,
+               "lng" : 23.0547661
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.08725700000001,
+                  "lng" : 23.061625
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.0691619,
+                  "lng" : 23.0310331
+               }
+            }
+         },
+         "place_id" : "ChIJtUnkbVc7OEcR7i3goX3bKcU",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

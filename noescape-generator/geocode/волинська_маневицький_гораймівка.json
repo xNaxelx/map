@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Гораймівка",
+               "short_name" : "Гораймівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Маневицький район",
+               "short_name" : "Маневицький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "44681",
+               "short_name" : "44681",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Гораймівка, Волинська область, Україна, 44681",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.054672,
+                  "lng" : 25.9154161
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.03551299999999,
+                  "lng" : 25.8831019
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.0467823,
+               "lng" : 25.8958784
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.054672,
+                  "lng" : 25.9154161
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.03551299999999,
+                  "lng" : 25.8831019
+               }
+            }
+         },
+         "place_id" : "ChIJUW1hnMD7JUcR1njN9z9TdYw",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

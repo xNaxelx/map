@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Поплавка",
+               "short_name" : "Поплавка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Подільський район",
+               "short_name" : "Подільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66302",
+               "short_name" : "66302",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Поплавка, Одеська область, Україна, 66302",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.6339371,
+                  "lng" : 29.7636039
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.614634,
+                  "lng" : 29.7430039
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.6208184,
+               "lng" : 29.7491714
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.6339371,
+                  "lng" : 29.7636039
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.614634,
+                  "lng" : 29.7430039
+               }
+            }
+         },
+         "place_id" : "ChIJ10ZqDZW8zkARrlVsmt5lqqg",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

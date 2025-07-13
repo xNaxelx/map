@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Рівне",
+               "short_name" : "Рівне",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Дрогобицький район",
+               "short_name" : "Дрогобицький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "82163",
+               "short_name" : "82163",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Рівне, Львівська область, Україна, 82163",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.385305,
+                  "lng" : 23.7869009
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.375138,
+                  "lng" : 23.7742991
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.3796964,
+               "lng" : 23.7819047
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.385305,
+                  "lng" : 23.7869009
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.375138,
+                  "lng" : 23.7742991
+               }
+            }
+         },
+         "place_id" : "ChIJ-6q5i0JbOkcRAL7bvrzsl3M",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

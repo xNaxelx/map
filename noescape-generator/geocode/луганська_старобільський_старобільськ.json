@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Старобільськ",
+               "short_name" : "Старобільськ",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Старобільський район",
+               "short_name" : "Старобільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Луганська область",
+               "short_name" : "Луганська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "92700",
+               "short_name" : "92700",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Старобільськ, Луганська область, Україна, 92700",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.298426,
+                  "lng" : 38.9652791
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.256704,
+                  "lng" : 38.8829561
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.2736853,
+               "lng" : 38.9255482
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.298426,
+                  "lng" : 38.9652791
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.256704,
+                  "lng" : 38.8829561
+               }
+            }
+         },
+         "place_id" : "ChIJYT56QxUzIEERl6nHi5zkV4Q",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

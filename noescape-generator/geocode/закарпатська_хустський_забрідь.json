@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Забрідь",
+               "short_name" : "Забрідь",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Хустський район",
+               "short_name" : "Хустський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90428",
+               "short_name" : "90428",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Забрідь, Закарпатська область, Україна, 90428",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.316194,
+                  "lng" : 23.586583
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.265588,
+                  "lng" : 23.562593
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.2861538,
+               "lng" : 23.573431
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.316194,
+                  "lng" : 23.586583
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.265588,
+                  "lng" : 23.562593
+               }
+            }
+         },
+         "place_id" : "ChIJ26bvGYd-N0cR1Ib-NrqzdDc",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

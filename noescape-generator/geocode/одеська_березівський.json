@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Березівський район",
+               "short_name" : "Березівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Березівський район, Одеська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.4259829,
+                  "lng" : 31.305305
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.963333,
+                  "lng" : 30.46346399999999
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.15931699999999,
+               "lng" : 30.8401283
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.4259829,
+                  "lng" : 31.305305
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.963333,
+                  "lng" : 30.46346399999999
+               }
+            }
+         },
+         "place_id" : "ChIJ-_LvR39Fz0AR6uMxiFruS1U",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

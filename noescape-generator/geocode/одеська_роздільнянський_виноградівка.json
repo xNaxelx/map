@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Виноградівка",
+               "short_name" : "Виноградівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Роздільнянський район",
+               "short_name" : "Роздільнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67482",
+               "short_name" : "67482",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Виноградівка, Одеська область, Україна, 67482",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.7437159,
+                  "lng" : 30.0856322
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.7245929,
+                  "lng" : 30.0634799
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.7338212,
+               "lng" : 30.07508009999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.7437159,
+                  "lng" : 30.0856322
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.7245929,
+                  "lng" : 30.0634799
+               }
+            }
+         },
+         "place_id" : "ChIJ474cQ5ryyEAR2kTzlsXF2BY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

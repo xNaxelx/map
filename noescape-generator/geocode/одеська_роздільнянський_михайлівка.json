@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Єгорівка",
+               "short_name" : "Єгорівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Роздільнянський район",
+               "short_name" : "Роздільнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67470",
+               "short_name" : "67470",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Єгорівка, Одеська область, Україна, 67470",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.736009,
+                  "lng" : 30.421473
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.7083039,
+                  "lng" : 30.3875721
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.7191455,
+               "lng" : 30.4036787
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.736009,
+                  "lng" : 30.421473
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.7083039,
+                  "lng" : 30.3875721
+               }
+            }
+         },
+         "place_id" : "ChIJe00R8gWayEAR_r0Yl47ROHY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Білоусівка",
+               "short_name" : "Білоусівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сокирянський район",
+               "short_name" : "Сокирянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60233",
+               "short_name" : "60233",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Білоусівка, Чернівецька область, Україна, 60233",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.5480191,
+                  "lng" : 27.3620892
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.516175,
+                  "lng" : 27.3178289
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5328738,
+               "lng" : 27.3388084
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.5480191,
+                  "lng" : 27.3620892
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.516175,
+                  "lng" : 27.3178289
+               }
+            }
+         },
+         "place_id" : "ChIJnQFwN2AaM0cRa-qpIgxXhU0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

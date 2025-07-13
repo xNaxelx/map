@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Роздільнянський район",
+               "short_name" : "Роздільнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Роздільнянський район, Одеська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.990412,
+                  "lng" : 30.530109
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.615347,
+                  "lng" : 29.833626
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.8414095,
+               "lng" : 30.1756639
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.990412,
+                  "lng" : 30.530109
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.615347,
+                  "lng" : 29.833626
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJg5xTIlrryEAR7A2kyucBGkw",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Слов'яносербка",
+               "short_name" : "Слов'яносербка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Великомихайлівський район",
+               "short_name" : "Великомихайлівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67142",
+               "short_name" : "67142",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Слов'яносербка, Одеська область, Україна, 67142",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.965784,
+                  "lng" : 29.712634
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.9489971,
+                  "lng" : 29.689169
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.95764699999999,
+               "lng" : 29.7017563
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.965784,
+                  "lng" : 29.712634
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.9489971,
+                  "lng" : 29.689169
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJI-R_bsAeyUARzO1gmMYroMk",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

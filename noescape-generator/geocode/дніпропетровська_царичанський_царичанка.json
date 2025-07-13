@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Царичанка",
+               "short_name" : "Царичанка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Царичанський район",
+               "short_name" : "Царичанський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Дніпропетровська область",
+               "short_name" : "Дніпропетровська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "51000",
+               "short_name" : "51000",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Царичанка, Дніпропетровська область, Україна, 51000",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.97531799999999,
+                  "lng" : 34.5071911
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.916963,
+                  "lng" : 34.449195
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.9473321,
+               "lng" : 34.4704269
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.97531799999999,
+                  "lng" : 34.5071911
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.916963,
+                  "lng" : 34.449195
+               }
+            }
+         },
+         "place_id" : "ChIJC5ngAV-a2UARg4mQ4Wew6Xw",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

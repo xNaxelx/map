@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Жидачів",
+               "short_name" : "Жидачів",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Жидачівський район",
+               "short_name" : "Жидачівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "81701",
+               "short_name" : "81701",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Жидачів, Львівська область, Україна, 81701",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.398423,
+                  "lng" : 24.1643021
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.3716269,
+                  "lng" : 24.124412
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.3853385,
+               "lng" : 24.1421827
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.398423,
+                  "lng" : 24.1643021
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.3716269,
+                  "lng" : 24.124412
+               }
+            }
+         },
+         "place_id" : "ChIJ1ZoHX3RjOkcRxLtn_7HOgiQ",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

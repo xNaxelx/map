@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Нове",
+               "short_name" : "Нове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Очаківський район",
+               "short_name" : "Очаківський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Миколаївська область",
+               "short_name" : "Миколаївська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "57520",
+               "short_name" : "57520",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Нове, Миколаївська область, Україна, 57520",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.87207710000001,
+                  "lng" : 31.700616
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.859859,
+                  "lng" : 31.6897769
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.8658744,
+               "lng" : 31.6958442
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.87207710000001,
+                  "lng" : 31.700616
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.859859,
+                  "lng" : 31.6897769
+               }
+            }
+         },
+         "place_id" : "ChIJv7XuXBjaxUARKkCT4-qFr14",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

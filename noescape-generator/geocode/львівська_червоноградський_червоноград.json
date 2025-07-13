@@ -1,0 +1,128 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Червоноград",
+               "short_name" : "Червоноград",
+               "types" : 
+               [
+                  "establishment",
+                  "point_of_interest",
+                  "train_station",
+                  "transit_station"
+               ]
+            },
+            {
+               "long_name" : "Шептицький",
+               "short_name" : "Шептицький",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Червоноградська міськрада",
+               "short_name" : "Червоноградська міськрада",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "80100",
+               "short_name" : "80100",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Червоноград, Шептицький, Львівська область, Україна, 80100",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 50.396845,
+               "lng" : 24.2293266
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.3980163302915,
+                  "lng" : 24.2306554302915
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.39531836970851,
+                  "lng" : 24.2279574697085
+               }
+            }
+         },
+         "navigation_points" : 
+         [
+            {
+               "location" : 
+               {
+                  "latitude" : 50.3965482,
+                  "longitude" : 24.2293742
+               },
+               "restricted_travel_modes" : 
+               [
+                  "WALK"
+               ]
+            },
+            {
+               "location" : 
+               {
+                  "latitude" : 50.3968442,
+                  "longitude" : 24.2293007
+               },
+               "restricted_travel_modes" : 
+               [
+                  "DRIVE"
+               ]
+            }
+         ],
+         "partial_match" : true,
+         "place_id" : "ChIJLVenstbeJEcRhgn15O3Kc5Q",
+         "plus_code" : 
+         {
+            "compound_code" : "96WH+PP Шептицький, Львівська область, Україна",
+            "global_code" : "9G2696WH+PP"
+         },
+         "types" : 
+         [
+            "establishment",
+            "point_of_interest",
+            "train_station",
+            "transit_station"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

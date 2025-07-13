@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Кіцманський район",
+               "short_name" : "Кіцманський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Кіцманський район, Чернівецька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.628276,
+                  "lng" : 25.909711
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.251811,
+                  "lng" : 25.4993129
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.4439595,
+               "lng" : 25.7258484
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.628276,
+                  "lng" : 25.909711
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.251811,
+                  "lng" : 25.4993129
+               }
+            }
+         },
+         "place_id" : "ChIJzWSZy_FUMUcRjCIpFo-6hRY",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

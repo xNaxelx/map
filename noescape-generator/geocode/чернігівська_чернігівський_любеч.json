@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Любеч",
+               "short_name" : "Любеч",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ріпкинський район",
+               "short_name" : "Ріпкинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернігівська область",
+               "short_name" : "Чернігівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "15042",
+               "short_name" : "15042",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Любеч, Чернігівська область, Україна, 15042",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.7252689,
+                  "lng" : 30.6951782
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.69189710000001,
+                  "lng" : 30.6330029
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.700259,
+               "lng" : 30.6625433
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.7252689,
+                  "lng" : 30.6951782
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.69189710000001,
+                  "lng" : 30.6330029
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJqdoyWZp01UYRvPhmQLBtSbs",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Чернігівський район",
+               "short_name" : "Чернігівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернігівська область",
+               "short_name" : "Чернігівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Чернігівський район, Чернігівська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.7051801,
+                  "lng" : 31.695354
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.172694,
+                  "lng" : 30.5400821
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.3773101,
+               "lng" : 30.9443955
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.7051801,
+                  "lng" : 31.695354
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.172694,
+                  "lng" : 30.5400821
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ8eGKCCNF1UYRQPHQFM2rvLs",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

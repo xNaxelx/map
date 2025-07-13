@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Озерне",
+               "short_name" : "Озерне",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ізмаїльський район",
+               "short_name" : "Ізмаїльський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68660",
+               "short_name" : "68660",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Озерне, Одеська область, Україна, 68660",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.420682,
+                  "lng" : 28.69379
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.389565,
+                  "lng" : 28.6623189
+               }
+            },
+            "location" : 
+            {
+               "lat" : 45.4065229,
+               "lng" : 28.672854
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.420682,
+                  "lng" : 28.69379
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.389565,
+                  "lng" : 28.6623189
+               }
+            }
+         },
+         "place_id" : "ChIJn_Mthoxst0AR488J6BefmVU",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

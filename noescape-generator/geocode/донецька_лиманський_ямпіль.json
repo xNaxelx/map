@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Ямпіль",
+               "short_name" : "Ямпіль",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Лиманський район",
+               "short_name" : "Лиманський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Донецька область",
+               "short_name" : "Донецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "84461",
+               "short_name" : "84461",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Ямпіль, Донецька область, Україна, 84461",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.9479001,
+                  "lng" : 37.9972801
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.9166889,
+                  "lng" : 37.926849
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.9377177,
+               "lng" : 37.9477328
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.9479001,
+                  "lng" : 37.9972801
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.9166889,
+                  "lng" : 37.926849
+               }
+            }
+         },
+         "place_id" : "ChIJ5SHy-BJ2IEEReD2thfJH9Ss",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

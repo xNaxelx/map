@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Розтоки",
+               "short_name" : "Розтоки",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рахівський район",
+               "short_name" : "Рахівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90644",
+               "short_name" : "90644",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Розтоки, Закарпатська область, Україна, 90644",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.083986,
+                  "lng" : 24.3267391
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.056432,
+                  "lng" : 24.2481241
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.0669854,
+               "lng" : 24.2984952
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.083986,
+                  "lng" : 24.3267391
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.056432,
+                  "lng" : 24.2481241
+               }
+            }
+         },
+         "place_id" : "ChIJj1Znw44AN0cRiJFYs8SV9XA",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

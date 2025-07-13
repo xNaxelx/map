@@ -1,0 +1,98 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Недобоївці",
+               "short_name" : "Недобоївці",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Хотинський район",
+               "short_name" : "Хотинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60035",
+               "short_name" : "60035",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Недобоївці, Чернівецька область, Україна, 60035",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.446331,
+                  "lng" : 26.3819329
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.4262271,
+                  "lng" : 26.339522
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.4309762,
+               "lng" : 26.3637253
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.446331,
+                  "lng" : 26.3819329
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.4262271,
+                  "lng" : 26.339522
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJRa7oCLmSM0cRVJPZHh9nEEo",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

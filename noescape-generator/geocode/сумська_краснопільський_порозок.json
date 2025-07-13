@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Порозок",
+               "short_name" : "Порозок",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Краснопільський район",
+               "short_name" : "Краснопільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сумська область",
+               "short_name" : "Сумська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "42457",
+               "short_name" : "42457",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Порозок, Сумська область, Україна, 42457",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.570054,
+                  "lng" : 35.392482
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.541559,
+                  "lng" : 35.3582469
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.5582207,
+               "lng" : 35.3699392
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.570054,
+                  "lng" : 35.392482
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.541559,
+                  "lng" : 35.3582469
+               }
+            }
+         },
+         "place_id" : "ChIJLSZKJihjKEERyOEXIflbVcY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

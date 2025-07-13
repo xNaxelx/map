@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Ракош",
+               "short_name" : "Ракош",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Хустський район",
+               "short_name" : "Хустський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90454",
+               "short_name" : "90454",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Ракош, Закарпатська область, Україна, 90454",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.046757,
+                  "lng" : 23.399186
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.03962,
+                  "lng" : 23.3776479
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.0438604,
+               "lng" : 23.382085
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.046757,
+                  "lng" : 23.399186
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.03962,
+                  "lng" : 23.3776479
+               }
+            }
+         },
+         "place_id" : "ChIJucAvBSCJN0cRcBDZ3-qrtbk",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

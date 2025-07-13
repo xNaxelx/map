@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Садки",
+               "short_name" : "Садки",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Могилів-Подільський район",
+               "short_name" : "Могилів-Подільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "24050",
+               "short_name" : "24050",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Садки, Вінницька область, Україна, 24050",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.48528,
+                  "lng" : 28.014661
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.46633689999999,
+                  "lng" : 27.9906789
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.47611430000001,
+               "lng" : 28.0035931
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.48528,
+                  "lng" : 28.014661
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.46633689999999,
+                  "lng" : 27.9906789
+               }
+            }
+         },
+         "place_id" : "ChIJwwB6rv8qM0cRyOHEvquaf0k",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

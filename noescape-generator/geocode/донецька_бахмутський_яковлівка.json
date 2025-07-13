@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Яковлівка",
+               "short_name" : "Яковлівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Бахмутський район",
+               "short_name" : "Бахмутський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Донецька область",
+               "short_name" : "Донецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "84542",
+               "short_name" : "84542",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Яковлівка, Донецька область, Україна, 84542",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.7282079,
+                  "lng" : 38.1624549
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.700947,
+                  "lng" : 38.1279391
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.71337880000001,
+               "lng" : 38.1437491
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.7282079,
+                  "lng" : 38.1624549
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.700947,
+                  "lng" : 38.1279391
+               }
+            }
+         },
+         "place_id" : "ChIJi80GAe3w30ARPcMvrkxTXCY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

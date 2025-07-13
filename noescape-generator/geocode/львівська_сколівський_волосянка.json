@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Волосянка",
+               "short_name" : "Волосянка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сколівський район",
+               "short_name" : "Сколівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "82663",
+               "short_name" : "82663",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Волосянка, Львівська область, Україна, 82663",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.797281,
+                  "lng" : 23.439597
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.7628199,
+                  "lng" : 23.416843
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.7793766,
+               "lng" : 23.4290334
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.797281,
+                  "lng" : 23.439597
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.7628199,
+                  "lng" : 23.416843
+               }
+            }
+         },
+         "place_id" : "ChIJCf6dc8TyOUcROGbz6qPEZhY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

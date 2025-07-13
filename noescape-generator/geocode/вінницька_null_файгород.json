@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Файгород",
+               "short_name" : "Файгород",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Крижопільський район",
+               "short_name" : "Крижопільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "24624",
+               "short_name" : "24624",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Файгород, Вінницька область, Україна, 24624",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.24777400000001,
+                  "lng" : 28.7194279
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.23655189999999,
+                  "lng" : 28.7053029
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.2417938,
+               "lng" : 28.7112063
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.24777400000001,
+                  "lng" : 28.7194279
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.23655189999999,
+                  "lng" : 28.7053029
+               }
+            }
+         },
+         "place_id" : "ChIJWaWdMKD8zEAR7iG8pT-afKU",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

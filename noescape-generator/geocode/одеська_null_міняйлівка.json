@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Міняйлівка",
+               "short_name" : "Міняйлівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Саратський район",
+               "short_name" : "Саратський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68210",
+               "short_name" : "68210",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Міняйлівка, Одеська область, Україна, 68210",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.40004,
+                  "lng" : 29.52757099999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.365271,
+                  "lng" : 29.5086909
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.3838128,
+               "lng" : 29.5194386
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.40004,
+                  "lng" : 29.52757099999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.365271,
+                  "lng" : 29.5086909
+               }
+            }
+         },
+         "place_id" : "ChIJb3lH8Os4yEAR_gMHyiIsAOo",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

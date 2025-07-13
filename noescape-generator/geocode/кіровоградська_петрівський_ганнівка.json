@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Ганнівка",
+               "short_name" : "Ганнівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Петрівський район",
+               "short_name" : "Петрівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кіровоградська область",
+               "short_name" : "Кіровоградська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "28325",
+               "short_name" : "28325",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Ганнівка, Кіровоградська область, Україна, 28325",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.260869,
+                  "lng" : 33.497577
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.219477,
+                  "lng" : 33.4182191
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.2373146,
+               "lng" : 33.4660826
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.260869,
+                  "lng" : 33.497577
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.219477,
+                  "lng" : 33.4182191
+               }
+            }
+         },
+         "place_id" : "ChIJ_9vg0UH32kAR1awFvT0Q39k",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

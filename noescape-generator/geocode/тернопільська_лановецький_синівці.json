@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Синівці",
+               "short_name" : "Синівці",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Лановецький район",
+               "short_name" : "Лановецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Тернопільська область",
+               "short_name" : "Тернопільська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "47412",
+               "short_name" : "47412",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Синівці, Тернопільська область, Україна, 47412",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.8635549,
+                  "lng" : 25.995449
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.836535,
+                  "lng" : 25.9381301
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.8502806,
+               "lng" : 25.97259
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.8635549,
+                  "lng" : 25.995449
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.836535,
+                  "lng" : 25.9381301
+               }
+            }
+         },
+         "place_id" : "ChIJMzP1za_TL0cRfvFDDqDm9Cc",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

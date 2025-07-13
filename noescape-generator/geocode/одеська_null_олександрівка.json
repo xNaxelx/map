@@ -1,0 +1,188 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Олександрівка",
+               "short_name" : "Олександрівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Іллічівська міськрада",
+               "short_name" : "Іллічівська міськрада",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68091",
+               "short_name" : "68091",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Олександрівка, Одеська область, Україна, 68091",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.340103,
+                  "lng" : 30.648566
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.321691,
+                  "lng" : 30.6177459
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.3293707,
+               "lng" : 30.6307357
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.340103,
+                  "lng" : 30.648566
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.321691,
+                  "lng" : 30.6177459
+               }
+            }
+         },
+         "place_id" : "ChIJrWVq2QPMx0ARfDCsLaWj97E",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Олександрівка",
+               "short_name" : "Олександрівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Лиманський район",
+               "short_name" : "Лиманський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67512",
+               "short_name" : "67512",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Олександрівка, Одеська область, Україна, 67512",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.614598,
+                  "lng" : 30.881017
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.5976551,
+                  "lng" : 30.852175
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.6071872,
+               "lng" : 30.872231
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.614598,
+                  "lng" : 30.881017
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.5976551,
+                  "lng" : 30.852175
+               }
+            }
+         },
+         "place_id" : "ChIJC65qAJg8xkAR8D8XIjT8rY0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

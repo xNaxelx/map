@@ -1,0 +1,90 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Фастівець",
+               "short_name" : "Фастівець",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Фастівський район",
+               "short_name" : "Фастівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Київська область",
+               "short_name" : "Київська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "08541",
+               "short_name" : "08541",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Фастівець, Київська область, Україна, 08541",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 50.0614552,
+               "lng" : 30.0422406
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.06267718029151,
+                  "lng" : 30.0435393802915
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.05997921970851,
+                  "lng" : 30.0408414197085
+               }
+            }
+         },
+         "place_id" : "ChIJz6-8KQBX00ARELZ48aU37u8",
+         "plus_code" : 
+         {
+            "compound_code" : "326R+HV Фастівець, Київська область, Україна",
+            "global_code" : "9G2G326R+HV"
+         },
+         "types" : 
+         [
+            "establishment",
+            "lodging",
+            "point_of_interest"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

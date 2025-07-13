@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Вишневе",
+               "short_name" : "Вишневе",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Татарбунарський район",
+               "short_name" : "Татарбунарський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68131",
+               "short_name" : "68131",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Вишневе, Одеська область, Україна, 68131",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.825148,
+                  "lng" : 29.78418499999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.787769,
+                  "lng" : 29.763325
+               }
+            },
+            "location" : 
+            {
+               "lat" : 45.8042268,
+               "lng" : 29.7733919
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.825148,
+                  "lng" : 29.78418499999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.787769,
+                  "lng" : 29.763325
+               }
+            }
+         },
+         "place_id" : "ChIJbbceXkMbuEARXCldPy9Vkww",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

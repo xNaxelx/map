@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Жденієво",
+               "short_name" : "Жденієво",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Воловецький район",
+               "short_name" : "Воловецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "89120",
+               "short_name" : "89120",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Жденієво, Закарпатська область, Україна, 89120",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.785124,
+                  "lng" : 23.00474
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.756147,
+                  "lng" : 22.9541709
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.7728123,
+               "lng" : 22.9762368
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.785124,
+                  "lng" : 23.00474
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.756147,
+                  "lng" : 22.9541709
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJJSh9shucOUcRAIByEmH-zTs",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Мукачівський район",
+               "short_name" : "Мукачівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Мукачівський район, Закарпатська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.650665,
+                  "lng" : 22.9546729
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.2775459,
+                  "lng" : 22.3595321
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5206301,
+               "lng" : 22.723114
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.650665,
+                  "lng" : 22.9546729
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.2775459,
+                  "lng" : 22.3595321
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJjdeevUWqOUcRXOKNF__MK4s",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

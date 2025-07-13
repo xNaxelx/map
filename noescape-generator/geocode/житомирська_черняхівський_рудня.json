@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Рудня",
+               "short_name" : "Рудня",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Черняхівський район",
+               "short_name" : "Черняхівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Житомирська область",
+               "short_name" : "Житомирська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "12320",
+               "short_name" : "12320",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Рудня, Житомирська область, Україна, 12320",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.562928,
+                  "lng" : 28.7232319
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.548595,
+                  "lng" : 28.7052438
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.5557467,
+               "lng" : 28.7118536
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.562928,
+                  "lng" : 28.7232319
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.548595,
+                  "lng" : 28.7052438
+               }
+            }
+         },
+         "place_id" : "ChIJ7yHjJxyMK0cRDksfvRU6Z_A",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Ясинове",
+               "short_name" : "Ясинове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Олександрівський район",
+               "short_name" : "Олександрівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кіровоградська область",
+               "short_name" : "Кіровоградська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "27325",
+               "short_name" : "27325",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Ясинове, Кіровоградська область, Україна, 27325",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.87309310000001,
+                  "lng" : 32.3619869
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.863434,
+                  "lng" : 32.3452549
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.8687925,
+               "lng" : 32.3545977
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.87309310000001,
+                  "lng" : 32.3619869
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.863434,
+                  "lng" : 32.3452549
+               }
+            }
+         },
+         "place_id" : "ChIJo0_94iDl0EARqMtlSV85rv8",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

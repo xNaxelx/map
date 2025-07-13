@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Кам'янівка",
+               "short_name" : "Кам'янівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Овруцький район",
+               "short_name" : "Овруцький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Житомирська область",
+               "short_name" : "Житомирська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "11114",
+               "short_name" : "11114",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Кам'янівка, Житомирська область, Україна, 11114",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.414309,
+                  "lng" : 28.931571
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.402026,
+                  "lng" : 28.912626
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.4079323,
+               "lng" : 28.9214592
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.414309,
+                  "lng" : 28.931571
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.402026,
+                  "lng" : 28.912626
+               }
+            }
+         },
+         "place_id" : "ChIJTT4wvKQgKkcRxgFZdLEuU00",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Побєда",
+               "short_name" : "Побєда",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Мар'їнський район",
+               "short_name" : "Мар'їнський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Донецька область",
+               "short_name" : "Донецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "85600",
+               "short_name" : "85600",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Побєда, Донецька область, Україна, 85600",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.918806,
+                  "lng" : 37.4683462
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.910653,
+                  "lng" : 37.453798
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.91610319999999,
+               "lng" : 37.463432
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.918806,
+                  "lng" : 37.4683462
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.910653,
+                  "lng" : 37.453798
+               }
+            }
+         },
+         "place_id" : "ChIJ6STukuij4EARnF0o7wmE3BI",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

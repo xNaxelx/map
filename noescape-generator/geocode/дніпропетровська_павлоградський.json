@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Павлоградський район",
+               "short_name" : "Павлоградський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Дніпропетровська область",
+               "short_name" : "Дніпропетровська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Павлоградський район, Дніпропетровська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.7812439,
+                  "lng" : 36.319297
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.35039099999999,
+                  "lng" : 35.520375
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.6557962,
+               "lng" : 35.774814
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.7812439,
+                  "lng" : 36.319297
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.35039099999999,
+                  "lng" : 35.520375
+               }
+            }
+         },
+         "place_id" : "ChIJl7kZ4_DH3kARctGhSeSgyAw",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

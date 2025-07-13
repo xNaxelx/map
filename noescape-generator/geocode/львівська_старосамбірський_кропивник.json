@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Кропивник",
+               "short_name" : "Кропивник",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Старосамбірський район",
+               "short_name" : "Старосамбірський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "82042",
+               "short_name" : "82042",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Кропивник, Львівська область, Україна, 82042",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.590792,
+                  "lng" : 22.7386889
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.573162,
+                  "lng" : 22.713936
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.5815128,
+               "lng" : 22.7266229
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.590792,
+                  "lng" : 22.7386889
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.573162,
+                  "lng" : 22.713936
+               }
+            }
+         },
+         "place_id" : "ChIJAyXR2PSPO0cREzdZNmSakng",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

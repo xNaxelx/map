@@ -1,0 +1,188 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Троїцьке",
+               "short_name" : "Троїцьке",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Біляївський район",
+               "short_name" : "Біляївський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67641",
+               "short_name" : "67641",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Троїцьке, Одеська область, Україна, 67641",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.560467,
+                  "lng" : 30.0421291
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.5181299,
+                  "lng" : 29.9885791
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.5402707,
+               "lng" : 30.0171191
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.560467,
+                  "lng" : 30.0421291
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.5181299,
+                  "lng" : 29.9885791
+               }
+            }
+         },
+         "place_id" : "ChIJ6ec_eQphyEARli8NXPV4qC0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Троїцьке",
+               "short_name" : "Троїцьке",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Любашівський район",
+               "short_name" : "Любашівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66560",
+               "short_name" : "66560",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Троїцьке, Одеська область, Україна, 66560",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.667234,
+                  "lng" : 30.314983
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.606172,
+                  "lng" : 30.2375769
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.6370547,
+               "lng" : 30.2882077
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.667234,
+                  "lng" : 30.314983
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.606172,
+                  "lng" : 30.2375769
+               }
+            }
+         },
+         "place_id" : "ChIJN7Qkm1jvzkARqZRkJWbmTOQ",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

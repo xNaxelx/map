@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Римачі",
+               "short_name" : "Римачі",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Любомльський район",
+               "short_name" : "Любомльський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "44350",
+               "short_name" : "44350",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Римачі, Волинська область, Україна, 44350",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.2092079,
+                  "lng" : 23.9198269
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.17716,
+                  "lng" : 23.878806
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.1951513,
+               "lng" : 23.9104071
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.2092079,
+                  "lng" : 23.9198269
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.17716,
+                  "lng" : 23.878806
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJrzG3C3WKI0cRKq2QGUnZD6M",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Ковельський район",
+               "short_name" : "Ковельський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Ковельський район, Волинська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.412778,
+                  "lng" : 25.409608
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.001411,
+                  "lng" : 24.4706039
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.157963,
+               "lng" : 24.9486783
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.412778,
+                  "lng" : 25.409608
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.001411,
+                  "lng" : 24.4706039
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJpwWsLfgtJEcR3j_eqEbcaZs",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

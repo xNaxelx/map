@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Олександрівка",
+               "short_name" : "Олександрівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Пирятинський район",
+               "short_name" : "Пирятинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Полтавська область",
+               "short_name" : "Полтавська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "37000",
+               "short_name" : "37000",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Олександрівка, Полтавська область, Україна, 37000",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.253167,
+                  "lng" : 32.3943041
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.24142500000001,
+                  "lng" : 32.3772781
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.2467976,
+               "lng" : 32.3870364
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.253167,
+                  "lng" : 32.3943041
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.24142500000001,
+                  "lng" : 32.3772781
+               }
+            }
+         },
+         "place_id" : "ChIJbSWKSR3R1UAR9qpnO2zPBhY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

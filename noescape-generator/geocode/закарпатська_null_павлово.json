@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Павлово",
+               "short_name" : "Павлово",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Свалявський район",
+               "short_name" : "Свалявський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Павлово, Закарпатська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.65517209999999,
+                  "lng" : 22.9238262
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.6395799,
+                  "lng" : 22.902174
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.647732,
+               "lng" : 22.9135615
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.65517209999999,
+                  "lng" : 22.9238262
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.6395799,
+                  "lng" : 22.902174
+               }
+            }
+         },
+         "place_id" : "ChIJ3c5RFM2jOUcRvpWa1QzLsKU",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

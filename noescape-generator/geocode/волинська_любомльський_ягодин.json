@@ -1,0 +1,142 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "6",
+               "short_name" : "6",
+               "types" : 
+               [
+                  "street_number"
+               ]
+            },
+            {
+               "long_name" : "вулиця Прикордонників",
+               "short_name" : "вулиця Прикордонників",
+               "types" : 
+               [
+                  "route"
+               ]
+            },
+            {
+               "long_name" : "Старовойтове",
+               "short_name" : "Старовойтове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Любомльський район",
+               "short_name" : "Любомльський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська",
+               "short_name" : "Волинська",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "44332",
+               "short_name" : "44332",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Прикордонників вул. 6, вулиця Прикордонників, 6, Старовойтове, Волинська, Україна, 44332",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 51.1949425,
+               "lng" : 23.8246078
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.19621588029149,
+                  "lng" : 23.8259080302915
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.1935179197085,
+                  "lng" : 23.8232100697085
+               }
+            }
+         },
+         "navigation_points" : 
+         [
+            {
+               "location" : 
+               {
+                  "latitude" : 51.1954054,
+                  "longitude" : 23.8236659
+               }
+            },
+            {
+               "location" : 
+               {
+                  "latitude" : 51.1954955,
+                  "longitude" : 23.8244156
+               }
+            },
+            {
+               "location" : 
+               {
+                  "latitude" : 51.1952106,
+                  "longitude" : 23.8254249
+               }
+            },
+            {
+               "location" : 
+               {
+                  "latitude" : 51.1942151,
+                  "longitude" : 23.82386
+               }
+            }
+         ],
+         "partial_match" : true,
+         "place_id" : "ChIJoxLXD9KLI0cREPFFVjwo-ns",
+         "plus_code" : 
+         {
+            "compound_code" : "5RVF+XR Старовойтове, Волинська область, Україна",
+            "global_code" : "9G355RVF+XR"
+         },
+         "types" : 
+         [
+            "establishment",
+            "food",
+            "health",
+            "lodging",
+            "point_of_interest",
+            "restaurant",
+            "spa"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

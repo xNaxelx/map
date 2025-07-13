@@ -1,0 +1,191 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Стара Вижівка",
+               "short_name" : "Стара Вижівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Старовижівський район",
+               "short_name" : "Старовижівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "44401",
+               "short_name" : "44401",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Стара Вижівка, Волинська область, Україна, 44401",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.451754,
+                  "lng" : 24.4555541
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.4300261,
+                  "lng" : 24.4079819
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.4373666,
+               "lng" : 24.4366562
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.451754,
+                  "lng" : 24.4555541
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.4300261,
+                  "lng" : 24.4079819
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJPVLT0M8cJEcRal4qJyHtpPM",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Михалє",
+               "short_name" : "Михалє",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Іваничівський район",
+               "short_name" : "Іваничівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "22",
+               "short_name" : "22",
+               "types" : 
+               [
+                  "postal_code",
+                  "postal_code_prefix"
+               ]
+            }
+         ],
+         "formatted_address" : "Михалє, Волинська область, Україна, 22",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.730782,
+                  "lng" : 24.0875361
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.726139,
+                  "lng" : 24.0688709
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.7280259,
+               "lng" : 24.0757273
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.730782,
+                  "lng" : 24.0875361
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.726139,
+                  "lng" : 24.0688709
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ7fK4-N7yJEcR5HptVDlJH2A",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

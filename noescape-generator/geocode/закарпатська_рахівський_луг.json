@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Луг",
+               "short_name" : "Луг",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рахівський район",
+               "short_name" : "Рахівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90616",
+               "short_name" : "90616",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Луг, Закарпатська область, Україна, 90616",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.973805,
+                  "lng" : 24.0765981
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.9480839,
+                  "lng" : 24.032173
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.9589143,
+               "lng" : 24.0587543
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.973805,
+                  "lng" : 24.0765981
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.9480839,
+                  "lng" : 24.032173
+               }
+            }
+         },
+         "place_id" : "ChIJmYpJK8ivN0cRCAFqC4h5hAw",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,81 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Сватівський район",
+               "short_name" : "Сватівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Луганська область",
+               "short_name" : "Луганська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Сватівський район, Луганська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.71705499999999,
+                  "lng" : 38.6249259
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.263239,
+                  "lng" : 37.83751609999999
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.493718,
+               "lng" : 38.1698866
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.71705499999999,
+                  "lng" : 38.6249259
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.263239,
+                  "lng" : 37.83751609999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ7eaX1tz-IEER7BtEONq2Vv8",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

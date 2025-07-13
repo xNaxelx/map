@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Павлівське",
+               "short_name" : "Павлівське",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вільнянський район",
+               "short_name" : "Вільнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Запорізька область",
+               "short_name" : "Запорізька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "70005",
+               "short_name" : "70005",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Павлівське, Запорізька область, Україна, 70005",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.947643,
+                  "lng" : 35.4731099
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.937988,
+                  "lng" : 35.45462
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.9433807,
+               "lng" : 35.4600703
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.947643,
+                  "lng" : 35.4731099
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.937988,
+                  "lng" : 35.45462
+               }
+            }
+         },
+         "place_id" : "ChIJD55iGSdB3EAR-rNEGp-Jftg",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

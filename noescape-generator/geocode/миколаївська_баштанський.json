@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Баштанський район",
+               "short_name" : "Баштанський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Миколаївська область",
+               "short_name" : "Миколаївська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Баштанський район, Миколаївська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.614406,
+                  "lng" : 32.684334
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.133612,
+                  "lng" : 32.04901
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.31607349999999,
+               "lng" : 32.4444609
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.614406,
+                  "lng" : 32.684334
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.133612,
+                  "lng" : 32.04901
+               }
+            }
+         },
+         "place_id" : "ChIJh8lHV30PxUARxihZkN7tQo0",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

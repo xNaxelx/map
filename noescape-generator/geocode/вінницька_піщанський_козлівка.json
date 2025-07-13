@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Козлівка",
+               "short_name" : "Козлівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Піщанський район",
+               "short_name" : "Піщанський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "24734",
+               "short_name" : "24734",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Козлівка, Вінницька область, Україна, 24734",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.230223,
+                  "lng" : 29.071862
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.216734,
+                  "lng" : 29.0428749
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.2230976,
+               "lng" : 29.0562177
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.230223,
+                  "lng" : 29.071862
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.216734,
+                  "lng" : 29.0428749
+               }
+            }
+         },
+         "place_id" : "ChIJiyqfsLdUzEARjscjxD-4nTw",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Савчинське",
+               "short_name" : "Савчинське",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Захарівський район",
+               "short_name" : "Захарівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66744",
+               "short_name" : "66744",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Савчинське, Одеська область, Україна, 66744",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.233852,
+                  "lng" : 29.851356
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.207734,
+                  "lng" : 29.831881
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.21405499999999,
+               "lng" : 29.8397336
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.233852,
+                  "lng" : 29.851356
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.207734,
+                  "lng" : 29.831881
+               }
+            }
+         },
+         "place_id" : "ChIJXf3KLxouyUARMlG-q2DS-PI",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

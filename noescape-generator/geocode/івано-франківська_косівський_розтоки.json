@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Розтоки",
+               "short_name" : "Розтоки",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Косівський район",
+               "short_name" : "Косівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Івано-Франківська область",
+               "short_name" : "Івано-Франківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "78656",
+               "short_name" : "78656",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Розтоки, Івано-Франківська область, Україна, 78656",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.205914,
+                  "lng" : 25.1372011
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.161238,
+                  "lng" : 25.0727032
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.18817,
+               "lng" : 25.1137075
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.205914,
+                  "lng" : 25.1372011
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.161238,
+                  "lng" : 25.0727032
+               }
+            }
+         },
+         "place_id" : "ChIJfwCDisCVNkcRZmbEOl8YZ_o",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

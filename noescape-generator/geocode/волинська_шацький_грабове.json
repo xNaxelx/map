@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Грабове",
+               "short_name" : "Грабове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Шацький район",
+               "short_name" : "Шацький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "44023",
+               "short_name" : "44023",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Грабове, Волинська область, Україна, 44023",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.4452651,
+                  "lng" : 23.71001
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.430159,
+                  "lng" : 23.687726
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.4382275,
+               "lng" : 23.6969605
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.4452651,
+                  "lng" : 23.71001
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.430159,
+                  "lng" : 23.687726
+               }
+            }
+         },
+         "place_id" : "ChIJrRxqoCvvI0cR3sy-m0j2aQg",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

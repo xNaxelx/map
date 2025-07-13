@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Колочава",
+               "short_name" : "Колочава",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Міжгірський район",
+               "short_name" : "Міжгірський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90044",
+               "short_name" : "90044",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Колочава, Закарпатська область, Україна, 90044",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.461589,
+                  "lng" : 23.760542
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.411459,
+                  "lng" : 23.6567241
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.418023,
+               "lng" : 23.7371118
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.461589,
+                  "lng" : 23.760542
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.411459,
+                  "lng" : 23.6567241
+               }
+            }
+         },
+         "place_id" : "ChIJAWF5JdRjN0cRRIectOo4HCg",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

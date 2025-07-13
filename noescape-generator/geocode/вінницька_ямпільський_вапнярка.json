@@ -1,0 +1,240 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Вапнярка",
+               "short_name" : "Вапнярка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Томашпільський район",
+               "short_name" : "Томашпільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Вапнярка, Вінницька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.554243,
+                  "lng" : 28.7796735
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.5146997,
+                  "lng" : 28.7073999
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5334788,
+               "lng" : 28.7416366
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.554243,
+                  "lng" : 28.7796735
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.5146997,
+                  "lng" : 28.7073999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJlyuOjDIWzUARzZDs-sADB5Q",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Ямпільський район",
+               "short_name" : "Ямпільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Ямпільський район, Вінницька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.472629,
+                  "lng" : 28.5994619
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.06544599999999,
+                  "lng" : 28.071447
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.2892756,
+               "lng" : 28.3702427
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.472629,
+                  "lng" : 28.5994619
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.06544599999999,
+                  "lng" : 28.071447
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJCfTDrNvczEARnMB9O3rXadA",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Ямпільський район",
+               "short_name" : "Ямпільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сумська область",
+               "short_name" : "Сумська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Ямпільський район, Сумська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.12301590000001,
+                  "lng" : 34.1607691
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.813114,
+                  "lng" : 33.547134
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.95603819999999,
+               "lng" : 33.8019875
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.12301590000001,
+                  "lng" : 34.1607691
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.813114,
+                  "lng" : 33.547134
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJo0QuE5R5LEER_LTsL0io_Pc",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

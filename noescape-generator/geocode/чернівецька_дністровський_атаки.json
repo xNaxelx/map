@@ -1,0 +1,98 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Атаки",
+               "short_name" : "Атаки",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Хотинський район",
+               "short_name" : "Хотинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60008",
+               "short_name" : "60008",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Атаки, Чернівецька область, Україна, 60008",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.544704,
+                  "lng" : 26.489494
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.5388769,
+                  "lng" : 26.4684049
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5412471,
+               "lng" : 26.4795534
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.544704,
+                  "lng" : 26.489494
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.5388769,
+                  "lng" : 26.4684049
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJqxUOKkCVM0cR9C1J_E2340E",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

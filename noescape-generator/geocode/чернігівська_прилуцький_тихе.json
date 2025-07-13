@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Тихе",
+               "short_name" : "Тихе",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Прилуцький район",
+               "short_name" : "Прилуцький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернігівська область",
+               "short_name" : "Чернігівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "17511",
+               "short_name" : "17511",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Тихе, Чернігівська область, Україна, 17511",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.629525,
+                  "lng" : 32.26954
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.6213339,
+                  "lng" : 32.252683
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.6231061,
+               "lng" : 32.2596684
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.629525,
+                  "lng" : 32.26954
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.6213339,
+                  "lng" : 32.252683
+               }
+            }
+         },
+         "place_id" : "ChIJjyLx0kSR1UARjoQRe87qckE",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

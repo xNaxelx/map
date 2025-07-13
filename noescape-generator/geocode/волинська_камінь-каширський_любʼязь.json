@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Камінь-Каширський район",
+               "short_name" : "Камінь-Каширський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Камінь-Каширський район, Волинська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.786976,
+                  "lng" : 25.4592252
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.35040499999999,
+                  "lng" : 24.6453669
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.5800389,
+               "lng" : 25.0600104
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.786976,
+                  "lng" : 25.4592252
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.35040499999999,
+                  "lng" : 24.6453669
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJsWeyRViQJkcRTvd9vqVCEnE",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Люб'язь",
+               "short_name" : "Люб'язь",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Любешівський район",
+               "short_name" : "Любешівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "44235",
+               "short_name" : "44235",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Люб'язь, Волинська область, Україна, 44235",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.8463349,
+                  "lng" : 25.478995
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.82625299999999,
+                  "lng" : 25.4497879
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.8391452,
+               "lng" : 25.4642076
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.8463349,
+                  "lng" : 25.478995
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.82625299999999,
+                  "lng" : 25.4497879
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJO_CAfFL6JkcRaxJRZcuQssU",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

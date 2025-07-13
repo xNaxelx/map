@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Гайворонський район",
+               "short_name" : "Гайворонський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кіровоградська область",
+               "short_name" : "Кіровоградська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Гайворонський район, Кіровоградська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.4829249,
+                  "lng" : 30.166997
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.139621,
+                  "lng" : 29.749174
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.2825259,
+               "lng" : 29.9626764
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.4829249,
+                  "lng" : 30.166997
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.139621,
+                  "lng" : 29.749174
+               }
+            }
+         },
+         "place_id" : "ChIJL1CcAkLdzUARaHvWKBKyAU4",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

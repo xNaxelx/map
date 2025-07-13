@@ -1,0 +1,81 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Овруцький район",
+               "short_name" : "Овруцький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Житомирська область",
+               "short_name" : "Житомирська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Овруцький район, Житомирська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.6813502,
+                  "lng" : 29.2711289
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.0981539,
+                  "lng" : 27.9936401
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.35455049999999,
+               "lng" : 28.3765746
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.6813502,
+                  "lng" : 29.2711289
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.0981539,
+                  "lng" : 27.9936401
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJRXEQz5qPKUcRxuMZ55y2Eow",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Чудей",
+               "short_name" : "Чудей",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сторожинецький район",
+               "short_name" : "Сторожинецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "59024",
+               "short_name" : "59024",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Чудей, Чернівецька область, Україна, 59024",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.07024999999999,
+                  "lng" : 25.633953
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.026215,
+                  "lng" : 25.573949
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.0559642,
+               "lng" : 25.601845
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.07024999999999,
+                  "lng" : 25.633953
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.026215,
+                  "lng" : 25.573949
+               }
+            }
+         },
+         "place_id" : "ChIJkbD2w_giNEcRsDk4OGVoCGA",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

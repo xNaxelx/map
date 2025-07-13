@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Слобода",
+               "short_name" : "Слобода",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Буринський район",
+               "short_name" : "Буринський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сумська область",
+               "short_name" : "Сумська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "41714",
+               "short_name" : "41714",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Слобода, Сумська область, Україна, 41714",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.214248,
+                  "lng" : 33.6763139
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.156775,
+                  "lng" : 33.5725811
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.1856708,
+               "lng" : 33.6234984
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.214248,
+                  "lng" : 33.6763139
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.156775,
+                  "lng" : 33.5725811
+               }
+            }
+         },
+         "place_id" : "ChIJJ4Ei_dwsKkERipN9Tetn7iY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

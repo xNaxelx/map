@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Заставнівський район",
+               "short_name" : "Заставнівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Заставнівський район, Чернівецька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.6759141,
+                  "lng" : 26.122175
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.369581,
+                  "lng" : 25.5852901
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5105674,
+               "lng" : 25.893835
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.6759141,
+                  "lng" : 26.122175
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.369581,
+                  "lng" : 25.5852901
+               }
+            }
+         },
+         "place_id" : "ChIJ23hSeuhXMUcRhnKlbI3MpsQ",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

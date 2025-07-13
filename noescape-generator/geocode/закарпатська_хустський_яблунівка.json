@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Яблунівка",
+               "short_name" : "Яблунівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Хустський район",
+               "short_name" : "Хустський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90458",
+               "short_name" : "90458",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Яблунівка, Закарпатська область, Україна, 90458",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.0193999,
+                  "lng" : 23.5247281
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.9927,
+                  "lng" : 23.4851679
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.0117609,
+               "lng" : 23.509693
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.0193999,
+                  "lng" : 23.5247281
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.9927,
+                  "lng" : 23.4851679
+               }
+            }
+         },
+         "place_id" : "ChIJDZr4BCWON0cR0KOaGgi2W9k",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

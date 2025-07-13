@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Шацьк",
+               "short_name" : "Шацьк",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Шацький район",
+               "short_name" : "Шацький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Шацьк, Волинська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.5236721,
+                  "lng" : 23.9621859
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.45206,
+                  "lng" : 23.8967657
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.4975426,
+               "lng" : 23.9323386
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.5236721,
+                  "lng" : 23.9621859
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.45206,
+                  "lng" : 23.8967657
+               }
+            }
+         },
+         "place_id" : "ChIJ52fWOXD7I0cR3f2CDN3nk_Q",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

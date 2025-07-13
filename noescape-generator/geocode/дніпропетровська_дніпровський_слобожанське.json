@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Слобожанське",
+               "short_name" : "Слобожанське",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Дніпровський район",
+               "short_name" : "Дніпровський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Дніпропетровська область",
+               "short_name" : "Дніпропетровська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Слобожанське, Дніпропетровська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.5611543,
+                  "lng" : 35.0869349
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.5273011,
+                  "lng" : 35.0286765
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5340537,
+               "lng" : 35.0734642
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.5611543,
+                  "lng" : 35.0869349
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.5273011,
+                  "lng" : 35.0286765
+               }
+            }
+         },
+         "place_id" : "ChIJF2J8Y-FY2UARzD5uaENq8Z4",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

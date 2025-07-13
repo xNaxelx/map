@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Устилуг",
+               "short_name" : "Устилуг",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Володимир-Волинський район",
+               "short_name" : "Володимир-Волинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "44731",
+               "short_name" : "44731",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Устилуг, Волинська область, Україна, 44731",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.869965,
+                  "lng" : 24.168339
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.84979,
+                  "lng" : 24.145737
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.8609275,
+               "lng" : 24.1551215
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.869965,
+                  "lng" : 24.168339
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.84979,
+                  "lng" : 24.145737
+               }
+            }
+         },
+         "place_id" : "ChIJd-K7JA9gJEcRdts82ncjXBM",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

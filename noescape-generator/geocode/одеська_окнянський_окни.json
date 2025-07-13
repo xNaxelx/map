@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Окни",
+               "short_name" : "Окни",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Окнянський район",
+               "short_name" : "Окнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67900",
+               "short_name" : "67900",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Окни, Одеська область, Україна, 67900",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.5575771,
+                  "lng" : 29.482024
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.51999499999999,
+                  "lng" : 29.4411879
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.535711,
+               "lng" : 29.4562298
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.5575771,
+                  "lng" : 29.482024
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.51999499999999,
+                  "lng" : 29.4411879
+               }
+            }
+         },
+         "place_id" : "ChIJpU7x9TCpzkARJtasIYkJiBo",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

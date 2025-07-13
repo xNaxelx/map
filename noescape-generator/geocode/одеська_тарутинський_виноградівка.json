@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Виноградівка",
+               "short_name" : "Виноградівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Тарутинський район",
+               "short_name" : "Тарутинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68550",
+               "short_name" : "68550",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Виноградівка, Одеська область, Україна, 68550",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.0992091,
+                  "lng" : 29.1326049
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.0720739,
+                  "lng" : 29.1067739
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.08604159999999,
+               "lng" : 29.1196927
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.0992091,
+                  "lng" : 29.1326049
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.0720739,
+                  "lng" : 29.1067739
+               }
+            }
+         },
+         "place_id" : "ChIJB5bsQwPat0ARWvE_Me2Nsdg",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

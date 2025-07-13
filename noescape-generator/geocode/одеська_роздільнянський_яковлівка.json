@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Яковлівка",
+               "short_name" : "Яковлівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Роздільнянський район",
+               "short_name" : "Роздільнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67412",
+               "short_name" : "67412",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Яковлівка, Одеська область, Україна, 67412",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.876036,
+                  "lng" : 29.9748659
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.8483051,
+                  "lng" : 29.9517099
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.8631539,
+               "lng" : 29.9577982
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.876036,
+                  "lng" : 29.9748659
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.8483051,
+                  "lng" : 29.9517099
+               }
+            }
+         },
+         "place_id" : "ChIJZR63sgnmyEARXFo-Q88JJI0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Піщанка",
+               "short_name" : "Піщанка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Новомосковський район",
+               "short_name" : "Новомосковський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Дніпропетровська область",
+               "short_name" : "Дніпропетровська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "51283",
+               "short_name" : "51283",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Піщанка, Дніпропетровська область, Україна, 51283",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.617864,
+                  "lng" : 35.34437399999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.58332799999999,
+                  "lng" : 35.2671071
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5985355,
+               "lng" : 35.3141485
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.617864,
+                  "lng" : 35.34437399999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.58332799999999,
+                  "lng" : 35.2671071
+               }
+            }
+         },
+         "place_id" : "ChIJj1Ot8eRP2UARHqDnhM0f9LE",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

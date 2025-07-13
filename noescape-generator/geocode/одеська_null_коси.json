@@ -1,0 +1,188 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Коси",
+               "short_name" : "Коси",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Поді́льськ",
+               "short_name" : "Поді́льськ",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66344",
+               "short_name" : "66344",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Коси, Одеська область, Україна, 66344",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.71262309999999,
+                  "lng" : 29.516858
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.66634699999999,
+                  "lng" : 29.4786009
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.6821755,
+               "lng" : 29.4943801
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.71262309999999,
+                  "lng" : 29.516858
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.66634699999999,
+                  "lng" : 29.4786009
+               }
+            }
+         },
+         "place_id" : "ChIJbYk0FB0ezEARQoCDsVchBwI",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Коса",
+               "short_name" : "Коса",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Болградський район",
+               "short_name" : "Болградський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68743",
+               "short_name" : "68743",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Коса, Одеська область, Україна, 68743",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.48104,
+                  "lng" : 28.66006699999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.470664,
+                  "lng" : 28.6449901
+               }
+            },
+            "location" : 
+            {
+               "lat" : 45.4783442,
+               "lng" : 28.6486062
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.48104,
+                  "lng" : 28.66006699999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.470664,
+                  "lng" : 28.6449901
+               }
+            }
+         },
+         "place_id" : "ChIJsduzVZ0St0ARhjlohF-M6x4",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

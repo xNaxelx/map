@@ -1,0 +1,98 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Грубна",
+               "short_name" : "Грубна",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сокирянський район",
+               "short_name" : "Сокирянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60220",
+               "short_name" : "60220",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Грубна, Чернівецька область, Україна, 60220",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.4694189,
+                  "lng" : 27.0870949
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.443548,
+                  "lng" : 27.0522279
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.458125,
+               "lng" : 27.0718575
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.4694189,
+                  "lng" : 27.0870949
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.443548,
+                  "lng" : 27.0522279
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJs1IA8YcLM0cRk0tQ6GvFs6A",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

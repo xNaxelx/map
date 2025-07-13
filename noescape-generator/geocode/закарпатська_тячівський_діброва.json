@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Нижня Апша",
+               "short_name" : "Ниж. Апша",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Тячівський район",
+               "short_name" : "Тячівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Нижня Апша, Закарпатська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.0519804,
+                  "lng" : 23.86827
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.9698126,
+                  "lng" : 23.8076735
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.004413,
+               "lng" : 23.8349311
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.0519804,
+                  "lng" : 23.86827
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.9698126,
+                  "lng" : 23.8076735
+               }
+            }
+         },
+         "place_id" : "ChIJP0igqNCiN0cRId1qSazUohQ",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

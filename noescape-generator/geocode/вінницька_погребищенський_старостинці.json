@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Старостинці",
+               "short_name" : "Старостинці",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Погребищенський район",
+               "short_name" : "Погребищенський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "22212",
+               "short_name" : "22212",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Старостинці, Вінницька область, Україна, 22212",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.5765,
+                  "lng" : 29.2474099
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.557363,
+                  "lng" : 29.2084889
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.5659237,
+               "lng" : 29.2320318
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.5765,
+                  "lng" : 29.2474099
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.557363,
+                  "lng" : 29.2084889
+               }
+            }
+         },
+         "place_id" : "ChIJmUpwfuwqLUcRuJRHqcfEt8o",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

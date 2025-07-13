@@ -1,0 +1,72 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Чернівецька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.6759141,
+                  "lng" : 27.5338607
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.72509669999999,
+                  "lng" : 24.9081721
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.291683,
+               "lng" : 25.935217
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.6759141,
+                  "lng" : 27.5338607
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.72509669999999,
+                  "lng" : 24.9081721
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJH2F-TOwINEcR3I8UhwBnFyw",
+         "types" : 
+         [
+            "administrative_area_level_1",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

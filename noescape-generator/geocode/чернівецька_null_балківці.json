@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Балківці",
+               "short_name" : "Балківці",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Новоселицький район",
+               "short_name" : "Новоселицький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60360",
+               "short_name" : "60360",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Балківці, Чернівецька область, Україна, 60360",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.360079,
+                  "lng" : 26.5913419
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.344644,
+                  "lng" : 26.5568141
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.3528046,
+               "lng" : 26.5715912
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.360079,
+                  "lng" : 26.5913419
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.344644,
+                  "lng" : 26.5568141
+               }
+            }
+         },
+         "place_id" : "ChIJX-JSnDmFM0cRvCh1ucNJNTo",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

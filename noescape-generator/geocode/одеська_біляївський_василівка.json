@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Василівка",
+               "short_name" : "Василівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Біляївський район",
+               "short_name" : "Біляївський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67613",
+               "short_name" : "67613",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Василівка, Одеська область, Україна, 67613",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.6266,
+                  "lng" : 30.319968
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.58600999999999,
+                  "lng" : 30.2885951
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.6091571,
+               "lng" : 30.3036563
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.6266,
+                  "lng" : 30.319968
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.58600999999999,
+                  "lng" : 30.2885951
+               }
+            }
+         },
+         "place_id" : "ChIJtf5Ra8SFyEARji4uEhdARMc",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

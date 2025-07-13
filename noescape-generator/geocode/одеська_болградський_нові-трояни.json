@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Нові Трояни",
+               "short_name" : "Нові Трояни",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Болградський район",
+               "short_name" : "Болградський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68711",
+               "short_name" : "68711",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Нові Трояни, Одеська область, Україна, 68711",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.95800200000001,
+                  "lng" : 28.868813
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.925459,
+                  "lng" : 28.839908
+               }
+            },
+            "location" : 
+            {
+               "lat" : 45.9425619,
+               "lng" : 28.8557313
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.95800200000001,
+                  "lng" : 28.868813
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.925459,
+                  "lng" : 28.839908
+               }
+            }
+         },
+         "place_id" : "ChIJnz50ObnJt0ARxs6SJD_n7JY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

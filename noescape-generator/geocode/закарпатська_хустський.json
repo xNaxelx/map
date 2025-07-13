@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Хустський район",
+               "short_name" : "Хустський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Хустський район, Закарпатська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.447236,
+                  "lng" : 23.7033859
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.9677547,
+                  "lng" : 23.121365
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.2856494,
+               "lng" : 23.4356427
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.447236,
+                  "lng" : 23.7033859
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.9677547,
+                  "lng" : 23.121365
+               }
+            }
+         },
+         "place_id" : "ChIJT6BbyokqOEcRALpgUDFzx3s",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

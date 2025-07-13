@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Немія",
+               "short_name" : "Немія",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Могилів-Подільський район",
+               "short_name" : "Могилів-Подільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "24006",
+               "short_name" : "24006",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Немія, Вінницька область, Україна, 24006",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.474411,
+                  "lng" : 27.783225
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.455661,
+                  "lng" : 27.7410901
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.4651231,
+               "lng" : 27.7621947
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.474411,
+                  "lng" : 27.783225
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.455661,
+                  "lng" : 27.7410901
+               }
+            }
+         },
+         "place_id" : "ChIJWwQjwI4lM0cReDbHL5rNSdQ",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

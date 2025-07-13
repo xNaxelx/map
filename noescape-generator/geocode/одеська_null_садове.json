@@ -1,0 +1,461 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Садове",
+               "short_name" : "Садове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Окнянський район",
+               "short_name" : "Окнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67952",
+               "short_name" : "67952",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Садове, Одеська область, Україна, 67952",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.333227,
+                  "lng" : 29.4731421
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.323266,
+                  "lng" : 29.452699
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.3284027,
+               "lng" : 29.4650026
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.333227,
+                  "lng" : 29.4731421
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.323266,
+                  "lng" : 29.452699
+               }
+            }
+         },
+         "place_id" : "ChIJQyncNIlOyUARZ00BzSXolY8",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Садове",
+               "short_name" : "Садове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Білгород-Дністровський район",
+               "short_name" : "Білгород-Дністровський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67749",
+               "short_name" : "67749",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Садове, Одеська область, Україна, 67749",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.243915,
+                  "lng" : 30.2265049
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.224506,
+                  "lng" : 30.197602
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.2364699,
+               "lng" : 30.2115722
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.243915,
+                  "lng" : 30.2265049
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.224506,
+                  "lng" : 30.197602
+               }
+            }
+         },
+         "place_id" : "ChIJ4fWmD17ex0ARTilkxWbvM_0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Садове",
+               "short_name" : "Садове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Арцизький район",
+               "short_name" : "Арцизький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68422",
+               "short_name" : "68422",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Садове, Одеська область, Україна, 68422",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.037744,
+                  "lng" : 29.288843
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.009066,
+                  "lng" : 29.2594549
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.02168289999999,
+               "lng" : 29.2757184
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.037744,
+                  "lng" : 29.288843
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.009066,
+                  "lng" : 29.2594549
+               }
+            }
+         },
+         "place_id" : "ChIJPw4qM77dt0ARfHDENFodPBM",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Садове",
+               "short_name" : "Садове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Татарбунарський район",
+               "short_name" : "Татарбунарський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68161",
+               "short_name" : "68161",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Садове, Одеська область, Україна, 68161",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.9151951,
+                  "lng" : 30.0936799
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.901325,
+                  "lng" : 30.0819689
+               }
+            },
+            "location" : 
+            {
+               "lat" : 45.9050792,
+               "lng" : 30.0870752
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.9151951,
+                  "lng" : 30.0936799
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.901325,
+                  "lng" : 30.0819689
+               }
+            }
+         },
+         "place_id" : "ChIJr90F-y32x0ARlip67rqGCpk",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Садове",
+               "short_name" : "Садове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Березівський район",
+               "short_name" : "Березівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67341",
+               "short_name" : "67341",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Садове, Одеська область, Україна, 67341",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.1711939,
+                  "lng" : 31.0949249
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.162331,
+                  "lng" : 31.0812889
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.1678516,
+               "lng" : 31.08585709999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.1711939,
+                  "lng" : 31.0949249
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.162331,
+                  "lng" : 31.0812889
+               }
+            }
+         },
+         "place_id" : "ChIJsxoVupxZz0ARQPv-Tm8Obio",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

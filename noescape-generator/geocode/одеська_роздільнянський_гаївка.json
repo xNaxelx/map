@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Гаївка",
+               "short_name" : "Гаївка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Роздільнянський район",
+               "short_name" : "Роздільнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67411",
+               "short_name" : "67411",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Гаївка, Одеська область, Україна, 67411",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.929194,
+                  "lng" : 29.9292571
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.893382,
+                  "lng" : 29.9149209
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.91229999999999,
+               "lng" : 29.9254607
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.929194,
+                  "lng" : 29.9292571
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.893382,
+                  "lng" : 29.9149209
+               }
+            }
+         },
+         "place_id" : "ChIJF-7-B9nmyEARpElOlW2NlQg",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

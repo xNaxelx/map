@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Черкаський район",
+               "short_name" : "Черкаський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Черкаська область",
+               "short_name" : "Черкаська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Черкаський район, Черкаська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.659932,
+                  "lng" : 32.455614
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.210801,
+                  "lng" : 31.450072
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.4264214,
+               "lng" : 31.8001085
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.659932,
+                  "lng" : 32.455614
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.210801,
+                  "lng" : 31.450072
+               }
+            }
+         },
+         "place_id" : "ChIJL_hbJdBN0UARuoxy68DOArM",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Пархоменкове",
+               "short_name" : "Пархоменкове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Володимир-Волинський район",
+               "short_name" : "Володимир-Волинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "44762",
+               "short_name" : "44762",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Пархоменкове, Волинська область, Україна, 44762",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.89561699999999,
+                  "lng" : 24.1218201
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.888932,
+                  "lng" : 24.109577
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.8930482,
+               "lng" : 24.1157103
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.89561699999999,
+                  "lng" : 24.1218201
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.888932,
+                  "lng" : 24.109577
+               }
+            }
+         },
+         "place_id" : "ChIJK_8_jq5hJEcRfvDOKTF5Zmw",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

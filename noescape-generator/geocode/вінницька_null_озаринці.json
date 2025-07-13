@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Озаринці",
+               "short_name" : "Озаринці",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Могилів-Подільський район",
+               "short_name" : "Могилів-Подільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "24041",
+               "short_name" : "24041",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Озаринці, Вінницька область, Україна, 24041",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.553536,
+                  "lng" : 27.8240811
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.5277191,
+                  "lng" : 27.7900821
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5407686,
+               "lng" : 27.8090961
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.553536,
+                  "lng" : 27.8240811
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.5277191,
+                  "lng" : 27.7900821
+               }
+            }
+         },
+         "place_id" : "ChIJa43oXbQnM0cReAF672ca8cM",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

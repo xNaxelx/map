@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Новицьке",
+               "short_name" : "Новицьке",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Роменський район",
+               "short_name" : "Роменський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сумська область",
+               "short_name" : "Сумська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "42087",
+               "short_name" : "42087",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Новицьке, Сумська область, Україна, 42087",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.5087711,
+                  "lng" : 33.3986329
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.499922,
+                  "lng" : 33.380316
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.50434629999999,
+               "lng" : 33.3889523
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.5087711,
+                  "lng" : 33.3986329
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.499922,
+                  "lng" : 33.380316
+               }
+            }
+         },
+         "place_id" : "ChIJzXZhPrwd1kARbgx2O39Pwqc",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Велике",
+               "short_name" : "Велике",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Млинівський район",
+               "short_name" : "Млинівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "35132",
+               "short_name" : "35132",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Велике, Рівненська область, Україна, 35132",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.613923,
+                  "lng" : 25.329136
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.601323,
+                  "lng" : 25.3001209
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.6068862,
+               "lng" : 25.314113
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.613923,
+                  "lng" : 25.329136
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.601323,
+                  "lng" : 25.3001209
+               }
+            }
+         },
+         "place_id" : "ChIJE1IITROdJUcRUoIdrWlJXZM",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Стара Некрасівка",
+               "short_name" : "Стара Некрасівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ізмаїльський район",
+               "short_name" : "Ізмаїльський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68672",
+               "short_name" : "68672",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Стара Некрасівка, Одеська область, Україна, 68672",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.35718199999999,
+                  "lng" : 28.9350159
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.324465,
+                  "lng" : 28.9134339
+               }
+            },
+            "location" : 
+            {
+               "lat" : 45.3374067,
+               "lng" : 28.9243331
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.35718199999999,
+                  "lng" : 28.9350159
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.324465,
+                  "lng" : 28.9134339
+               }
+            }
+         },
+         "place_id" : "ChIJSZP6pmpkt0ARCozIKEYny1M",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

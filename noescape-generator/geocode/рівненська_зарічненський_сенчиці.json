@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Сенчиці",
+               "short_name" : "Сенчиці",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Зарічненський район",
+               "short_name" : "Зарічненський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "34011",
+               "short_name" : "34011",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Сенчиці, Рівненська область, Україна, 34011",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.89609,
+                  "lng" : 25.8580679
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.88154,
+                  "lng" : 25.8072331
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.8855318,
+               "lng" : 25.847146
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.89609,
+                  "lng" : 25.8580679
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.88154,
+                  "lng" : 25.8072331
+               }
+            }
+         },
+         "place_id" : "ChIJn57CAs9UJkcRipnyMC66Aus",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

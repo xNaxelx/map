@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Сільце",
+               "short_name" : "Сільце",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ковельський район",
+               "short_name" : "Ковельський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "45082",
+               "short_name" : "45082",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Сільце, Волинська область, Україна, 45082",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.143516,
+                  "lng" : 25.2278861
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.133346,
+                  "lng" : 25.204804
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.1392473,
+               "lng" : 25.2194792
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.143516,
+                  "lng" : 25.2278861
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.133346,
+                  "lng" : 25.204804
+               }
+            }
+         },
+         "place_id" : "ChIJXYGFqivOJUcR3JGBrnIWsOg",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,188 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Самійлівка",
+               "short_name" : "Самійлівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ширяївський район",
+               "short_name" : "Ширяївський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66822",
+               "short_name" : "66822",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Самійлівка, Одеська область, Україна, 66822",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.4000439,
+                  "lng" : 30.028914
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.3890519,
+                  "lng" : 30.0124281
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.3949212,
+               "lng" : 30.0216771
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.4000439,
+                  "lng" : 30.028914
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.3890519,
+                  "lng" : 30.0124281
+               }
+            }
+         },
+         "place_id" : "ChIJhyJV7yvOzkARMECl4UbkxiE",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Самійлівка",
+               "short_name" : "Самійлівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Захарівський район",
+               "short_name" : "Захарівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66732",
+               "short_name" : "66732",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Самійлівка, Одеська область, Україна, 66732",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.293388,
+                  "lng" : 29.625302
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.281851,
+                  "lng" : 29.609906
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.2884104,
+               "lng" : 29.6160635
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.293388,
+                  "lng" : 29.625302
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.281851,
+                  "lng" : 29.609906
+               }
+            }
+         },
+         "place_id" : "ChIJJQcmYh02yUARUnyRRDId8Wo",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

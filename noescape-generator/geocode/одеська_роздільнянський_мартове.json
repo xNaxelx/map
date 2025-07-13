@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Мартове",
+               "short_name" : "Мартове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Великомихайлівський район",
+               "short_name" : "Великомихайлівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67154",
+               "short_name" : "67154",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Мартове, Одеська область, Україна, 67154",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.982902,
+                  "lng" : 30.0755271
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.97245299999999,
+                  "lng" : 30.0630371
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.9796625,
+               "lng" : 30.0703922
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.982902,
+                  "lng" : 30.0755271
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.97245299999999,
+                  "lng" : 30.0630371
+               }
+            }
+         },
+         "place_id" : "ChIJqe2lJO3cyEARbpceRSOLvRQ",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

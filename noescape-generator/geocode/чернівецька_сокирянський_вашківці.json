@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Вашківці",
+               "short_name" : "Вашківці",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сокирянський район",
+               "short_name" : "Сокирянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60222",
+               "short_name" : "60222",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Вашківці, Чернівецька область, Україна, 60222",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.422337,
+                  "lng" : 27.1490189
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.38908499999999,
+                  "lng" : 27.104653
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.41433190000001,
+               "lng" : 27.12774
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.422337,
+                  "lng" : 27.1490189
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.38908499999999,
+                  "lng" : 27.104653
+               }
+            }
+         },
+         "place_id" : "ChIJV7hsPkUNM0cRDuoD3TlR6vc",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

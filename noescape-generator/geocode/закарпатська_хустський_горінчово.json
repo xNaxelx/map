@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Горінчово",
+               "short_name" : "Горінчово",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Хустський район",
+               "short_name" : "Хустський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Горінчово, Закарпатська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.2800371,
+                  "lng" : 23.4514977
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.260619,
+                  "lng" : 23.4125733
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.2679203,
+               "lng" : 23.4324536
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.2800371,
+                  "lng" : 23.4514977
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.260619,
+                  "lng" : 23.4125733
+               }
+            }
+         },
+         "place_id" : "ChIJzwYcBxrVOUcR5zWESH-PfIs",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

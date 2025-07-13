@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Лісковець",
+               "short_name" : "Лісковець",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Міжгірський район",
+               "short_name" : "Міжгірський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90012",
+               "short_name" : "90012",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Лісковець, Закарпатська область, Україна, 90012",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.722622,
+                  "lng" : 23.4434289
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.69268599999999,
+                  "lng" : 23.4247251
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.7160033,
+               "lng" : 23.436827
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.722622,
+                  "lng" : 23.4434289
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.69268599999999,
+                  "lng" : 23.4247251
+               }
+            }
+         },
+         "place_id" : "ChIJcwxo1bHtOUcRH4ZvLDMV_Wc",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

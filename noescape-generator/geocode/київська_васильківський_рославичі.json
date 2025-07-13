@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Рославичі",
+               "short_name" : "Рославичі",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Васильківський район",
+               "short_name" : "Васильківський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Київська область",
+               "short_name" : "Київська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "08681",
+               "short_name" : "08681",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Рославичі, Київська область, Україна, 08681",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.268157,
+                  "lng" : 30.4746871
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.23232600000001,
+                  "lng" : 30.4200261
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.2520303,
+               "lng" : 30.443162
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.268157,
+                  "lng" : 30.4746871
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.23232600000001,
+                  "lng" : 30.4200261
+               }
+            }
+         },
+         "place_id" : "ChIJHwVU-I651EARqt8GPOh8gxg",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

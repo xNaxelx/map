@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Іванків",
+               "short_name" : "Іванків",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ямпільський район",
+               "short_name" : "Ямпільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "24540",
+               "short_name" : "24540",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Іванків, Вінницька область, Україна, 24540",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.2242,
+                  "lng" : 28.3859551
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.19674999999999,
+                  "lng" : 28.3686981
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.2136271,
+               "lng" : 28.3752695
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.2242,
+                  "lng" : 28.3859551
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.19674999999999,
+                  "lng" : 28.3686981
+               }
+            }
+         },
+         "place_id" : "ChIJl4praDDozEARbLElsLh9QvE",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

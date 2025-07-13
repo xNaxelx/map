@@ -1,0 +1,71 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Івано-Франківська область",
+               "short_name" : "Івано-Франківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Івано-Франківська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.559585,
+                  "lng" : 25.6529901
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.7243762,
+                  "lng" : 23.545547
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.922633,
+               "lng" : 24.711117
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.559585,
+                  "lng" : 25.6529901
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.7243762,
+                  "lng" : 23.545547
+               }
+            }
+         },
+         "place_id" : "ChIJHTiwNGzBMEcRn1rIHA4suJc",
+         "types" : 
+         [
+            "administrative_area_level_1",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

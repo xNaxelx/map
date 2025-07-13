@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Загір'я",
+               "short_name" : "Загір'я",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Зборівський район",
+               "short_name" : "Зборівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Тернопільська область",
+               "short_name" : "Тернопільська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "47211",
+               "short_name" : "47211",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Загір'я, Тернопільська область, Україна, 47211",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.8900369,
+                  "lng" : 25.472967
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.841564,
+                  "lng" : 25.40785
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.86078759999999,
+               "lng" : 25.4319464
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.8900369,
+                  "lng" : 25.472967
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.841564,
+                  "lng" : 25.40785
+               }
+            }
+         },
+         "place_id" : "ChIJOS1UdjHgL0cRnGY0Sd_KnkI",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

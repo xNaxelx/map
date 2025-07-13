@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Піддубне",
+               "short_name" : "Піддубне",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Великоновосілківський район",
+               "short_name" : "Великоновосілківський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Донецька область",
+               "short_name" : "Донецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "85512",
+               "short_name" : "85512",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Піддубне, Донецька область, Україна, 85512",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.02085599999999,
+                  "lng" : 36.7037359
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.002491,
+                  "lng" : 36.675381
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.0094015,
+               "lng" : 36.6931021
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.02085599999999,
+                  "lng" : 36.7037359
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.002491,
+                  "lng" : 36.675381
+               }
+            }
+         },
+         "place_id" : "ChIJIZxExGVz3kARCGzdhcVfmsk",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

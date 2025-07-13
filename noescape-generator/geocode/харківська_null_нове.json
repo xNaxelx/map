@@ -1,0 +1,279 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Нове",
+               "short_name" : "Нове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Первомайський район",
+               "short_name" : "Первомайський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Харківська область",
+               "short_name" : "Харківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "64107",
+               "short_name" : "64107",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Нове, Харківська область, Україна, 64107",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.451548,
+                  "lng" : 36.156531
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.43611199999999,
+                  "lng" : 36.1295181
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.442002,
+               "lng" : 36.1379104
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.451548,
+                  "lng" : 36.156531
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.43611199999999,
+                  "lng" : 36.1295181
+               }
+            }
+         },
+         "place_id" : "ChIJL9wtfWSY2EARxncAOA9SlH4",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Нове",
+               "short_name" : "Нове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Дергачівський район",
+               "short_name" : "Дергачівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Харківська область",
+               "short_name" : "Харківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "62332",
+               "short_name" : "62332",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Нове, Харківська область, Україна, 62332",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.18838299999999,
+                  "lng" : 36.2420959
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.185527,
+                  "lng" : 36.235691
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.1870105,
+               "lng" : 36.2399274
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.18838299999999,
+                  "lng" : 36.2420959
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.185527,
+                  "lng" : 36.235691
+               }
+            }
+         },
+         "place_id" : "ChIJBwrPyyCuJ0ERlmLqsmK23Go",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Нове",
+               "short_name" : "Нове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Лозівський район",
+               "short_name" : "Лозівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Харківська область",
+               "short_name" : "Харківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "64661",
+               "short_name" : "64661",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Нове, Харківська область, Україна, 64661",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.9197381,
+                  "lng" : 36.2195471
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.915507,
+                  "lng" : 36.2136751
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.91693830000001,
+               "lng" : 36.2165882
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.9197381,
+                  "lng" : 36.2195471
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.915507,
+                  "lng" : 36.2136751
+               }
+            }
+         },
+         "place_id" : "ChIJTy_W1Ags30ARxHS6kFXbg8g",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Новомихайлівка",
+               "short_name" : "Новомихайлівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Мар'їнський район",
+               "short_name" : "Мар'їнський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Донецька область",
+               "short_name" : "Донецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "85654",
+               "short_name" : "85654",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Новомихайлівка, Донецька область, Україна, 85654",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.862262,
+                  "lng" : 37.5168
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.844563,
+                  "lng" : 37.4491601
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.8540723,
+               "lng" : 37.4868585
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.862262,
+                  "lng" : 37.5168
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.844563,
+                  "lng" : 37.4491601
+               }
+            }
+         },
+         "place_id" : "ChIJU-AmuMSk4EARPH9QL__mCCA",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

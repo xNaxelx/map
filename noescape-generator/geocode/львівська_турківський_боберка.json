@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Боберка",
+               "short_name" : "Боберка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Турківський район",
+               "short_name" : "Турківський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "82514",
+               "short_name" : "82514",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Боберка, Львівська область, Україна, 82514",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.23838300000001,
+                  "lng" : 22.834834
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.1693429,
+                  "lng" : 22.7399329
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.2041793,
+               "lng" : 22.7946579
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.23838300000001,
+                  "lng" : 22.834834
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.1693429,
+                  "lng" : 22.7399329
+               }
+            }
+         },
+         "place_id" : "ChIJEyH6mxfdO0cRpcn3qpwWzk4",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

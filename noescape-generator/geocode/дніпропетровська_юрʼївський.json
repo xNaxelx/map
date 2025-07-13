@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Юр'ївський район",
+               "short_name" : "Юр'ївський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Дніпропетровська область",
+               "short_name" : "Дніпропетровська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Юр'ївський район, Дніпропетровська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.9992591,
+                  "lng" : 36.208366
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.6371961,
+                  "lng" : 35.636342
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.7766892,
+               "lng" : 35.9510804
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.9992591,
+                  "lng" : 36.208366
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.6371961,
+                  "lng" : 35.636342
+               }
+            }
+         },
+         "place_id" : "ChIJYSwfq7Ms2UARWHrJv2iKunM",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

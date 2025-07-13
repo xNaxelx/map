@@ -1,0 +1,71 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Харківська область",
+               "short_name" : "Харківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Харківська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.4594142,
+                  "lng" : 38.09530609999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.531375,
+                  "lng" : 34.8563339
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.9935,
+               "lng" : 36.230383
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.4594142,
+                  "lng" : 38.09530609999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.531375,
+                  "lng" : 34.8563339
+               }
+            }
+         },
+         "place_id" : "ChIJAfZeLutYJ0ERoEH2iIQGAQE",
+         "types" : 
+         [
+            "administrative_area_level_1",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Степанівка",
+               "short_name" : "Степанівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Лиманський район",
+               "short_name" : "Лиманський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67541",
+               "short_name" : "67541",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Степанівка, Одеська область, Україна, 67541",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.78664,
+                  "lng" : 30.9030551
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.770961,
+                  "lng" : 30.8933441
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.77802399999999,
+               "lng" : 30.8998434
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.78664,
+                  "lng" : 30.9030551
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.770961,
+                  "lng" : 30.8933441
+               }
+            }
+         },
+         "place_id" : "ChIJ49n7p4sbxkARJlK0G5st1GE",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

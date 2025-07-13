@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Майорське",
+               "short_name" : "Майорське",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Захарівський район",
+               "short_name" : "Захарівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66705",
+               "short_name" : "66705",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Майорське, Одеська область, Україна, 66705",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.285123,
+                  "lng" : 29.7816111
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.264259,
+                  "lng" : 29.7647649
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.2751729,
+               "lng" : 29.7755128
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.285123,
+                  "lng" : 29.7816111
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.264259,
+                  "lng" : 29.7647649
+               }
+            }
+         },
+         "place_id" : "ChIJBcnbfuszyUARTpDbd9tlA34",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

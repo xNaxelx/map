@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Канави",
+               "short_name" : "Канави",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кобеляцький район",
+               "short_name" : "Кобеляцький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Полтавська область",
+               "short_name" : "Полтавська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "39235",
+               "short_name" : "39235",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Канави, Полтавська область, Україна, 39235",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.1118389,
+                  "lng" : 34.508652
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.0688171,
+                  "lng" : 34.4413162
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.08710079999999,
+               "lng" : 34.4798965
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.1118389,
+                  "lng" : 34.508652
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.0688171,
+                  "lng" : 34.4413162
+               }
+            }
+         },
+         "place_id" : "ChIJWe26yXO-2UARsmo1xeB_G2w",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

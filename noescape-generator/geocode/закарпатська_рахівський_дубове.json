@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Рахівський район",
+               "short_name" : "Рахівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Рахівський район, Закарпатська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.4012889,
+                  "lng" : 24.6273425
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.896506,
+                  "lng" : 23.8612286
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.1391697,
+               "lng" : 24.2936895
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.4012889,
+                  "lng" : 24.6273425
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.896506,
+                  "lng" : 23.8612286
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJYSAsJ4IGN0cR6uJYb0dPf38",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Дубове",
+               "short_name" : "Дубове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Тячівський район",
+               "short_name" : "Тячівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90531",
+               "short_name" : "90531",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Дубове, Закарпатська область, Україна, 90531",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.21402200000001,
+                  "lng" : 23.9225091
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.15811799999999,
+                  "lng" : 23.872836
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.1940163,
+               "lng" : 23.8927981
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.21402200000001,
+                  "lng" : 23.9225091
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.15811799999999,
+                  "lng" : 23.872836
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ_8OiHuJ0N0cRKpKC2iVcRF4",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Рахнівка",
+               "short_name" : "Рахнівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Гайсинський район",
+               "short_name" : "Гайсинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "23736",
+               "short_name" : "23736",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Рахнівка, Вінницька область, Україна, 23736",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.792219,
+                  "lng" : 29.5610381
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.773914,
+                  "lng" : 29.531494
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.78265400000001,
+               "lng" : 29.5469503
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.792219,
+                  "lng" : 29.5610381
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.773914,
+                  "lng" : 29.531494
+               }
+            }
+         },
+         "place_id" : "ChIJ8913kuh_zUARrgEav4M65AI",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

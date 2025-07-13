@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Юнаківка",
+               "short_name" : "Юнаківка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сумський район",
+               "short_name" : "Сумський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сумська область",
+               "short_name" : "Сумська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "42317",
+               "short_name" : "42317",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Юнаківка, Сумська область, Україна, 42317",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.14453289999999,
+                  "lng" : 35.0608
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.105201,
+                  "lng" : 35.0140099
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.1205534,
+               "lng" : 35.035725
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.14453289999999,
+                  "lng" : 35.0608
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.105201,
+                  "lng" : 35.0140099
+               }
+            }
+         },
+         "place_id" : "ChIJ2WgojNUhKUERGjnEjAoEZuM",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

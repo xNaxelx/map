@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Іванчанка",
+               "short_name" : "Іванчанка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Тарутинський район",
+               "short_name" : "Тарутинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68525",
+               "short_name" : "68525",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Іванчанка, Одеська область, Україна, 68525",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.347461,
+                  "lng" : 29.138844
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.336007,
+                  "lng" : 29.1266119
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.3435892,
+               "lng" : 29.1309008
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.347461,
+                  "lng" : 29.138844
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.336007,
+                  "lng" : 29.1266119
+               }
+            }
+         },
+         "place_id" : "ChIJ5eM_LaYyyEAR1am5E2W7Mu8",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

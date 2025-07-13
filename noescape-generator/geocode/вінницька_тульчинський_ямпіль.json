@@ -1,0 +1,165 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Тульчинський район",
+               "short_name" : "Тульчинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Тульчинський район, Вінницька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.874896,
+                  "lng" : 29.212501
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.520992,
+                  "lng" : 28.4880961
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.6915531,
+               "lng" : 28.8120078
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.874896,
+                  "lng" : 29.212501
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.520992,
+                  "lng" : 28.4880961
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJJVsR0b5BzUARpNByfJCOFBs",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Ямпіль",
+               "short_name" : "Ямпіль",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ямпільський район",
+               "short_name" : "Ямпільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Ямпіль, Вінницька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.2646267,
+                  "lng" : 28.3109092
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.22392929999999,
+                  "lng" : 28.2489395
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.2441219,
+               "lng" : 28.2765218
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.2646267,
+                  "lng" : 28.3109092
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.22392929999999,
+                  "lng" : 28.2489395
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJnaft3RTDzEARpJjEK7_81Fc",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

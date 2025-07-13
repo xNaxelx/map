@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Стара Царичанка",
+               "short_name" : "Стара Царичанка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Білгород-Дністровський район",
+               "short_name" : "Білгород-Дністровський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67723",
+               "short_name" : "67723",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Стара Царичанка, Одеська область, Україна, 67723",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.3066051,
+                  "lng" : 29.881086
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.268681,
+                  "lng" : 29.851669
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.2904586,
+               "lng" : 29.8610735
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.3066051,
+                  "lng" : 29.881086
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.268681,
+                  "lng" : 29.851669
+               }
+            }
+         },
+         "place_id" : "ChIJ7bVGG7ISyEARhkZGOl-piPA",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

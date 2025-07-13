@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Чернилява",
+               "short_name" : "Чернилява",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Яворівський район",
+               "short_name" : "Яворівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "81030",
+               "short_name" : "81030",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Чернилява, Львівська область, Україна, 81030",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.9851251,
+                  "lng" : 23.34494
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.9672961,
+                  "lng" : 23.3142339
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.9762494,
+               "lng" : 23.3365212
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.9851251,
+                  "lng" : 23.34494
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.9672961,
+                  "lng" : 23.3142339
+               }
+            }
+         },
+         "place_id" : "ChIJXRTNcCZAO0cR255-Q3zvHkg",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Червоне",
+               "short_name" : "Червоне",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Тарутинський район",
+               "short_name" : "Тарутинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68558",
+               "short_name" : "68558",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Червоне, Одеська область, Україна, 68558",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.4215641,
+                  "lng" : 29.242906
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.412244,
+                  "lng" : 29.2235021
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.4167671,
+               "lng" : 29.2344111
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.4215641,
+                  "lng" : 29.242906
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.412244,
+                  "lng" : 29.2235021
+               }
+            }
+         },
+         "place_id" : "ChIJH0mtc-o0yEARZM_DSAJHfUo",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

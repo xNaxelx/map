@@ -1,0 +1,285 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Подільський район",
+               "short_name" : "Подільський район",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+               ]
+            },
+            {
+               "long_name" : "Київ",
+               "short_name" : "Київ",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "місто Київ",
+               "short_name" : "місто Київ",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "місто Київ",
+               "short_name" : "місто Київ",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "02000",
+               "short_name" : "02000",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Подільський район, Київ, Україна, 02000",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.5276071,
+                  "lng" : 30.541629
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.4549287,
+                  "lng" : 30.3618141
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.4938086,
+               "lng" : 30.4428556
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.5276071,
+                  "lng" : 30.541629
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.4549287,
+                  "lng" : 30.3618141
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJy83NtJDN1EARaPHBCc6fR6g",
+         "types" : 
+         [
+            "political",
+            "sublocality",
+            "sublocality_level_1"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Немирів",
+               "short_name" : "Немирів",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Немирівський район",
+               "short_name" : "Немирівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Немирів, Вінницька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.9966492,
+                  "lng" : 28.880782
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.9495488,
+                  "lng" : 28.813448
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.9749521,
+               "lng" : 28.847408
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.9966492,
+                  "lng" : 28.880782
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.9495488,
+                  "lng" : 28.813448
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJLV4ajcdXzUAR4KrZ5Cft1sk",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Немирівське",
+               "short_name" : "Немирівське",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Балтський район",
+               "short_name" : "Балтський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66153",
+               "short_name" : "66153",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Немирівське, Одеська область, Україна, 66153",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.9315069,
+                  "lng" : 29.7712361
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.9148189,
+                  "lng" : 29.7207099
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.921651,
+               "lng" : 29.74534419999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.9315069,
+                  "lng" : 29.7712361
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.9148189,
+                  "lng" : 29.7207099
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJRfHZEc8pzEARPZfkiKv1VqY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

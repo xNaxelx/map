@@ -1,0 +1,112 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "станція Веселий Кут",
+               "short_name" : "станція Веселий Кут",
+               "types" : 
+               [
+                  "establishment",
+                  "point_of_interest",
+                  "train_station",
+                  "transit_station"
+               ]
+            },
+            {
+               "long_name" : "Новоборисівка",
+               "short_name" : "Новоборисівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Великомихайлівський район",
+               "short_name" : "Великомихайлівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67121",
+               "short_name" : "67121",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "станція Веселий Кут, Новоборисівка, Одеська область, Україна, 67121",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.10607539999999,
+               "lng" : 29.9920901
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.1076233302915,
+                  "lng" : 29.9935903302915
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.1049253697085,
+                  "lng" : 29.9908923697085
+               }
+            }
+         },
+         "navigation_points" : 
+         [
+            {
+               "location" : 
+               {
+                  "latitude" : 47.1064174,
+                  "longitude" : 29.9923501
+               }
+            }
+         ],
+         "place_id" : "ChIJVcmBIwLYyEARustdAx79qOw",
+         "plus_code" : 
+         {
+            "compound_code" : "4X4R+CR Новоборисівка, Одеська область, Україна",
+            "global_code" : "8GVF4X4R+CR"
+         },
+         "types" : 
+         [
+            "establishment",
+            "point_of_interest",
+            "train_station",
+            "transit_station"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

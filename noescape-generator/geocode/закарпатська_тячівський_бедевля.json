@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Бедевля",
+               "short_name" : "Бедевля",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Тячівський район",
+               "short_name" : "Тячівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90561",
+               "short_name" : "90561",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Бедевля, Закарпатська область, Україна, 90561",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.018609,
+                  "lng" : 23.683872
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.989227,
+                  "lng" : 23.64465
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.0021931,
+               "lng" : 23.6653635
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.018609,
+                  "lng" : 23.683872
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.989227,
+                  "lng" : 23.64465
+               }
+            }
+         },
+         "place_id" : "ChIJA8PTZkSXN0cR0PzVd4sikko",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

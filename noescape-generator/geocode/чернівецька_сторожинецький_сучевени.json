@@ -1,0 +1,165 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Сторожинецький район",
+               "short_name" : "Сторожинецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Сторожинецький район, Чернівецька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.311732,
+                  "lng" : 25.9544081
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.9263487,
+                  "lng" : 25.326787
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.1620301,
+               "lng" : 25.657571
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.311732,
+                  "lng" : 25.9544081
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.9263487,
+                  "lng" : 25.326787
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJUcacT9kYNEcRBHD8Tvum2Zs",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Сучевени",
+               "short_name" : "Сучевени",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Глибоцький район",
+               "short_name" : "Глибоцький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Сучевени, Чернівецька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.0686163,
+                  "lng" : 25.8565272
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.03994480000001,
+                  "lng" : 25.8111118
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.0543157,
+               "lng" : 25.8356646
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.0686163,
+                  "lng" : 25.8565272
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.03994480000001,
+                  "lng" : 25.8111118
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJBZYvUeoVNEcRTsKx97kS8sU",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

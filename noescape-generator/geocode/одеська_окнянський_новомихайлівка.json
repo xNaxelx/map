@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Новомихайлівка",
+               "short_name" : "Новомихайлівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Окнянський район",
+               "short_name" : "Окнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67943",
+               "short_name" : "67943",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Новомихайлівка, Одеська область, Україна, 67943",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.47192500000001,
+                  "lng" : 29.5431379
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.460392,
+                  "lng" : 29.5220341
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.4651016,
+               "lng" : 29.5307533
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.47192500000001,
+                  "lng" : 29.5431379
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.460392,
+                  "lng" : 29.5220341
+               }
+            }
+         },
+         "place_id" : "ChIJMfZtzImtzkARElcBE0n6lOg",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

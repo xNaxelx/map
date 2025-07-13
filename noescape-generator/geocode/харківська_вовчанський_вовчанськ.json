@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Вовчанськ",
+               "short_name" : "Вовчанськ",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вовчанський район",
+               "short_name" : "Вовчанський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Харківська область",
+               "short_name" : "Харківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Вовчанськ, Харківська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.30898089999999,
+                  "lng" : 37.0060514
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.26100700000001,
+                  "lng" : 36.8911885
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.284234,
+               "lng" : 36.9329429
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.30898089999999,
+                  "lng" : 37.0060514
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.26100700000001,
+                  "lng" : 36.8911885
+               }
+            }
+         },
+         "place_id" : "ChIJpb9Bo8LwJkERzGq6vJhE0xY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

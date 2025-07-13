@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Петрівка",
+               "short_name" : "Петрівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Білгород-Дністровський район",
+               "short_name" : "Білгород-Дністровський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67732",
+               "short_name" : "67732",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Петрівка, Одеська область, Україна, 67732",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.31926,
+                  "lng" : 29.9622311
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.299302,
+                  "lng" : 29.9318
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.3108009,
+               "lng" : 29.9546893
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.31926,
+                  "lng" : 29.9622311
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.299302,
+                  "lng" : 29.9318
+               }
+            }
+         },
+         "place_id" : "ChIJeceIrvRyyEARZxSzg8FqBVU",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

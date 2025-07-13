@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Нагірне",
+               "short_name" : "Нагірне",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Самбірський район",
+               "short_name" : "Самбірський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "81475",
+               "short_name" : "81475",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Нагірне, Львівська область, Україна, 81475",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.495355,
+                  "lng" : 23.2325001
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.4679629,
+                  "lng" : 23.2086979
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.4821701,
+               "lng" : 23.2172925
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.495355,
+                  "lng" : 23.2325001
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.4679629,
+                  "lng" : 23.2086979
+               }
+            }
+         },
+         "place_id" : "ChIJYf4lQf6vO0cRyOiBrRkIAPE",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Татарбунарський район",
+               "short_name" : "Татарбунарський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Татарбунарський район, Одеська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.981049,
+                  "lng" : 30.193695
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.53258,
+                  "lng" : 29.31561099999999
+               }
+            },
+            "location" : 
+            {
+               "lat" : 45.76000029999999,
+               "lng" : 29.70125809999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.981049,
+                  "lng" : 30.193695
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.53258,
+                  "lng" : 29.31561099999999
+               }
+            }
+         },
+         "place_id" : "ChIJPV6QSM8buEARAOs1PT9e5cU",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

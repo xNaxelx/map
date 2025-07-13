@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Ямпіль",
+               "short_name" : "Ямпіль",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ямпільський район",
+               "short_name" : "Ямпільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сумська область",
+               "short_name" : "Сумська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Ямпіль, Сумська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.970817,
+                  "lng" : 33.8058328
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.9264576,
+                  "lng" : 33.7651919
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.9469387,
+               "lng" : 33.783997
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.970817,
+                  "lng" : 33.8058328
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.9264576,
+                  "lng" : 33.7651919
+               }
+            }
+         },
+         "place_id" : "ChIJW5rxv_d4LEERF_8rXv_Lum0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

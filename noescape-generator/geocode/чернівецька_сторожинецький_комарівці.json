@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Комарівці",
+               "short_name" : "Комарівці",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сторожинецький район",
+               "short_name" : "Сторожинецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "59014",
+               "short_name" : "59014",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Комарівці, Чернівецька область, Україна, 59014",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.201736,
+                  "lng" : 25.60049
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.188695,
+                  "lng" : 25.5545851
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.1986181,
+               "lng" : 25.5792527
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.201736,
+                  "lng" : 25.60049
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.188695,
+                  "lng" : 25.5545851
+               }
+            }
+         },
+         "place_id" : "ChIJGYDIFfYdNEcRuWH1YmKRII0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

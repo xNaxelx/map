@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Петропавлівка",
+               "short_name" : "Петропавлівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Саратський район",
+               "short_name" : "Саратський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68211",
+               "short_name" : "68211",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Петропавлівка, Одеська область, Україна, 68211",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.35152,
+                  "lng" : 29.592073
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.3288471,
+                  "lng" : 29.5472809
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.3419438,
+               "lng" : 29.5701003
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.35152,
+                  "lng" : 29.592073
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.3288471,
+                  "lng" : 29.5472809
+               }
+            }
+         },
+         "place_id" : "ChIJtexnOx4_yEARIkv1cUJhUwc",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

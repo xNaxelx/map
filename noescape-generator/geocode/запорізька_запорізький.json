@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Запорізький район",
+               "short_name" : "Запорізький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Запорізька область",
+               "short_name" : "Запорізька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Запорізький район, Запорізька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.1340211,
+                  "lng" : 35.4847588
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.53940189999999,
+                  "lng" : 34.802089
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.7185487,
+               "lng" : 35.0873813
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.1340211,
+                  "lng" : 35.4847588
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.53940189999999,
+                  "lng" : 34.802089
+               }
+            }
+         },
+         "place_id" : "ChIJY9dJfkxn3EAR0Kb108btjKo",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

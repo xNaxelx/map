@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Петрівка",
+               "short_name" : "Петрівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ужгородський район",
+               "short_name" : "Ужгородський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "89461",
+               "short_name" : "89461",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Петрівка, Закарпатська область, Україна, 89461",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.40467,
+                  "lng" : 22.3196391
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.395392,
+                  "lng" : 22.3043509
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.3989279,
+               "lng" : 22.3119116
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.40467,
+                  "lng" : 22.3196391
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.395392,
+                  "lng" : 22.3043509
+               }
+            }
+         },
+         "place_id" : "ChIJrbulzaj8OEcRxqkzUxf30zo",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

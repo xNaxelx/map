@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Самушин",
+               "short_name" : "Самушин",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Заставнівський район",
+               "short_name" : "Заставнівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "59432",
+               "short_name" : "59432",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Самушин, Чернівецька область, Україна, 59432",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.608519,
+                  "lng" : 26.0643931
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.5937019,
+                  "lng" : 26.0433741
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5995199,
+               "lng" : 26.0523945
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.608519,
+                  "lng" : 26.0643931
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.5937019,
+                  "lng" : 26.0433741
+               }
+            }
+         },
+         "place_id" : "ChIJvSS68j_hM0cRqqxG0sPmALo",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Фотовиж",
+               "short_name" : "Фотовиж",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Глухівський район",
+               "short_name" : "Глухівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сумська область",
+               "short_name" : "Сумська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "41410",
+               "short_name" : "41410",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Фотовиж, Сумська область, Україна, 41410",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.89682699999999,
+                  "lng" : 34.209226
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.879573,
+                  "lng" : 34.185547
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.8882106,
+               "lng" : 34.1964516
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.89682699999999,
+                  "lng" : 34.209226
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.879573,
+                  "lng" : 34.185547
+               }
+            }
+         },
+         "place_id" : "ChIJaWtyOZcMLEERPCQ3x_S3vCA",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

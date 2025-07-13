@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Зарічне",
+               "short_name" : "Зарічне",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Новомосковський район",
+               "short_name" : "Новомосковський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Дніпропетровська область",
+               "short_name" : "Дніпропетровська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Зарічне, Дніпропетровська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.7365782,
+                  "lng" : 35.3268439
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.7284827,
+                  "lng" : 35.3055096
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.7342853,
+               "lng" : 35.3144943
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.7365782,
+                  "lng" : 35.3268439
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.7284827,
+                  "lng" : 35.3055096
+               }
+            }
+         },
+         "place_id" : "ChIJMcO6aS5H2UAR1tyeaG6bq2o",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

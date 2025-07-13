@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Тарашани",
+               "short_name" : "Тарашани",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Глибоцький район",
+               "short_name" : "Глибоцький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60430",
+               "short_name" : "60430",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Тарашани, Чернівецька область, Україна, 60430",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.1315351,
+                  "lng" : 26.0241741
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.105332,
+                  "lng" : 25.981737
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.1111233,
+               "lng" : 26.0126413
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.1315351,
+                  "lng" : 26.0241741
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.105332,
+                  "lng" : 25.981737
+               }
+            }
+         },
+         "place_id" : "ChIJfWrl2DETNEcRcYn23w4-_xs",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

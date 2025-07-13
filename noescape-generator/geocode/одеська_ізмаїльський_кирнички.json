@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Кирнички",
+               "short_name" : "Кирнички",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ізмаїльський район",
+               "short_name" : "Ізмаїльський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68650",
+               "short_name" : "68650",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Кирнички, Одеська область, Україна, 68650",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.727448,
+                  "lng" : 29.0769351
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.6862251,
+                  "lng" : 29.0498849
+               }
+            },
+            "location" : 
+            {
+               "lat" : 45.7089256,
+               "lng" : 29.0654855
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.727448,
+                  "lng" : 29.0769351
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.6862251,
+                  "lng" : 29.0498849
+               }
+            }
+         },
+         "place_id" : "ChIJ0f_deDmXt0AR9fvcb0Ya7e0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

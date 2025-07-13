@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Путильський район",
+               "short_name" : "Путильський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Путильський район, Чернівецька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.239551,
+                  "lng" : 25.3195441
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.72509669999999,
+                  "lng" : 24.9081721
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.9159433,
+               "lng" : 25.0857895
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.239551,
+                  "lng" : 25.3195441
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.72509669999999,
+                  "lng" : 24.9081721
+               }
+            }
+         },
+         "place_id" : "ChIJMVxp7JeFNkcR1hqsVQYyeeg",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Усове",
+               "short_name" : "Усове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Овруцький район",
+               "short_name" : "Овруцький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Житомирська область",
+               "short_name" : "Житомирська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "11126",
+               "short_name" : "11126",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Усове, Житомирська область, Україна, 11126",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.3393269,
+                  "lng" : 28.1389001
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.32188,
+                  "lng" : 28.114067
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.3306699,
+               "lng" : 28.1254227
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.3393269,
+                  "lng" : 28.1389001
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.32188,
+                  "lng" : 28.114067
+               }
+            }
+         },
+         "place_id" : "ChIJC-rdE4IKKUcRD6UdU_VTqO0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

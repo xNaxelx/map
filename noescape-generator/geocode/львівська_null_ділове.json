@@ -1,0 +1,164 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Львівська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.6488831,
+                  "lng" : 25.426912
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.7189779,
+                  "lng" : 22.6408309
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.839683,
+               "lng" : 24.029717
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.6488831,
+                  "lng" : 25.426912
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.7189779,
+                  "lng" : 22.6408309
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJb5xjPmndOkcRYj26h4iMDWM",
+         "types" : 
+         [
+            "administrative_area_level_1",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Ділове",
+               "short_name" : "Ділове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рахівський район",
+               "short_name" : "Рахівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90625",
+               "short_name" : "90625",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Ділове, Закарпатська область, Україна, 90625",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.945909,
+                  "lng" : 24.1923679
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.92578,
+                  "lng" : 24.1579109
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.9359496,
+               "lng" : 24.1736813
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.945909,
+                  "lng" : 24.1923679
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.92578,
+                  "lng" : 24.1579109
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ_2zMoZutN0cRLqSlq6x56ps",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

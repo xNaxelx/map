@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Роздольне",
+               "short_name" : "Роздольне",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Великоновосілківський район",
+               "short_name" : "Великоновосілківський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Донецька область",
+               "short_name" : "Донецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "85532",
+               "short_name" : "85532",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Роздольне, Донецька область, Україна, 85532",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.909959,
+                  "lng" : 36.9247081
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.897795,
+                  "lng" : 36.902251
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.9049659,
+               "lng" : 36.91233880000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.909959,
+                  "lng" : 36.9247081
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.897795,
+                  "lng" : 36.902251
+               }
+            }
+         },
+         "place_id" : "ChIJWcOXcqcI3kARuuuFKMiorOo",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Берегове",
+               "short_name" : "Берегове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Мостиський район",
+               "short_name" : "Мостиський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "81334",
+               "short_name" : "81334",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Берегове, Львівська область, Україна, 81334",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.8069741,
+                  "lng" : 23.312457
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.794731,
+                  "lng" : 23.260515
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.8019845,
+               "lng" : 23.2842836
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.8069741,
+                  "lng" : 23.312457
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.794731,
+                  "lng" : 23.260515
+               }
+            }
+         },
+         "place_id" : "ChIJg32qOngNO0cRYnIbApkfLlk",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

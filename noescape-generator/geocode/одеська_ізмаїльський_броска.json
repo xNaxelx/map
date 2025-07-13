@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Броска",
+               "short_name" : "Броска",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ізмаїльський район",
+               "short_name" : "Ізмаїльський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68663",
+               "short_name" : "68663",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Броска, Одеська область, Україна, 68663",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.38609599999999,
+                  "lng" : 28.804172
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.3584439,
+                  "lng" : 28.7671771
+               }
+            },
+            "location" : 
+            {
+               "lat" : 45.3707729,
+               "lng" : 28.7846634
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.38609599999999,
+                  "lng" : 28.804172
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.3584439,
+                  "lng" : 28.7671771
+               }
+            }
+         },
+         "place_id" : "ChIJgbNsxSpvt0ARIdsczIgqXcU",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

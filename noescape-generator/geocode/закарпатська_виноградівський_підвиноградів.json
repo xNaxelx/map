@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Підвиноградів",
+               "short_name" : "Підвиноградів",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Виноградівський район",
+               "short_name" : "Виноградівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90325",
+               "short_name" : "90325",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Підвиноградів, Закарпатська область, Україна, 90325",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.147015,
+                  "lng" : 22.99459
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.12837,
+                  "lng" : 22.9506049
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.1402236,
+               "lng" : 22.972357
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.147015,
+                  "lng" : 22.99459
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.12837,
+                  "lng" : 22.9506049
+               }
+            }
+         },
+         "place_id" : "ChIJnyKSrCk6OEcRVFX4YPz31-M",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

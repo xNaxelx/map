@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Ярове",
+               "short_name" : "Ярове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Тарутинський район",
+               "short_name" : "Тарутинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68553",
+               "short_name" : "68553",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Ярове, Одеська область, Україна, 68553",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.057177,
+                  "lng" : 29.10706489999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.0356201,
+                  "lng" : 29.078033
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.0481375,
+               "lng" : 29.0924944
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.057177,
+                  "lng" : 29.10706489999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.0356201,
+                  "lng" : 29.078033
+               }
+            }
+         },
+         "place_id" : "ChIJhc2-aY3at0ARNicwRRvLv-8",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

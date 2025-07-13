@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Дубовичі",
+               "short_name" : "Дубовичі",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кролевецький район",
+               "short_name" : "Кролевецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сумська область",
+               "short_name" : "Сумська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "41321",
+               "short_name" : "41321",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Дубовичі, Сумська область, Україна, 41321",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.657725,
+                  "lng" : 33.5990322
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.6184689,
+                  "lng" : 33.537891
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.63397130000001,
+               "lng" : 33.5685597
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.657725,
+                  "lng" : 33.5990322
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.6184689,
+                  "lng" : 33.537891
+               }
+            }
+         },
+         "place_id" : "ChIJ6drJRmmWK0ERD8K5KRQoTgw",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

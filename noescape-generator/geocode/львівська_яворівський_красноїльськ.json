@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Яворівський район",
+               "short_name" : "Яворівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Яворівський район, Львівська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.193844,
+                  "lng" : 23.9387161
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.81258,
+                  "lng" : 23.0927957
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.015466,
+               "lng" : 23.5466891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.193844,
+                  "lng" : 23.9387161
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.81258,
+                  "lng" : 23.0927957
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJM9bvHb0-O0cRuAJVd2LB3l0",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Красноїльськ",
+               "short_name" : "Красноїльськ",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сторожинецький район",
+               "short_name" : "Сторожинецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "59022",
+               "short_name" : "59022",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Красноїльськ, Чернівецька область, Україна, 59022",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.029731,
+                  "lng" : 25.6137521
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.972786,
+                  "lng" : 25.517513
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.009608,
+               "lng" : 25.5741157
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.029731,
+                  "lng" : 25.6137521
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.972786,
+                  "lng" : 25.517513
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJWcGuEYAkNEcR9pSu-c4l1n0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

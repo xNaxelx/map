@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Новоукраїнка",
+               "short_name" : "Новоукраїнка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Роздільнянський район",
+               "short_name" : "Роздільнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67441",
+               "short_name" : "67441",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Новоукраїнка, Одеська область, Україна, 67441",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.8323761,
+                  "lng" : 30.3028681
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.797666,
+                  "lng" : 30.2704949
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.8172733,
+               "lng" : 30.286102
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.8323761,
+                  "lng" : 30.3028681
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.797666,
+                  "lng" : 30.2704949
+               }
+            }
+         },
+         "place_id" : "ChIJT4q_TweVyEARnGDik8V7Tac",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

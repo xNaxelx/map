@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Дружба",
+               "short_name" : "Дружба",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Роздільнянський район",
+               "short_name" : "Роздільнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67400",
+               "short_name" : "67400",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Дружба, Одеська область, Україна, 67400",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.8618779,
+                  "lng" : 30.041794
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.85406099999999,
+                  "lng" : 30.0364711
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.8575909,
+               "lng" : 30.0393593
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.8618779,
+                  "lng" : 30.041794
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.85406099999999,
+                  "lng" : 30.0364711
+               }
+            }
+         },
+         "place_id" : "ChIJ5wS0pt3oyEARuiiuvGFFfqE",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Хустський район",
+               "short_name" : "Хустський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Хустський район, Закарпатська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.447236,
+                  "lng" : 23.7033859
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.9677547,
+                  "lng" : 23.121365
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.2856494,
+               "lng" : 23.4356427
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.447236,
+                  "lng" : 23.7033859
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.9677547,
+                  "lng" : 23.121365
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJT6BbyokqOEcRALpgUDFzx3s",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Сойми",
+               "short_name" : "Сойми",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Міжгірський район",
+               "short_name" : "Міжгірський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90033",
+               "short_name" : "90033",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Сойми, Закарпатська область, Україна, 90033",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.585699,
+                  "lng" : 23.4914211
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.5586329,
+                  "lng" : 23.4583891
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5656687,
+               "lng" : 23.4768846
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.585699,
+                  "lng" : 23.4914211
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.5586329,
+                  "lng" : 23.4583891
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJyUGQJKjCOUcRNEyahmyR9wk",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

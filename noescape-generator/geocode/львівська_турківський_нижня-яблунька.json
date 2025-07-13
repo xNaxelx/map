@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Нижня Яблунька",
+               "short_name" : "Ниж. Яблонька",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Турківський район",
+               "short_name" : "Турківський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "82532",
+               "short_name" : "82532",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Нижня Яблунька, Львівська область, Україна, 82532",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.141047,
+                  "lng" : 22.996362
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.098473,
+                  "lng" : 22.9522271
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.1238392,
+               "lng" : 22.9750715
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.141047,
+                  "lng" : 22.996362
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.098473,
+                  "lng" : 22.9522271
+               }
+            }
+         },
+         "place_id" : "ChIJ72uV0ybRO0cR7iEurCbYu8g",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

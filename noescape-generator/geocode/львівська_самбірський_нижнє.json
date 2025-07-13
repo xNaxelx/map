@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Нижнє",
+               "short_name" : "Нижнє",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Самбірський район",
+               "short_name" : "Самбірський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "81433",
+               "short_name" : "81433",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Нижнє, Львівська область, Україна, 81433",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.637691,
+                  "lng" : 23.32658
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.628237,
+                  "lng" : 23.3106641
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.6327574,
+               "lng" : 23.3189069
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.637691,
+                  "lng" : 23.32658
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.628237,
+                  "lng" : 23.3106641
+               }
+            }
+         },
+         "place_id" : "ChIJp67QQB4IO0cRSClkSOBO_kc",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

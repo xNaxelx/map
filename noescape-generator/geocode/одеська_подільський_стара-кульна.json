@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Стара Кульна",
+               "short_name" : "Стара Кульна",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Подільський район",
+               "short_name" : "Подільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66334",
+               "short_name" : "66334",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Стара Кульна, Одеська область, Україна, 66334",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.7095299,
+                  "lng" : 29.332608
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.682951,
+                  "lng" : 29.297629
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.6983168,
+               "lng" : 29.3169861
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.7095299,
+                  "lng" : 29.332608
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.682951,
+                  "lng" : 29.297629
+               }
+            }
+         },
+         "place_id" : "ChIJj0xoK7sbzEARrgJp4Mgzu0s",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

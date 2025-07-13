@@ -1,0 +1,188 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Коритниця",
+               "short_name" : "Коритниця",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Локачинський район",
+               "short_name" : "Локачинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "45544",
+               "short_name" : "45544",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Коритниця, Волинська область, Україна, 45544",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.645211,
+                  "lng" : 24.825457
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.607614,
+                  "lng" : 24.7691961
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.6222143,
+               "lng" : 24.7921929
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.645211,
+                  "lng" : 24.825457
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.607614,
+                  "lng" : 24.7691961
+               }
+            }
+         },
+         "place_id" : "ChIJ1wLDFhkGJUcRqSsiayW1XPY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Коритниця",
+               "short_name" : "Коритниця",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Володимир-Волинський район",
+               "short_name" : "Володимир-Волинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "44711",
+               "short_name" : "44711",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Коритниця, Волинська область, Україна, 44711",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.95538699999999,
+                  "lng" : 24.062292
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.921838,
+                  "lng" : 24.0003509
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.9395423,
+               "lng" : 24.029416
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.95538699999999,
+                  "lng" : 24.062292
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.921838,
+                  "lng" : 24.0003509
+               }
+            }
+         },
+         "place_id" : "ChIJV9vUs6FjJEcRaIGlywVZ53E",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

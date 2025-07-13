@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Новокрасне",
+               "short_name" : "Новокрасне",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Маловисківський район",
+               "short_name" : "Маловисківський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кіровоградська область",
+               "short_name" : "Кіровоградська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "26244",
+               "short_name" : "26244",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Новокрасне, Кіровоградська область, Україна, 26244",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.490716,
+                  "lng" : 31.7482649
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.483059,
+                  "lng" : 31.7289
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.4872818,
+               "lng" : 31.7385174
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.490716,
+                  "lng" : 31.7482649
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.483059,
+                  "lng" : 31.7289
+               }
+            }
+         },
+         "place_id" : "ChIJ65L7w5Y10EARkGpcJFsFUBU",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

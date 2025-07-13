@@ -1,0 +1,98 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Буківка",
+               "short_name" : "Буківка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Герцаївський район",
+               "short_name" : "Герцаївський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60546",
+               "short_name" : "60546",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Буківка, Чернівецька область, Україна, 60546",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.0611449,
+                  "lng" : 26.108408
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.0425669,
+                  "lng" : 26.077021
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.0528032,
+               "lng" : 26.0940797
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.0611449,
+                  "lng" : 26.108408
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.0425669,
+                  "lng" : 26.077021
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJI9smQvtrNEcRKoPcxODitCo",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

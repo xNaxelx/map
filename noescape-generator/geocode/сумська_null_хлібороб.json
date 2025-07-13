@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Хлібороб",
+               "short_name" : "Хлібороб",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Середино-Будський район",
+               "short_name" : "Середино-Будський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сумська область",
+               "short_name" : "Сумська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "41000",
+               "short_name" : "41000",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Хлібороб, Сумська область, Україна, 41000",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.23035100000001,
+                  "lng" : 33.982401
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.220717,
+                  "lng" : 33.9689781
+               }
+            },
+            "location" : 
+            {
+               "lat" : 52.22495809999999,
+               "lng" : 33.9748522
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.23035100000001,
+                  "lng" : 33.982401
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.220717,
+                  "lng" : 33.9689781
+               }
+            }
+         },
+         "place_id" : "ChIJT0SLZ3BgLEEROHLyaockk20",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

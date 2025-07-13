@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Біла",
+               "short_name" : "Біла",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ямпільський район",
+               "short_name" : "Ямпільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "24505",
+               "short_name" : "24505",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Біла, Вінницька область, Україна, 24505",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.26519099999999,
+                  "lng" : 28.2284629
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.237996,
+                  "lng" : 28.1970361
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.2532175,
+               "lng" : 28.2171565
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.26519099999999,
+                  "lng" : 28.2284629
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.237996,
+                  "lng" : 28.1970361
+               }
+            }
+         },
+         "place_id" : "ChIJUXJqXvHEzEARro6_HmMNTDc",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "річка Біла",
+               "short_name" : "річка Біла",
+               "types" : 
+               [
+                  "establishment",
+                  "natural_feature"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "річка Біла, Львівська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.23608979999999,
+                  "lng" : 24.0070564
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.0760344,
+                  "lng" : 23.6114436
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.156062131499,
+               "lng" : 23.80925002159805
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.23608979999999,
+                  "lng" : 24.0070564
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.0760344,
+                  "lng" : 23.6114436
+               }
+            }
+         },
+         "place_id" : "ChIJN2-qIXYtO0cRSnsQUFTpCHU",
+         "types" : 
+         [
+            "establishment",
+            "natural_feature"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

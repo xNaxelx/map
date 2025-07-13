@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Горностаївка",
+               "short_name" : "Горностаївка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Горностаївський район",
+               "short_name" : "Горностаївський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Херсонська область",
+               "short_name" : "Херсонська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "74600",
+               "short_name" : "74600",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Горностаївка, Херсонська область, Україна, 74600",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.022484,
+                  "lng" : 33.758197
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.9884669,
+                  "lng" : 33.701372
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.00527880000001,
+               "lng" : 33.7289334
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.022484,
+                  "lng" : 33.758197
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.9884669,
+                  "lng" : 33.701372
+               }
+            }
+         },
+         "place_id" : "ChIJ7-nkW45vw0AR7aAiEWKQ22o",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

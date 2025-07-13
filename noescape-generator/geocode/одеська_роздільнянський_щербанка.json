@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Щербанка",
+               "short_name" : "Щербанка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Роздільнянський район",
+               "short_name" : "Роздільнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67462",
+               "short_name" : "67462",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Щербанка, Одеська область, Україна, 67462",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.70658599999999,
+                  "lng" : 30.2079789
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.685254,
+                  "lng" : 30.170339
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.69264709999999,
+               "lng" : 30.1851928
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.70658599999999,
+                  "lng" : 30.2079789
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.685254,
+                  "lng" : 30.170339
+               }
+            }
+         },
+         "place_id" : "ChIJQauiJceNyEARK_KjnHeZ1X4",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

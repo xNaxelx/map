@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Стужиця",
+               "short_name" : "Стужиця",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Великоберезнянський район",
+               "short_name" : "Великоберезнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "89010",
+               "short_name" : "89010",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Стужиця, Закарпатська область, Україна, 89010",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.0396789,
+                  "lng" : 22.648761
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.00735599999999,
+                  "lng" : 22.5745429
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.0242387,
+               "lng" : 22.609492
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.0396789,
+                  "lng" : 22.648761
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.00735599999999,
+                  "lng" : 22.5745429
+               }
+            }
+         },
+         "place_id" : "ChIJu3Oao9tgOUcRRvplS5nVr8Y",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

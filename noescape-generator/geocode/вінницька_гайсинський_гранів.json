@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Гранів",
+               "short_name" : "Гранів",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Гайсинський район",
+               "short_name" : "Гайсинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "23731",
+               "short_name" : "23731",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Гранів, Вінницька область, Україна, 23731",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.888501,
+                  "lng" : 29.598918
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.85466599999999,
+                  "lng" : 29.5357469
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.87372329999999,
+               "lng" : 29.5606446
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.888501,
+                  "lng" : 29.598918
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.85466599999999,
+                  "lng" : 29.5357469
+               }
+            }
+         },
+         "place_id" : "ChIJLwsEqTGB0kAR1zkiHSUqo9c",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

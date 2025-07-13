@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Заболотне",
+               "short_name" : "Заболотне",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Крижопільський район",
+               "short_name" : "Крижопільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "24631",
+               "short_name" : "24631",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Заболотне, Вінницька область, Україна, 24631",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.4392039,
+                  "lng" : 28.9188071
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.419343,
+                  "lng" : 28.8843979
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.4304406,
+               "lng" : 28.899742
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.4392039,
+                  "lng" : 28.9188071
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.419343,
+                  "lng" : 28.8843979
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJG_x7ZUgFzUAR8tERU1W_2-4",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Вінницький район",
+               "short_name" : "Вінницький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Вінницький район, Вінницька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.402756,
+                  "lng" : 28.857371
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.06945109999999,
+                  "lng" : 28.0955511
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.17270569999999,
+               "lng" : 28.5742292
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.402756,
+                  "lng" : 28.857371
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.06945109999999,
+                  "lng" : 28.0955511
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ_UXPlGVbLUcRnjTAGzahLeA",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

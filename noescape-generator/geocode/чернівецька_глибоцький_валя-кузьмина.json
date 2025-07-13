@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Валя Кузьмина",
+               "short_name" : "Валя Кузьмина",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Глибоцький район",
+               "short_name" : "Глибоцький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60411",
+               "short_name" : "60411",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Валя Кузьмина, Чернівецька область, Україна, 60411",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.2121141,
+                  "lng" : 26.0306421
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.1551559,
+                  "lng" : 25.986493
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.1892436,
+               "lng" : 26.0113333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.2121141,
+                  "lng" : 26.0306421
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.1551559,
+                  "lng" : 25.986493
+               }
+            }
+         },
+         "place_id" : "ChIJF6u6npgNNEcRasN5SJHwSrA",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

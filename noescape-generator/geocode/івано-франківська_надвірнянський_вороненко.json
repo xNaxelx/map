@@ -1,0 +1,165 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Надворнянський район",
+               "short_name" : "Надворнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Івано-Франківська область",
+               "short_name" : "Івано-Франківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Надворнянський район, Івано-Франківська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.812133,
+                  "lng" : 24.8485221
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.349735,
+                  "lng" : 24.116384
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.56301999999999,
+               "lng" : 24.4803568
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.812133,
+                  "lng" : 24.8485221
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.349735,
+                  "lng" : 24.116384
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJg2R3dg0xN0cRrLLImbZwRIk",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Вороненко",
+               "short_name" : "Вороненко",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Яремчанська міськрада",
+               "short_name" : "Яремчанська міськрада",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Івано-Франківська область",
+               "short_name" : "Івано-Франківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Вороненко, Івано-Франківська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.2929302,
+                  "lng" : 24.5171069
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.2660838,
+                  "lng" : 24.4809722
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.2814377,
+               "lng" : 24.4942216
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.2929302,
+                  "lng" : 24.5171069
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.2660838,
+                  "lng" : 24.4809722
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJCQsKKV8eN0cR1rXHDZNVzxA",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

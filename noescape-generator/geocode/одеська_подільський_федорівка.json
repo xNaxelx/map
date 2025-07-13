@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Федорівка",
+               "short_name" : "Федорівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Подільський район",
+               "short_name" : "Подільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66363",
+               "short_name" : "66363",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Федорівка, Одеська область, Україна, 66363",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.667148,
+                  "lng" : 29.719492
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.636287,
+                  "lng" : 29.6739599
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.6523784,
+               "lng" : 29.6949835
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.667148,
+                  "lng" : 29.719492
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.636287,
+                  "lng" : 29.6739599
+               }
+            }
+         },
+         "place_id" : "ChIJk2PM7hajzkAR7dHjmQYHWsw",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

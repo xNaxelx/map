@@ -1,0 +1,99 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Поляниця",
+               "short_name" : "Поляниця",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Яремчанська міськрада",
+               "short_name" : "Яремчанська міськрада",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Івано-Франківська область",
+               "short_name" : "Івано-Франківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Поляниця, Івано-Франківська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.3919686,
+                  "lng" : 24.5061207
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.3314616,
+                  "lng" : 24.3552732
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.3623404,
+               "lng" : 24.405498
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.3919686,
+                  "lng" : 24.5061207
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.3314616,
+                  "lng" : 24.3552732
+               }
+            }
+         },
+         "navigation_points" : 
+         [
+            {
+               "location" : 
+               {
+                  "latitude" : 48.3623387,
+                  "longitude" : 24.4054484
+               }
+            }
+         ],
+         "place_id" : "ChIJf6jzMpoYN0cR-Mk2m2T3d5M",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

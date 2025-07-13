@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Надворнянський район",
+               "short_name" : "Надворнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Івано-Франківська область",
+               "short_name" : "Івано-Франківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Надворнянський район, Івано-Франківська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.812133,
+                  "lng" : 24.8485221
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.349735,
+                  "lng" : 24.116384
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.56301999999999,
+               "lng" : 24.4803568
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.812133,
+                  "lng" : 24.8485221
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.349735,
+                  "lng" : 24.116384
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJg2R3dg0xN0cRrLLImbZwRIk",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Кривопілля",
+               "short_name" : "Кривопілля",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Верховинський район",
+               "short_name" : "Верховинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Івано-Франківська область",
+               "short_name" : "Івано-Франківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "78706",
+               "short_name" : "78706",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Кривопілля, Івано-Франківська область, Україна, 78706",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.219148,
+                  "lng" : 24.715593
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.189069,
+                  "lng" : 24.676279
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.1946456,
+               "lng" : 24.6898649
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.219148,
+                  "lng" : 24.715593
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.189069,
+                  "lng" : 24.676279
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJUxPvY87lNkcR5nel8KEcbEY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

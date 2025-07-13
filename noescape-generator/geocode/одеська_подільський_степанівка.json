@@ -1,0 +1,188 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Степанівка",
+               "short_name" : "Степанівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Поді́льськ",
+               "short_name" : "Поді́льськ",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66302",
+               "short_name" : "66302",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Степанівка, Одеська область, Україна, 66302",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.599025,
+                  "lng" : 29.6633511
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.592818,
+                  "lng" : 29.648984
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.5970169,
+               "lng" : 29.6553219
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.599025,
+                  "lng" : 29.6633511
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.592818,
+                  "lng" : 29.648984
+               }
+            }
+         },
+         "place_id" : "ChIJK1xe8tukzkARwnVQ9JQAAQU",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Степанівка",
+               "short_name" : "Степанівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Окнянський район",
+               "short_name" : "Окнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67923",
+               "short_name" : "67923",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Степанівка, Одеська область, Україна, 67923",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.514457,
+                  "lng" : 29.25989299999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.5039159,
+                  "lng" : 29.240815
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.5082281,
+               "lng" : 29.2529091
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.514457,
+                  "lng" : 29.25989299999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.5039159,
+                  "lng" : 29.240815
+               }
+            }
+         },
+         "place_id" : "ChIJkcdK7GkAzEARaOOJbuAY0Dg",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

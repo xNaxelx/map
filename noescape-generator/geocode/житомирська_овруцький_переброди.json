@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Переброди",
+               "short_name" : "Переброди",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Овруцький район",
+               "short_name" : "Овруцький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Житомирська область",
+               "short_name" : "Житомирська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "11105",
+               "short_name" : "11105",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Переброди, Житомирська область, Україна, 11105",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.287579,
+                  "lng" : 28.18911
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.281307,
+                  "lng" : 28.1746179
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.2848094,
+               "lng" : 28.1812187
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.287579,
+                  "lng" : 28.18911
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.281307,
+                  "lng" : 28.1746179
+               }
+            }
+         },
+         "place_id" : "ChIJ2w1ekj11KUcR_kkqf3cZ6wY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

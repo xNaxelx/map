@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Руське",
+               "short_name" : "Руське",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Мукачівський район",
+               "short_name" : "Мукачівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "89621",
+               "short_name" : "89621",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Руське, Закарпатська область, Україна, 89621",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.4770569,
+                  "lng" : 22.632238
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.4677759,
+                  "lng" : 22.6062181
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.47421749999999,
+               "lng" : 22.6200767
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.4770569,
+                  "lng" : 22.632238
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.4677759,
+                  "lng" : 22.6062181
+               }
+            }
+         },
+         "place_id" : "ChIJU7EgPnaqOUcRen9NjZlcpxw",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

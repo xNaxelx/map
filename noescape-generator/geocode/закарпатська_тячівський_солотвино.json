@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Солотвино",
+               "short_name" : "Солотвино",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Тячівський район",
+               "short_name" : "Тячівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90575",
+               "short_name" : "90575",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Солотвино, Закарпатська область, Україна, 90575",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.971703,
+                  "lng" : 23.8962149
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.939332,
+                  "lng" : 23.846221
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.9557094,
+               "lng" : 23.8775791
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.971703,
+                  "lng" : 23.8962149
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.939332,
+                  "lng" : 23.846221
+               }
+            }
+         },
+         "place_id" : "ChIJlZcPamG7N0cRKE2K4obq_-k",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

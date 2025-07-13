@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Суховоля",
+               "short_name" : "Суховоля",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Городоцький район",
+               "short_name" : "Городоцький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "81513",
+               "short_name" : "81513",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Суховоля, Львівська область, Україна, 81513",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.844942,
+                  "lng" : 23.857369
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.8126389,
+                  "lng" : 23.8219259
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.8290676,
+               "lng" : 23.8380121
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.844942,
+                  "lng" : 23.857369
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.8126389,
+                  "lng" : 23.8219259
+               }
+            }
+         },
+         "place_id" : "ChIJ21T2Lk7gOkcR5EN8X6wcntY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

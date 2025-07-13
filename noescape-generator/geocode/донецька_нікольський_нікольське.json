@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Нікольське",
+               "short_name" : "Нікольське",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Нікольський район",
+               "short_name" : "Нікольський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Донецька область",
+               "short_name" : "Донецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "87000",
+               "short_name" : "87000",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Нікольське, Донецька область, Україна, 87000",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.236808,
+                  "lng" : 37.357703
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.1838059,
+                  "lng" : 37.2930831
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.2028635,
+               "lng" : 37.3197087
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.236808,
+                  "lng" : 37.357703
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.1838059,
+                  "lng" : 37.2930831
+               }
+            }
+         },
+         "place_id" : "ChIJ2Ue8Hucb50ARKqmiqClm3m0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Оленівка",
+               "short_name" : "Оленівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Могилів-Подільський район",
+               "short_name" : "Могилів-Подільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "24053",
+               "short_name" : "24053",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Оленівка, Вінницька область, Україна, 24053",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.389563,
+                  "lng" : 27.997366
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.377977,
+                  "lng" : 27.963785
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.3836659,
+               "lng" : 27.9849552
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.389563,
+                  "lng" : 27.997366
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.377977,
+                  "lng" : 27.963785
+               }
+            }
+         },
+         "place_id" : "ChIJo6WXUM7SzEARODKtNAQHvBY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

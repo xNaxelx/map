@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Тихе",
+               "short_name" : "Тихе",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Покровський район",
+               "short_name" : "Покровський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Дніпропетровська область",
+               "short_name" : "Дніпропетровська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "53631",
+               "short_name" : "53631",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Тихе, Дніпропетровська область, Україна, 53631",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.97050489999999,
+                  "lng" : 36.39619709999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.96249299999999,
+                  "lng" : 36.3567089
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.9653682,
+               "lng" : 36.3751787
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.97050489999999,
+                  "lng" : 36.39619709999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.96249299999999,
+                  "lng" : 36.3567089
+               }
+            }
+         },
+         "place_id" : "ChIJdQ6oYcbZ3UAR3v949GZ8HJE",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

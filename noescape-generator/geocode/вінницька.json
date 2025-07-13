@@ -1,0 +1,71 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Вінницька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.889537,
+                  "lng" : 30.022071
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.06544599999999,
+                  "lng" : 27.3708259
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.233083,
+               "lng" : 28.468217
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.889537,
+                  "lng" : 30.022071
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.06544599999999,
+                  "lng" : 27.3708259
+               }
+            }
+         },
+         "place_id" : "ChIJiy6tDP5UzUARsED2iIQGAQE",
+         "types" : 
+         [
+            "administrative_area_level_1",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

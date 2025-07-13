@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Салаші",
+               "short_name" : "Салаші",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Яворівський район",
+               "short_name" : "Яворівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "81013",
+               "short_name" : "81013",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Салаші, Львівська область, Україна, 81013",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.160474,
+                  "lng" : 23.409166
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.128257,
+                  "lng" : 23.361909
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.1364937,
+               "lng" : 23.3807192
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.160474,
+                  "lng" : 23.409166
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.128257,
+                  "lng" : 23.361909
+               }
+            }
+         },
+         "place_id" : "ChIJP1rUlh5GO0cRu57qX8IPzd4",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

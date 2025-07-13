@@ -1,0 +1,108 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Конотоп (авіабаза)",
+               "short_name" : "Конотоп (авіабаза)",
+               "types" : 
+               [
+                  "airport",
+                  "establishment",
+                  "point_of_interest"
+               ]
+            },
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : 
+               [
+                  "street_number"
+               ]
+            },
+            {
+               "long_name" : "1-ий провулок Рябошапка",
+               "short_name" : "1-ий провулок Рябошапка",
+               "types" : 
+               [
+                  "route"
+               ]
+            },
+            {
+               "long_name" : "Конотоп",
+               "short_name" : "Конотоп",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сумська область",
+               "short_name" : "Сумська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "41600",
+               "short_name" : "41600",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Конотоп (авіабаза), 1-ий провулок Рябошапка, 1, Конотоп, Сумська область, Україна, 41600",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 51.2387855,
+               "lng" : 33.1499979
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.2401344802915,
+                  "lng" : 33.15134688029149
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.2374365197085,
+                  "lng" : 33.14864891970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJM3kvAmxJKkER9e7XMsZMNq4",
+         "plus_code" : 
+         {
+            "compound_code" : "64QX+GX Конотоп, Сумська область, Україна",
+            "global_code" : "9G3M64QX+GX"
+         },
+         "types" : 
+         [
+            "airport",
+            "establishment",
+            "point_of_interest"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Затишок",
+               "short_name" : "Затишок",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Коростенський район",
+               "short_name" : "Коростенський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Житомирська область",
+               "short_name" : "Житомирська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "11563",
+               "short_name" : "11563",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Затишок, Житомирська область, Україна, 11563",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.88194499999999,
+                  "lng" : 28.149466
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.8707169,
+                  "lng" : 28.1316861
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.8758625,
+               "lng" : 28.1408599
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.88194499999999,
+                  "lng" : 28.149466
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.8707169,
+                  "lng" : 28.1316861
+               }
+            }
+         },
+         "place_id" : "ChIJF5AwEQZcKUcRGJFlL_6Rgrg",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

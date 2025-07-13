@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Іванків",
+               "short_name" : "Іванків",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Іванківський район",
+               "short_name" : "Іванківський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Київська область",
+               "short_name" : "Київська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "07203",
+               "short_name" : "07203",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Іванків, Київська область, Україна, 07203",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.953562,
+                  "lng" : 29.9231769
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.916979,
+                  "lng" : 29.8689739
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.9337376,
+               "lng" : 29.90061399999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.953562,
+                  "lng" : 29.9231769
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.916979,
+                  "lng" : 29.8689739
+               }
+            }
+         },
+         "place_id" : "ChIJJRKDs6D8KkcRmUAnuHRCMdw",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

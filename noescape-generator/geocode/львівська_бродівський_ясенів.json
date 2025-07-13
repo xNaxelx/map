@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Ясенів",
+               "short_name" : "Ясенів",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Бродівський район",
+               "short_name" : "Бродівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "80661",
+               "short_name" : "80661",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Ясенів, Львівська область, Україна, 80661",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.97084390000001,
+                  "lng" : 25.070041
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.9511639,
+                  "lng" : 25.02599
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.9573499,
+               "lng" : 25.0455955
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.97084390000001,
+                  "lng" : 25.070041
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.9511639,
+                  "lng" : 25.02599
+               }
+            }
+         },
+         "place_id" : "ChIJy2aOt-3_L0cROhtlh0SmY9Q",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Івано-Миколаївка",
+               "short_name" : "Івано-Миколаївка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Роздільнянський район",
+               "short_name" : "Роздільнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67431",
+               "short_name" : "67431",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Івано-Миколаївка, Одеська область, Україна, 67431",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.765465,
+                  "lng" : 30.0542631
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.754381,
+                  "lng" : 30.0462541
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.76049219999999,
+               "lng" : 30.0492938
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.765465,
+                  "lng" : 30.0542631
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.754381,
+                  "lng" : 30.0462541
+               }
+            }
+         },
+         "place_id" : "ChIJJ4sFnI3tyEARso352qy3v4c",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

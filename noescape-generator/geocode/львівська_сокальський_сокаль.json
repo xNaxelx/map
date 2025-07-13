@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Сокаль",
+               "short_name" : "Сокаль",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сокальський район",
+               "short_name" : "Сокальський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "80000",
+               "short_name" : "80000",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Сокаль, Львівська область, Україна, 80000",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.50743199999999,
+                  "lng" : 24.29714
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.461741,
+                  "lng" : 24.2681501
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.4863542,
+               "lng" : 24.2801559
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.50743199999999,
+                  "lng" : 24.29714
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.461741,
+                  "lng" : 24.2681501
+               }
+            }
+         },
+         "place_id" : "ChIJ1c9eA5jgJEcRPF00GBOpKDY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

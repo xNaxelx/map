@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Лучанки",
+               "short_name" : "Лучанки",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Овруцький район",
+               "short_name" : "Овруцький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Житомирська область",
+               "short_name" : "Житомирська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "11120",
+               "short_name" : "11120",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Лучанки, Житомирська область, Україна, 11120",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.56463100000001,
+                  "lng" : 28.476757
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.524136,
+                  "lng" : 28.409879
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.5490047,
+               "lng" : 28.4513875
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.56463100000001,
+                  "lng" : 28.476757
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.524136,
+                  "lng" : 28.409879
+               }
+            }
+         },
+         "place_id" : "ChIJkxLGmJqVKUcRchpUrJkD_zs",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

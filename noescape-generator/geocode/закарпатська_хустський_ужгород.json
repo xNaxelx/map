@@ -1,0 +1,100 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Ужгород",
+               "short_name" : "Ужгород",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ужгородська міськрада",
+               "short_name" : "Ужгородська міськрада",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "88000",
+               "short_name" : "88000",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Ужгород, Закарпатська область, Україна, 88000",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.6208,
+               "lng" : 22.287883
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.6221342802915,
+                  "lng" : 22.2892398302915
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.61943631970851,
+                  "lng" : 22.2865418697085
+               }
+            }
+         },
+         "navigation_points" : 
+         [
+            {
+               "location" : 
+               {
+                  "latitude" : 48.6207556,
+                  "longitude" : 22.2879067
+               }
+            }
+         ],
+         "partial_match" : true,
+         "place_id" : "ChIJOXMaMQAZOUcRpmJrE6DCSo4",
+         "plus_code" : 
+         {
+            "compound_code" : "J7CQ+85 Ужгород, Закарпатська область, Україна",
+            "global_code" : "8GW4J7CQ+85"
+         },
+         "types" : 
+         [
+            "establishment",
+            "point_of_interest"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

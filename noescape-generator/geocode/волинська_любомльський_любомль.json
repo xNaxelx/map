@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Любомль",
+               "short_name" : "Любомль",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Любомльський район",
+               "short_name" : "Любомльський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "44300",
+               "short_name" : "44300",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Любомль, Волинська область, Україна, 44300",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.2462819,
+                  "lng" : 24.0650121
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.20113809999999,
+                  "lng" : 24.0005579
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.2329872,
+               "lng" : 24.0364394
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.2462819,
+                  "lng" : 24.0650121
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.20113809999999,
+                  "lng" : 24.0005579
+               }
+            }
+         },
+         "place_id" : "ChIJ1Ra7LksLJEcRkTzdLOuB3po",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

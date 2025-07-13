@@ -1,0 +1,98 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Вартиківці",
+               "short_name" : "Вартиківці",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кельменецький район",
+               "short_name" : "Кельменецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60130",
+               "short_name" : "60130",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Вартиківці, Чернівецька область, Україна, 60130",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.4452331,
+                  "lng" : 26.8034639
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.4274419,
+                  "lng" : 26.778815
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.4381385,
+               "lng" : 26.7885914
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.4452331,
+                  "lng" : 26.8034639
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.4274419,
+                  "lng" : 26.778815
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJwVoqnuCeM0cROphF9tpRoPo",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,174 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Харківська область",
+               "short_name" : "Харківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Харківська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.4594142,
+                  "lng" : 38.09530609999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.531375,
+                  "lng" : 34.8563339
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.9935,
+               "lng" : 36.230383
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.4594142,
+                  "lng" : 38.09530609999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.531375,
+                  "lng" : 34.8563339
+               }
+            }
+         },
+         "navigation_points" : 
+         [
+            {
+               "location" : 
+               {
+                  "latitude" : 49.9935,
+                  "longitude" : 36.2303918
+               }
+            }
+         ],
+         "partial_match" : true,
+         "place_id" : "ChIJAfZeLutYJ0ERoEH2iIQGAQE",
+         "types" : 
+         [
+            "administrative_area_level_1",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Болган",
+               "short_name" : "Болган",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Піщанський район",
+               "short_name" : "Піщанський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "24712",
+               "short_name" : "24712",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Болган, Вінницька область, Україна, 24712",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.156059,
+                  "lng" : 28.746814
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.131259,
+                  "lng" : 28.7003251
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.1462097,
+               "lng" : 28.7294881
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.156059,
+                  "lng" : 28.746814
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.131259,
+                  "lng" : 28.7003251
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJi4lMaFH3zEARbKJSaJsJKf0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Герца",
+               "short_name" : "Герца",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Герцаївський район",
+               "short_name" : "Герцаївський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Герца, Чернівецька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.1580702,
+                  "lng" : 26.2674521
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.13668999999999,
+                  "lng" : 26.2424755
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.1479286,
+               "lng" : 26.2545099
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.1580702,
+                  "lng" : 26.2674521
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.13668999999999,
+                  "lng" : 26.2424755
+               }
+            }
+         },
+         "place_id" : "ChIJQefy6QZxNEcRjsQBYhZfJiU",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

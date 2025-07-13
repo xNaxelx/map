@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Могилівська",
+               "short_name" : "Могилівська",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Царичанський район",
+               "short_name" : "Царичанський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Дніпропетровська область",
+               "short_name" : "Дніпропетровська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "51040",
+               "short_name" : "51040",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Могилівська, Дніпропетровська область, Україна, 51040",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.918185,
+                  "lng" : 34.5391991
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.809134,
+                  "lng" : 34.4181339
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.8592145,
+               "lng" : 34.486171
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.918185,
+                  "lng" : 34.5391991
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.809134,
+                  "lng" : 34.4181339
+               }
+            }
+         },
+         "place_id" : "ChIJERoMEbuE2UARDnJC3R5I6MM",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

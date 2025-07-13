@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Тийглаш",
+               "short_name" : "Тийглаш",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ужгородський район",
+               "short_name" : "Ужгородський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "89432",
+               "short_name" : "89432",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Тийглаш, Закарпатська область, Україна, 89432",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.497348,
+                  "lng" : 22.237357
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.478195,
+                  "lng" : 22.221786
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.4881126,
+               "lng" : 22.2314598
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.497348,
+                  "lng" : 22.237357
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.478195,
+                  "lng" : 22.221786
+               }
+            }
+         },
+         "place_id" : "ChIJI9zr_frhOEcROOMJgyHgCio",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

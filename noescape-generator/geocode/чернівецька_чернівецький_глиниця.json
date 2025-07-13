@@ -1,0 +1,98 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Глиниця",
+               "short_name" : "Глиниця",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кіцманський район",
+               "short_name" : "Кіцманський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "59355",
+               "short_name" : "59355",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Глиниця, Чернівецька область, Україна, 59355",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.3434239,
+                  "lng" : 25.7282239
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.3204461,
+                  "lng" : 25.679838
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.33491129999999,
+               "lng" : 25.7077698
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.3434239,
+                  "lng" : 25.7282239
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.3204461,
+                  "lng" : 25.679838
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJTYT64u8BNEcRzMkHmbHVQFE",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

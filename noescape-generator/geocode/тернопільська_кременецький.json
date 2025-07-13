@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Кременецький район",
+               "short_name" : "Кременецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Тернопільська область",
+               "short_name" : "Тернопільська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Кременецький район, Тернопільська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.187458,
+                  "lng" : 25.89876
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.774977,
+                  "lng" : 25.348312
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.0349932,
+               "lng" : 25.5940803
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.187458,
+                  "lng" : 25.89876
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.774977,
+                  "lng" : 25.348312
+               }
+            }
+         },
+         "place_id" : "ChIJgdFFnlPdL0cR3kcW2OUDjq8",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

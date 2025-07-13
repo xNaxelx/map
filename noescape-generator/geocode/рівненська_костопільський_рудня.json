@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Рудня",
+               "short_name" : "Рудня",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Костопільський район",
+               "short_name" : "Костопільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "35013",
+               "short_name" : "35013",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Рудня, Рівненська область, Україна, 35013",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.12612310000001,
+                  "lng" : 26.1990629
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.107916,
+                  "lng" : 26.1787871
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.11547909999999,
+               "lng" : 26.1884472
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.12612310000001,
+                  "lng" : 26.1990629
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.107916,
+                  "lng" : 26.1787871
+               }
+            }
+         },
+         "place_id" : "ChIJP04445SqKEcRHoThC6AXhaA",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

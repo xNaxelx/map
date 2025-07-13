@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Сінне",
+               "short_name" : "Сінне",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Балтський район",
+               "short_name" : "Балтський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66160",
+               "short_name" : "66160",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Сінне, Одеська область, Україна, 66160",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.9285569,
+                  "lng" : 29.597541
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.912491,
+                  "lng" : 29.5331919
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.92115889999999,
+               "lng" : 29.5606993
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.9285569,
+                  "lng" : 29.597541
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.912491,
+                  "lng" : 29.5331919
+               }
+            }
+         },
+         "place_id" : "ChIJv8kqMGMvzEARPjPVUBR7NKg",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

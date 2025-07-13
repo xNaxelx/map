@@ -1,0 +1,81 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Великомихайлівський район",
+               "short_name" : "Великомихайлівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Великомихайлівський район, Одеська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.249882,
+                  "lng" : 30.3481639
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.8611133,
+                  "lng" : 29.49564539999999
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.0928171,
+               "lng" : 29.8948423
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.249882,
+                  "lng" : 30.3481639
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.8611133,
+                  "lng" : 29.49564539999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJIWCOY1gnyUAROlE3CouveXw",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

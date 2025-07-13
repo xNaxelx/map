@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Заставна",
+               "short_name" : "Заставна",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Заставнівський район",
+               "short_name" : "Заставнівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Заставна, Чернівецька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.5401935,
+                  "lng" : 25.866902
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.508246,
+                  "lng" : 25.8236861
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.525312,
+               "lng" : 25.8436802
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.5401935,
+                  "lng" : 25.866902
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.508246,
+                  "lng" : 25.8236861
+               }
+            }
+         },
+         "place_id" : "ChIJp_rdNe5XMUcRleqphN7orJM",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

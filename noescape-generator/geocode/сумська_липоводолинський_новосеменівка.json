@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Новосеменівка",
+               "short_name" : "Новосеменівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Липоводолинський район",
+               "short_name" : "Липоводолинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сумська область",
+               "short_name" : "Сумська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "42510",
+               "short_name" : "42510",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Новосеменівка, Сумська область, Україна, 42510",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.691706,
+                  "lng" : 33.92761309999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.6804731,
+                  "lng" : 33.912716
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.6872019,
+               "lng" : 33.9203166
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.691706,
+                  "lng" : 33.92761309999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.6804731,
+                  "lng" : 33.912716
+               }
+            }
+         },
+         "place_id" : "ChIJxZQOUk3AKUERFm_NYN_nVlk",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

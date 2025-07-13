@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Буштино",
+               "short_name" : "Буштино",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Тячівський район",
+               "short_name" : "Тячівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Буштино, Закарпатська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.0754123,
+                  "lng" : 23.5089934
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.036175,
+                  "lng" : 23.4452318
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.04966839999999,
+               "lng" : 23.4827736
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.0754123,
+                  "lng" : 23.5089934
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.036175,
+                  "lng" : 23.4452318
+               }
+            }
+         },
+         "place_id" : "ChIJ3XSCL3qPN0cRyWZBt6VUSgM",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

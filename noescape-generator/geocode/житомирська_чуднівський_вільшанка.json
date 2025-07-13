@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Вільшанка",
+               "short_name" : "Вільшанка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чуднівський район",
+               "short_name" : "Чуднівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Житомирська область",
+               "short_name" : "Житомирська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "13224",
+               "short_name" : "13224",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Вільшанка, Житомирська область, Україна, 13224",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.0294059,
+                  "lng" : 28.1656879
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.0083449,
+                  "lng" : 28.1170729
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.0225741,
+               "lng" : 28.1376989
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.0294059,
+                  "lng" : 28.1656879
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.0083449,
+                  "lng" : 28.1170729
+               }
+            }
+         },
+         "place_id" : "ChIJrVC82ClPLEcRILxmCa6f77c",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

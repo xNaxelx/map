@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Обжиле",
+               "short_name" : "Обжиле",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Балтський район",
+               "short_name" : "Балтський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66140",
+               "short_name" : "66140",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Обжиле, Одеська область, Україна, 66140",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.005447,
+                  "lng" : 29.4067089
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.971895,
+                  "lng" : 29.351589
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.9875439,
+               "lng" : 29.382251
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.005447,
+                  "lng" : 29.4067089
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.971895,
+                  "lng" : 29.351589
+               }
+            }
+         },
+         "place_id" : "ChIJycFqK0c3zEARYgr0fm3N8bE",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

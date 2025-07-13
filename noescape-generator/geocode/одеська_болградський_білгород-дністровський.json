@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Білгород-Дністровський",
+               "short_name" : "Білгород-Дністровський",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Білгород-Дністровська міськрада",
+               "short_name" : "Білгород-Дністровська міськрада",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67700",
+               "short_name" : "67700",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Білгород-Дністровський, Одеська область, Україна, 67700",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.214747,
+                  "lng" : 30.3796139
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.166416,
+                  "lng" : 30.288428
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.1854516,
+               "lng" : 30.3414908
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.214747,
+                  "lng" : 30.3796139
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.166416,
+                  "lng" : 30.288428
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJUcAJETLdx0AReCaG53Cm9Go",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Болградський район",
+               "short_name" : "Болградський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Болградський район, Одеська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.00345919999999,
+                  "lng" : 29.0752861
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.466108,
+                  "lng" : 28.4806966
+               }
+            },
+            "location" : 
+            {
+               "lat" : 45.7290886,
+               "lng" : 28.7779353
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.00345919999999,
+                  "lng" : 29.0752861
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.466108,
+                  "lng" : 28.4806966
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ-YeN5wOlt0ARRFZgXOIII9Q",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

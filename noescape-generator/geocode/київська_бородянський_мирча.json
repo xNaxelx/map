@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Мирча",
+               "short_name" : "Мирча",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Бородянський район",
+               "short_name" : "Бородянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Київська область",
+               "short_name" : "Київська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "07810",
+               "short_name" : "07810",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Мирча, Київська область, Україна, 07810",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.760859,
+                  "lng" : 29.8469889
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.734634,
+                  "lng" : 29.8137519
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.7485563,
+               "lng" : 29.8333373
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.760859,
+                  "lng" : 29.8469889
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.734634,
+                  "lng" : 29.8137519
+               }
+            }
+         },
+         "place_id" : "ChIJy7gjE78bK0cRA2PvnleCEQI",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

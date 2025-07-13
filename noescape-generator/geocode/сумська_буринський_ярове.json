@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Ярове",
+               "short_name" : "Ярове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Буринський район",
+               "short_name" : "Буринський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сумська область",
+               "short_name" : "Сумська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "41746",
+               "short_name" : "41746",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Ярове, Сумська область, Україна, 41746",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.9952231,
+                  "lng" : 33.5943711
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.9746731,
+                  "lng" : 33.558651
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.980291,
+               "lng" : 33.5671006
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.9952231,
+                  "lng" : 33.5943711
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.9746731,
+                  "lng" : 33.558651
+               }
+            }
+         },
+         "place_id" : "ChIJM_advngnKkERKkIuJ9-D9Sk",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

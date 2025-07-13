@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Івки",
+               "short_name" : "Івки",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Богуславський район",
+               "short_name" : "Богуславський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Київська область",
+               "short_name" : "Київська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "09700",
+               "short_name" : "09700",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Івки, Київська область, Україна, 09700",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.52414599999999,
+                  "lng" : 30.8861221
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.51335,
+                  "lng" : 30.8630861
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.51823539999999,
+               "lng" : 30.8719473
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.52414599999999,
+                  "lng" : 30.8861221
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.51335,
+                  "lng" : 30.8630861
+               }
+            }
+         },
+         "place_id" : "ChIJlxsSf2SW00AR3Ic5vMmknC8",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Кам'яне",
+               "short_name" : "Кам'яне",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рокитнівський район",
+               "short_name" : "Рокитнівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "34220",
+               "short_name" : "34220",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Кам'яне, Рівненська область, Україна, 34220",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.60821499999999,
+                  "lng" : 27.642408
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.50761989999999,
+                  "lng" : 27.5654671
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.5310873,
+               "lng" : 27.6183911
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.60821499999999,
+                  "lng" : 27.642408
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.50761989999999,
+                  "lng" : 27.5654671
+               }
+            }
+         },
+         "place_id" : "ChIJz2NWhytRKEcRtKiICFyMnkg",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Куяльник",
+               "short_name" : "Куяльник",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Поді́льськ",
+               "short_name" : "Поді́льськ",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66350",
+               "short_name" : "66350",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Куяльник, Одеська область, Україна, 66350",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.73354399999999,
+                  "lng" : 29.5682019
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.721985,
+                  "lng" : 29.548859
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.7282235,
+               "lng" : 29.5603071
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.73354399999999,
+                  "lng" : 29.5682019
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.721985,
+                  "lng" : 29.548859
+               }
+            }
+         },
+         "place_id" : "ChIJha1Hrw2gzkARwHY-bZ2XiU0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Саратський район",
+               "short_name" : "Саратський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Саратський район, Одеська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.4222589,
+                  "lng" : 30.0471779
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.908798,
+                  "lng" : 29.3832311
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.0706066,
+               "lng" : 29.7791305
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.4222589,
+                  "lng" : 30.0471779
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.908798,
+                  "lng" : 29.3832311
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ3ypTaaIayEARQOIc88e2JPE",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Олександрівка",
+               "short_name" : "Олександрівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Олександрівський район",
+               "short_name" : "Олександрівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кіровоградська область",
+               "short_name" : "Кіровоградська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "27300",
+               "short_name" : "27300",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Олександрівка, Кіровоградська область, Україна, 27300",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.986197,
+                  "lng" : 32.2746601
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.919669,
+                  "lng" : 32.2092412
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.9614393,
+               "lng" : 32.2318643
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.986197,
+                  "lng" : 32.2746601
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.919669,
+                  "lng" : 32.2092412
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJf6QioRLi0EARdFUyFoCqWzc",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Вели́ке",
+               "short_name" : "Вели́ке",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сокальський район",
+               "short_name" : "Сокальський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "80001",
+               "short_name" : "80001",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Вели́ке, Львівська область, Україна, 80001",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.409282,
+                  "lng" : 24.272558
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.400757,
+                  "lng" : 24.2595642
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.4058638,
+               "lng" : 24.2656219
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.409282,
+                  "lng" : 24.272558
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.400757,
+                  "lng" : 24.2595642
+               }
+            }
+         },
+         "place_id" : "ChIJD5AW0BffJEcRAICdGDMiotA",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

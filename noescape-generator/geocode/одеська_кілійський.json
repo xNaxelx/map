@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Кілійський район",
+               "short_name" : "Кілійський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Кілійський район, Одеська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.737149,
+                  "lng" : 29.782494
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.204082,
+                  "lng" : 29.08908809999999
+               }
+            },
+            "location" : 
+            {
+               "lat" : 45.5557992,
+               "lng" : 29.4010332
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.737149,
+                  "lng" : 29.782494
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.204082,
+                  "lng" : 29.08908809999999
+               }
+            }
+         },
+         "place_id" : "ChIJfWkZK802uEARLuG7c4WqSHw",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

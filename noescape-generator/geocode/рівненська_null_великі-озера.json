@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Великі Озера",
+               "short_name" : "Великі Озера",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Дубровицький район",
+               "short_name" : "Дубровицький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "34146",
+               "short_name" : "34146",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Великі Озера, Рівненська область, Україна, 34146",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.6282,
+                  "lng" : 26.982375
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.5083479,
+                  "lng" : 26.7862859
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.56214110000001,
+               "lng" : 26.9061796
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.6282,
+                  "lng" : 26.982375
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.5083479,
+                  "lng" : 26.7862859
+               }
+            }
+         },
+         "place_id" : "ChIJwxfRpxOGKEcRjEwgtMZT7o8",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

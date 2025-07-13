@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Новоолександрівка",
+               "short_name" : "Новоолександрівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Великомихайлівський район",
+               "short_name" : "Великомихайлівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67112",
+               "short_name" : "67112",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Новоолександрівка, Одеська область, Україна, 67112",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.1262759,
+                  "lng" : 29.572262
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.117481,
+                  "lng" : 29.5519711
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.1225917,
+               "lng" : 29.56097519999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.1262759,
+                  "lng" : 29.572262
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.117481,
+                  "lng" : 29.5519711
+               }
+            }
+         },
+         "place_id" : "ChIJURYGS5k-yUARE78gHE6rzHE",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

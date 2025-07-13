@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Козлів",
+               "short_name" : "Козлів",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Локачинський район",
+               "short_name" : "Локачинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "45533",
+               "short_name" : "45533",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Козлів, Волинська область, Україна, 45533",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.72085000000001,
+                  "lng" : 24.6767401
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.7092751,
+                  "lng" : 24.6564131
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.7160497,
+               "lng" : 24.6639744
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.72085000000001,
+                  "lng" : 24.6767401
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.7092751,
+                  "lng" : 24.6564131
+               }
+            }
+         },
+         "place_id" : "ChIJ9Zk7OmEAJUcRIAKusWYBE_U",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

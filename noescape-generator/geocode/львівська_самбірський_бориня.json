@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Самбірський район",
+               "short_name" : "Самбірський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Самбірський район, Львівська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.7607029,
+                  "lng" : 23.6554599
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.337475,
+                  "lng" : 23.039228
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.578198,
+               "lng" : 23.3664274
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.7607029,
+                  "lng" : 23.6554599
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.337475,
+                  "lng" : 23.039228
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJY-WFvSipO0cRIg7jX41_UbI",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Боринська",
+               "short_name" : "Боринська",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Турківський район",
+               "short_name" : "Турківський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "82547",
+               "short_name" : "82547",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Боринська, Львівська область, Україна, 82547",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.096273,
+                  "lng" : 23.0282969
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.059014,
+                  "lng" : 22.977575
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.0766296,
+               "lng" : 22.9968534
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.096273,
+                  "lng" : 23.0282969
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.059014,
+                  "lng" : 22.977575
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ05IEO0fUO0cR9MgPh6hTgmE",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

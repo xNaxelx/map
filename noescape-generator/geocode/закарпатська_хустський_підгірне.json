@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Підгірне",
+               "short_name" : "Підгірне",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Іршавський район",
+               "short_name" : "Іршавський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90111",
+               "short_name" : "90111",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Підгірне, Закарпатська область, Україна, 90111",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.402977,
+                  "lng" : 23.037287
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.39168009999999,
+                  "lng" : 23.017388
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.39758800000001,
+               "lng" : 23.0278002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.402977,
+                  "lng" : 23.037287
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.39168009999999,
+                  "lng" : 23.017388
+               }
+            }
+         },
+         "place_id" : "ChIJ5VnWOMa1OUcR5NZvF-bfiic",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

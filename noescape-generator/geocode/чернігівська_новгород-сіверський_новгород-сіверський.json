@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Новгород-Сіверський",
+               "short_name" : "Новгород-Сіверський",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Новгород-Сіверський район",
+               "short_name" : "Новгород-Сіверський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернігівська область",
+               "short_name" : "Чернігівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Новгород-Сіверський, Чернігівська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.0397156,
+                  "lng" : 33.3189583
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.9826863,
+                  "lng" : 33.220446
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.99692100000001,
+               "lng" : 33.2643783
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.0397156,
+                  "lng" : 33.3189583
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.9826863,
+                  "lng" : 33.220446
+               }
+            }
+         },
+         "place_id" : "ChIJ1SxKUrt8K0ERC1uS5uQy2M0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

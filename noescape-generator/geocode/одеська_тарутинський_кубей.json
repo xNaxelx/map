@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Тарутинський район",
+               "short_name" : "Тарутинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Тарутинський район, Одеська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.5583119,
+                  "lng" : 29.626539
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.948912,
+                  "lng" : 28.9309141
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.26579950000001,
+               "lng" : 29.2364972
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.5583119,
+                  "lng" : 29.626539
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.948912,
+                  "lng" : 28.9309141
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJB4prfHgvyEARmiNZF0ocoKc",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Кубей",
+               "short_name" : "Кубей",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Болградський район",
+               "short_name" : "Болградський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68720",
+               "short_name" : "68720",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Кубей, Одеська область, Україна, 68720",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.810661,
+                  "lng" : 28.7743041
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.774503,
+                  "lng" : 28.720865
+               }
+            },
+            "location" : 
+            {
+               "lat" : 45.7958593,
+               "lng" : 28.7411193
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.810661,
+                  "lng" : 28.7743041
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.774503,
+                  "lng" : 28.720865
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJxcsBQT6wt0ARa5jR1pkEgzY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

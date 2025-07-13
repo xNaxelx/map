@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Нижанковичі",
+               "short_name" : "Нижанковичі",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Старосамбірський район",
+               "short_name" : "Старосамбірський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "82012",
+               "short_name" : "82012",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Нижанковичі, Львівська область, Україна, 82012",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.692688,
+                  "lng" : 22.817163
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.6680401,
+                  "lng" : 22.7943211
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.6770742,
+               "lng" : 22.8068436
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.692688,
+                  "lng" : 22.817163
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.6680401,
+                  "lng" : 22.7943211
+               }
+            }
+         },
+         "place_id" : "ChIJh691GheDO0cRbwCB3fWnFZE",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

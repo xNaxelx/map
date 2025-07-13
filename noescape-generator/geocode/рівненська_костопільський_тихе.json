@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Тихе",
+               "short_name" : "Тихе",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Костопільський район",
+               "short_name" : "Костопільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "35031",
+               "short_name" : "35031",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Тихе, Рівненська область, Україна, 35031",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.972638,
+                  "lng" : 26.555859
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.96258,
+                  "lng" : 26.536702
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.9698674,
+               "lng" : 26.5463963
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.972638,
+                  "lng" : 26.555859
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.96258,
+                  "lng" : 26.536702
+               }
+            }
+         },
+         "place_id" : "ChIJW1dg4vBKL0cRKOEQHo4iaYA",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

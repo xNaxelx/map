@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Березівка",
+               "short_name" : "Березівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецький район",
+               "short_name" : "Чернівецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "24111",
+               "short_name" : "24111",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Березівка, Вінницька область, Україна, 24111",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.620044,
+                  "lng" : 28.132043
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.585348,
+                  "lng" : 28.0805549
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5998871,
+               "lng" : 28.1096513
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.620044,
+                  "lng" : 28.132043
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.585348,
+                  "lng" : 28.0805549
+               }
+            }
+         },
+         "place_id" : "ChIJuXr1n6fTMkcRbkd9VCuie7M",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

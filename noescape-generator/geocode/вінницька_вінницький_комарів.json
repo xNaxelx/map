@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Комарів",
+               "short_name" : "Комарів",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницький район",
+               "short_name" : "Вінницький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "23251",
+               "short_name" : "23251",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Комарів, Вінницька область, Україна, 23251",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.15676999999999,
+                  "lng" : 28.679261
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.126559,
+                  "lng" : 28.648439
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.1447447,
+               "lng" : 28.6676063
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.15676999999999,
+                  "lng" : 28.679261
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.126559,
+                  "lng" : 28.648439
+               }
+            }
+         },
+         "place_id" : "ChIJVZmFNeRTLUcRqifQn2dl1jQ",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Прикордонне",
+               "short_name" : "Прикордонне",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Тарутинський район",
+               "short_name" : "Тарутинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68554",
+               "short_name" : "68554",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Прикордонне, Одеська область, Україна, 68554",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.095876,
+                  "lng" : 29.013222
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.0757021,
+                  "lng" : 28.992962
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.08772339999999,
+               "lng" : 29.0013211
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.095876,
+                  "lng" : 29.013222
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.0757021,
+                  "lng" : 28.992962
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJO6UeXwvRt0AR1I4ML2f8gAY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Ренійський район",
+               "short_name" : "Ренійський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Ренійський район, Одеська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.580025,
+                  "lng" : 28.745349
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.2430443,
+                  "lng" : 28.2139431
+               }
+            },
+            "location" : 
+            {
+               "lat" : 45.3850074,
+               "lng" : 28.5363782
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.580025,
+                  "lng" : 28.745349
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.2430443,
+                  "lng" : 28.2139431
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJRxt8P5AWt0ARrP0ABivxPiE",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

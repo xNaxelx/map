@@ -1,0 +1,91 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Самбір",
+               "short_name" : "Самбір",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Самбірський район",
+               "short_name" : "Самбірський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "81400",
+               "short_name" : "81400",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Самбір, Львівська область, Україна, 81400",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 49.60775,
+               "lng" : 23.0989136
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.60968598029149,
+                  "lng" : 23.0998574302915
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.6069880197085,
+                  "lng" : 23.0971594697085
+               }
+            }
+         },
+         "place_id" : "ChIJSRxvlTWhO0cRCzZfAA_DoR4",
+         "plus_code" : 
+         {
+            "compound_code" : "J35X+4H Самбір, Львівська область, Україна",
+            "global_code" : "8GX5J35X+4H"
+         },
+         "types" : 
+         [
+            "establishment",
+            "finance",
+            "point_of_interest",
+            "post_office"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

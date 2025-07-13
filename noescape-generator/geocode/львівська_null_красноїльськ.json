@@ -1,0 +1,164 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Львівська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.6488831,
+                  "lng" : 25.426912
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.7189779,
+                  "lng" : 22.6408309
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.839683,
+               "lng" : 24.029717
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.6488831,
+                  "lng" : 25.426912
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.7189779,
+                  "lng" : 22.6408309
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJb5xjPmndOkcRYj26h4iMDWM",
+         "types" : 
+         [
+            "administrative_area_level_1",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Красноїльськ",
+               "short_name" : "Красноїльськ",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сторожинецький район",
+               "short_name" : "Сторожинецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "59022",
+               "short_name" : "59022",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Красноїльськ, Чернівецька область, Україна, 59022",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.029731,
+                  "lng" : 25.6137521
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.972786,
+                  "lng" : 25.517513
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.009608,
+               "lng" : 25.5741157
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.029731,
+                  "lng" : 25.6137521
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.972786,
+                  "lng" : 25.517513
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJWcGuEYAkNEcR9pSu-c4l1n0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

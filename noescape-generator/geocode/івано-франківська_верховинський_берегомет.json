@@ -1,0 +1,165 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Верховинський район",
+               "short_name" : "Верховинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Івано-Франківська область",
+               "short_name" : "Івано-Франківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Верховинський район, Івано-Франківська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.279416,
+                  "lng" : 25.090284
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.7243762,
+                  "lng" : 24.5539909
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.0615596,
+               "lng" : 24.8211382
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.279416,
+                  "lng" : 25.090284
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.7243762,
+                  "lng" : 24.5539909
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJG8h067b0NkcRUvFqkXvYlQY",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Берегомет",
+               "short_name" : "Берегомет",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вижницький район",
+               "short_name" : "Вижницький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Берегомет, Чернівецька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.2084449,
+                  "lng" : 25.3947365
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.107669,
+                  "lng" : 25.2830001
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.1782952,
+               "lng" : 25.3426628
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.2084449,
+                  "lng" : 25.3947365
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.107669,
+                  "lng" : 25.2830001
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJW5AiHnSiNkcRfia8fa99l-c",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Середнє Водяне",
+               "short_name" : "Середнє Водяне",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рахівський район",
+               "short_name" : "Рахівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90613",
+               "short_name" : "90613",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Середнє Водяне, Закарпатська область, Україна, 90613",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.009306,
+                  "lng" : 23.925523
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.9651919,
+                  "lng" : 23.875183
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.98488220000001,
+               "lng" : 23.9117575
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.009306,
+                  "lng" : 23.925523
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.9651919,
+                  "lng" : 23.875183
+               }
+            }
+         },
+         "place_id" : "ChIJzbv8YqakN0cRos14yBt8pCo",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

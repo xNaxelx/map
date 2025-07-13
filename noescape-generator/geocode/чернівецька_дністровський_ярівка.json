@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Ярівка",
+               "short_name" : "Ярівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Хотинський район",
+               "short_name" : "Хотинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60055",
+               "short_name" : "60055",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Ярівка, Чернівецька область, Україна, 60055",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.36871499999999,
+                  "lng" : 26.5419539
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.350689,
+                  "lng" : 26.5122371
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.35885740000001,
+               "lng" : 26.5256065
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.36871499999999,
+                  "lng" : 26.5419539
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.350689,
+                  "lng" : 26.5122371
+               }
+            }
+         },
+         "place_id" : "ChIJ71dvtvOPM0cRNntPo5ShvRQ",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

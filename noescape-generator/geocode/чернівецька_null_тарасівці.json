@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Тарасівці",
+               "short_name" : "Тарасівці",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Новоселицький район",
+               "short_name" : "Новоселицький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60350",
+               "short_name" : "60350",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Тарасівці, Чернівецька область, Україна, 60350",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.214866,
+                  "lng" : 26.394385
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.190547,
+                  "lng" : 26.3399359
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.2062836,
+               "lng" : 26.3641837
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.214866,
+                  "lng" : 26.394385
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.190547,
+                  "lng" : 26.3399359
+               }
+            }
+         },
+         "place_id" : "ChIJF1TYdHh3NEcRgunVlRSb9Bc",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

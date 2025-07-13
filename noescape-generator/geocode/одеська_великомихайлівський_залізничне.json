@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Залізничне",
+               "short_name" : "Залізничне",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Великомихайлівський район",
+               "short_name" : "Великомихайлівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67154",
+               "short_name" : "67154",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Залізничне, Одеська область, Україна, 67154",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.077198,
+                  "lng" : 30.0394961
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.066967,
+                  "lng" : 30.0269881
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.0723123,
+               "lng" : 30.0334385
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.077198,
+                  "lng" : 30.0394961
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.066967,
+                  "lng" : 30.0269881
+               }
+            }
+         },
+         "place_id" : "ChIJHWDlMbjZyEARIABGwjC178s",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

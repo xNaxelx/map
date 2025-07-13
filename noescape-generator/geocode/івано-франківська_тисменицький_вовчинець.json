@@ -1,0 +1,98 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Вовчинець",
+               "short_name" : "Вовчинець",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Івано-Франківська міськрада",
+               "short_name" : "Івано-Франківська міськрада",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Тисменицький район",
+               "short_name" : "Тисменицький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Івано-Франківська область",
+               "short_name" : "Івано-Франківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Вовчинець, Івано-Франківська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.9692591,
+                  "lng" : 24.7613169
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.93620199999999,
+                  "lng" : 24.7317697
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.9482352,
+               "lng" : 24.747457
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.9692591,
+                  "lng" : 24.7613169
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.93620199999999,
+                  "lng" : 24.7317697
+               }
+            }
+         },
+         "place_id" : "ChIJMXvfDpPBMEcRIKT2ujy7Vnc",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

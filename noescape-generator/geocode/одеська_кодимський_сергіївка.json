@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Сергіївка",
+               "short_name" : "Сергіївка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кодимський район",
+               "short_name" : "Кодимський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66032",
+               "short_name" : "66032",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Сергіївка, Одеська область, Україна, 66032",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.0088999,
+                  "lng" : 29.0902011
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.990128,
+                  "lng" : 29.0688311
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.9984233,
+               "lng" : 29.0760102
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.0088999,
+                  "lng" : 29.0902011
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.990128,
+                  "lng" : 29.0688311
+               }
+            }
+         },
+         "place_id" : "ChIJ56ao2mlEzEARRNUrJzWiwg4",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

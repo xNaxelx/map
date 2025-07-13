@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Макарівка",
+               "short_name" : "Макарівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кельменецький район",
+               "short_name" : "Кельменецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60111",
+               "short_name" : "60111",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Макарівка, Чернівецька область, Україна, 60111",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.5796351,
+                  "lng" : 26.7472681
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.56955809999999,
+                  "lng" : 26.737883
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.570698,
+               "lng" : 26.7451084
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.5796351,
+                  "lng" : 26.7472681
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.56955809999999,
+                  "lng" : 26.737883
+               }
+            }
+         },
+         "place_id" : "ChIJbcA8GK-8M0cRAOkhB2bQJ6A",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,98 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Бояничі",
+               "short_name" : "Бояничі",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сокальський район",
+               "short_name" : "Сокальський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "80044",
+               "short_name" : "80044",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Бояничі, Львівська область, Україна, 80044",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.4928921,
+                  "lng" : 24.1792469
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.4872911,
+                  "lng" : 24.1645229
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.4898396,
+               "lng" : 24.1711346
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.4928921,
+                  "lng" : 24.1792469
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.4872911,
+                  "lng" : 24.1645229
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJv9ke7H3dJEcR8paL8QzEdqs",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Новоолександрівка",
+               "short_name" : "Новоолександрівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ананьївський район",
+               "short_name" : "Ананьївський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66434",
+               "short_name" : "66434",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Новоолександрівка, Одеська область, Україна, 66434",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.553887,
+                  "lng" : 30.0709791
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.513374,
+                  "lng" : 30.0240061
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.5360667,
+               "lng" : 30.045178
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.553887,
+                  "lng" : 30.0709791
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.513374,
+                  "lng" : 30.0240061
+               }
+            }
+         },
+         "place_id" : "ChIJgVxn8eLDzkAR-u9AfvY39tM",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

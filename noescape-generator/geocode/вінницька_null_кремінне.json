@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Кремінне",
+               "short_name" : "Кремінне",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Могилів-Подільський район",
+               "short_name" : "Могилів-Подільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "24027",
+               "short_name" : "24027",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Кремінне, Вінницька область, Україна, 24027",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.473068,
+                  "lng" : 27.611043
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.4566089,
+                  "lng" : 27.589973
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.4632791,
+               "lng" : 27.5980929
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.473068,
+                  "lng" : 27.611043
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.4566089,
+                  "lng" : 27.589973
+               }
+            }
+         },
+         "place_id" : "ChIJaRf90EYjM0cR2IoLMuExN24",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

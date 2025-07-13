@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Івашків",
+               "short_name" : "Івашків",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кодимський район",
+               "short_name" : "Кодимський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66020",
+               "short_name" : "66020",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Івашків, Одеська область, Україна, 66020",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.132794,
+                  "lng" : 29.2413459
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.103319,
+                  "lng" : 29.16275
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.1245519,
+               "lng" : 29.2016336
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.132794,
+                  "lng" : 29.2413459
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.103319,
+                  "lng" : 29.16275
+               }
+            }
+         },
+         "place_id" : "ChIJv2AzPSZMzEARY06l60l3OeU",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

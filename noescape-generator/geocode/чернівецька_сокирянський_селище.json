@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Селище",
+               "short_name" : "Селище",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сокирянський район",
+               "short_name" : "Сокирянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60216",
+               "short_name" : "60216",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Селище, Чернівецька область, Україна, 60216",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.511244,
+                  "lng" : 27.107147
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.48510400000001,
+                  "lng" : 27.0694831
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.4975825,
+               "lng" : 27.0861302
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.511244,
+                  "lng" : 27.107147
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.48510400000001,
+                  "lng" : 27.0694831
+               }
+            }
+         },
+         "place_id" : "ChIJt-bt3FIJM0cRPZU1t8c5Aoc",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

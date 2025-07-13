@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Шегині",
+               "short_name" : "Шегині",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Мостиський район",
+               "short_name" : "Мостиський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "81321",
+               "short_name" : "81321",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Шегині, Львівська область, Україна, 81321",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.807807,
+                  "lng" : 22.9952461
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.789832,
+                  "lng" : 22.95056
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.8007959,
+               "lng" : 22.9823133
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.807807,
+                  "lng" : 22.9952461
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.789832,
+                  "lng" : 22.95056
+               }
+            }
+         },
+         "place_id" : "ChIJVc3z2LBwO0cRNEgDUxdr3_k",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

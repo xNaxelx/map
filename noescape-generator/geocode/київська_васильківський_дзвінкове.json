@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Дзвінкове",
+               "short_name" : "Дзвінкове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Васильківський район",
+               "short_name" : "Васильківський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Київська область",
+               "short_name" : "Київська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "08620",
+               "short_name" : "08620",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Дзвінкове, Київська область, Україна, 08620",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.2891501,
+                  "lng" : 30.076102
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.267833,
+                  "lng" : 30.041639
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.27780079999999,
+               "lng" : 30.0616198
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.2891501,
+                  "lng" : 30.076102
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.267833,
+                  "lng" : 30.041639
+               }
+            }
+         },
+         "place_id" : "ChIJRUM9mGpNK0cRVHKR790DtqE",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

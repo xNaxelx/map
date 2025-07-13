@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Біляївський район",
+               "short_name" : "Біляївський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Біляївський район, Одеська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.83971,
+                  "lng" : 30.730026
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.3742911,
+                  "lng" : 29.8762545
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.5584709,
+               "lng" : 30.2732783
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.83971,
+                  "lng" : 30.730026
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.3742911,
+                  "lng" : 29.8762545
+               }
+            }
+         },
+         "place_id" : "ChIJrSBz9sOFyEARgH7raPv002s",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

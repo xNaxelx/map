@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Щербинці",
+               "short_name" : "Щербинці",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Новоселицький район",
+               "short_name" : "Новоселицький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60344",
+               "short_name" : "60344",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Щербинці, Чернівецька область, Україна, 60344",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.310792,
+                  "lng" : 26.447186
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.297535,
+                  "lng" : 26.423077
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.30686799999999,
+               "lng" : 26.4329165
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.310792,
+                  "lng" : 26.447186
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.297535,
+                  "lng" : 26.423077
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJw3Fzhc-IM0cRCiT1RSV_QJs",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Чернівецький район",
+               "short_name" : "Чернівецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Чернівецький район, Вінницька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.651179,
+                  "lng" : 28.351943
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.349162,
+                  "lng" : 27.949276
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5128518,
+               "lng" : 28.1819806
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.651179,
+                  "lng" : 28.351943
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.349162,
+                  "lng" : 27.949276
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJm3N_qPIqzUARGsFHrKFURfw",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Благодатне",
+               "short_name" : "Благодатне",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Золотоніський район",
+               "short_name" : "Золотоніський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Черкаська область",
+               "short_name" : "Черкаська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "19774",
+               "short_name" : "19774",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Благодатне, Черкаська область, Україна, 19774",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.575119,
+                  "lng" : 32.136608
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.53601399999999,
+                  "lng" : 32.0603229
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.5568973,
+               "lng" : 32.0931989
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.575119,
+                  "lng" : 32.136608
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.53601399999999,
+                  "lng" : 32.0603229
+               }
+            }
+         },
+         "place_id" : "ChIJDW_x2O2x1kARUhfNqMjPOiY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

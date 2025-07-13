@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Грем'яч",
+               "short_name" : "Грем'яч",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Новгород-Сіверський район",
+               "short_name" : "Новгород-Сіверський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернігівська область",
+               "short_name" : "Чернігівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Грем'яч, Чернігівська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.3596935,
+                  "lng" : 33.3283567
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.30963320000001,
+                  "lng" : 33.2500361
+               }
+            },
+            "location" : 
+            {
+               "lat" : 52.3332209,
+               "lng" : 33.289108
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.3596935,
+                  "lng" : 33.3283567
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.30963320000001,
+                  "lng" : 33.2500361
+               }
+            }
+         },
+         "place_id" : "ChIJTQqMQ7a9LEERbIxPRNFvVkg",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

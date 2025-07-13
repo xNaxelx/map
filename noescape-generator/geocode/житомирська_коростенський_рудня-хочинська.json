@@ -1,0 +1,190 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Рудня",
+               "short_name" : "Рудня",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Коростенський район",
+               "short_name" : "Коростенський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Житомирська область",
+               "short_name" : "Житомирська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "11555",
+               "short_name" : "11555",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Рудня, Житомирська область, Україна, 11555",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.89091699999999,
+                  "lng" : 28.5235411
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.8831169,
+                  "lng" : 28.5055199
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.8871822,
+               "lng" : 28.5133174
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.89091699999999,
+                  "lng" : 28.5235411
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.8831169,
+                  "lng" : 28.5055199
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJweez97_dK0cRVB6e7dFyEJQ",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Рудня-Хочинська",
+               "short_name" : "Рудня-Хочинська",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Олевський район",
+               "short_name" : "Олевський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Житомирська область",
+               "short_name" : "Житомирська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "11011",
+               "short_name" : "11011",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Рудня-Хочинська, Житомирська область, Україна, 11011",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.442169,
+                  "lng" : 27.9009939
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.42927599999999,
+                  "lng" : 27.8866441
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.4363171,
+               "lng" : 27.8936519
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.442169,
+                  "lng" : 27.9009939
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.42927599999999,
+                  "lng" : 27.8866441
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJZWamEQqpKUcRMngGMi-1M-I",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

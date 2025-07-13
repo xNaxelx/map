@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Велике",
+               "short_name" : "Велике",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Козятинський район",
+               "short_name" : "Козятинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "22125",
+               "short_name" : "22125",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Велике, Вінницька область, Україна, 22125",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.80383,
+                  "lng" : 28.94531899999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.787588,
+                  "lng" : 28.9213399
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.7970699,
+               "lng" : 28.9377641
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.80383,
+                  "lng" : 28.94531899999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.787588,
+                  "lng" : 28.9213399
+               }
+            }
+         },
+         "place_id" : "ChIJBU1j4YfdLEcR3DkJS7c-tj8",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

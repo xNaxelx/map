@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Самійлівка",
+               "short_name" : "Самійлівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Більмацький район",
+               "short_name" : "Більмацький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Запорізька область",
+               "short_name" : "Запорізька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Самійлівка, Запорізька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.59469199999999,
+                  "lng" : 36.7066721
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.5774151,
+                  "lng" : 36.6884379
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.587776,
+               "lng" : 36.6981141
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.59469199999999,
+                  "lng" : 36.7066721
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.5774151,
+                  "lng" : 36.6884379
+               }
+            }
+         },
+         "place_id" : "ChIJ0w8yLAH13UAR3BRay4nmPb8",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

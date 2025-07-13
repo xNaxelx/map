@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Велика Бийгань",
+               "short_name" : "Велика Бийгань",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Берегівський район",
+               "short_name" : "Берегівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90232",
+               "short_name" : "90232",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Велика Бийгань, Закарпатська область, Україна, 90232",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.256428,
+                  "lng" : 22.5903399
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.23957499999999,
+                  "lng" : 22.559258
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.2453595,
+               "lng" : 22.5687218
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.256428,
+                  "lng" : 22.5903399
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.23957499999999,
+                  "lng" : 22.559258
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJA3jbXwVaOEcRprbagmMvzuE",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Тячівський район",
+               "short_name" : "Тячівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Тячівський район, Закарпатська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.562767,
+                  "lng" : 24.1937511
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.9317857,
+                  "lng" : 23.4391649
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.2370369,
+               "lng" : 23.8528469
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.562767,
+                  "lng" : 24.1937511
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.9317857,
+                  "lng" : 23.4391649
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJRZhmRy1xN0cRzHqvLWrpw2Y",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

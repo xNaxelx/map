@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Подвірне",
+               "short_name" : "Подвірне",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Новоселицький район",
+               "short_name" : "Новоселицький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60363",
+               "short_name" : "60363",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Подвірне, Чернівецька область, Україна, 60363",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.308152,
+                  "lng" : 26.6370301
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.2868559,
+                  "lng" : 26.6058781
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.2978441,
+               "lng" : 26.6203421
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.308152,
+                  "lng" : 26.6370301
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.2868559,
+                  "lng" : 26.6058781
+               }
+            }
+         },
+         "place_id" : "ChIJj6yWHYmDM0cRyDZdH3PJE5s",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

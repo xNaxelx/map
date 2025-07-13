@@ -1,0 +1,165 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Майдан-Копищенський",
+               "short_name" : "Майдан-Копищенський",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Олевський район",
+               "short_name" : "Олевський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Житомирська область",
+               "short_name" : "Житомирська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Майдан-Копищенський, Житомирська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.537691,
+                  "lng" : 27.870057
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.5079781,
+                  "lng" : 27.8419661
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.5248293,
+               "lng" : 27.8595854
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.537691,
+                  "lng" : 27.870057
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.5079781,
+                  "lng" : 27.8419661
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJwSjEN_esKUcRfjfh7CdtK4c",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Коростенський район",
+               "short_name" : "Коростенський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Житомирська область",
+               "short_name" : "Житомирська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Коростенський район, Житомирська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.136945,
+                  "lng" : 29.0643949
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.7181261,
+                  "lng" : 28.1161571
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.8643054,
+               "lng" : 28.6813104
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.136945,
+                  "lng" : 29.0643949
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.7181261,
+                  "lng" : 28.1161571
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ77lzF3zcK0cRHM3-XR8Akik",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

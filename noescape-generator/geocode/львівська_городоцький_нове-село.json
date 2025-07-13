@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Нове Село",
+               "short_name" : "Нове Село",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Городоцький район",
+               "short_name" : "Городоцький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "81573",
+               "short_name" : "81573",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Нове Село, Львівська область, Україна, 81573",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.586648,
+                  "lng" : 23.685263
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.57384889999999,
+                  "lng" : 23.6487599
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.5796815,
+               "lng" : 23.6668203
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.586648,
+                  "lng" : 23.685263
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.57384889999999,
+                  "lng" : 23.6487599
+               }
+            }
+         },
+         "place_id" : "ChIJYeel0xL_OkcRiVEUjjcAzf0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

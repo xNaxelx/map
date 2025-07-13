@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Височанське",
+               "short_name" : "Височанське",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Тарутинський район",
+               "short_name" : "Тарутинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68511",
+               "short_name" : "68511",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Височанське, Одеська область, Україна, 68511",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.495271,
+                  "lng" : 29.0548009
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.477376,
+                  "lng" : 29.0341919
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.4844404,
+               "lng" : 29.04307469999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.495271,
+                  "lng" : 29.0548009
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.477376,
+                  "lng" : 29.0341919
+               }
+            }
+         },
+         "place_id" : "ChIJz5K1LvbIyUARlAVbaqvdHL4",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

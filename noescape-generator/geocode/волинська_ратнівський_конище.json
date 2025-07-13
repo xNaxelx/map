@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Конище",
+               "short_name" : "Конище",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ратнівський район",
+               "short_name" : "Ратнівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "44106",
+               "short_name" : "44106",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Конище, Волинська область, Україна, 44106",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.721479,
+                  "lng" : 24.55101
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.704123,
+                  "lng" : 24.5307599
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.7129594,
+               "lng" : 24.5374329
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.721479,
+                  "lng" : 24.55101
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.704123,
+                  "lng" : 24.5307599
+               }
+            }
+         },
+         "place_id" : "ChIJDeoVxWWxJkcRHnjxhBJaqxY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

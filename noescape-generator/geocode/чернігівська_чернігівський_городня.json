@@ -1,0 +1,165 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Городня",
+               "short_name" : "Городня",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Городнянський район",
+               "short_name" : "Городнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернігівська область",
+               "short_name" : "Чернігівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Городня, Чернігівська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.910711,
+                  "lng" : 31.631311
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.8748798,
+                  "lng" : 31.5577695
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.8911132,
+               "lng" : 31.5958531
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.910711,
+                  "lng" : 31.631311
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.8748798,
+                  "lng" : 31.5577695
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJdfbIJy_Z1EYR5UT34CJGUs8",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Чернігівський район",
+               "short_name" : "Чернігівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернігівська область",
+               "short_name" : "Чернігівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Чернігівський район, Чернігівська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.7051801,
+                  "lng" : 31.695354
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.172694,
+                  "lng" : 30.5400821
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.3773101,
+               "lng" : 30.9443955
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.7051801,
+                  "lng" : 31.695354
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.172694,
+                  "lng" : 30.5400821
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ8eGKCCNF1UYRQPHQFM2rvLs",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

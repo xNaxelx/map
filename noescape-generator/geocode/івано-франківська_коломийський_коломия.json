@@ -1,0 +1,106 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Коломия",
+               "short_name" : "Коломия",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Коломийська міськрада",
+               "short_name" : "Коломийська міськрада",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Коломийський район",
+               "short_name" : "Коломийський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Івано-Франківська область",
+               "short_name" : "Івано-Франківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "78200",
+               "short_name" : "78200",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Коломия, Івано-Франківська область, Україна, 78200",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.57727,
+                  "lng" : 25.0935659
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.503905,
+                  "lng" : 24.974323
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5304917,
+               "lng" : 25.0412054
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.57727,
+                  "lng" : 25.0935659
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.503905,
+                  "lng" : 24.974323
+               }
+            }
+         },
+         "place_id" : "ChIJ38v0fpXSNkcRAL-HQ7ip4sE",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

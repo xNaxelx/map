@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Більськ",
+               "short_name" : "Більськ",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рокитнівський район",
+               "short_name" : "Рокитнівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "34231",
+               "short_name" : "34231",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Більськ, Рівненська область, Україна, 34231",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.469691,
+                  "lng" : 27.2757771
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.4334601,
+                  "lng" : 27.2183818
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.4495362,
+               "lng" : 27.2445101
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.469691,
+                  "lng" : 27.2757771
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.4334601,
+                  "lng" : 27.2183818
+               }
+            }
+         },
+         "place_id" : "ChIJF-_z1OLzKEcR5vM_AlKvX44",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

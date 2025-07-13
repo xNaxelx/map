@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Шаян",
+               "short_name" : "Шаян",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Хустський район",
+               "short_name" : "Хустський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90457",
+               "short_name" : "90457",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Шаян, Закарпатська область, Україна, 90457",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.061758,
+                  "lng" : 23.359999
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.056721,
+                  "lng" : 23.338504
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.0585741,
+               "lng" : 23.3471102
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.061758,
+                  "lng" : 23.359999
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.056721,
+                  "lng" : 23.338504
+               }
+            }
+         },
+         "place_id" : "ChIJw1_RW06IN0cR9JZKbDrEnnM",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

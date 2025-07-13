@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Ярове",
+               "short_name" : "Ярове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Шаргородський район",
+               "short_name" : "Шаргородський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "23562",
+               "short_name" : "23562",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Ярове, Вінницька область, Україна, 23562",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.700154,
+                  "lng" : 28.5152599
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.6791651,
+                  "lng" : 28.4860909
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.68733719999999,
+               "lng" : 28.5003037
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.700154,
+                  "lng" : 28.5152599
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.6791651,
+                  "lng" : 28.4860909
+               }
+            }
+         },
+         "place_id" : "ChIJ3b_l9Vc2zUARIIk-yZtIbQ8",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

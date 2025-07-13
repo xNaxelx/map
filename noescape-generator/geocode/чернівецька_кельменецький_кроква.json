@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Кроква",
+               "short_name" : "Кроква",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кельменецький район",
+               "short_name" : "Кельменецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60124",
+               "short_name" : "60124",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Кроква, Чернівецька область, Україна, 60124",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.4294501,
+                  "lng" : 26.613575
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.416794,
+                  "lng" : 26.597488
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.4245633,
+               "lng" : 26.6037227
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.4294501,
+                  "lng" : 26.613575
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.416794,
+                  "lng" : 26.597488
+               }
+            }
+         },
+         "place_id" : "ChIJiYlVvwqaM0cRuE6XSicL9Nc",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

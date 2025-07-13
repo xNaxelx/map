@@ -1,0 +1,71 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Луганська область",
+               "short_name" : "Луганська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Луганська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.0883729,
+                  "lng" : 40.2278191
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.82489,
+                  "lng" : 37.83751609999999
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.574041,
+               "lng" : 39.307815
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.0883729,
+                  "lng" : 40.2278191
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.82489,
+                  "lng" : 37.83751609999999
+               }
+            }
+         },
+         "place_id" : "ChIJ8zUQQaAY4EARuDtkU2fs3IQ",
+         "types" : 
+         [
+            "administrative_area_level_1",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

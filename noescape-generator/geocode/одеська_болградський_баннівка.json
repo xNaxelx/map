@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Баннівка",
+               "short_name" : "Баннівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Болградський район",
+               "short_name" : "Болградський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68750",
+               "short_name" : "68750",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Баннівка, Одеська область, Україна, 68750",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.701445,
+                  "lng" : 28.9306601
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.673454,
+                  "lng" : 28.910608
+               }
+            },
+            "location" : 
+            {
+               "lat" : 45.6925706,
+               "lng" : 28.9199098
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.701445,
+                  "lng" : 28.9306601
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.673454,
+                  "lng" : 28.910608
+               }
+            }
+         },
+         "place_id" : "ChIJGRoC1W-it0ARl_nwuPhiv5A",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

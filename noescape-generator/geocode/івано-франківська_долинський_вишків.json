@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Вишків",
+               "short_name" : "Вишків",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Долинський район",
+               "short_name" : "Долинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Івано-Франківська область",
+               "short_name" : "Івано-Франківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "77563",
+               "short_name" : "77563",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Вишків, Івано-Франківська область, Україна, 77563",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.737674,
+                  "lng" : 23.6831831
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.69094399999999,
+                  "lng" : 23.6312251
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.7258824,
+               "lng" : 23.661315
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.737674,
+                  "lng" : 23.6831831
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.69094399999999,
+                  "lng" : 23.6312251
+               }
+            }
+         },
+         "place_id" : "ChIJ_50Strj6OUcRw7fAQ1-vzwA",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

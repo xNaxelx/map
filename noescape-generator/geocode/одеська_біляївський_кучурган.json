@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Біляївський район",
+               "short_name" : "Біляївський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Біляївський район, Одеська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.83971,
+                  "lng" : 30.730026
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.3742911,
+                  "lng" : 29.8762545
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.5584709,
+               "lng" : 30.2732783
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.83971,
+                  "lng" : 30.730026
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.3742911,
+                  "lng" : 29.8762545
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJrSBz9sOFyEARgH7raPv002s",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Кучурган",
+               "short_name" : "Кучурган",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Роздільнянський район",
+               "short_name" : "Роздільнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67450",
+               "short_name" : "67450",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Кучурган, Одеська область, Україна, 67450",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.748397,
+                  "lng" : 30.0029591
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.698906,
+                  "lng" : 29.9730281
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.7306768,
+               "lng" : 29.9803379
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.748397,
+                  "lng" : 30.0029591
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.698906,
+                  "lng" : 29.9730281
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJqQj8DM3zyEARmpf11GKwon0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

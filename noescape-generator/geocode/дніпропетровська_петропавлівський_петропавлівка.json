@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Петропавлівка",
+               "short_name" : "Петропавлівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Петропавлівський район",
+               "short_name" : "Петропавлівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Дніпропетровська область",
+               "short_name" : "Дніпропетровська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "52700",
+               "short_name" : "52700",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Петропавлівка, Дніпропетровська область, Україна, 52700",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.471863,
+                  "lng" : 36.4800841
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.43641,
+                  "lng" : 36.4006659
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.4572195,
+               "lng" : 36.4347302
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.471863,
+                  "lng" : 36.4800841
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.43641,
+                  "lng" : 36.4006659
+               }
+            }
+         },
+         "place_id" : "ChIJZ93dBvXx3kAROoR8HXefKjs",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

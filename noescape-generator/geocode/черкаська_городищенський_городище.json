@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Городище",
+               "short_name" : "Городище",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Городищенський район",
+               "short_name" : "Городищенський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Черкаська область",
+               "short_name" : "Черкаська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "19500",
+               "short_name" : "19500",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Городище, Черкаська область, Україна, 19500",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.328671,
+                  "lng" : 31.506371
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.256305,
+                  "lng" : 31.4097449
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.2917766,
+               "lng" : 31.4465327
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.328671,
+                  "lng" : 31.506371
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.256305,
+                  "lng" : 31.4097449
+               }
+            }
+         },
+         "place_id" : "ChIJWeKBZ2Vg0UARFNepI6ad6Lo",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

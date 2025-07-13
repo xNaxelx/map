@@ -1,0 +1,98 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Козиряни",
+               "short_name" : "Козиряни",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кельменецький район",
+               "short_name" : "Кельменецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60132",
+               "short_name" : "60132",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Козиряни, Чернівецька область, Україна, 60132",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.386596,
+                  "lng" : 26.6598391
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.355411,
+                  "lng" : 26.632285
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.3700553,
+               "lng" : 26.647653
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.386596,
+                  "lng" : 26.6598391
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.355411,
+                  "lng" : 26.632285
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ-TIXdxabM0cR0FEDWeMd5mI",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

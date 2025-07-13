@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Пийтерфолво",
+               "short_name" : "Пийтерфолво",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Виноградівський район",
+               "short_name" : "Виноградівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Пийтерфолво, Закарпатська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.069842,
+                  "lng" : 22.952775
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.05352999999999,
+                  "lng" : 22.9156811
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.0634418,
+               "lng" : 22.9331997
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.069842,
+                  "lng" : 22.952775
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.05352999999999,
+                  "lng" : 22.9156811
+               }
+            }
+         },
+         "place_id" : "ChIJ33zfAzI8OEcRukgrb1kLx9g",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

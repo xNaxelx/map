@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Великі Макари",
+               "short_name" : "Великі Макари",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Яворівський район",
+               "short_name" : "Яворівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "81013",
+               "short_name" : "81013",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Великі Макари, Львівська область, Україна, 81013",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.155411,
+                  "lng" : 23.4100221
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.14622689999999,
+                  "lng" : 23.382922
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.1517551,
+               "lng" : 23.3984335
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.155411,
+                  "lng" : 23.4100221
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.14622689999999,
+                  "lng" : 23.382922
+               }
+            }
+         },
+         "place_id" : "ChIJH90HeLRIO0cRXDpGBdManTc",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

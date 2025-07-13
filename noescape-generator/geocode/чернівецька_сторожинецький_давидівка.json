@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Давидівка",
+               "short_name" : "Давидівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сторожинецький район",
+               "short_name" : "Сторожинецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Давидівка, Чернівецька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.1657213,
+                  "lng" : 25.5972338
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.1095784,
+                  "lng" : 25.5011845
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.1505006,
+               "lng" : 25.5465805
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.1657213,
+                  "lng" : 25.5972338
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.1095784,
+                  "lng" : 25.5011845
+               }
+            }
+         },
+         "place_id" : "ChIJsQssjXUfNEcRC0Vf2suT1Lk",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

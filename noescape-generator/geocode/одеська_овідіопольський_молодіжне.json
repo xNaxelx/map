@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Молодіжне",
+               "short_name" : "Молодіжне",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Овідіопольський район",
+               "short_name" : "Овідіопольський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67840",
+               "short_name" : "67840",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Молодіжне, Одеська область, Україна, 67840",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.3212689,
+                  "lng" : 30.626048
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.293513,
+                  "lng" : 30.600102
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.3093529,
+               "lng" : 30.6136859
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.3212689,
+                  "lng" : 30.626048
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.293513,
+                  "lng" : 30.600102
+               }
+            }
+         },
+         "place_id" : "ChIJOz9Fqc7Ox0AR-I2gDqdDsJk",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

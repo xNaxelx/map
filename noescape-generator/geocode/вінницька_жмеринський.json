@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Жмеринський район",
+               "short_name" : "Жмеринський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Жмеринський район, Вінницька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.261515,
+                  "lng" : 28.336377
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.823826,
+                  "lng" : 27.7830179
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.00044,
+               "lng" : 27.9853904
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.261515,
+                  "lng" : 28.336377
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.823826,
+                  "lng" : 27.7830179
+               }
+            }
+         },
+         "place_id" : "ChIJx7NMwT6YMkcRDNbB2j9kUFc",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Лиманське",
+               "short_name" : "Лиманське",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Павлоградський район",
+               "short_name" : "Павлоградський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Дніпропетровська область",
+               "short_name" : "Дніпропетровська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "51472",
+               "short_name" : "51472",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Лиманське, Дніпропетровська область, Україна, 51472",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.534757,
+                  "lng" : 35.5948978
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.5258,
+                  "lng" : 35.5714639
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5312369,
+               "lng" : 35.5815565
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.534757,
+                  "lng" : 35.5948978
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.5258,
+                  "lng" : 35.5714639
+               }
+            }
+         },
+         "place_id" : "ChIJD3ub9vmy3kAROC0ZEToR7Fw",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

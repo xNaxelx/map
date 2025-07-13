@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Рудка",
+               "short_name" : "Рудка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Гребінківський район",
+               "short_name" : "Гребінківський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Полтавська область",
+               "short_name" : "Полтавська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "37461",
+               "short_name" : "37461",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Рудка, Полтавська область, Україна, 37461",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.017931,
+                  "lng" : 32.5523351
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.0012731,
+                  "lng" : 32.5104731
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.0093494,
+               "lng" : 32.530878
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.017931,
+                  "lng" : 32.5523351
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.0012731,
+                  "lng" : 32.5104731
+               }
+            }
+         },
+         "place_id" : "ChIJTSbEOPqG1kARTMrzBNGTNOw",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

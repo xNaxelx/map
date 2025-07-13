@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Лопухів",
+               "short_name" : "Лопухів",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Тячівський район",
+               "short_name" : "Тячівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90522",
+               "short_name" : "90522",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Лопухів, Закарпатська область, Україна, 90522",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.51031800000001,
+                  "lng" : 24.0586479
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.313956,
+                  "lng" : 23.9445199
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.3678442,
+               "lng" : 23.9716864
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.51031800000001,
+                  "lng" : 24.0586479
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.313956,
+                  "lng" : 23.9445199
+               }
+            }
+         },
+         "place_id" : "ChIJtQT90X5pN0cRjt4WwiCX_Uc",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

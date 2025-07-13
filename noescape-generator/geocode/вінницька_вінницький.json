@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Вінницький район",
+               "short_name" : "Вінницький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Вінницький район, Вінницька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.402756,
+                  "lng" : 28.857371
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.06945109999999,
+                  "lng" : 28.0955511
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.17270569999999,
+               "lng" : 28.5742292
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.402756,
+                  "lng" : 28.857371
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.06945109999999,
+                  "lng" : 28.0955511
+               }
+            }
+         },
+         "place_id" : "ChIJ_UXPlGVbLUcRnjTAGzahLeA",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

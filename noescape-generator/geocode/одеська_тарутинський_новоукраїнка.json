@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Новоукраїнка",
+               "short_name" : "Новоукраїнка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Тарутинський район",
+               "short_name" : "Тарутинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68512",
+               "short_name" : "68512",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Новоукраїнка, Одеська область, Україна, 68512",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.50121499999999,
+                  "lng" : 29.0849069
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.486114,
+                  "lng" : 29.0740321
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.4943999,
+               "lng" : 29.0780143
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.50121499999999,
+                  "lng" : 29.0849069
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.486114,
+                  "lng" : 29.0740321
+               }
+            }
+         },
+         "place_id" : "ChIJCbIUf7HJyUARJW_BU2rYVZw",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

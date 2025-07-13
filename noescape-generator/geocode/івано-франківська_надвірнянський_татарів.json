@@ -1,0 +1,165 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Надворнянський район",
+               "short_name" : "Надворнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Івано-Франківська область",
+               "short_name" : "Івано-Франківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Надворнянський район, Івано-Франківська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.812133,
+                  "lng" : 24.8485221
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.349735,
+                  "lng" : 24.116384
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.56301999999999,
+               "lng" : 24.4803568
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.812133,
+                  "lng" : 24.8485221
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.349735,
+                  "lng" : 24.116384
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJg2R3dg0xN0cRrLLImbZwRIk",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Татарів",
+               "short_name" : "Татарів",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Яремчанська міськрада",
+               "short_name" : "Яремчанська міськрада",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Івано-Франківська область",
+               "short_name" : "Івано-Франківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Татарів, Івано-Франківська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.37238,
+                  "lng" : 24.5964146
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.3097877,
+                  "lng" : 24.5149182
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.3424531,
+               "lng" : 24.5753745
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.37238,
+                  "lng" : 24.5964146
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.3097877,
+                  "lng" : 24.5149182
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ9yeQxT0gN0cR0g4smGLK8nI",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Дрогомишль",
+               "short_name" : "Дрогомишль",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Яворівський район",
+               "short_name" : "Яворівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "81022",
+               "short_name" : "81022",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Дрогомишль, Львівська область, Україна, 81022",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.0561441,
+                  "lng" : 23.3073659
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.0419029,
+                  "lng" : 23.2607599
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.0495102,
+               "lng" : 23.2787701
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.0561441,
+                  "lng" : 23.3073659
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.0419029,
+                  "lng" : 23.2607599
+               }
+            }
+         },
+         "place_id" : "ChIJj1HDscJDO0cRZmo5c8jiUCo",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Козача Лопань",
+               "short_name" : "Козача Лопань",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Дергачівський район",
+               "short_name" : "Дергачівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Харківська область",
+               "short_name" : "Харківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "62311",
+               "short_name" : "62311",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Козача Лопань, Харківська область, Україна, 62311",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.360065,
+                  "lng" : 36.2140321
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.3129,
+                  "lng" : 36.1432289
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.33647329999999,
+               "lng" : 36.1851358
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.360065,
+                  "lng" : 36.2140321
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.3129,
+                  "lng" : 36.1432289
+               }
+            }
+         },
+         "place_id" : "ChIJY42rCSe1J0ER3cBrq0-V0UQ",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

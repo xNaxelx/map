@@ -1,0 +1,276 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Лісничівка",
+               "short_name" : "Лісничівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Балтський район",
+               "short_name" : "Балтський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66127",
+               "short_name" : "66127",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Лісничівка, Одеська область, Україна, 66127",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.021873,
+                  "lng" : 29.5418209
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.999628,
+                  "lng" : 29.505098
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.0136262,
+               "lng" : 29.5207593
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.021873,
+                  "lng" : 29.5418209
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.999628,
+                  "lng" : 29.505098
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ6cuKsIgxzEARAt-a-_PD3ak",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Подільський район",
+               "short_name" : "Подільський район",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+               ]
+            },
+            {
+               "long_name" : "Київ",
+               "short_name" : "Київ",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "місто Київ",
+               "short_name" : "місто Київ",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "місто Київ",
+               "short_name" : "місто Київ",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "02000",
+               "short_name" : "02000",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Подільський район, Київ, Україна, 02000",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.5276071,
+                  "lng" : 30.541629
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.4549287,
+                  "lng" : 30.3618141
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.4938086,
+               "lng" : 30.4428556
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.5276071,
+                  "lng" : 30.541629
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.4549287,
+                  "lng" : 30.3618141
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJy83NtJDN1EARaPHBCc6fR6g",
+         "types" : 
+         [
+            "political",
+            "sublocality",
+            "sublocality_level_1"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Поді́льськ",
+               "short_name" : "Поді́льськ",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Поді́льськ, Одеська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.896986,
+                  "lng" : 29.8753819
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.519367,
+                  "lng" : 29.1983685
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.6658817,
+               "lng" : 29.6901148
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.896986,
+                  "lng" : 29.8753819
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.519367,
+                  "lng" : 29.1983685
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJCQuEk4egzkAREmi1bYH2NKA",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

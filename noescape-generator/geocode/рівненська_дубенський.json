@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Дубенський район",
+               "short_name" : "Дубенський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Дубенський район, Рівненська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.59346,
+                  "lng" : 26.130021
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.1520079,
+                  "lng" : 25.443943
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.3210083,
+               "lng" : 25.8743649
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.59346,
+                  "lng" : 26.130021
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.1520079,
+                  "lng" : 25.443943
+               }
+            }
+         },
+         "place_id" : "ChIJb_AK5pybL0cRNkvR4ezP86Y",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

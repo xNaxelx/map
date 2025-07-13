@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Черна",
+               "short_name" : "Черна",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Виноградівський район",
+               "short_name" : "Виноградівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90340",
+               "short_name" : "90340",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Черна, Закарпатська область, Україна, 90340",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.148976,
+                  "lng" : 23.2102199
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.125011,
+                  "lng" : 23.1719531
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.1364648,
+               "lng" : 23.1880051
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.148976,
+                  "lng" : 23.2102199
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.125011,
+                  "lng" : 23.1719531
+               }
+            }
+         },
+         "place_id" : "ChIJ_d-jXoclOEcRTWmJf5RLkOs",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

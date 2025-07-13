@@ -1,0 +1,98 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Коболчин",
+               "short_name" : "Коболчин",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сокирянський район",
+               "short_name" : "Сокирянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60231",
+               "short_name" : "60231",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Коболчин, Чернівецька область, Україна, 60231",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.516833,
+                  "lng" : 27.393171
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.4872859,
+                  "lng" : 27.3516561
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.50028,
+               "lng" : 27.3711585
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.516833,
+                  "lng" : 27.393171
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.4872859,
+                  "lng" : 27.3516561
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ_bZJL68QM0cRwBTR1apNdHU",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

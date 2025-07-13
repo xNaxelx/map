@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Нова Красношора",
+               "short_name" : "Нова Красношора",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сторожинецький район",
+               "short_name" : "Сторожинецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "59023",
+               "short_name" : "59023",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Нова Красношора, Чернівецька область, Україна, 59023",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.068597,
+                  "lng" : 25.556658
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.06233,
+                  "lng" : 25.535375
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.0646829,
+               "lng" : 25.5457127
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.068597,
+                  "lng" : 25.556658
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.06233,
+                  "lng" : 25.535375
+               }
+            }
+         },
+         "place_id" : "ChIJFcsluZwhNEcRWpGQZg5M16w",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

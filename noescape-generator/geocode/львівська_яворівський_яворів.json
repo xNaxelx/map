@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Яворів",
+               "short_name" : "Яворів",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Яворівський район",
+               "short_name" : "Яворівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Яворів, Львівська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.9634941,
+                  "lng" : 23.4136609
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.915772,
+                  "lng" : 23.3595085
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.93808850000001,
+               "lng" : 23.3885219
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.9634941,
+                  "lng" : 23.4136609
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.915772,
+                  "lng" : 23.3595085
+               }
+            }
+         },
+         "place_id" : "ChIJNUcwYhMVO0cRUC9CZvow4LE",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

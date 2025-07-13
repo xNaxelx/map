@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Березине",
+               "short_name" : "Березине",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Тарутинський район",
+               "short_name" : "Тарутинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68542",
+               "short_name" : "68542",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Березине, Одеська область, Україна, 68542",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.26119,
+                  "lng" : 29.2203021
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.212201,
+                  "lng" : 29.1848871
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.2310816,
+               "lng" : 29.2019478
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.26119,
+                  "lng" : 29.2203021
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.212201,
+                  "lng" : 29.1848871
+               }
+            }
+         },
+         "place_id" : "ChIJ86jvFNsoyEAR6ZqiKjZc-vk",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

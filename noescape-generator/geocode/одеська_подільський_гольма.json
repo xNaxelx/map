@@ -1,0 +1,201 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Гольма",
+               "short_name" : "Гольма",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Балтський район",
+               "short_name" : "Балтський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66154",
+               "short_name" : "66154",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Гольма, Одеська область, Україна, 66154",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.938815,
+                  "lng" : 29.908937
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.903387,
+                  "lng" : 29.797165
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.9200986,
+               "lng" : 29.8506586
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.938815,
+                  "lng" : 29.908937
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.903387,
+                  "lng" : 29.797165
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJnT9rLs-DzkARigx1dNAziwU",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Подільський район",
+               "short_name" : "Подільський район",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+               ]
+            },
+            {
+               "long_name" : "Київ",
+               "short_name" : "Київ",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "місто Київ",
+               "short_name" : "місто Київ",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "місто Київ",
+               "short_name" : "місто Київ",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "02000",
+               "short_name" : "02000",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Подільський район, Київ, Україна, 02000",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.5276071,
+                  "lng" : 30.541629
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.4549287,
+                  "lng" : 30.3618141
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.4938086,
+               "lng" : 30.4428556
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.5276071,
+                  "lng" : 30.541629
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.4549287,
+                  "lng" : 30.3618141
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJy83NtJDN1EARaPHBCc6fR6g",
+         "types" : 
+         [
+            "political",
+            "sublocality",
+            "sublocality_level_1"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

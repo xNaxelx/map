@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Стрільники",
+               "short_name" : "Стрільники",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Бахмацький район",
+               "short_name" : "Бахмацький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернігівська область",
+               "short_name" : "Чернігівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "16540",
+               "short_name" : "16540",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Стрільники, Чернігівська область, Україна, 16540",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.214335,
+                  "lng" : 32.614588
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.1866669,
+                  "lng" : 32.539943
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.198494,
+               "lng" : 32.5869267
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.214335,
+                  "lng" : 32.614588
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.1866669,
+                  "lng" : 32.539943
+               }
+            }
+         },
+         "place_id" : "ChIJc4O97qJfKkER2vK7OkW0TG8",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

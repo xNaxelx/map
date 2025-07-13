@@ -1,0 +1,71 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Кіровоградська область",
+               "short_name" : "Кіровоградська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Кіровоградська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.246173,
+                  "lng" : 33.8937029
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.749134,
+                  "lng" : 29.749174
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.50793300000001,
+               "lng" : 32.262317
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.246173,
+                  "lng" : 33.8937029
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.749134,
+                  "lng" : 29.749174
+               }
+            }
+         },
+         "place_id" : "ChIJ_Y7vgK9C0EARlBkNFDXFp9g",
+         "types" : 
+         [
+            "administrative_area_level_1",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

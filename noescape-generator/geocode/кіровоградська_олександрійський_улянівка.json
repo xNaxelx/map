@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Улянівка",
+               "short_name" : "Улянівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Олександрійський район",
+               "short_name" : "Олександрійський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кіровоградська область",
+               "short_name" : "Кіровоградська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "28065",
+               "short_name" : "28065",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Улянівка, Кіровоградська область, Україна, 28065",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.595615,
+                  "lng" : 33.4774459
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.58679799999999,
+                  "lng" : 33.453411
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5922384,
+               "lng" : 33.4661726
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.595615,
+                  "lng" : 33.4774459
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.58679799999999,
+                  "lng" : 33.453411
+               }
+            }
+         },
+         "place_id" : "ChIJCWDN2Bps2kAR3vw5CFJMQ3M",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

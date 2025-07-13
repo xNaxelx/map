@@ -1,0 +1,98 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Бояни",
+               "short_name" : "Бояни",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Новоселицький район",
+               "short_name" : "Новоселицький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60321",
+               "short_name" : "60321",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Бояни, Чернівецька область, Україна, 60321",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.293222,
+                  "lng" : 26.157518
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.248267,
+                  "lng" : 26.1136981
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.269924,
+               "lng" : 26.1261538
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.293222,
+                  "lng" : 26.157518
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.248267,
+                  "lng" : 26.1136981
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ_XiPfegKNEcRBlkZwIVZmcE",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

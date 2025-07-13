@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Геча",
+               "short_name" : "Геча",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Берегівський район",
+               "short_name" : "Берегівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90251",
+               "short_name" : "90251",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Геча, Закарпатська область, Україна, 90251",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.146376,
+                  "lng" : 22.6634421
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.132864,
+                  "lng" : 22.6525331
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.1398119,
+               "lng" : 22.6583549
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.146376,
+                  "lng" : 22.6634421
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.132864,
+                  "lng" : 22.6525331
+               }
+            }
+         },
+         "place_id" : "ChIJVWMkz3VDOEcR6tK2Hp2sVWs",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

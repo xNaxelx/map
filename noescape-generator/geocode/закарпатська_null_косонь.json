@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Косонь",
+               "short_name" : "Косонь",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Берегівський район",
+               "short_name" : "Берегівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90223",
+               "short_name" : "90223",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Косонь, Закарпатська область, Україна, 90223",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.26545,
+                  "lng" : 22.467804
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.24595,
+                  "lng" : 22.4426259
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.2539304,
+               "lng" : 22.4571681
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.26545,
+                  "lng" : 22.467804
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.24595,
+                  "lng" : 22.4426259
+               }
+            }
+         },
+         "place_id" : "ChIJXfm72G1YOEcR5AugI-ZxKb4",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

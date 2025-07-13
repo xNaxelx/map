@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Рівненський район",
+               "short_name" : "Рівненський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Рівненський район, Рівненська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.845209,
+                  "lng" : 26.558318
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.504423,
+                  "lng" : 25.8106379
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.7075839,
+               "lng" : 26.1130418
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.845209,
+                  "lng" : 26.558318
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.504423,
+                  "lng" : 25.8106379
+               }
+            }
+         },
+         "place_id" : "ChIJjT6_3MZrL0cRIIMrWp6RBeE",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

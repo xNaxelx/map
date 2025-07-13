@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Володимир-Волинський район",
+               "short_name" : "Володимир-Волинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Володимир-Волинський район, Волинська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.055234,
+                  "lng" : 24.6317749
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.70718,
+                  "lng" : 23.9129106
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.8956572,
+               "lng" : 24.2358874
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.055234,
+                  "lng" : 24.6317749
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.70718,
+                  "lng" : 23.9129106
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJY5tAkPFeJEcRGDsYuqLdqEo",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Поромів",
+               "short_name" : "Поромів",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Іваничівський район",
+               "short_name" : "Іваничівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "45311",
+               "short_name" : "45311",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Поромів, Волинська область, Україна, 45311",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.76210709999999,
+                  "lng" : 24.094425
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.743434,
+                  "lng" : 24.064339
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.7549618,
+               "lng" : 24.0848278
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.76210709999999,
+                  "lng" : 24.094425
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.743434,
+                  "lng" : 24.064339
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJvxZCBTbzJEcRzKsCpXud3Ec",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Дубенський район",
+               "short_name" : "Дубенський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Дубенський район, Рівненська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.59346,
+                  "lng" : 26.130021
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.1520079,
+                  "lng" : 25.443943
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.3210083,
+               "lng" : 25.8743649
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.59346,
+                  "lng" : 26.130021
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.1520079,
+                  "lng" : 25.443943
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJb_AK5pybL0cRNkvR4ezP86Y",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Боремель",
+               "short_name" : "Боремель",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Демидівський район",
+               "short_name" : "Демидівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "35210",
+               "short_name" : "35210",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Боремель, Рівненська область, Україна, 35210",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.494266,
+                  "lng" : 25.2007329
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.45803799999999,
+                  "lng" : 25.1588381
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.4771307,
+               "lng" : 25.1793158
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.494266,
+                  "lng" : 25.2007329
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.45803799999999,
+                  "lng" : 25.1588381
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJWxO1cD5wJUcRVMnuVQeQQYo",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

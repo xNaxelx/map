@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Вапнярка",
+               "short_name" : "Вапнярка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Томашпільський район",
+               "short_name" : "Томашпільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Вапнярка, Вінницька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.554243,
+                  "lng" : 28.7796735
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.5146997,
+                  "lng" : 28.7073999
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5334788,
+               "lng" : 28.7416366
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.554243,
+                  "lng" : 28.7796735
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.5146997,
+                  "lng" : 28.7073999
+               }
+            }
+         },
+         "place_id" : "ChIJlyuOjDIWzUARzZDs-sADB5Q",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,282 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Чернівці",
+               "short_name" : "Чернівці",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецький район",
+               "short_name" : "Чернівецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "24100",
+               "short_name" : "24100",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Чернівці, Вінницька область, Україна, 24100",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.5569821,
+                  "lng" : 28.12871
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.528417,
+                  "lng" : 28.0860399
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5404811,
+               "lng" : 28.108548
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.5569821,
+                  "lng" : 28.12871
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.528417,
+                  "lng" : 28.0860399
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJi68wYM_UMkcRFhqhylA7tt4",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Глибочок",
+               "short_name" : "Глибочок",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сторожинецький район",
+               "short_name" : "Сторожинецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "59051",
+               "short_name" : "59051",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Глибочок, Чернівецька область, Україна, 59051",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.1845369,
+                  "lng" : 25.784915
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.1551269,
+                  "lng" : 25.759896
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.1738801,
+               "lng" : 25.7690139
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.1845369,
+                  "lng" : 25.784915
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.1551269,
+                  "lng" : 25.759896
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJqblq5WYaNEcRSPoKfbBFNa0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Глибочок",
+               "short_name" : "Глибочок",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сторожинецький район",
+               "short_name" : "Сторожинецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "59051",
+               "short_name" : "59051",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Глибочок, Чернівецька область, Україна, 59051",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.1774961,
+                  "lng" : 25.8047419
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.16705289999999,
+                  "lng" : 25.77749
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.1710615,
+               "lng" : 25.7918302
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.1774961,
+                  "lng" : 25.8047419
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.16705289999999,
+                  "lng" : 25.77749
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ_aScgX0aNEcRhoeqE-xv7hI",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

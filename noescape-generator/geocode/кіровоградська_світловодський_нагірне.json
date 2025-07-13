@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Нагірне",
+               "short_name" : "Нагірне",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Світловодський район",
+               "short_name" : "Світловодський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кіровоградська область",
+               "short_name" : "Кіровоградська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "27523",
+               "short_name" : "27523",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Нагірне, Кіровоградська область, Україна, 27523",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.089674,
+                  "lng" : 33.1149511
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.072929,
+                  "lng" : 33.0534209
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.081668,
+               "lng" : 33.08575010000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.089674,
+                  "lng" : 33.1149511
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.072929,
+                  "lng" : 33.0534209
+               }
+            }
+         },
+         "place_id" : "ChIJpUdesM-10EARujxcZgZHB5s",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Старий Вовчинець",
+               "short_name" : "Старий Вовчинець",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Глибоцький район",
+               "short_name" : "Глибоцький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60440",
+               "short_name" : "60440",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Старий Вовчинець, Чернівецька область, Україна, 60440",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.01962,
+                  "lng" : 25.960344
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.99021,
+                  "lng" : 25.913287
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.0029571,
+               "lng" : 25.9386036
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.01962,
+                  "lng" : 25.960344
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.99021,
+                  "lng" : 25.913287
+               }
+            }
+         },
+         "place_id" : "ChIJa-N8CRxANEcR4vJFX9UKCfw",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Миловань",
+               "short_name" : "Миловань",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Любомльський район",
+               "short_name" : "Любомльський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "44330",
+               "short_name" : "44330",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Миловань, Волинська область, Україна, 44330",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.263523,
+                  "lng" : 23.7987659
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.23427299999999,
+                  "lng" : 23.763175
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.2458582,
+               "lng" : 23.7846785
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.263523,
+                  "lng" : 23.7987659
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.23427299999999,
+                  "lng" : 23.763175
+               }
+            }
+         },
+         "place_id" : "ChIJ60z88o2MI0cRpkKAjq-2ulc",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

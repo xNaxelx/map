@@ -1,0 +1,81 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Саратський район",
+               "short_name" : "Саратський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Саратський район, Одеська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.4222589,
+                  "lng" : 30.0471779
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.908798,
+                  "lng" : 29.3832311
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.0706066,
+               "lng" : 29.7791305
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.4222589,
+                  "lng" : 30.0471779
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.908798,
+                  "lng" : 29.3832311
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ3ypTaaIayEARQOIc88e2JPE",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

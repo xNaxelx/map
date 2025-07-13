@@ -1,0 +1,81 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Вовчанський район",
+               "short_name" : "Вовчанський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Харківська область",
+               "short_name" : "Харківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Вовчанський район, Харківська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.4594142,
+                  "lng" : 37.5345672
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.9518529,
+                  "lng" : 36.548434
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.24338909999999,
+               "lng" : 37.2038363
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.4594142,
+                  "lng" : 37.5345672
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.9518529,
+                  "lng" : 36.548434
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ68zksH3lJkERlo2Kachn9DU",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

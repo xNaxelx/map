@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Жовківський район",
+               "short_name" : "Жовківський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Жовківський район, Львівська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.3289829,
+                  "lng" : 24.23861
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.874169,
+                  "lng" : 23.4410896
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.1603676,
+               "lng" : 23.8831486
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.3289829,
+                  "lng" : 24.23861
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.874169,
+                  "lng" : 23.4410896
+               }
+            }
+         },
+         "place_id" : "ChIJ9zgHhPMuO0cRMu8nAEXd3Sk",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

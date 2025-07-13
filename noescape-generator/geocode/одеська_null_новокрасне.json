@@ -1,0 +1,188 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Новокрасне",
+               "short_name" : "Новокрасне",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Роздільнянський район",
+               "short_name" : "Роздільнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67485",
+               "short_name" : "67485",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Новокрасне, Одеська область, Україна, 67485",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.803273,
+                  "lng" : 29.977462
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.782853,
+                  "lng" : 29.9679779
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.795172,
+               "lng" : 29.9726856
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.803273,
+                  "lng" : 29.977462
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.782853,
+                  "lng" : 29.9679779
+               }
+            }
+         },
+         "place_id" : "ChIJI2lZiMrvyEARdjDvC0oHxbo",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Новокрасне",
+               "short_name" : "Новокрасне",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Окнянський район",
+               "short_name" : "Окнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67921",
+               "short_name" : "67921",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Новокрасне, Одеська область, Україна, 67921",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.5452801,
+                  "lng" : 29.167679
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.514706,
+                  "lng" : 29.15034799999999
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.53080120000001,
+               "lng" : 29.1622237
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.5452801,
+                  "lng" : 29.167679
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.514706,
+                  "lng" : 29.15034799999999
+               }
+            }
+         },
+         "place_id" : "ChIJ_cKx-EUHzEAR9vFYBwZiiGY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Крутоярівка",
+               "short_name" : "Крутоярівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Прилуцький район",
+               "short_name" : "Прилуцький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернігівська область",
+               "short_name" : "Чернігівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "17526",
+               "short_name" : "17526",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Крутоярівка, Чернігівська область, Україна, 17526",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.39601709999999,
+                  "lng" : 32.1116648
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.38038299999999,
+                  "lng" : 32.0858281
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.38789939999999,
+               "lng" : 32.0942197
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.39601709999999,
+                  "lng" : 32.1116648
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.38038299999999,
+                  "lng" : 32.0858281
+               }
+            }
+         },
+         "place_id" : "ChIJs1305iG41UAR6CmFlSPbhUI",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

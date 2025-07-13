@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Здолбунів",
+               "short_name" : "Здолбунів",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Здолбунівський район",
+               "short_name" : "Здолбунівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Здолбунів, Рівненська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.5364759,
+                  "lng" : 26.2925001
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.482603,
+                  "lng" : 26.2224248
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.5089112,
+               "lng" : 26.2566443
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.5364759,
+                  "lng" : 26.2925001
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.482603,
+                  "lng" : 26.2224248
+               }
+            }
+         },
+         "place_id" : "ChIJrbw2MpMNL0cRsx_bcE6TLn8",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

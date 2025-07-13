@@ -1,0 +1,188 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Перемога",
+               "short_name" : "Перемога",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Тарутинський район",
+               "short_name" : "Тарутинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68545",
+               "short_name" : "68545",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Перемога, Одеська область, Україна, 68545",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.197998,
+                  "lng" : 29.3469171
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.1828581,
+                  "lng" : 29.3337959
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.19092699999999,
+               "lng" : 29.3406944
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.197998,
+                  "lng" : 29.3469171
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.1828581,
+                  "lng" : 29.3337959
+               }
+            }
+         },
+         "place_id" : "ChIJ64-OEqYmyEAROBxg2KBLOLc",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Перемога",
+               "short_name" : "Перемога",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Миколаївський район",
+               "short_name" : "Миколаївський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67005",
+               "short_name" : "67005",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Перемога, Одеська область, Україна, 67005",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.551377,
+                  "lng" : 30.71671389999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.546349,
+                  "lng" : 30.6983231
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.5479545,
+               "lng" : 30.7072588
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.551377,
+                  "lng" : 30.71671389999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.546349,
+                  "lng" : 30.6983231
+               }
+            }
+         },
+         "place_id" : "ChIJwXmEmwYbz0AREDHJq4ROWN8",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

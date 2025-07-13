@@ -1,0 +1,98 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Звенячин",
+               "short_name" : "Звенячин",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Заставнівський район",
+               "short_name" : "Заставнівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "59413",
+               "short_name" : "59413",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Звенячин, Чернівецька область, Україна, 59413",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.6320381,
+                  "lng" : 25.745463
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.6096089,
+                  "lng" : 25.7229141
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.62558310000001,
+               "lng" : 25.7325776
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.6320381,
+                  "lng" : 25.745463
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.6096089,
+                  "lng" : 25.7229141
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ59LWfRlbMUcRcp5F2cZT5yo",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

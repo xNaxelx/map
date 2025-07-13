@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Олександрівка",
+               "short_name" : "Олександрівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Миронівський район",
+               "short_name" : "Миронівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Київська область",
+               "short_name" : "Київська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "08834",
+               "short_name" : "08834",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Олександрівка, Київська область, Україна, 08834",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.709225,
+                  "lng" : 30.8092111
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.6726881,
+                  "lng" : 30.761784
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.68931019999999,
+               "lng" : 30.7782614
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.709225,
+                  "lng" : 30.8092111
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.6726881,
+                  "lng" : 30.761784
+               }
+            }
+         },
+         "place_id" : "ChIJK_ro5lOD00ARDgQOkQ8IO9A",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

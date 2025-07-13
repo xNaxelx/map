@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Виноградне",
+               "short_name" : "Виноградне",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Березівський район",
+               "short_name" : "Березівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67341",
+               "short_name" : "67341",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Виноградне, Одеська область, Україна, 67341",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.240516,
+                  "lng" : 31.122594
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.212242,
+                  "lng" : 31.0765021
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.2254244,
+               "lng" : 31.10045809999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.240516,
+                  "lng" : 31.122594
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.212242,
+                  "lng" : 31.0765021
+               }
+            }
+         },
+         "place_id" : "ChIJFbHXh2xcz0ARdGZn68LyVdY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

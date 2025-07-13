@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Чагор",
+               "short_name" : "Чагор",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Глибоцький район",
+               "short_name" : "Глибоцький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60412",
+               "short_name" : "60412",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Чагор, Чернівецька область, Україна, 60412",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.253365,
+                  "lng" : 26.0128
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.228679,
+                  "lng" : 25.9618809
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.24182769999999,
+               "lng" : 25.9783974
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.253365,
+                  "lng" : 26.0128
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.228679,
+                  "lng" : 25.9618809
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJPzGxkroONEcRoLZ-CMamWpM",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Чернівецький район",
+               "short_name" : "Чернівецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Чернівецький район, Вінницька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.651179,
+                  "lng" : 28.351943
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.349162,
+                  "lng" : 27.949276
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5128518,
+               "lng" : 28.1819806
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.651179,
+                  "lng" : 28.351943
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.349162,
+                  "lng" : 27.949276
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJm3N_qPIqzUARGsFHrKFURfw",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Куп'янський район",
+               "short_name" : "Куп'янський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Харківська область",
+               "short_name" : "Харківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Куп'янський район, Харківська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.9188751,
+                  "lng" : 38.0469621
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.434382,
+                  "lng" : 37.3255879
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.5538241,
+               "lng" : 37.6426324
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.9188751,
+                  "lng" : 38.0469621
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.434382,
+                  "lng" : 37.3255879
+               }
+            }
+         },
+         "place_id" : "ChIJMS7_AtnbIEER6FW8SONe9Jk",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

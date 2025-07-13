@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Зарічне",
+               "short_name" : "Зарічне",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Зарічненський район",
+               "short_name" : "Зарічненський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "34000",
+               "short_name" : "34000",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Зарічне, Рівненська область, Україна, 34000",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.8549089,
+                  "lng" : 26.150675
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.795961,
+                  "lng" : 26.0778041
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.81818939999999,
+               "lng" : 26.1255724
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.8549089,
+                  "lng" : 26.150675
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.795961,
+                  "lng" : 26.0778041
+               }
+            }
+         },
+         "place_id" : "ChIJE25v3qtMJkcRcIgQAK9cdmA",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Торосове",
+               "short_name" : "Торосове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Захарівський район",
+               "short_name" : "Захарівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66743",
+               "short_name" : "66743",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Торосове, Одеська область, Україна, 66743",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.24462,
+                  "lng" : 29.9960121
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.2160709,
+                  "lng" : 29.9530811
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.2300727,
+               "lng" : 29.9704094
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.24462,
+                  "lng" : 29.9960121
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.2160709,
+                  "lng" : 29.9530811
+               }
+            }
+         },
+         "place_id" : "ChIJkeM54nksyUARqKGyjq5rWUg",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

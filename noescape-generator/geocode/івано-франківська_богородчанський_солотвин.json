@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Солотвин",
+               "short_name" : "Солотвин",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Богородчанський район",
+               "short_name" : "Богородчанський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Івано-Франківська область",
+               "short_name" : "Івано-Франківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "77753",
+               "short_name" : "77753",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Солотвин, Івано-Франківська область, Україна, 77753",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.722152,
+                  "lng" : 24.4431241
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.68761989999999,
+                  "lng" : 24.399169
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.7094882,
+               "lng" : 24.4210479
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.722152,
+                  "lng" : 24.4431241
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.68761989999999,
+                  "lng" : 24.399169
+               }
+            }
+         },
+         "place_id" : "ChIJK236okw1N0cRbXy4EBXgsiI",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

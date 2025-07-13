@@ -1,0 +1,81 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Арцизький район",
+               "short_name" : "Арцизький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Арцизький район, Одеська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.2277139,
+                  "lng" : 29.596056
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.704654,
+                  "lng" : 28.9952101
+               }
+            },
+            "location" : 
+            {
+               "lat" : 45.8779104,
+               "lng" : 29.2841552
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.2277139,
+                  "lng" : 29.596056
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.704654,
+                  "lng" : 28.9952101
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJzTMWktrnt0ARjOJj8vrxyTQ",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

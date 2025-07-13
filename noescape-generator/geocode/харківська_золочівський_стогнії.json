@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Стогнії",
+               "short_name" : "Стогнії",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Золочівський район",
+               "short_name" : "Золочівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Харківська область",
+               "short_name" : "Харківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "62214",
+               "short_name" : "62214",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Стогнії, Харківська область, Україна, 62214",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.37505710000001,
+                  "lng" : 35.9552099
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.363096,
+                  "lng" : 35.931187
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.3689379,
+               "lng" : 35.94101060000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.37505710000001,
+                  "lng" : 35.9552099
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.363096,
+                  "lng" : 35.931187
+               }
+            }
+         },
+         "place_id" : "ChIJ5aV9LmDMJ0ERkmbzN5hzZA0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

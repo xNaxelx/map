@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Малий Фонтан",
+               "short_name" : "Малий Фонтан",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Поді́льськ",
+               "short_name" : "Поді́льськ",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66383",
+               "short_name" : "66383",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Малий Фонтан, Одеська область, Україна, 66383",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.81429,
+                  "lng" : 29.544288
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.7889951,
+                  "lng" : 29.5155999
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.7991641,
+               "lng" : 29.5191065
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.81429,
+                  "lng" : 29.544288
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.7889951,
+                  "lng" : 29.5155999
+               }
+            }
+         },
+         "place_id" : "ChIJ0X_bQgkhzEARPuFj5Lsox8Y",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

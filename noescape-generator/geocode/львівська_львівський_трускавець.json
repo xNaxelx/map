@@ -1,0 +1,98 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Трускавець",
+               "short_name" : "Трускавець",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Трускавецька міськрада",
+               "short_name" : "Трускавецька міськрада",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "82200",
+               "short_name" : "82200",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Трускавець, Львівська область, Україна, 82200",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.292214,
+                  "lng" : 23.5448851
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.2652321,
+                  "lng" : 23.488695
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.2760303,
+               "lng" : 23.5105576
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.292214,
+                  "lng" : 23.5448851
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.2652321,
+                  "lng" : 23.488695
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJRbeALq1JOkcR1HJifj-sRfc",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

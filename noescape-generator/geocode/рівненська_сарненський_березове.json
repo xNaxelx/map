@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Березове",
+               "short_name" : "Березове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рокитнівський район",
+               "short_name" : "Рокитнівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "34212",
+               "short_name" : "34212",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Березове, Рівненська область, Україна, 34212",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.5947591,
+                  "lng" : 27.3702219
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.568918,
+                  "lng" : 27.3146769
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.5800935,
+               "lng" : 27.3350382
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.5947591,
+                  "lng" : 27.3702219
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.568918,
+                  "lng" : 27.3146769
+               }
+            }
+         },
+         "place_id" : "ChIJx1zE8N1eKEcRZTzOP_SzW_0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

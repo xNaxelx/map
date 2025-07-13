@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Бігунь",
+               "short_name" : "Бігунь",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Овруцький район",
+               "short_name" : "Овруцький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Житомирська область",
+               "short_name" : "Житомирська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "11124",
+               "short_name" : "11124",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Бігунь, Житомирська область, Україна, 11124",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.412899,
+                  "lng" : 28.3101718
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.3910269,
+                  "lng" : 28.255425
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.4006155,
+               "lng" : 28.2772535
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.412899,
+                  "lng" : 28.3101718
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.3910269,
+                  "lng" : 28.255425
+               }
+            }
+         },
+         "place_id" : "ChIJM0sSnaGYKUcRvAp82GgcJkQ",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

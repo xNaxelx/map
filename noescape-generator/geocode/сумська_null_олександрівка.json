@@ -1,0 +1,188 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Олександрівка",
+               "short_name" : "Олександрівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сумський район",
+               "short_name" : "Сумський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сумська область",
+               "short_name" : "Сумська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "42340",
+               "short_name" : "42340",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Олександрівка, Сумська область, Україна, 42340",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.912624,
+                  "lng" : 34.6102311
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.896693,
+                  "lng" : 34.5946141
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.9046609,
+               "lng" : 34.6013174
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.912624,
+                  "lng" : 34.6102311
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.896693,
+                  "lng" : 34.5946141
+               }
+            }
+         },
+         "place_id" : "ChIJw5xiO3MHKUER8Nz5D-rKVTY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Олександрівка",
+               "short_name" : "Олександрівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Великописарівський район",
+               "short_name" : "Великописарівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сумська область",
+               "short_name" : "Сумська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "42806",
+               "short_name" : "42806",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Олександрівка, Сумська область, Україна, 42806",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.459255,
+                  "lng" : 35.5430091
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.4471881,
+                  "lng" : 35.503774
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.4526795,
+               "lng" : 35.53646990000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.459255,
+                  "lng" : 35.5430091
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.4471881,
+                  "lng" : 35.503774
+               }
+            }
+         },
+         "place_id" : "ChIJa4Eph8R4KEERglZNXhpaUy0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

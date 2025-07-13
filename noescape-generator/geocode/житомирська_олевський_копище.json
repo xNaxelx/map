@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Копище",
+               "short_name" : "Копище",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Олевський район",
+               "short_name" : "Олевський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Житомирська область",
+               "short_name" : "Житомирська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "11010",
+               "short_name" : "11010",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Копище, Житомирська область, Україна, 11010",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.600069,
+                  "lng" : 27.869944
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.56770700000001,
+                  "lng" : 27.8356481
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.5855621,
+               "lng" : 27.850659
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.600069,
+                  "lng" : 27.869944
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.56770700000001,
+                  "lng" : 27.8356481
+               }
+            }
+         },
+         "place_id" : "ChIJ1aHZNlVNKEcRQl73wZMsQTI",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

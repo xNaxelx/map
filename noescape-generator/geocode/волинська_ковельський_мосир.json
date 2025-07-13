@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Мосир",
+               "short_name" : "Мосир",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Любомльський район",
+               "short_name" : "Любомльський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "44357",
+               "short_name" : "44357",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Мосир, Волинська область, Україна, 44357",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.04681309999999,
+                  "lng" : 24.1027299
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.03129010000001,
+                  "lng" : 24.063813
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.0405738,
+               "lng" : 24.0860578
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.04681309999999,
+                  "lng" : 24.1027299
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.03129010000001,
+                  "lng" : 24.063813
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJLUAXAoZvJEcRRTyoQD0xY2k",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Ковельський район",
+               "short_name" : "Ковельський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Ковельський район, Волинська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.412778,
+                  "lng" : 25.409608
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.001411,
+                  "lng" : 24.4706039
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.157963,
+               "lng" : 24.9486783
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.412778,
+                  "lng" : 25.409608
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.001411,
+                  "lng" : 24.4706039
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJpwWsLfgtJEcR3j_eqEbcaZs",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

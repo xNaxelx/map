@@ -1,0 +1,98 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Шибене",
+               "short_name" : "Шибене",
+               "types" : 
+               [
+                  "neighborhood",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Зелене",
+               "short_name" : "Зелене",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Верховинський район",
+               "short_name" : "Верховинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Івано-Франківська область",
+               "short_name" : "Івано-Франківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Шибене, Зелене, Івано-Франківська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.99466049999999,
+                  "lng" : 24.7155477
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.9818215,
+                  "lng" : 24.6922016
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.989898,
+               "lng" : 24.7025885
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.99466049999999,
+                  "lng" : 24.7155477
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.9818215,
+                  "lng" : 24.6922016
+               }
+            }
+         },
+         "place_id" : "ChIJvY5YE9v1NkcR2oaRy693_-U",
+         "types" : 
+         [
+            "neighborhood",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Немирів",
+               "short_name" : "Немирів",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Немирівський район",
+               "short_name" : "Немирівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Немирів, Вінницька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.9966492,
+                  "lng" : 28.880782
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.9495488,
+                  "lng" : 28.813448
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.9749521,
+               "lng" : 28.847408
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.9966492,
+                  "lng" : 28.880782
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.9495488,
+                  "lng" : 28.813448
+               }
+            }
+         },
+         "place_id" : "ChIJLV4ajcdXzUAR4KrZ5Cft1sk",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

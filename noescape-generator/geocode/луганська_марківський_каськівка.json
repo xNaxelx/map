@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Каськівка",
+               "short_name" : "Каськівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Марківський район",
+               "short_name" : "Марківський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Луганська область",
+               "short_name" : "Луганська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "92411",
+               "short_name" : "92411",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Каськівка, Луганська область, Україна, 92411",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.681378,
+                  "lng" : 39.60240599999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.66477800000001,
+                  "lng" : 39.559007
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.6739893,
+               "lng" : 39.5777765
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.681378,
+                  "lng" : 39.60240599999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.66477800000001,
+                  "lng" : 39.559007
+               }
+            }
+         },
+         "place_id" : "ChIJNU0TAmnxIUERGB7mE8JnEtM",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

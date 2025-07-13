@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Доброслав",
+               "short_name" : "Доброслав",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Лиманський район",
+               "short_name" : "Лиманський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67501",
+               "short_name" : "67501",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Доброслав, Одеська область, Україна, 67501",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.83676690000001,
+                  "lng" : 30.963603
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.80336699999999,
+                  "lng" : 30.926126
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.82101429999999,
+               "lng" : 30.9457904
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.83676690000001,
+                  "lng" : 30.963603
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.80336699999999,
+                  "lng" : 30.926126
+               }
+            }
+         },
+         "place_id" : "ChIJNwstElAbxkARRbXQ1zh6peg",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

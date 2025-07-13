@@ -1,0 +1,72 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Білгород-Дністровський район",
+               "short_name" : "Білгород-Дністровський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Одеська область, Україна",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.383688,
+               "lng" : 30.0870896
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.3850240302915,
+                  "lng" : 30.0885010802915
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.3823260697085,
+                  "lng" : 30.0858031197085
+               }
+            }
+         },
+         "place_id" : "ChIJs8eEiI1wyEARD2A9BE0KZ5A",
+         "plus_code" : 
+         {
+            "compound_code" : "93MP+FR Удобне, Одеська область, Україна",
+            "global_code" : "8GRG93MP+FR"
+         },
+         "types" : 
+         [
+            "establishment",
+            "point_of_interest"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

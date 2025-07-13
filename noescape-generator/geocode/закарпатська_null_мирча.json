@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Мирча",
+               "short_name" : "Мирча",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Великоберезнянський район",
+               "short_name" : "Великоберезнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "89040",
+               "short_name" : "89040",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Мирча, Закарпатська область, Україна, 89040",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.8320601,
+                  "lng" : 22.4714079
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.8212,
+                  "lng" : 22.4511929
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.8291365,
+               "lng" : 22.462436
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.8320601,
+                  "lng" : 22.4714079
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.8212,
+                  "lng" : 22.4511929
+               }
+            }
+         },
+         "place_id" : "ChIJtSvGQgBrOUcRGgIGY0cnAvE",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

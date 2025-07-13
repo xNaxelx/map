@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Новий Буг",
+               "short_name" : "Новий Буг",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Новобузький район",
+               "short_name" : "Новобузький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Миколаївська область",
+               "short_name" : "Миколаївська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "55600",
+               "short_name" : "55600",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Новий Буг, Миколаївська область, Україна, 55600",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.7122721,
+                  "lng" : 32.5588511
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.654286,
+                  "lng" : 32.4565589
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.6968565,
+               "lng" : 32.5038537
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.7122721,
+                  "lng" : 32.5588511
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.654286,
+                  "lng" : 32.4565589
+               }
+            }
+         },
+         "place_id" : "ChIJo--wMcc4xUARzaDvlUU2jzQ",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

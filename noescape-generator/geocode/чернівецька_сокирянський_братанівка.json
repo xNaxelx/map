@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Братанівка",
+               "short_name" : "Братанівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сокирянський район",
+               "short_name" : "Сокирянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60210",
+               "short_name" : "60210",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Братанівка, Чернівецька область, Україна, 60210",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.540614,
+                  "lng" : 27.0748608
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.521297,
+                  "lng" : 27.0562471
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.52591229999999,
+               "lng" : 27.0647245
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.540614,
+                  "lng" : 27.0748608
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.521297,
+                  "lng" : 27.0562471
+               }
+            }
+         },
+         "place_id" : "ChIJhyt6QAgJM0cRtO7HlO_Fw60",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

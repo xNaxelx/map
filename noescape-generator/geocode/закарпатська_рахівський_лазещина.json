@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Лазещина",
+               "short_name" : "Лазещина",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рахівський район",
+               "short_name" : "Рахівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90633",
+               "short_name" : "90633",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Лазещина, Закарпатська область, Україна, 90633",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.2961359,
+                  "lng" : 24.450435
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.242042,
+                  "lng" : 24.3865511
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.2735736,
+               "lng" : 24.411971
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.2961359,
+                  "lng" : 24.450435
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.242042,
+                  "lng" : 24.3865511
+               }
+            }
+         },
+         "place_id" : "ChIJp94voggcN0cRiNDbMsHqTDw",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

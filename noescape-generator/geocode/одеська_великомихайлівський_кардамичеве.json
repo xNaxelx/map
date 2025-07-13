@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Кардамичеве",
+               "short_name" : "Кардамичеве",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Великомихайлівський район",
+               "short_name" : "Великомихайлівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67150",
+               "short_name" : "67150",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Кардамичеве, Одеська область, Україна, 67150",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.973252,
+                  "lng" : 29.9209201
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.9501879,
+                  "lng" : 29.9064481
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.96141799999999,
+               "lng" : 29.9141481
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.973252,
+                  "lng" : 29.9209201
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.9501879,
+                  "lng" : 29.9064481
+               }
+            }
+         },
+         "place_id" : "ChIJrzCr0yDeyEARaPitqVgByKE",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Рахівський район",
+               "short_name" : "Рахівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Рахівський район, Закарпатська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.4012889,
+                  "lng" : 24.6273425
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.896506,
+                  "lng" : 23.8612286
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.1391697,
+               "lng" : 24.2936895
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.4012889,
+                  "lng" : 24.6273425
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.896506,
+                  "lng" : 23.8612286
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJYSAsJ4IGN0cR6uJYb0dPf38",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Крива",
+               "short_name" : "Крива",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Тячівський район",
+               "short_name" : "Тячівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90563",
+               "short_name" : "90563",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Крива, Закарпатська область, Україна, 90563",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.040154,
+                  "lng" : 23.726465
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.01655,
+                  "lng" : 23.7014971
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.0240867,
+               "lng" : 23.7091857
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.040154,
+                  "lng" : 23.726465
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.01655,
+                  "lng" : 23.7014971
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJM8Thp8WZN0cRyMA5cjEynFY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

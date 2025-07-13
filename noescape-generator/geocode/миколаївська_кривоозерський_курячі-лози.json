@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Курячі Лози",
+               "short_name" : "Курячі Лози",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кривоозерський район",
+               "short_name" : "Кривоозерський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Миколаївська область",
+               "short_name" : "Миколаївська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "55120",
+               "short_name" : "55120",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Курячі Лози, Миколаївська область, Україна, 55120",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.09044,
+                  "lng" : 30.370636
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.076065,
+                  "lng" : 30.31949509999999
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.0826254,
+               "lng" : 30.3431942
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.09044,
+                  "lng" : 30.370636
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.076065,
+                  "lng" : 30.31949509999999
+               }
+            }
+         },
+         "place_id" : "ChIJzSGwBB9vzkARb0qCtOzTtzs",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

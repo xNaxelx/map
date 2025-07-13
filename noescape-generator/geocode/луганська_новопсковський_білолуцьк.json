@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Білолуцьк",
+               "short_name" : "Білолуцьк",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Новопсковський район",
+               "short_name" : "Новопсковський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Луганська область",
+               "short_name" : "Луганська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "92322",
+               "short_name" : "92322",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Білолуцьк, Луганська область, Україна, 92322",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.7302341,
+                  "lng" : 39.075668
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.66809199999999,
+                  "lng" : 38.980861
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.7043697,
+               "lng" : 39.0184047
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.7302341,
+                  "lng" : 39.075668
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.66809199999999,
+                  "lng" : 38.980861
+               }
+            }
+         },
+         "place_id" : "ChIJowzGmduZIUERvPGdq7UcJVk",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

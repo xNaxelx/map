@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Концово",
+               "short_name" : "Концово",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ужгородський район",
+               "short_name" : "Ужгородський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "89423",
+               "short_name" : "89423",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Концово, Закарпатська область, Україна, 89423",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.5768,
+                  "lng" : 22.257289
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.565596,
+                  "lng" : 22.233088
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.56967119999999,
+               "lng" : 22.2472358
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.5768,
+                  "lng" : 22.257289
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.565596,
+                  "lng" : 22.233088
+               }
+            }
+         },
+         "place_id" : "ChIJp5pdpCofOUcRBJFEQRLiFEo",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

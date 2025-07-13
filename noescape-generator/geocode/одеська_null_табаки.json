@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Табаки",
+               "short_name" : "Табаки",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Болградський район",
+               "short_name" : "Болградський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68730",
+               "short_name" : "68730",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Табаки, Одеська область, Україна, 68730",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.7508639,
+                  "lng" : 28.6213491
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.709777,
+                  "lng" : 28.5986709
+               }
+            },
+            "location" : 
+            {
+               "lat" : 45.7261758,
+               "lng" : 28.6098909
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.7508639,
+                  "lng" : 28.6213491
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.709777,
+                  "lng" : 28.5986709
+               }
+            }
+         },
+         "place_id" : "ChIJY3Oovjupt0ARgZ6pi2iEfEA",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

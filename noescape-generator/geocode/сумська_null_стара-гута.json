@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Стара Гута",
+               "short_name" : "Стара Гута",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Середино-Будський район",
+               "short_name" : "Середино-Будський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сумська область",
+               "short_name" : "Сумська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "41030",
+               "short_name" : "41030",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Стара Гута, Сумська область, Україна, 41030",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.31561,
+                  "lng" : 33.8120129
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.29817509999999,
+                  "lng" : 33.766565
+               }
+            },
+            "location" : 
+            {
+               "lat" : 52.3059466,
+               "lng" : 33.7903978
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.31561,
+                  "lng" : 33.8120129
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.29817509999999,
+                  "lng" : 33.766565
+               }
+            }
+         },
+         "place_id" : "ChIJK89lSjTzLEERIEtWWXMbUNU",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

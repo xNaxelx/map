@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Касперівці",
+               "short_name" : "Касперівці",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Заліщицький район",
+               "short_name" : "Заліщицький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Тернопільська область",
+               "short_name" : "Тернопільська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "48653",
+               "short_name" : "48653",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Касперівці, Тернопільська область, Україна, 48653",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.676621,
+                  "lng" : 25.8509541
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.657791,
+                  "lng" : 25.81068
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.666526,
+               "lng" : 25.8414546
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.676621,
+                  "lng" : 25.8509541
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.657791,
+                  "lng" : 25.81068
+               }
+            }
+         },
+         "place_id" : "ChIJeaQbM0dcMUcRw28kLGiU0Z4",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

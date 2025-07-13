@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Руські Комарівці",
+               "short_name" : "Руські Комарівці",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ужгородський район",
+               "short_name" : "Ужгородський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "89443",
+               "short_name" : "89443",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Руські Комарівці, Закарпатська область, Україна, 89443",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.527278,
+                  "lng" : 22.4480131
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.51343500000001,
+                  "lng" : 22.417676
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5204681,
+               "lng" : 22.436926
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.527278,
+                  "lng" : 22.4480131
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.51343500000001,
+                  "lng" : 22.417676
+               }
+            }
+         },
+         "place_id" : "ChIJK7v6XWoDOUcRzlemfxw1Ehw",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

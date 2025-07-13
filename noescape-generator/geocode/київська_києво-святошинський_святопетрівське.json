@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Святопетрівське",
+               "short_name" : "Святопетрівське",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Києво-Святошинський район",
+               "short_name" : "Києво-Святошинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Київська область",
+               "short_name" : "Київська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Святопетрівське, Київська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.3966461,
+                  "lng" : 30.3367709
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.3610135,
+                  "lng" : 30.2980615
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.3910902,
+               "lng" : 30.3153102
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.3966461,
+                  "lng" : 30.3367709
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.3610135,
+                  "lng" : 30.2980615
+               }
+            }
+         },
+         "place_id" : "ChIJyclvkmbK1EARDKxgun2dBU0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

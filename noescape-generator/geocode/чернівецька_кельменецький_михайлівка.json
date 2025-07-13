@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Михайлівка",
+               "short_name" : "Михайлівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кельменецький район",
+               "short_name" : "Кельменецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60126",
+               "short_name" : "60126",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Михайлівка, Чернівецька область, Україна, 60126",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.39097599999999,
+                  "lng" : 26.61734
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.37971899999999,
+                  "lng" : 26.596888
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.38708829999999,
+               "lng" : 26.6061494
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.39097599999999,
+                  "lng" : 26.61734
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.37971899999999,
+                  "lng" : 26.596888
+               }
+            }
+         },
+         "place_id" : "ChIJQY5_FuyaM0cRshVkQOrrotA",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

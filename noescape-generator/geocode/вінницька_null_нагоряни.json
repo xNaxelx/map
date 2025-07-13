@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Нагоряни",
+               "short_name" : "Нагоряни",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Могилів-Подільський район",
+               "short_name" : "Могилів-Подільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "24023",
+               "short_name" : "24023",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Нагоряни, Вінницька область, Україна, 24023",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.507082,
+                  "lng" : 27.587622
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.492696,
+                  "lng" : 27.559785
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.4956332,
+               "lng" : 27.5722578
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.507082,
+                  "lng" : 27.587622
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.492696,
+                  "lng" : 27.559785
+               }
+            }
+         },
+         "place_id" : "ChIJ_XmtJ4siM0cRvtfISdRTvwg",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Черче",
+               "short_name" : "Черче",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Камінь-Каширський район",
+               "short_name" : "Камінь-Каширський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "44510",
+               "short_name" : "44510",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Черче, Волинська область, Україна, 44510",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.76882999999999,
+                  "lng" : 24.9136912
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.71511710000001,
+                  "lng" : 24.8491518
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.7403533,
+               "lng" : 24.8730036
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.76882999999999,
+                  "lng" : 24.9136912
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.71511710000001,
+                  "lng" : 24.8491518
+               }
+            }
+         },
+         "place_id" : "ChIJ8bYmuzu_JkcRDk25vhRnX3U",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

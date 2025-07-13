@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Великий Березний",
+               "short_name" : "Великий Березний",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Великоберезнянський район",
+               "short_name" : "Великоберезнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "89000",
+               "short_name" : "89000",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Великий Березний, Закарпатська область, Україна, 89000",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.914606,
+                  "lng" : 22.48057
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.872614,
+                  "lng" : 22.4459569
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.8851206,
+               "lng" : 22.4539975
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.914606,
+                  "lng" : 22.48057
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.872614,
+                  "lng" : 22.4459569
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJR4m3Id1pOUcRBG6k1R9db2I",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Мукачівський район",
+               "short_name" : "Мукачівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Мукачівський район, Закарпатська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.650665,
+                  "lng" : 22.9546729
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.2775459,
+                  "lng" : 22.3595321
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5206301,
+               "lng" : 22.723114
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.650665,
+                  "lng" : 22.9546729
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.2775459,
+                  "lng" : 22.3595321
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJjdeevUWqOUcRXOKNF__MK4s",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

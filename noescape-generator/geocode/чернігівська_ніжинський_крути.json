@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Крути",
+               "short_name" : "Крути",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ніжинський район",
+               "short_name" : "Ніжинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернігівська область",
+               "short_name" : "Чернігівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "16645",
+               "short_name" : "16645",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Крути, Чернігівська область, Україна, 16645",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.074716,
+                  "lng" : 32.1247089
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.043584,
+                  "lng" : 32.0861601
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.05664119999999,
+               "lng" : 32.1023674
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.074716,
+                  "lng" : 32.1247089
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.043584,
+                  "lng" : 32.0861601
+               }
+            }
+         },
+         "place_id" : "ChIJnVUsXWCEKkERwF-52tIunIc",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Калинівка",
+               "short_name" : "Калинівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Яворівський район",
+               "short_name" : "Яворівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "81042",
+               "short_name" : "81042",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Калинівка, Львівська область, Україна, 81042",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.908219,
+                  "lng" : 23.3147061
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.899209,
+                  "lng" : 23.2984209
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.9023776,
+               "lng" : 23.308147
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.908219,
+                  "lng" : 23.3147061
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.899209,
+                  "lng" : 23.2984209
+               }
+            }
+         },
+         "place_id" : "ChIJr7zje1JrO0cRiFnRz_rijUU",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

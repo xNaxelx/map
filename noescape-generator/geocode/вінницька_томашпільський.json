@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Томашпільський район",
+               "short_name" : "Томашпільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Томашпільський район, Вінницька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.679917,
+                  "lng" : 28.829086
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.329665,
+                  "lng" : 28.2974371
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5204307,
+               "lng" : 28.4783397
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.679917,
+                  "lng" : 28.829086
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.329665,
+                  "lng" : 28.2974371
+               }
+            }
+         },
+         "place_id" : "ChIJfX4NuXMjzUARntNSlG24N88",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Городнє",
+               "short_name" : "Городнє",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Болградський район",
+               "short_name" : "Болградський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68712",
+               "short_name" : "68712",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Городнє, Одеська область, Україна, 68712",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.9042961,
+                  "lng" : 28.86473609999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.875886,
+                  "lng" : 28.828693
+               }
+            },
+            "location" : 
+            {
+               "lat" : 45.8881238,
+               "lng" : 28.8468305
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.9042961,
+                  "lng" : 28.86473609999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.875886,
+                  "lng" : 28.828693
+               }
+            }
+         },
+         "place_id" : "ChIJr9QBB7-3t0ARHGZqDa_qrbE",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

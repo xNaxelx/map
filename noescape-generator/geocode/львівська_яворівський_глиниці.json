@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Глиниці",
+               "short_name" : "Глиниці",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Яворівський район",
+               "short_name" : "Яворівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "81035",
+               "short_name" : "81035",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Глиниці, Львівська область, Україна, 81035",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.955208,
+                  "lng" : 23.1357481
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.9239859,
+                  "lng" : 23.110367
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.9388503,
+               "lng" : 23.1227328
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.955208,
+                  "lng" : 23.1357481
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.9239859,
+                  "lng" : 23.110367
+               }
+            }
+         },
+         "place_id" : "ChIJxR77yNFoO0cROgyKN3ojOj4",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

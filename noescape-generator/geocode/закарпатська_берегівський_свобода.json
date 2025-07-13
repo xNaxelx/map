@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Свобода",
+               "short_name" : "Свобода",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Берегівський район",
+               "short_name" : "Берегівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90210",
+               "short_name" : "90210",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Свобода, Закарпатська область, Україна, 90210",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.36503399999999,
+                  "lng" : 22.3804011
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.353285,
+                  "lng" : 22.359869
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.3587935,
+               "lng" : 22.367247
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.36503399999999,
+                  "lng" : 22.3804011
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.353285,
+                  "lng" : 22.359869
+               }
+            }
+         },
+         "place_id" : "ChIJV2la0cP7OEcR1lNTcYPXE58",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

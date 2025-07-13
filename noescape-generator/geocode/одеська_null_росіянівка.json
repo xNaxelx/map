@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Росіянівка",
+               "short_name" : "Росіянівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Захарівський район",
+               "short_name" : "Захарівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66706",
+               "short_name" : "66706",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Козацьке, Одеська область, Україна, 66706",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.24132609999999,
+                  "lng" : 29.721453
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.210862,
+                  "lng" : 29.6895919
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.2266238,
+               "lng" : 29.7019624
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.24132609999999,
+                  "lng" : 29.721453
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.210862,
+                  "lng" : 29.6895919
+               }
+            }
+         },
+         "place_id" : "ChIJs_bbXyw3yUARW-pZUbnq_4U",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

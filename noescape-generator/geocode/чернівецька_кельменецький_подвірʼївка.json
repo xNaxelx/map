@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Подвір'ївка",
+               "short_name" : "Подвір'ївка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кельменецький район",
+               "short_name" : "Кельменецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60134",
+               "short_name" : "60134",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Подвір'ївка, Чернівецька область, Україна, 60134",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.329012,
+                  "lng" : 26.8085881
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.300259,
+                  "lng" : 26.7789411
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.3104157,
+               "lng" : 26.7838725
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.329012,
+                  "lng" : 26.8085881
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.300259,
+                  "lng" : 26.7789411
+               }
+            }
+         },
+         "place_id" : "ChIJkyTQH_d3M0cRPrEA7GxLonY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

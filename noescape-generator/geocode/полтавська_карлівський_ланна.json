@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Ланна",
+               "short_name" : "Ланна",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Карлівський район",
+               "short_name" : "Карлівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Полтавська область",
+               "short_name" : "Полтавська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Ланна, Полтавська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.35780099999999,
+                  "lng" : 35.2792454
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.3457321,
+                  "lng" : 35.2394629
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.3502445,
+               "lng" : 35.2577921
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.35780099999999,
+                  "lng" : 35.2792454
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.3457321,
+                  "lng" : 35.2394629
+               }
+            }
+         },
+         "place_id" : "ChIJ28i8IdFZ2EAR3vhNqtxPgcU",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

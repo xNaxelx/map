@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Іванчиці",
+               "short_name" : "Іванчиці",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Зарічненський район",
+               "short_name" : "Зарічненський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "34009",
+               "short_name" : "34009",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Іванчиці, Рівненська область, Україна, 34009",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.847559,
+                  "lng" : 26.1787241
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.819756,
+                  "lng" : 26.1559601
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.8342082,
+               "lng" : 26.1653436
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.847559,
+                  "lng" : 26.1787241
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.819756,
+                  "lng" : 26.1559601
+               }
+            }
+         },
+         "place_id" : "ChIJlRNpYMe0J0cRwEDdkuM63Oc",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

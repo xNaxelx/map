@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Комарове",
+               "short_name" : "Комарове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Маневицький район",
+               "short_name" : "Маневицький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "44651",
+               "short_name" : "44651",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Комарове, Волинська область, Україна, 44651",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.187167,
+                  "lng" : 25.7696061
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.151687,
+                  "lng" : 25.7116741
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.1767537,
+               "lng" : 25.7484554
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.187167,
+                  "lng" : 25.7696061
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.151687,
+                  "lng" : 25.7116741
+               }
+            }
+         },
+         "place_id" : "ChIJw32bU4bhJUcROzPTHcOY_5U",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

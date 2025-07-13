@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Делень",
+               "short_name" : "Делень",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Арцизький район",
+               "short_name" : "Арцизький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68431",
+               "short_name" : "68431",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Делень, Одеська область, Україна, 68431",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.927453,
+                  "lng" : 29.2041409
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.89773599999999,
+                  "lng" : 29.171472
+               }
+            },
+            "location" : 
+            {
+               "lat" : 45.9121442,
+               "lng" : 29.1895591
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.927453,
+                  "lng" : 29.2041409
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.89773599999999,
+                  "lng" : 29.171472
+               }
+            }
+         },
+         "place_id" : "ChIJt898nfrpt0ARAVKShT8saQE",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Левківці",
+               "short_name" : "Левківці",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Тульчинський район",
+               "short_name" : "Тульчинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "23615",
+               "short_name" : "23615",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Левківці, Вінницька область, Україна, 23615",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.760393,
+                  "lng" : 28.554855
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.7307839,
+                  "lng" : 28.513299
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.7481235,
+               "lng" : 28.5328637
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.760393,
+                  "lng" : 28.554855
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.7307839,
+                  "lng" : 28.513299
+               }
+            }
+         },
+         "place_id" : "ChIJT6Mri4ZJzUARwWJ8TsiCpaA",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

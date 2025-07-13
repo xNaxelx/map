@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Ляхівці",
+               "short_name" : "Ляхівці",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ужгородський район",
+               "short_name" : "Ужгородський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "89452",
+               "short_name" : "89452",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Ляхівці, Закарпатська область, Україна, 89452",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.5671229,
+                  "lng" : 22.483078
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.55533200000001,
+                  "lng" : 22.473046
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.561366,
+               "lng" : 22.4780848
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.5671229,
+                  "lng" : 22.483078
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.55533200000001,
+                  "lng" : 22.473046
+               }
+            }
+         },
+         "place_id" : "ChIJzwMkZeUEOUcRPKmD8FMl-3g",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

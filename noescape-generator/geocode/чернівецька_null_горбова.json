@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Горбова",
+               "short_name" : "Горбова",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Герцаївський район",
+               "short_name" : "Герцаївський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60522",
+               "short_name" : "60522",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Горбова, Чернівецька область, Україна, 60522",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.229363,
+                  "lng" : 26.183173
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.190822,
+                  "lng" : 26.132261
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.2066952,
+               "lng" : 26.1667564
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.229363,
+                  "lng" : 26.183173
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.190822,
+                  "lng" : 26.132261
+               }
+            }
+         },
+         "place_id" : "ChIJ65OEIWJzNEcRji7lg7B_g9o",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

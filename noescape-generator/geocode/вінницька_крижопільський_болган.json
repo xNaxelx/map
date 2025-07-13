@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Крижопільський район",
+               "short_name" : "Крижопільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Крижопільський район, Вінницька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.524228,
+                  "lng" : 29.1010681
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.208339,
+                  "lng" : 28.5007369
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.3629837,
+               "lng" : 28.7389365
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.524228,
+                  "lng" : 29.1010681
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.208339,
+                  "lng" : 28.5007369
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJZ500SsgczUARniab9KIq7Lc",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Болган",
+               "short_name" : "Болган",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Піщанський район",
+               "short_name" : "Піщанський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "24712",
+               "short_name" : "24712",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Болган, Вінницька область, Україна, 24712",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.156059,
+                  "lng" : 28.746814
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.131259,
+                  "lng" : 28.7003251
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.1462097,
+               "lng" : 28.7294881
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.156059,
+                  "lng" : 28.746814
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.131259,
+                  "lng" : 28.7003251
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJi4lMaFH3zEARbKJSaJsJKf0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

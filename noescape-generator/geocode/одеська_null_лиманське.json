@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Лиманське",
+               "short_name" : "Лиманське",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Роздільнянський район",
+               "short_name" : "Роздільнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67452",
+               "short_name" : "67452",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Лиманське, Одеська область, Україна, 67452",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.689469,
+                  "lng" : 29.9886809
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.6383541,
+                  "lng" : 29.953181
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.6794431,
+               "lng" : 29.974368
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.689469,
+                  "lng" : 29.9886809
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.6383541,
+                  "lng" : 29.953181
+               }
+            }
+         },
+         "place_id" : "ChIJ08ummvX0yEARSgoSQCtqHqE",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

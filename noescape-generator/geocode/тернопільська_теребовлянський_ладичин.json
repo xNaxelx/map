@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Ладичин",
+               "short_name" : "Ладичин",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Теребовлянський район",
+               "short_name" : "Теребовлянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Тернопільська область",
+               "short_name" : "Тернопільська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "48124",
+               "short_name" : "48124",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Ладичин, Тернопільська область, Україна, 48124",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.389407,
+                  "lng" : 25.588764
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.36609,
+                  "lng" : 25.5515841
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.3819404,
+               "lng" : 25.5740679
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.389407,
+                  "lng" : 25.588764
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.36609,
+                  "lng" : 25.5515841
+               }
+            }
+         },
+         "place_id" : "ChIJtbtmq6VMMEcRvhwh_UXNS5s",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

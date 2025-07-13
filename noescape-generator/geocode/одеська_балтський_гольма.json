@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Гольма",
+               "short_name" : "Гольма",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Балтський район",
+               "short_name" : "Балтський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66154",
+               "short_name" : "66154",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Гольма, Одеська область, Україна, 66154",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.938815,
+                  "lng" : 29.908937
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.903387,
+                  "lng" : 29.797165
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.9200986,
+               "lng" : 29.8506586
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.938815,
+                  "lng" : 29.908937
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.903387,
+                  "lng" : 29.797165
+               }
+            }
+         },
+         "place_id" : "ChIJnT9rLs-DzkARigx1dNAziwU",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

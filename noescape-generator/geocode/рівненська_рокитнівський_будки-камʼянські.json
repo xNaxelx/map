@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Будки-Кам'янські",
+               "short_name" : "Будки-Кам'янські",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рокитнівський район",
+               "short_name" : "Рокитнівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "34220",
+               "short_name" : "34220",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Будки-Кам'янські, Рівненська область, Україна, 34220",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.600475,
+                  "lng" : 27.709476
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.589192,
+                  "lng" : 27.6913481
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.5961779,
+               "lng" : 27.6980718
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.600475,
+                  "lng" : 27.709476
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.589192,
+                  "lng" : 27.6913481
+               }
+            }
+         },
+         "place_id" : "ChIJHU1ycIxRKEcR6IaxQAbuLAY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

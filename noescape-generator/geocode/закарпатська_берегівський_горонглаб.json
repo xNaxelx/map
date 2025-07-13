@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Горонглаб",
+               "short_name" : "Горонглаб",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Берегівський район",
+               "short_name" : "Берегівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90214",
+               "short_name" : "90214",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Горонглаб, Закарпатська область, Україна, 90214",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.317898,
+                  "lng" : 22.3752351
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.3042299,
+                  "lng" : 22.3497671
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.3128325,
+               "lng" : 22.361347
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.317898,
+                  "lng" : 22.3752351
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.3042299,
+                  "lng" : 22.3497671
+               }
+            }
+         },
+         "place_id" : "ChIJWdDDBvr5OEcRXEL3Lh5WOx0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

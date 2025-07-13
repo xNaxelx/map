@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Дроздні",
+               "short_name" : "Дроздні",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ковельський район",
+               "short_name" : "Ковельський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "45066",
+               "short_name" : "45066",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Дроздні, Волинська область, Україна, 45066",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.119709,
+                  "lng" : 24.893055
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.09579,
+                  "lng" : 24.8500739
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.1157821,
+               "lng" : 24.8768562
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.119709,
+                  "lng" : 24.893055
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.09579,
+                  "lng" : 24.8500739
+               }
+            }
+         },
+         "place_id" : "ChIJB1K6dUg0JEcRVJlMTpp9qLk",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

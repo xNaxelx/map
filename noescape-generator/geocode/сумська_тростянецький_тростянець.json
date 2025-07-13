@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Тростянець",
+               "short_name" : "Тростянець",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Тростянецький район",
+               "short_name" : "Тростянецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сумська область",
+               "short_name" : "Сумська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Тростянець, Сумська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.5161554,
+                  "lng" : 35.0346708
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.4273172,
+                  "lng" : 34.9177479
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.4810642,
+               "lng" : 34.9654364
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.5161554,
+                  "lng" : 35.0346708
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.4273172,
+                  "lng" : 34.9177479
+               }
+            }
+         },
+         "place_id" : "ChIJgwwuwCNqKEERDdIszWBRKxM",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

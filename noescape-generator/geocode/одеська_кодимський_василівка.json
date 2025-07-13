@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Кодимський район",
+               "short_name" : "Кодимський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Кодимський район, Одеська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.1942521,
+                  "lng" : 29.413581
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.820269,
+                  "lng" : 28.8335546
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.0780316,
+               "lng" : 29.1448609
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.1942521,
+                  "lng" : 29.413581
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.820269,
+                  "lng" : 28.8335546
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJr6HgZtBFzEARNHa9pnG3f_s",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Василівка",
+               "short_name" : "Василівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Василівський район",
+               "short_name" : "Василівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Запорізька область",
+               "short_name" : "Запорізька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "71600",
+               "short_name" : "71600",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Василівка, Запорізька область, Україна, 71600",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.468582,
+                  "lng" : 35.3229749
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.416954,
+                  "lng" : 35.230648
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.4414731,
+               "lng" : 35.2867265
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.468582,
+                  "lng" : 35.3229749
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.416954,
+                  "lng" : 35.230648
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJXaHxAeQd3UARPnxU2SGgFAs",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

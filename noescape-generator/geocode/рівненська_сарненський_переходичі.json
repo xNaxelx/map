@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Сарненський район",
+               "short_name" : "Сарненський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Сарненський район, Рівненська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.529086,
+                  "lng" : 27.0874719
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.026294,
+                  "lng" : 26.0815509
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.2828982,
+               "lng" : 26.6970732
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.529086,
+                  "lng" : 27.0874719
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.026294,
+                  "lng" : 26.0815509
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ3UIIJEOjKEcRvAmeDKWaWPw",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Переходичі",
+               "short_name" : "Переходичі",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рокитнівський район",
+               "short_name" : "Рокитнівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "34210",
+               "short_name" : "34210",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Переходичі, Рівненська область, Україна, 34210",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.635246,
+                  "lng" : 27.022098
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.603496,
+                  "lng" : 26.9868831
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.61776709999999,
+               "lng" : 27.0023275
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.635246,
+                  "lng" : 27.022098
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.603496,
+                  "lng" : 26.9868831
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ85gB2SaIKEcRPZcHVZAQfAA",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

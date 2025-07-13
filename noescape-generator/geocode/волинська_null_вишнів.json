@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Вишнів",
+               "short_name" : "Вишнів",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Любомльський район",
+               "short_name" : "Любомльський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Вишнів, Волинська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.203872,
+                  "lng" : 24.0607453
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.1678271,
+                  "lng" : 24.0010501
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.1972063,
+               "lng" : 24.0350632
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.203872,
+                  "lng" : 24.0607453
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.1678271,
+                  "lng" : 24.0010501
+               }
+            }
+         },
+         "place_id" : "ChIJ_T6UX4B0JEcRROo1oE_RsJM",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

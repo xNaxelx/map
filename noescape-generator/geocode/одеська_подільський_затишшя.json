@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Затишшя",
+               "short_name" : "Затишшя",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Подільський район",
+               "short_name" : "Подільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66325",
+               "short_name" : "66325",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Затишшя, Одеська область, Україна, 66325",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.835335,
+                  "lng" : 29.38247699999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.825246,
+                  "lng" : 29.365173
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.8315054,
+               "lng" : 29.3751708
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.835335,
+                  "lng" : 29.38247699999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.825246,
+                  "lng" : 29.365173
+               }
+            }
+         },
+         "place_id" : "ChIJtSafYM0izEARguiBaFdA1vA",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

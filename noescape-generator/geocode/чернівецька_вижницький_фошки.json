@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Вижницький район",
+               "short_name" : "Вижницький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Вижницький район, Чернівецька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.403335,
+                  "lng" : 25.558001
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.913639,
+                  "lng" : 25.133772
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.1929172,
+               "lng" : 25.3481463
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.403335,
+                  "lng" : 25.558001
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.913639,
+                  "lng" : 25.133772
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJDf5fQnOiNkcRjjUhi2riRGY",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Фошки",
+               "short_name" : "Фошки",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Путильський район",
+               "short_name" : "Путильський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "59107",
+               "short_name" : "59107",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Фошки, Чернівецька область, Україна, 59107",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.979634,
+                  "lng" : 25.211718
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.954333,
+                  "lng" : 25.1688661
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.9682108,
+               "lng" : 25.1895067
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.979634,
+                  "lng" : 25.211718
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.954333,
+                  "lng" : 25.1688661
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJxcYhK3SENkcRlP2ajozMqNM",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

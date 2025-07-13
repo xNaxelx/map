@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Веселе",
+               "short_name" : "Веселе",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Роздільнянський район",
+               "short_name" : "Роздільнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67413",
+               "short_name" : "67413",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Веселе, Одеська область, Україна, 67413",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.9188201,
+                  "lng" : 30.325305
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.90546000000001,
+                  "lng" : 30.30928
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.9109647,
+               "lng" : 30.3185327
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.9188201,
+                  "lng" : 30.325305
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.90546000000001,
+                  "lng" : 30.30928
+               }
+            }
+         },
+         "place_id" : "ChIJ347jeKTAyEARLvWwXFIo1Xc",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Рання Зоря",
+               "short_name" : "Рання Зоря",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Міловський район",
+               "short_name" : "Міловський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Луганська область",
+               "short_name" : "Луганська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "92543",
+               "short_name" : "92543",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Рання Зоря, Луганська область, Україна, 92543",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.26742609999999,
+                  "lng" : 40.2116939
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.250962,
+                  "lng" : 40.1842649
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.2572005,
+               "lng" : 40.1973504
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.26742609999999,
+                  "lng" : 40.2116939
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.250962,
+                  "lng" : 40.1842649
+               }
+            }
+         },
+         "place_id" : "ChIJH6UgVrg4H0ERS2kn3VW1H48",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Станіславка",
+               "short_name" : "Станіславка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Шевченківський район",
+               "short_name" : "Шевченківський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Харківська область",
+               "short_name" : "Харківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "63652",
+               "short_name" : "63652",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Станіславка, Харківська область, Україна, 63652",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.57405199999999,
+                  "lng" : 37.278742
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.567196,
+                  "lng" : 37.263535
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.57026,
+               "lng" : 37.2742732
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.57405199999999,
+                  "lng" : 37.278742
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.567196,
+                  "lng" : 37.263535
+               }
+            }
+         },
+         "place_id" : "ChIJhemZBerJIEERpKmt6tIWMSk",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

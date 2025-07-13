@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Річка",
+               "short_name" : "Річка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Міжгірський район",
+               "short_name" : "Міжгірський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90030",
+               "short_name" : "90030",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Річка, Закарпатська область, Україна, 90030",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.6089389,
+                  "lng" : 23.3885199
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.58141999999999,
+                  "lng" : 23.3587932
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5902942,
+               "lng" : 23.3746272
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.6089389,
+                  "lng" : 23.3885199
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.58141999999999,
+                  "lng" : 23.3587932
+               }
+            }
+         },
+         "place_id" : "ChIJ6RVFZQDqOUcRWltIdyEwDJY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

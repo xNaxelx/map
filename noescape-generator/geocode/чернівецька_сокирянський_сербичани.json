@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Сербичани",
+               "short_name" : "Сербичани",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сокирянський район",
+               "short_name" : "Сокирянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60230",
+               "short_name" : "60230",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Сербичани, Чернівецька область, Україна, 60230",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.505923,
+                  "lng" : 27.3099808
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.48553099999999,
+                  "lng" : 27.2664351
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.49508729999999,
+               "lng" : 27.2862308
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.505923,
+                  "lng" : 27.3099808
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.48553099999999,
+                  "lng" : 27.2664351
+               }
+            }
+         },
+         "place_id" : "ChIJP9L6vE8QM0cRjjPitwZ8M5g",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

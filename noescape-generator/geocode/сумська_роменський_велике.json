@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Велике",
+               "short_name" : "Велике",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Роменський район",
+               "short_name" : "Роменський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сумська область",
+               "short_name" : "Сумська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "42072",
+               "short_name" : "42072",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Велике, Сумська область, Україна, 42072",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.69395,
+                  "lng" : 33.734766
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.67982199999999,
+                  "lng" : 33.715448
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.68655930000001,
+               "lng" : 33.7282875
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.69395,
+                  "lng" : 33.734766
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.67982199999999,
+                  "lng" : 33.715448
+               }
+            }
+         },
+         "place_id" : "ChIJmemBv0PpKUERbuDIdAJcX3s",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

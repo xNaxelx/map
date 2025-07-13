@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Загатка",
+               "short_name" : "Загатка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернігівський район",
+               "short_name" : "Чернігівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернігівська область",
+               "short_name" : "Чернігівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "15545",
+               "short_name" : "15545",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Загатка, Чернігівська область, Україна, 15545",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.343908,
+                  "lng" : 30.670493
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.334119,
+                  "lng" : 30.652811
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.3391782,
+               "lng" : 30.6621293
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.343908,
+                  "lng" : 30.670493
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.334119,
+                  "lng" : 30.652811
+               }
+            }
+         },
+         "place_id" : "ChIJ7dJ2a7SfKkcR6puqAU1TB4k",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

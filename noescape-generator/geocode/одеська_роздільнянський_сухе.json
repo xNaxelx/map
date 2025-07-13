@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Сухе",
+               "short_name" : "Сухе",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Роздільнянський район",
+               "short_name" : "Роздільнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67421",
+               "short_name" : "67421",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Сухе, Одеська область, Україна, 67421",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.974537,
+                  "lng" : 30.1039461
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.959105,
+                  "lng" : 30.091325
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.9639967,
+               "lng" : 30.0969498
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.974537,
+                  "lng" : 30.1039461
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.959105,
+                  "lng" : 30.091325
+               }
+            }
+         },
+         "place_id" : "ChIJWRXaY8ncyEARVE97_2Db_OY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

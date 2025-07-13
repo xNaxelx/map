@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Шуми",
+               "short_name" : "Шуми",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Крижопільський район",
+               "short_name" : "Крижопільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "24623",
+               "short_name" : "24623",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Шуми, Вінницька область, Україна, 24623",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.26406189999999,
+                  "lng" : 28.566482
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.25045,
+                  "lng" : 28.548414
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.2575891,
+               "lng" : 28.5531951
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.26406189999999,
+                  "lng" : 28.566482
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.25045,
+                  "lng" : 28.548414
+               }
+            }
+         },
+         "place_id" : "ChIJFbDdciHkzEARHtH2ft06S1k",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Сухе",
+               "short_name" : "Сухе",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кобеляцький район",
+               "short_name" : "Кобеляцький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Полтавська область",
+               "short_name" : "Полтавська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "39250",
+               "short_name" : "39250",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Сухе, Полтавська область, Україна, 39250",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.093385,
+                  "lng" : 34.0908089
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.07906699999999,
+                  "lng" : 34.062647
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.0879564,
+               "lng" : 34.0747753
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.093385,
+                  "lng" : 34.0908089
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.07906699999999,
+                  "lng" : 34.062647
+               }
+            }
+         },
+         "place_id" : "ChIJK-e0dt_u2UARnML7iZGelRg",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Холмок",
+               "short_name" : "Холмок",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ужгородський район",
+               "short_name" : "Ужгородський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "89422",
+               "short_name" : "89422",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Холмок, Закарпатська область, Україна, 89422",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.570462,
+                  "lng" : 22.2763609
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.549874,
+                  "lng" : 22.226842
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.56320359999999,
+               "lng" : 22.2661351
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.570462,
+                  "lng" : 22.2763609
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.549874,
+                  "lng" : 22.226842
+               }
+            }
+         },
+         "place_id" : "ChIJK_fWMMQeOUcRfs0UDBpYqcA",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

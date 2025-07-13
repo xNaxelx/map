@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Луги",
+               "short_name" : "Луги",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чечельницький район",
+               "short_name" : "Чечельницький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "24820",
+               "short_name" : "24820",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Луги, Вінницька область, Україна, 24820",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.2387161,
+                  "lng" : 29.1735942
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.2048369,
+                  "lng" : 29.1085911
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.2139137,
+               "lng" : 29.14337309999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.2387161,
+                  "lng" : 29.1735942
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.2048369,
+                  "lng" : 29.1085911
+               }
+            }
+         },
+         "place_id" : "ChIJITuxPcWszUARDpxGWii1hU0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

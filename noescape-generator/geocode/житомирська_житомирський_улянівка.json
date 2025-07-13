@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Улянівка",
+               "short_name" : "Улянівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Житомирський район",
+               "short_name" : "Житомирський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Житомирська область",
+               "short_name" : "Житомирська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "10000",
+               "short_name" : "10000",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Улянівка, Житомирська область, Україна, 10000",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.270747,
+                  "lng" : 28.3795169
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.247241,
+                  "lng" : 28.3421019
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.2599606,
+               "lng" : 28.3594621
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.270747,
+                  "lng" : 28.3795169
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.247241,
+                  "lng" : 28.3421019
+               }
+            }
+         },
+         "place_id" : "ChIJV5zdN-xrLEcR5G9HNAfEkuo",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

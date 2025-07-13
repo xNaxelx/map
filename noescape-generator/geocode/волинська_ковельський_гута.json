@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Гута",
+               "short_name" : "Гута",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ратнівський район",
+               "short_name" : "Ратнівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Гута, Волинська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.6418054,
+                  "lng" : 24.1550732
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.6153519,
+                  "lng" : 24.0997519
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.6256356,
+               "lng" : 24.1263502
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.6418054,
+                  "lng" : 24.1550732
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.6153519,
+                  "lng" : 24.0997519
+               }
+            }
+         },
+         "place_id" : "ChIJr8nMtpVWIUcRplEMREAwHvk",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

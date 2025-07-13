@@ -1,0 +1,90 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Сторожинець",
+               "short_name" : "Сторожинець",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сторожинецький район",
+               "short_name" : "Сторожинецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Сторожинець, Чернівецька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.194043,
+                  "lng" : 25.7580687
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.12313229999999,
+                  "lng" : 25.6721305
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.1547935,
+               "lng" : 25.7100722
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.194043,
+                  "lng" : 25.7580687
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.12313229999999,
+                  "lng" : 25.6721305
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJJfmOyDYaNEcRWl7y-kOD-nw",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

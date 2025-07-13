@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Липовець",
+               "short_name" : "Липовець",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Яворівський район",
+               "short_name" : "Яворівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "81022",
+               "short_name" : "81022",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Липовець, Львівська область, Україна, 81022",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.04722510000001,
+                  "lng" : 23.2578471
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.024918,
+                  "lng" : 23.229375
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.0441718,
+               "lng" : 23.239902
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.04722510000001,
+                  "lng" : 23.2578471
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.024918,
+                  "lng" : 23.229375
+               }
+            }
+         },
+         "place_id" : "ChIJIerO10xCO0cRrDWBAqpBwPk",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

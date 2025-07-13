@@ -1,0 +1,190 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Могилів-Подільський провулок",
+               "short_name" : "Могилів-Подільський провулок",
+               "types" : 
+               [
+                  "route"
+               ]
+            },
+            {
+               "long_name" : "Подільський район",
+               "short_name" : "Подільський район",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+               ]
+            },
+            {
+               "long_name" : "Київ",
+               "short_name" : "Київ",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "місто Київ",
+               "short_name" : "місто Київ",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "місто Київ",
+               "short_name" : "місто Київ",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "02000",
+               "short_name" : "02000",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Могилів-Подільський провулок, Київ, Україна, 02000",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.489573,
+                  "lng" : 30.4376264
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.4888001,
+                  "lng" : 30.4372214
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.4895606,
+               "lng" : 30.4375571
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.4905355302915,
+                  "lng" : 30.43877288029149
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.4878375697085,
+                  "lng" : 30.4360749197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJuVr0AqLN1EAR-jUve5Qn44Q",
+         "types" : 
+         [
+            "route"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Могилів-Подільський район",
+               "short_name" : "Могилів-Подільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Могилів-Подільський район, Вінницька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.6838191,
+                  "lng" : 28.105556
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.307752,
+                  "lng" : 27.4577519
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.53353569999999,
+               "lng" : 27.7746536
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.6838191,
+                  "lng" : 28.105556
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.307752,
+                  "lng" : 27.4577519
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ6ZrK7A4mM0cRyqQ2ELkRBmA",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

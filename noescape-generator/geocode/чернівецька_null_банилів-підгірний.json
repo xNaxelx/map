@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Банилів-Підгірний",
+               "short_name" : "Банилів-Підгірний",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сторожинецький район",
+               "short_name" : "Сторожинецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "59020",
+               "short_name" : "59020",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Банилів-Підгірний, Чернівецька область, Україна, 59020",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.1507771,
+                  "lng" : 25.56214
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.069303,
+                  "lng" : 25.4236629
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.1067083,
+               "lng" : 25.510998
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.1507771,
+                  "lng" : 25.56214
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.069303,
+                  "lng" : 25.4236629
+               }
+            }
+         },
+         "place_id" : "ChIJL8JydhsgNEcRCl9xcl6jfHU",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

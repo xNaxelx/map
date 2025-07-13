@@ -1,0 +1,106 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Канава",
+               "short_name" : "Канава",
+               "types" : 
+               [
+                  "establishment",
+                  "natural_feature"
+               ]
+            },
+            {
+               "long_name" : "Шкло",
+               "short_name" : "Шкло",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Яворівський район",
+               "short_name" : "Яворівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "81051",
+               "short_name" : "81051",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Канава, Шкло, Львівська область, Україна, 81051",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.95292209999999,
+                  "lng" : 23.544538
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.95030209999999,
+                  "lng" : 23.5429887
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.95161210080921,
+               "lng" : 23.54376336813826
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.95296108029149,
+                  "lng" : 23.5451123302915
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.9502631197085,
+                  "lng" : 23.5424143697085
+               }
+            }
+         },
+         "place_id" : "ChIJ2-EMmKI9O0cRxhk0XMgvleU",
+         "types" : 
+         [
+            "establishment",
+            "natural_feature"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

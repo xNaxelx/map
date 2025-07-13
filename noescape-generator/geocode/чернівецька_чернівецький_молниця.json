@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Молниця",
+               "short_name" : "Молниця",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Герцаївський район",
+               "short_name" : "Герцаївський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60513",
+               "short_name" : "60513",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Молниця, Чернівецька область, Україна, 60513",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.204601,
+                  "lng" : 26.2475029
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.183937,
+                  "lng" : 26.203125
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.1974618,
+               "lng" : 26.2263325
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.204601,
+                  "lng" : 26.2475029
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.183937,
+                  "lng" : 26.203125
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJk57Yl_hzNEcRhDXgrW6d1a0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Чернівецький район",
+               "short_name" : "Чернівецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Чернівецький район, Вінницька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.651179,
+                  "lng" : 28.351943
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.349162,
+                  "lng" : 27.949276
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5128518,
+               "lng" : 28.1819806
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.651179,
+                  "lng" : 28.351943
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.349162,
+                  "lng" : 27.949276
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJm3N_qPIqzUARGsFHrKFURfw",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

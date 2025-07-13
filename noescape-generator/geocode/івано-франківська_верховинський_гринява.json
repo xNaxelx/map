@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Гринява",
+               "short_name" : "Гринява",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Верховинський район",
+               "short_name" : "Верховинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Івано-Франківська область",
+               "short_name" : "Івано-Франківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "78734",
+               "short_name" : "78734",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Гринява, Івано-Франківська область, Україна, 78734",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.0131111,
+                  "lng" : 24.8794061
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.975691,
+                  "lng" : 24.8472541
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.9830611,
+               "lng" : 24.8585919
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.0131111,
+                  "lng" : 24.8794061
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.975691,
+                  "lng" : 24.8472541
+               }
+            }
+         },
+         "place_id" : "ChIJk1dDzA6LNkcRgRDSOjZJeVw",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Лобачів",
+               "short_name" : "Лобачів",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Володарський район",
+               "short_name" : "Володарський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Київська область",
+               "short_name" : "Київська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "09355",
+               "short_name" : "09355",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Лобачів, Київська область, Україна, 09355",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.45677,
+                  "lng" : 29.9107781
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.4108881,
+                  "lng" : 29.86808
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.4332832,
+               "lng" : 29.8895051
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.45677,
+                  "lng" : 29.9107781
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.4108881,
+                  "lng" : 29.86808
+               }
+            }
+         },
+         "place_id" : "ChIJVxmeEdwd00AR1HSWGZsViHU",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,85 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Косини",
+               "short_name" : "Косини",
+               "types" : 
+               [
+                  "establishment",
+                  "point_of_interest",
+                  "train_station",
+                  "transit_station"
+               ]
+            },
+            {
+               "long_name" : "Берегівський район",
+               "short_name" : "Берегівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Косини, Закарпатська область, Україна",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.28703,
+               "lng" : 22.46659
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.2883030802915,
+                  "lng" : 22.4678530802915
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.2856051197085,
+                  "lng" : 22.4651551197085
+               }
+            }
+         },
+         "place_id" : "ChIJ_TtUq_1XOEcRfDz5DwnGr-E",
+         "plus_code" : 
+         {
+            "compound_code" : "7FP8+RJ Запсонь, Закарпатська область, Україна",
+            "global_code" : "8GW47FP8+RJ"
+         },
+         "types" : 
+         [
+            "establishment",
+            "point_of_interest",
+            "train_station",
+            "transit_station"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

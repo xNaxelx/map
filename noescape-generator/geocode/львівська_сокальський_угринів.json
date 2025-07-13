@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Угринів",
+               "short_name" : "Угринів",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сокальський район",
+               "short_name" : "Сокальський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "80012",
+               "short_name" : "80012",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Угринів, Львівська область, Україна, 80012",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.581007,
+                  "lng" : 24.1257611
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.570911,
+                  "lng" : 24.0995891
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.5750868,
+               "lng" : 24.108216
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.581007,
+                  "lng" : 24.1257611
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.570911,
+                  "lng" : 24.0995891
+               }
+            }
+         },
+         "place_id" : "ChIJT2AasSbpJEcRxm7qYNC2HVE",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

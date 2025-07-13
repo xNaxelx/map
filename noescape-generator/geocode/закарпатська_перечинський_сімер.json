@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Сімер",
+               "short_name" : "Сімер",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Перечинський район",
+               "short_name" : "Перечинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "89203",
+               "short_name" : "89203",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Сімер, Закарпатська область, Україна, 89203",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.740305,
+                  "lng" : 22.534838
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.724099,
+                  "lng" : 22.498876
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.7333459,
+               "lng" : 22.5170275
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.740305,
+                  "lng" : 22.534838
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.724099,
+                  "lng" : 22.498876
+               }
+            }
+         },
+         "place_id" : "ChIJrZBWWP8SOUcRsJXc3vf0n3c",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

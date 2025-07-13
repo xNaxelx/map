@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Цеханівка",
+               "short_name" : "Цеханівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Окнянський район",
+               "short_name" : "Окнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67922",
+               "short_name" : "67922",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Цеханівка, Одеська область, Україна, 67922",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.47301909999999,
+                  "lng" : 29.20658599999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.439132,
+                  "lng" : 29.185212
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.4563242,
+               "lng" : 29.1990722
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.47301909999999,
+                  "lng" : 29.20658599999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.439132,
+                  "lng" : 29.185212
+               }
+            }
+         },
+         "place_id" : "ChIJT5sBrUf-y0ARPZ961CDVQ90",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

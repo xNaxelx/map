@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Новоселиця",
+               "short_name" : "Новоселиця",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Перечинський район",
+               "short_name" : "Перечинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "89211",
+               "short_name" : "89211",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Новоселиця, Закарпатська область, Україна, 89211",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.800557,
+                  "lng" : 22.43286
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.784957,
+                  "lng" : 22.4011021
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.7966798,
+               "lng" : 22.4272239
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.800557,
+                  "lng" : 22.43286
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.784957,
+                  "lng" : 22.4011021
+               }
+            }
+         },
+         "place_id" : "ChIJg48-BS0VOUcRkgBSy4Junm0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

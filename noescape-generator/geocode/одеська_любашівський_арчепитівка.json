@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Арчепитівка",
+               "short_name" : "Арчепитівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Любашівський район",
+               "short_name" : "Любашівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66531",
+               "short_name" : "66531",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Арчепитівка, Одеська область, Україна, 66531",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.914548,
+                  "lng" : 30.1632691
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.896019,
+                  "lng" : 30.1291041
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.906003,
+               "lng" : 30.1453143
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.914548,
+                  "lng" : 30.1632691
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.896019,
+                  "lng" : 30.1291041
+               }
+            }
+         },
+         "place_id" : "ChIJFaHSTsCJzkARHqQrZ8LbK8I",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

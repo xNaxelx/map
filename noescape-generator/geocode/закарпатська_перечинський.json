@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Перечинський район",
+               "short_name" : "Перечинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Перечинський район, Закарпатська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.862813,
+                  "lng" : 22.8979111
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.6120121,
+                  "lng" : 22.373429
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.7103633,
+               "lng" : 22.6221479
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.862813,
+                  "lng" : 22.8979111
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.6120121,
+                  "lng" : 22.373429
+               }
+            }
+         },
+         "place_id" : "ChIJB_OexSUNOUcRINukKig_y8E",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

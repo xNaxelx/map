@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Есень",
+               "short_name" : "Есень",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ужгородський район",
+               "short_name" : "Ужгородський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "89461",
+               "short_name" : "89461",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Есень, Закарпатська область, Україна, 89461",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.39887299999999,
+                  "lng" : 22.284297
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.386861,
+                  "lng" : 22.26187
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.3933121,
+               "lng" : 22.2750854
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.39887299999999,
+                  "lng" : 22.284297
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.386861,
+                  "lng" : 22.26187
+               }
+            }
+         },
+         "place_id" : "ChIJUXgYKaXkOEcRbkHusn2vYGo",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

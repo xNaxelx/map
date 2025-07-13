@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Могилівка",
+               "short_name" : "Могилівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Герцаївський район",
+               "short_name" : "Герцаївський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60512",
+               "short_name" : "60512",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Могилівка, Чернівецька область, Україна, 60512",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.159993,
+                  "lng" : 26.2927159
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.135801,
+                  "lng" : 26.267733
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.1503197,
+               "lng" : 26.2719139
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.159993,
+                  "lng" : 26.2927159
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.135801,
+                  "lng" : 26.267733
+               }
+            }
+         },
+         "place_id" : "ChIJ41GyTPBwNEcR_hY49Qqq0zQ",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

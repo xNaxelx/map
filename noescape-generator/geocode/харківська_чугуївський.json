@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Чугуївський район",
+               "short_name" : "Чугуївський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Харківська область",
+               "short_name" : "Харківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Чугуївський район, Харківська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.063959,
+                  "lng" : 37.14824309999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.552331,
+                  "lng" : 36.4090668
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.7607186,
+               "lng" : 36.77437
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.063959,
+                  "lng" : 37.14824309999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.552331,
+                  "lng" : 36.4090668
+               }
+            }
+         },
+         "place_id" : "ChIJhc6Ja2g-J0ERIrltIDiFx8g",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

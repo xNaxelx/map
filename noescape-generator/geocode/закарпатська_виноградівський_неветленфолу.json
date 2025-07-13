@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Неветленфолу",
+               "short_name" : "Неветленфолу",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Виноградівський район",
+               "short_name" : "Виноградівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Неветленфолу, Закарпатська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.023877,
+                  "lng" : 23.0115311
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.0083389,
+                  "lng" : 22.980387
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.0181194,
+               "lng" : 22.9994684
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.023877,
+                  "lng" : 23.0115311
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.0083389,
+                  "lng" : 22.980387
+               }
+            }
+         },
+         "place_id" : "ChIJe7pW4E49OEcRvlwWXvQCyFE",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

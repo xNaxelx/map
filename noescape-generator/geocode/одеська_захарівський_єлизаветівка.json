@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Єлизаветівка",
+               "short_name" : "Єлизаветівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Захарівський район",
+               "short_name" : "Захарівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66700",
+               "short_name" : "66700",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Єлизаветівка, Одеська область, Україна, 66700",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.318235,
+                  "lng" : 29.7844321
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.309561,
+                  "lng" : 29.7758819
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.3148279,
+               "lng" : 29.7795509
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.318235,
+                  "lng" : 29.7844321
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.309561,
+                  "lng" : 29.7758819
+               }
+            }
+         },
+         "place_id" : "ChIJ8ZXKQJk0yUAR_CqRpFAejpU",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

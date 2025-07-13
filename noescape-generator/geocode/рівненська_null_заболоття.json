@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Заболоття",
+               "short_name" : "Заболоття",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Володимирецький район",
+               "short_name" : "Володимирецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "34372",
+               "short_name" : "34372",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Заболоття, Рівненська область, Україна, 34372",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.332107,
+                  "lng" : 25.9453251
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.298736,
+                  "lng" : 25.8817501
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.3104866,
+               "lng" : 25.9180353
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.332107,
+                  "lng" : 25.9453251
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.298736,
+                  "lng" : 25.8817501
+               }
+            }
+         },
+         "place_id" : "ChIJ4ZxK3woOJkcRUPeG4Xi2iKw",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

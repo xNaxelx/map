@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Мірча",
+               "short_name" : "Мірча",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Радомишльський район",
+               "short_name" : "Радомишльський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Житомирська область",
+               "short_name" : "Житомирська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "12231",
+               "short_name" : "12231",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Мірча, Житомирська область, Україна, 12231",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.653204,
+                  "lng" : 29.29301
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.636684,
+                  "lng" : 29.2547741
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.64399909999999,
+               "lng" : 29.279057
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.653204,
+                  "lng" : 29.29301
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.636684,
+                  "lng" : 29.2547741
+               }
+            }
+         },
+         "place_id" : "ChIJ-f8iXFd1K0cRnIT-EPmyBwo",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

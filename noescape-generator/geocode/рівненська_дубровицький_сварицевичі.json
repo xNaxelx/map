@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Сварицевичі",
+               "short_name" : "Сварицевичі",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Дубровицький район",
+               "short_name" : "Дубровицький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "34120",
+               "short_name" : "34120",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Сварицевичі, Рівненська область, Україна, 34120",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.7245701,
+                  "lng" : 26.2834809
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.689728,
+                  "lng" : 26.2466881
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.7169454,
+               "lng" : 26.2706062
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.7245701,
+                  "lng" : 26.2834809
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.689728,
+                  "lng" : 26.2466881
+               }
+            }
+         },
+         "place_id" : "ChIJkTpZTyE0JkcRX7PIrVx9vhA",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

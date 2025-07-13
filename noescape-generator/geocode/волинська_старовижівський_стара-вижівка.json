@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Стара Вижівка",
+               "short_name" : "Стара Вижівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Старовижівський район",
+               "short_name" : "Старовижівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "44401",
+               "short_name" : "44401",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Стара Вижівка, Волинська область, Україна, 44401",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.451754,
+                  "lng" : 24.4555541
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.4300261,
+                  "lng" : 24.4079819
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.4373666,
+               "lng" : 24.4366562
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.451754,
+                  "lng" : 24.4555541
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.4300261,
+                  "lng" : 24.4079819
+               }
+            }
+         },
+         "place_id" : "ChIJPVLT0M8cJEcRal4qJyHtpPM",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

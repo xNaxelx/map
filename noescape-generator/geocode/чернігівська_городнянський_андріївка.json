@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Андріївка",
+               "short_name" : "Андріївка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Городнянський район",
+               "short_name" : "Городнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернігівська область",
+               "short_name" : "Чернігівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "15123",
+               "short_name" : "15123",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Андріївка, Чернігівська область, Україна, 15123",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.02787610000001,
+                  "lng" : 31.5865151
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.01692689999999,
+                  "lng" : 31.55750889999999
+               }
+            },
+            "location" : 
+            {
+               "lat" : 52.02306,
+               "lng" : 31.5723926
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.02787610000001,
+                  "lng" : 31.5865151
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.01692689999999,
+                  "lng" : 31.55750889999999
+               }
+            }
+         },
+         "place_id" : "ChIJl9GNDfrn1EYRZLkrejlA_cI",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

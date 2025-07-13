@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Криворівня",
+               "short_name" : "Криворівня",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Верховинський район",
+               "short_name" : "Верховинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Івано-Франківська область",
+               "short_name" : "Івано-Франківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "78710",
+               "short_name" : "78710",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Криворівня, Івано-Франківська область, Україна, 78710",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.182882,
+                  "lng" : 24.9171839
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.167686,
+                  "lng" : 24.8759651
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.1736874,
+               "lng" : 24.8963763
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.182882,
+                  "lng" : 24.9171839
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.167686,
+                  "lng" : 24.8759651
+               }
+            }
+         },
+         "place_id" : "ChIJC1XUbYvrNkcR2hkvQj4e0rI",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

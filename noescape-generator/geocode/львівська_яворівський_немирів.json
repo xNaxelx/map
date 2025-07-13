@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Немирів",
+               "short_name" : "Немирів",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Яворівський район",
+               "short_name" : "Яворівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "81013",
+               "short_name" : "81013",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Немирів, Львівська область, Україна, 81013",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.1097441,
+                  "lng" : 23.4494729
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.094048,
+                  "lng" : 23.4031879
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.1035431,
+               "lng" : 23.4333414
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.1097441,
+                  "lng" : 23.4494729
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.094048,
+                  "lng" : 23.4031879
+               }
+            }
+         },
+         "place_id" : "ChIJlYpLWMdHO0cRBGN02n5mNPs",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

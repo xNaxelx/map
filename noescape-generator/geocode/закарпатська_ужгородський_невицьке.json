@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Невицьке",
+               "short_name" : "Невицьке",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ужгородський район",
+               "short_name" : "Ужгородський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "89411",
+               "short_name" : "89411",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Невицьке, Закарпатська область, Україна, 89411",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.6868541,
+                  "lng" : 22.408083
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.667903,
+                  "lng" : 22.3634031
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.67699229999999,
+               "lng" : 22.3927591
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.6868541,
+                  "lng" : 22.408083
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.667903,
+                  "lng" : 22.3634031
+               }
+            }
+         },
+         "place_id" : "ChIJJTnZCNcWOUcRUqxJxE5zONQ",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Прилуки",
+               "short_name" : "Прилуки",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Овруцький район",
+               "short_name" : "Овруцький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Житомирська область",
+               "short_name" : "Житомирська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "11100",
+               "short_name" : "11100",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Прилуки, Житомирська область, Україна, 11100",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.46918900000001,
+                  "lng" : 28.87146
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.4540949,
+                  "lng" : 28.8557521
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.4623387,
+               "lng" : 28.8629169
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.46918900000001,
+                  "lng" : 28.87146
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.4540949,
+                  "lng" : 28.8557521
+               }
+            }
+         },
+         "place_id" : "ChIJFzIEDw-LKUcRKJTC4453CcQ",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

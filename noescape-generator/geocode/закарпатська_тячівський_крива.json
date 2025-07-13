@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Крива",
+               "short_name" : "Крива",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Тячівський район",
+               "short_name" : "Тячівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90563",
+               "short_name" : "90563",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Крива, Закарпатська область, Україна, 90563",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.040154,
+                  "lng" : 23.726465
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.01655,
+                  "lng" : 23.7014971
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.0240867,
+               "lng" : 23.7091857
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.040154,
+                  "lng" : 23.726465
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.01655,
+                  "lng" : 23.7014971
+               }
+            }
+         },
+         "place_id" : "ChIJM8Thp8WZN0cRyMA5cjEynFY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

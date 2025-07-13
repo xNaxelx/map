@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Рідківці",
+               "short_name" : "Рідківці",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Новоселицький район",
+               "short_name" : "Новоселицький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60312",
+               "short_name" : "60312",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Рідківці, Чернівецька область, Україна, 60312",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.3537359,
+                  "lng" : 26.0906819
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.320446,
+                  "lng" : 26.0426201
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.33658740000001,
+               "lng" : 26.0715477
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.3537359,
+                  "lng" : 26.0906819
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.320446,
+                  "lng" : 26.0426201
+               }
+            }
+         },
+         "place_id" : "ChIJGYOrOj72M0cRYnUlOOPKzfk",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Слобідка",
+               "short_name" : "Слобідка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кодимський район",
+               "short_name" : "Кодимський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66050",
+               "short_name" : "66050",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Слобідка, Одеська область, Україна, 66050",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.8997191,
+                  "lng" : 29.363255
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.873671,
+                  "lng" : 29.329519
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.8840341,
+               "lng" : 29.3465596
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.8997191,
+                  "lng" : 29.363255
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.873671,
+                  "lng" : 29.329519
+               }
+            }
+         },
+         "place_id" : "ChIJ__FSM3k8zEARYrcj-7FmeCQ",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Рокосово",
+               "short_name" : "Рокосово",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Хустський район",
+               "short_name" : "Хустський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90410",
+               "short_name" : "90410",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Рокосово, Закарпатська область, Україна, 90410",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.22416,
+                  "lng" : 23.2006579
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.193165,
+                  "lng" : 23.1574379
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.21021040000001,
+               "lng" : 23.1865359
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.22416,
+                  "lng" : 23.2006579
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.193165,
+                  "lng" : 23.1574379
+               }
+            }
+         },
+         "place_id" : "ChIJ-zqNBP8tOEcR5fe2n3fBA5Y",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

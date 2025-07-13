@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Садківці",
+               "short_name" : "Садківці",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Шаргородський район",
+               "short_name" : "Шаргородський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "23555",
+               "short_name" : "23555",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Садківці, Вінницька область, Україна, 23555",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.64208199999999,
+                  "lng" : 28.2487991
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.6206121,
+                  "lng" : 28.211772
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.63384139999999,
+               "lng" : 28.2273074
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.64208199999999,
+                  "lng" : 28.2487991
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.6206121,
+                  "lng" : 28.211772
+               }
+            }
+         },
+         "place_id" : "ChIJwzdT71XNMkcRsKQpxBdp138",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

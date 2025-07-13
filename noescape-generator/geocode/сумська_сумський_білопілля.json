@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Білопілля",
+               "short_name" : "Білопілля",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Білопільський район",
+               "short_name" : "Білопільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сумська область",
+               "short_name" : "Сумська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "41801",
+               "short_name" : "41801",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Білопілля, Сумська область, Україна, 41801",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.178251,
+                  "lng" : 34.3568002
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.113952,
+                  "lng" : 34.2539561
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.14940199999999,
+               "lng" : 34.3175225
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.178251,
+                  "lng" : 34.3568002
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.113952,
+                  "lng" : 34.2539561
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJBdYWPo1xKUERKFQRKCf7hR4",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Сумський район",
+               "short_name" : "Сумський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сумська область",
+               "short_name" : "Сумська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Сумський район, Сумська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.2355274,
+                  "lng" : 35.1769121
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.6848989,
+                  "lng" : 34.443189
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.05300399999999,
+               "lng" : 34.7977984
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.2355274,
+                  "lng" : 35.1769121
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.6848989,
+                  "lng" : 34.443189
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJuY4JzA4DKUERaEAH5jpxXdE",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

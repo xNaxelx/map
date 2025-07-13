@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Новокостянтинівка",
+               "short_name" : "Новокостянтинівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Приазовський район",
+               "short_name" : "Приазовський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Запорізька область",
+               "short_name" : "Запорізька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "72452",
+               "short_name" : "72452",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Новокостянтинівка, Запорізька область, Україна, 72452",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.605976,
+                  "lng" : 35.7044709
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.590267,
+                  "lng" : 35.65837399999999
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.5996434,
+               "lng" : 35.6807168
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.605976,
+                  "lng" : 35.7044709
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.590267,
+                  "lng" : 35.65837399999999
+               }
+            }
+         },
+         "place_id" : "ChIJLY3PMO4Q6EARyWfaBaz9X2I",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

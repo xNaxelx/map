@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Хирів",
+               "short_name" : "Хирів",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Старосамбірський район",
+               "short_name" : "Старосамбірський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "82061",
+               "short_name" : "82061",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Хирів, Львівська область, Україна, 82061",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.5410259,
+                  "lng" : 22.8728399
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.520489,
+                  "lng" : 22.833653
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.5346856,
+               "lng" : 22.8526792
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.5410259,
+                  "lng" : 22.8728399
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.520489,
+                  "lng" : 22.833653
+               }
+            }
+         },
+         "place_id" : "ChIJc9GVw7aQO0cR4sPRAEVGS5E",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

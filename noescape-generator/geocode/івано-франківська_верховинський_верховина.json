@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Верховина",
+               "short_name" : "Верховина",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Верховинський район",
+               "short_name" : "Верховинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Івано-Франківська область",
+               "short_name" : "Івано-Франківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "78701",
+               "short_name" : "78701",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Верховина, Івано-Франківська область, Україна, 78701",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.162113,
+                  "lng" : 24.8554879
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.132214,
+                  "lng" : 24.771753
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.15432320000001,
+               "lng" : 24.8196945
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.162113,
+                  "lng" : 24.8554879
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.132214,
+                  "lng" : 24.771753
+               }
+            }
+         },
+         "place_id" : "ChIJc536hWLuNkcRVqTnRG1XzD0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Тереблече",
+               "short_name" : "Тереблече",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Глибоцький район",
+               "short_name" : "Глибоцький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Тереблече, Чернівецька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.04397600000001,
+                  "lng" : 26.0890962
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.9865611,
+                  "lng" : 26.0250663
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.018714,
+               "lng" : 26.0541287
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.04397600000001,
+                  "lng" : 26.0890962
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.9865611,
+                  "lng" : 26.0250663
+               }
+            }
+         },
+         "place_id" : "ChIJBTcgktRrNEcRLCzRc9rqavk",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Красна",
+               "short_name" : "Красна",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Надворнянський район",
+               "short_name" : "Надворнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Івано-Франківська область",
+               "short_name" : "Івано-Франківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "78451",
+               "short_name" : "78451",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Красна, Івано-Франківська область, Україна, 78451",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.591015,
+                  "lng" : 24.7229859
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.5618801,
+                  "lng" : 24.6733069
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.56889380000001,
+               "lng" : 24.7005474
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.591015,
+                  "lng" : 24.7229859
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.5618801,
+                  "lng" : 24.6733069
+               }
+            }
+         },
+         "place_id" : "ChIJ_7ymJPUrN0cRAsTp1zK2bpc",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

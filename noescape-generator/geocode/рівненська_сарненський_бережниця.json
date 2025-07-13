@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Бережниця",
+               "short_name" : "Бережниця",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Дубровицький район",
+               "short_name" : "Дубровицький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "34164",
+               "short_name" : "34164",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Бережниця, Рівненська область, Україна, 34164",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.4455009,
+                  "lng" : 26.4910679
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.433705,
+                  "lng" : 26.4534681
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.4379123,
+               "lng" : 26.4663873
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.4455009,
+                  "lng" : 26.4910679
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.433705,
+                  "lng" : 26.4534681
+               }
+            }
+         },
+         "place_id" : "ChIJU1AHHYMgJkcRXmBiVhlV4t8",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

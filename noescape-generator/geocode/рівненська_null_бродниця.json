@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Бродниця",
+               "short_name" : "Бродниця",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Зарічненський район",
+               "short_name" : "Зарічненський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "34051",
+               "short_name" : "34051",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Бродниця, Рівненська область, Україна, 34051",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.776477,
+                  "lng" : 26.3470999
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.75326889999999,
+                  "lng" : 26.281091
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.7627088,
+               "lng" : 26.3100253
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.776477,
+                  "lng" : 26.3470999
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.75326889999999,
+                  "lng" : 26.281091
+               }
+            }
+         },
+         "place_id" : "ChIJw81E4cM0JkcRuIeKMAzj82s",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

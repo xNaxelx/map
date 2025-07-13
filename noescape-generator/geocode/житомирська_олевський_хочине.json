@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Хочине",
+               "short_name" : "Хочине",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Олевський район",
+               "short_name" : "Олевський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Житомирська область",
+               "short_name" : "Житомирська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "11011",
+               "short_name" : "11011",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Хочине, Житомирська область, Україна, 11011",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.472276,
+                  "lng" : 27.8912641
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.44836799999999,
+                  "lng" : 27.868231
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.45964739999999,
+               "lng" : 27.8804453
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.472276,
+                  "lng" : 27.8912641
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.44836799999999,
+                  "lng" : 27.868231
+               }
+            }
+         },
+         "place_id" : "ChIJ-XW6k2CpKUcRBq62bpj_2yc",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

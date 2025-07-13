@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Кодимський район",
+               "short_name" : "Кодимський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Кодимський район, Одеська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.1942521,
+                  "lng" : 29.413581
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.820269,
+                  "lng" : 28.8335546
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.0780316,
+               "lng" : 29.1448609
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.1942521,
+                  "lng" : 29.413581
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.820269,
+                  "lng" : 28.8335546
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJr6HgZtBFzEARNHa9pnG3f_s",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Зелений Кут",
+               "short_name" : "Зелений Кут",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Миргородський район",
+               "short_name" : "Миргородський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Полтавська область",
+               "short_name" : "Полтавська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "37643",
+               "short_name" : "37643",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Зелений Кут, Полтавська область, Україна, 37643",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.094914,
+                  "lng" : 33.871848
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.0840811,
+                  "lng" : 33.8295661
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.0928194,
+               "lng" : 33.856832
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.094914,
+                  "lng" : 33.871848
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.0840811,
+                  "lng" : 33.8295661
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJYzleDu7L10AR0K8FMAc9OK8",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

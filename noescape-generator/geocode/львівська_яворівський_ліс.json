@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Ліс",
+               "short_name" : "Ліс",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Яворівський район",
+               "short_name" : "Яворівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "81050",
+               "short_name" : "81050",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Ліс, Львівська область, Україна, 81050",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.9344229,
+                  "lng" : 23.488207
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.925869,
+                  "lng" : 23.4688869
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.9291571,
+               "lng" : 23.4779444
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.9344229,
+                  "lng" : 23.488207
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.925869,
+                  "lng" : 23.4688869
+               }
+            }
+         },
+         "place_id" : "ChIJGbS02wgWO0cRjqn6g6Gwv0E",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

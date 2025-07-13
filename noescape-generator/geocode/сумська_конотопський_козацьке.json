@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Козацьке",
+               "short_name" : "Козацьке",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Конотопський район",
+               "short_name" : "Конотопський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сумська область",
+               "short_name" : "Сумська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "41644",
+               "short_name" : "41644",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Козацьке, Сумська область, Україна, 41644",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.330536,
+                  "lng" : 33.532229
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.2733311,
+                  "lng" : 33.44963
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.301165,
+               "lng" : 33.5037428
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.330536,
+                  "lng" : 33.532229
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.2733311,
+                  "lng" : 33.44963
+               }
+            }
+         },
+         "place_id" : "ChIJVaMQXIPLK0ER3lEvBvaqFDE",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

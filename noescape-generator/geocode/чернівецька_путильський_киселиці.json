@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Киселиці",
+               "short_name" : "Киселиці",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Путильський район",
+               "short_name" : "Путильський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "59124",
+               "short_name" : "59124",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Киселиці, Чернівецька область, Україна, 59124",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.03951199999999,
+                  "lng" : 25.0660949
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.029697,
+                  "lng" : 25.0426541
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.03330159999999,
+               "lng" : 25.0518524
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.03951199999999,
+                  "lng" : 25.0660949
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.029697,
+                  "lng" : 25.0426541
+               }
+            }
+         },
+         "place_id" : "ChIJwaVfUDGONkcROKg-MrRfcuA",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

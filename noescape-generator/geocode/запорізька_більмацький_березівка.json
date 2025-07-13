@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Березівка",
+               "short_name" : "Березівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Більмацький район",
+               "short_name" : "Більмацький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Запорізька область",
+               "short_name" : "Запорізька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "71016",
+               "short_name" : "71016",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Березівка, Запорізька область, Україна, 71016",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.4835119,
+                  "lng" : 36.5973849
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.469944,
+                  "lng" : 36.5764689
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.4743495,
+               "lng" : 36.5880143
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.4835119,
+                  "lng" : 36.5973849
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.469944,
+                  "lng" : 36.5764689
+               }
+            }
+         },
+         "place_id" : "ChIJNzWMHOaJ3UARDpgBcLC4Xxg",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

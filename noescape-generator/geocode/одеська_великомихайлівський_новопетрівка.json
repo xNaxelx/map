@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Новопетрівка",
+               "short_name" : "Новопетрівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Великомихайлівський район",
+               "short_name" : "Великомихайлівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67103",
+               "short_name" : "67103",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Новопетрівка, Одеська область, Україна, 67103",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.0536901,
+                  "lng" : 29.9102419
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.016371,
+                  "lng" : 29.8658031
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.0382239,
+               "lng" : 29.8900144
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.0536901,
+                  "lng" : 29.9102419
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.016371,
+                  "lng" : 29.8658031
+               }
+            }
+         },
+         "place_id" : "ChIJn9oglKMgyUARzj8FdTTmilY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

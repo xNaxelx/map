@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Миколаївка",
+               "short_name" : "Миколаївка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Білгород-Дністровський район",
+               "short_name" : "Білгород-Дністровський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67794",
+               "short_name" : "67794",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Миколаївка, Одеська область, Україна, 67794",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.94543609999999,
+                  "lng" : 30.241872
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.868768,
+                  "lng" : 30.2126809
+               }
+            },
+            "location" : 
+            {
+               "lat" : 45.9136811,
+               "lng" : 30.2280404
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.94543609999999,
+                  "lng" : 30.241872
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.868768,
+                  "lng" : 30.2126809
+               }
+            }
+         },
+         "place_id" : "ChIJy8KFT2D0x0ARrBE86vKKkW0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

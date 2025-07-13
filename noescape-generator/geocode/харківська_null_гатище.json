@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Гатище",
+               "short_name" : "Гатище",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вовчанський район",
+               "short_name" : "Вовчанський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Харківська область",
+               "short_name" : "Харківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "62509",
+               "short_name" : "62509",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Гатище, Харківська область, Україна, 62509",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.31295799999999,
+                  "lng" : 36.9000099
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.29577099999999,
+                  "lng" : 36.8575361
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.2990439,
+               "lng" : 36.88069050000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.31295799999999,
+                  "lng" : 36.9000099
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.29577099999999,
+                  "lng" : 36.8575361
+               }
+            }
+         },
+         "place_id" : "ChIJyxIInRr3JkEROmU_-_1mFT0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

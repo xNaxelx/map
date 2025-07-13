@@ -1,0 +1,98 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Чернівці",
+               "short_name" : "Чернівці",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька міськрада",
+               "short_name" : "Чернівецька міськрада",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "58000",
+               "short_name" : "58000",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Чернівці, Чернівецька область, Україна, 58000",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.398822,
+                  "lng" : 26.0356129
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.24387400000001,
+                  "lng" : 25.8322241
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.2924827,
+               "lng" : 25.9356008
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.398822,
+                  "lng" : 26.0356129
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.24387400000001,
+                  "lng" : 25.8322241
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJBc324n8INEcRem15WfaWs8U",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

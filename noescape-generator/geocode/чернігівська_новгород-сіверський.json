@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Новгород-Сіверський район",
+               "short_name" : "Новгород-Сіверський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернігівська область",
+               "short_name" : "Чернігівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Новгород-Сіверський район, Чернігівська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.3797309,
+                  "lng" : 33.5009611
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.803715,
+                  "lng" : 32.6461982
+               }
+            },
+            "location" : 
+            {
+               "lat" : 52.0304095,
+               "lng" : 33.1235809
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.3797309,
+                  "lng" : 33.5009611
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.803715,
+                  "lng" : 32.6461982
+               }
+            }
+         },
+         "place_id" : "ChIJK0Nu5opgK0ERsp7-m6R13YE",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

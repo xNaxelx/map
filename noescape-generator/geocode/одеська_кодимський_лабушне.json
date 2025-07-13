@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Лабушне",
+               "short_name" : "Лабушне",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кодимський район",
+               "short_name" : "Кодимський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66033",
+               "short_name" : "66033",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Лабушне, Одеська область, Україна, 66033",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.031633,
+                  "lng" : 29.160083
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.99954289999999,
+                  "lng" : 29.1079961
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.0181665,
+               "lng" : 29.1364409
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.031633,
+                  "lng" : 29.160083
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.99954289999999,
+                  "lng" : 29.1079961
+               }
+            }
+         },
+         "place_id" : "ChIJs9mLxttFzEARW86gsEHdJ-Y",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

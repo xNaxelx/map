@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Фараонівка",
+               "short_name" : "Фараонівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Саратський район",
+               "short_name" : "Саратський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68213",
+               "short_name" : "68213",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Фараонівка, Одеська область, Україна, 68213",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.3398,
+                  "lng" : 29.63011
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.304993,
+                  "lng" : 29.610809
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.3235254,
+               "lng" : 29.6211683
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.3398,
+                  "lng" : 29.63011
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.304993,
+                  "lng" : 29.610809
+               }
+            }
+         },
+         "place_id" : "ChIJIefK-cs_yEARagy4fSgwVFM",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

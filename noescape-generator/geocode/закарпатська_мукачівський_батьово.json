@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Мукачівський район",
+               "short_name" : "Мукачівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Мукачівський район, Закарпатська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.650665,
+                  "lng" : 22.9546729
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.2775459,
+                  "lng" : 22.3595321
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5206301,
+               "lng" : 22.723114
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.650665,
+                  "lng" : 22.9546729
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.2775459,
+                  "lng" : 22.3595321
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJjdeevUWqOUcRXOKNF__MK4s",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Батьово",
+               "short_name" : "Батьово",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Берегівський район",
+               "short_name" : "Берегівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90212",
+               "short_name" : "90212",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Батьово, Закарпатська область, Україна, 90212",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.3707111,
+                  "lng" : 22.4051299
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.352969,
+                  "lng" : 22.3747631
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.3605267,
+               "lng" : 22.3908265
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.3707111,
+                  "lng" : 22.4051299
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.352969,
+                  "lng" : 22.3747631
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ2U_S_1f5OEcRQaFlx_jiKtE",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

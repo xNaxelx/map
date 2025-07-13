@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Миргородський район",
+               "short_name" : "Миргородський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Полтавська область",
+               "short_name" : "Полтавська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Миргородський район, Полтавська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.2926289,
+                  "lng" : 34.079701
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.8281539,
+                  "lng" : 33.2839849
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.0516787,
+               "lng" : 33.5808343
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.2926289,
+                  "lng" : 34.079701
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.8281539,
+                  "lng" : 33.2839849
+               }
+            }
+         },
+         "place_id" : "ChIJjeF9aFS110ARwADoHWB7bLs",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

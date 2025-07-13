@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Новоукраїнка",
+               "short_name" : "Новоукраїнка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Новоукраїнський район",
+               "short_name" : "Новоукраїнський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кіровоградська область",
+               "short_name" : "Кіровоградська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "27101",
+               "short_name" : "27101",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Новоукраїнка, Кіровоградська область, Україна, 27101",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.354987,
+                  "lng" : 31.5698349
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.276093,
+                  "lng" : 31.484045
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.3226457,
+               "lng" : 31.5187617
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.354987,
+                  "lng" : 31.5698349
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.276093,
+                  "lng" : 31.484045
+               }
+            }
+         },
+         "place_id" : "ChIJ7w-F6Gcs0EARY_Oc1E_osy4",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

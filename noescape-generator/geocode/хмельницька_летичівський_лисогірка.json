@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Лисогірка",
+               "short_name" : "Лисогірка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Летичівський район",
+               "short_name" : "Летичівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Хмельницька область",
+               "short_name" : "Хмельницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "31534",
+               "short_name" : "31534",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Лисогірка, Хмельницька область, Україна, 31534",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.3852909,
+                  "lng" : 27.4335911
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.363099,
+                  "lng" : 27.4074041
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.3748803,
+               "lng" : 27.4185336
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.3852909,
+                  "lng" : 27.4335911
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.363099,
+                  "lng" : 27.4074041
+               }
+            }
+         },
+         "place_id" : "ChIJlYdKdA-KLUcR0PJLrafAbDE",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

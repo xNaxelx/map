@@ -1,0 +1,165 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Яворівський район",
+               "short_name" : "Яворівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Яворівський район, Львівська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.193844,
+                  "lng" : 23.9387161
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.81258,
+                  "lng" : 23.0927957
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.015466,
+               "lng" : 23.5466891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.193844,
+                  "lng" : 23.9387161
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.81258,
+                  "lng" : 23.0927957
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJM9bvHb0-O0cRuAJVd2LB3l0",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Мостиська",
+               "short_name" : "Мостиська",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Мостиський район",
+               "short_name" : "Мостиський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Мостиська, Львівська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.8308409,
+                  "lng" : 23.1839418
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.769347,
+                  "lng" : 23.115363
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.8026728,
+               "lng" : 23.1469243
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.8308409,
+                  "lng" : 23.1839418
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.769347,
+                  "lng" : 23.115363
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJxef0RAJzO0cRFHvemX6sSYc",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

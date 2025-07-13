@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Тетіїв",
+               "short_name" : "Тетіїв",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Тетіївський район",
+               "short_name" : "Тетіївський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Київська область",
+               "short_name" : "Київська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "09801",
+               "short_name" : "09801",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Тетіїв, Київська область, Україна, 09801",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.396449,
+                  "lng" : 29.7435109
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.3453509,
+                  "lng" : 29.6366461
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.3663943,
+               "lng" : 29.6583812
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.396449,
+                  "lng" : 29.7435109
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.3453509,
+                  "lng" : 29.6366461
+               }
+            }
+         },
+         "place_id" : "ChIJASqYvE7n0kARQPG0firc3G8",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

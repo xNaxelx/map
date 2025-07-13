@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Воловець",
+               "short_name" : "Воловець",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Воловецький район",
+               "short_name" : "Воловецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "89100",
+               "short_name" : "89100",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Воловець, Закарпатська область, Україна, 89100",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.721607,
+                  "lng" : 23.2066721
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.700365,
+                  "lng" : 23.1202029
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.7114913,
+               "lng" : 23.1850055
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.721607,
+                  "lng" : 23.2066721
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.700365,
+                  "lng" : 23.1202029
+               }
+            }
+         },
+         "place_id" : "ChIJHxKd1tqWOUcRrGy7L6uz4ak",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

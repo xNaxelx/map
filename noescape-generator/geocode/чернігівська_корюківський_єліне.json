@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Корюківський район",
+               "short_name" : "Корюківський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернігівська область",
+               "short_name" : "Чернігівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Корюківський район, Чернігівська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.08212469999999,
+                  "lng" : 32.816909
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.586372,
+                  "lng" : 32.038431
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.8229352,
+               "lng" : 32.4216236
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.08212469999999,
+                  "lng" : 32.816909
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.586372,
+                  "lng" : 32.038431
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ_9Ha6U06K0ERTIYu8DHRUTw",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Єліне",
+               "short_name" : "Єліне",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сновський район",
+               "short_name" : "Сновський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернігівська область",
+               "short_name" : "Чернігівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "15212",
+               "short_name" : "15212",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Єліне, Чернігівська область, Україна, 15212",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.0274649,
+                  "lng" : 31.9943039
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.013127,
+                  "lng" : 31.9569479
+               }
+            },
+            "location" : 
+            {
+               "lat" : 52.02097269999999,
+               "lng" : 31.9765741
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.0274649,
+                  "lng" : 31.9943039
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.013127,
+                  "lng" : 31.9569479
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJTaN6p8XI1EYR3nQxUP19Hcs",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

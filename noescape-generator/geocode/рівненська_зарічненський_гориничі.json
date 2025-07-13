@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Гориничі",
+               "short_name" : "Гориничі",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Зарічненський район",
+               "short_name" : "Зарічненський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "34010",
+               "short_name" : "34010",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Гориничі, Рівненська область, Україна, 34010",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.930059,
+                  "lng" : 25.8127231
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.920413,
+                  "lng" : 25.7939289
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.9245883,
+               "lng" : 25.8014592
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.930059,
+                  "lng" : 25.8127231
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.920413,
+                  "lng" : 25.7939289
+               }
+            }
+         },
+         "place_id" : "ChIJ5937ub-qJ0cRnH226zHHkJ0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

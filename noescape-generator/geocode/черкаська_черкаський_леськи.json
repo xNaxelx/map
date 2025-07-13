@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Леськи",
+               "short_name" : "Леськи",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Черкаський район",
+               "short_name" : "Черкаський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Черкаська область",
+               "short_name" : "Черкаська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "19640",
+               "short_name" : "19640",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Леськи, Черкаська область, Україна, 19640",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.344593,
+                  "lng" : 32.240909
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.315818,
+                  "lng" : 32.189059
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.3294639,
+               "lng" : 32.2146266
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.344593,
+                  "lng" : 32.240909
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.315818,
+                  "lng" : 32.189059
+               }
+            }
+         },
+         "place_id" : "ChIJO93WTbA20UARVo6IwT7Xilw",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

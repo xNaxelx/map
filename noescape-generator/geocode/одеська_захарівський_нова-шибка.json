@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Нова Шибка",
+               "short_name" : "Нова Шибка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Захарівський район",
+               "short_name" : "Захарівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66713",
+               "short_name" : "66713",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Нова Шибка, Одеська область, Україна, 66713",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.384899,
+                  "lng" : 29.7092569
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.370497,
+                  "lng" : 29.6925401
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.37615359999999,
+               "lng" : 29.7028887
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.384899,
+                  "lng" : 29.7092569
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.370497,
+                  "lng" : 29.6925401
+               }
+            }
+         },
+         "place_id" : "ChIJoewjpES1zkAR3BkyfCvMVww",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

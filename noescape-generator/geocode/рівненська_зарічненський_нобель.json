@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Нобель",
+               "short_name" : "Нобель",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Зарічненський район",
+               "short_name" : "Зарічненський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "34013",
+               "short_name" : "34013",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Нобель, Рівненська область, Україна, 34013",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.878863,
+                  "lng" : 25.7741891
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.85722699999999,
+                  "lng" : 25.7493839
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.8698133,
+               "lng" : 25.7634078
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.878863,
+                  "lng" : 25.7741891
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.85722699999999,
+                  "lng" : 25.7493839
+               }
+            }
+         },
+         "place_id" : "ChIJn5YMaKdVJkcRMgFdc-OkUzI",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

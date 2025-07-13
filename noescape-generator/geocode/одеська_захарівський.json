@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Захарівський район",
+               "short_name" : "Захарівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Захарівський район, Одеська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.531679,
+                  "lng" : 30.0135039
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.1661489,
+                  "lng" : 29.5521074
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.3139693,
+               "lng" : 29.7191404
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.531679,
+                  "lng" : 30.0135039
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.1661489,
+                  "lng" : 29.5521074
+               }
+            }
+         },
+         "place_id" : "ChIJ_bYghTDLzkARWnfD22xEJE4",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

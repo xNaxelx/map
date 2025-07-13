@@ -1,0 +1,282 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Чернівці",
+               "short_name" : "Чернівці",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецький район",
+               "short_name" : "Чернівецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "24100",
+               "short_name" : "24100",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Чернівці, Вінницька область, Україна, 24100",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.5569821,
+                  "lng" : 28.12871
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.528417,
+                  "lng" : 28.0860399
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5404811,
+               "lng" : 28.108548
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.5569821,
+                  "lng" : 28.12871
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.528417,
+                  "lng" : 28.0860399
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJi68wYM_UMkcRFhqhylA7tt4",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Михайлівка",
+               "short_name" : "Михайлівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Глибоцький район",
+               "short_name" : "Глибоцький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60408",
+               "short_name" : "60408",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Михайлівка, Чернівецька область, Україна, 60408",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.125146,
+                  "lng" : 25.991738
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.1063951,
+                  "lng" : 25.9563359
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.1168585,
+               "lng" : 25.9670368
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.125146,
+                  "lng" : 25.991738
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.1063951,
+                  "lng" : 25.9563359
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJuV1PVxATNEcRCH8S4qH-sdc",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Михайлівка",
+               "short_name" : "Михайлівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кельменецький район",
+               "short_name" : "Кельменецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60126",
+               "short_name" : "60126",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Михайлівка, Чернівецька область, Україна, 60126",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.39097599999999,
+                  "lng" : 26.61734
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.37971899999999,
+                  "lng" : 26.596888
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.38708829999999,
+               "lng" : 26.6061494
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.39097599999999,
+                  "lng" : 26.61734
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.37971899999999,
+                  "lng" : 26.596888
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJQY5_FuyaM0cRshVkQOrrotA",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Улянівка",
+               "short_name" : "Улянівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Окнянський район",
+               "short_name" : "Окнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67910",
+               "short_name" : "67910",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Улянівка, Одеська область, Україна, 67910",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.439781,
+                  "lng" : 29.459869
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.431038,
+                  "lng" : 29.4498099
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.4351407,
+               "lng" : 29.4564283
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.439781,
+                  "lng" : 29.459869
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.431038,
+                  "lng" : 29.4498099
+               }
+            }
+         },
+         "place_id" : "ChIJb3ZXdDStzkARSHX6QIn91ks",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

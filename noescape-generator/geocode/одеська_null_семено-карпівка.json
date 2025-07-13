@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Семено-Карпівка",
+               "short_name" : "Семено-Карпівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Балтський район",
+               "short_name" : "Балтський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66143",
+               "short_name" : "66143",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Семено-Карпівка, Одеська область, Україна, 66143",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.915923,
+                  "lng" : 29.4992119
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.9074821,
+                  "lng" : 29.4862769
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.9117506,
+               "lng" : 29.4933117
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.915923,
+                  "lng" : 29.4992119
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.9074821,
+                  "lng" : 29.4862769
+               }
+            }
+         },
+         "place_id" : "ChIJFTPQvj4lzEARMIuMBkyhtGk",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

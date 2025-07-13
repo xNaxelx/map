@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Заболотне",
+               "short_name" : "Заболотне",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Іршавський район",
+               "short_name" : "Іршавський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90143",
+               "short_name" : "90143",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Заболотне, Закарпатська область, Україна, 90143",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.2546701,
+                  "lng" : 23.124291
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.229901,
+                  "lng" : 23.105102
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.2432621,
+               "lng" : 23.111256
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.2546701,
+                  "lng" : 23.124291
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.229901,
+                  "lng" : 23.105102
+               }
+            }
+         },
+         "place_id" : "ChIJlZ6YQcQzOEcRyJt78mMP3nE",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

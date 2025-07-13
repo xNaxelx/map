@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Руда",
+               "short_name" : "Руда",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Любомльський район",
+               "short_name" : "Любомльський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "44345",
+               "short_name" : "44345",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Руда, Волинська область, Україна, 44345",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.237132,
+                  "lng" : 24.2641351
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.22120200000001,
+                  "lng" : 24.2377851
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.2292226,
+               "lng" : 24.2503824
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.237132,
+                  "lng" : 24.2641351
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.22120200000001,
+                  "lng" : 24.2377851
+               }
+            }
+         },
+         "place_id" : "ChIJxyPmPWESJEcR9q3pJIrgAAQ",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "річка Товарниця",
+               "short_name" : "річка Товарниця",
+               "types" : 
+               [
+                  "establishment",
+                  "natural_feature"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "річка Товарниця, Чернівецька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.1304883,
+                  "lng" : 25.2134635
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.0977823,
+                  "lng" : 25.1582544
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.11413533326688,
+               "lng" : 25.18585895295783
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.1304883,
+                  "lng" : 25.2134635
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.0977823,
+                  "lng" : 25.1582544
+               }
+            }
+         },
+         "place_id" : "ChIJW8HzIVCXNkcRd4WQ0ww3ZaI",
+         "types" : 
+         [
+            "establishment",
+            "natural_feature"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Великоберезнянський район",
+               "short_name" : "Великоберезнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Великоберезнянський район, Закарпатська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.0973109,
+                  "lng" : 22.918895
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.785478,
+                  "lng" : 22.3758611
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.949923,
+               "lng" : 22.6928687
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.0973109,
+                  "lng" : 22.918895
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.785478,
+                  "lng" : 22.3758611
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ6f4fDsFlOUcRIi5IHVWdVvo",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Новоселиця",
+               "short_name" : "Новоселиця",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Новоселицький район",
+               "short_name" : "Новоселицький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60300",
+               "short_name" : "60300",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Новоселиця, Чернівецька область, Україна, 60300",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.233524,
+                  "lng" : 26.297297
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.205015,
+                  "lng" : 26.23313
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.2211075,
+               "lng" : 26.2712988
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.233524,
+                  "lng" : 26.297297
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.205015,
+                  "lng" : 26.23313
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ3Sz_QPN2NEcR1PsZRr9eZr0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

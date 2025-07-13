@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Яворівський район",
+               "short_name" : "Яворівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Яворівський район, Львівська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.193844,
+                  "lng" : 23.9387161
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.81258,
+                  "lng" : 23.0927957
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.015466,
+               "lng" : 23.5466891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.193844,
+                  "lng" : 23.9387161
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.81258,
+                  "lng" : 23.0927957
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJM9bvHb0-O0cRuAJVd2LB3l0",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Ділове",
+               "short_name" : "Ділове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рахівський район",
+               "short_name" : "Рахівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90625",
+               "short_name" : "90625",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Ділове, Закарпатська область, Україна, 90625",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.945909,
+                  "lng" : 24.1923679
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.92578,
+                  "lng" : 24.1579109
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.9359496,
+               "lng" : 24.1736813
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.945909,
+                  "lng" : 24.1923679
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.92578,
+                  "lng" : 24.1579109
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ_2zMoZutN0cRLqSlq6x56ps",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

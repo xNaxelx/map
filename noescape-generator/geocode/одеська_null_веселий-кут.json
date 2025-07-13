@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Веселий Кут",
+               "short_name" : "Веселий Кут",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Арцизький район",
+               "short_name" : "Арцизький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68420",
+               "short_name" : "68420",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Веселий Кут, Одеська область, Україна, 68420",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.072584,
+                  "lng" : 29.300907
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.02589589999999,
+                  "lng" : 29.276636
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.0496154,
+               "lng" : 29.2919935
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.072584,
+                  "lng" : 29.300907
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.02589589999999,
+                  "lng" : 29.276636
+               }
+            }
+         },
+         "place_id" : "ChIJVUkZlnDet0ARlpA2qBovpsg",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

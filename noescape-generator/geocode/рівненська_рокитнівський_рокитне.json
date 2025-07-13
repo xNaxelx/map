@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Рокитне",
+               "short_name" : "Рокитне",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рокитнівський район",
+               "short_name" : "Рокитнівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "34201",
+               "short_name" : "34201",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Рокитне, Рівненська область, Україна, 34201",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.273908,
+                  "lng" : 27.2635341
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.248727,
+                  "lng" : 27.185325
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.2615227,
+               "lng" : 27.2265911
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.273908,
+                  "lng" : 27.2635341
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.248727,
+                  "lng" : 27.185325
+               }
+            }
+         },
+         "place_id" : "ChIJO5VLqB7mKEcRQgaUQ68zXTM",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

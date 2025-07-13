@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Микитичі",
+               "short_name" : "Микитичі",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Володимир-Волинський район",
+               "short_name" : "Володимир-Волинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "44710",
+               "short_name" : "44710",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Микитичі, Волинська область, Україна, 44710",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.963548,
+                  "lng" : 24.076772
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.946572,
+                  "lng" : 24.047561
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.954809,
+               "lng" : 24.0544374
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.963548,
+                  "lng" : 24.076772
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.946572,
+                  "lng" : 24.047561
+               }
+            }
+         },
+         "place_id" : "ChIJQ1z9OohjJEcRjiLWC4aH6Qc",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

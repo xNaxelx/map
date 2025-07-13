@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Верхнів",
+               "short_name" : "Верхнів",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Іваничівський район",
+               "short_name" : "Іваничівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "45310",
+               "short_name" : "45310",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Верхнів, Волинська область, Україна, 45310",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.769773,
+                  "lng" : 24.1703799
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.75933,
+                  "lng" : 24.149678
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.7642414,
+               "lng" : 24.1618914
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.769773,
+                  "lng" : 24.1703799
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.75933,
+                  "lng" : 24.149678
+               }
+            }
+         },
+         "place_id" : "ChIJ6yhm9Xv0JEcRHJbiCNfYJjs",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

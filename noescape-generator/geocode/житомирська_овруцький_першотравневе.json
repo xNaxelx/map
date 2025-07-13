@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Кварцитне",
+               "short_name" : "Кварцитне",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Овруцький район",
+               "short_name" : "Овруцький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Житомирська область",
+               "short_name" : "Житомирська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "11114",
+               "short_name" : "11114",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Кварцитне, Житомирська область, Україна, 11114",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.4003761,
+                  "lng" : 28.8865419
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.3778839,
+                  "lng" : 28.838412
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.3870782,
+               "lng" : 28.8660119
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.4003761,
+                  "lng" : 28.8865419
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.3778839,
+                  "lng" : 28.838412
+               }
+            }
+         },
+         "place_id" : "ChIJ87kL4vuJKUcRBJ_-v0Ld7ys",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

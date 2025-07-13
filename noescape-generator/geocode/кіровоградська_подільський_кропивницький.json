@@ -1,0 +1,108 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Подільський район",
+               "short_name" : "Подільський район",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+               ]
+            },
+            {
+               "long_name" : "Кропивницький",
+               "short_name" : "Кропивницький",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кіровоградська міськрада",
+               "short_name" : "Кіровоградська міськрада",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кіровоградська область",
+               "short_name" : "Кіровоградська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "25000",
+               "short_name" : "25000",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Подільський район, Кропивницький, Кіровоградська область, Україна, 25000",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.54723000000001,
+                  "lng" : 32.3284859
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.456149,
+                  "lng" : 32.2426271
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.4944536,
+               "lng" : 32.2910713
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.54723000000001,
+                  "lng" : 32.3284859
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.456149,
+                  "lng" : 32.2426271
+               }
+            }
+         },
+         "place_id" : "ChIJ9-wevARo0EARpGJS_rh5baM",
+         "types" : 
+         [
+            "political",
+            "sublocality",
+            "sublocality_level_1"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

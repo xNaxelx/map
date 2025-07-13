@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Грамотне",
+               "short_name" : "Грамотне",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Верховинський район",
+               "short_name" : "Верховинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Івано-Франківська область",
+               "short_name" : "Івано-Франківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "78737",
+               "short_name" : "78737",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Грамотне, Івано-Франківська область, Україна, 78737",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.96577600000001,
+                  "lng" : 24.8659751
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.90454099999999,
+                  "lng" : 24.8175709
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.9329769,
+               "lng" : 24.8244643
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.96577600000001,
+                  "lng" : 24.8659751
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.90454099999999,
+                  "lng" : 24.8175709
+               }
+            }
+         },
+         "place_id" : "ChIJv7RChH6KNkcRcjxnl5DPKR4",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

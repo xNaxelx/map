@@ -1,0 +1,81 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Ратнівський район",
+               "short_name" : "Ратнівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Ратнівський район, Волинська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.916829,
+                  "lng" : 24.948951
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.497794,
+                  "lng" : 24.0351261
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.7157017,
+               "lng" : 24.4554706
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.916829,
+                  "lng" : 24.948951
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.497794,
+                  "lng" : 24.0351261
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJf_0LhjSyJkcRpKPEC95GFfg",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

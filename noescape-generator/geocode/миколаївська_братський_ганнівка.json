@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Ганнівка",
+               "short_name" : "Ганнівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Братський район",
+               "short_name" : "Братський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Миколаївська область",
+               "short_name" : "Миколаївська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "55430",
+               "short_name" : "55430",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Ганнівка, Миколаївська область, Україна, 55430",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.08200799999999,
+                  "lng" : 31.643503
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.062569,
+                  "lng" : 31.6221329
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.0749729,
+               "lng" : 31.63477779999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.08200799999999,
+                  "lng" : 31.643503
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.062569,
+                  "lng" : 31.6221329
+               }
+            }
+         },
+         "place_id" : "ChIJn06hj0fcz0ARzjHz3clQHOg",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

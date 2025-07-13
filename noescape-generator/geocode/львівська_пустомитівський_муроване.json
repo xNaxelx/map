@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Муроване",
+               "short_name" : "Муроване",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Пустомитівський район",
+               "short_name" : "Пустомитівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "81121",
+               "short_name" : "81121",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Муроване, Львівська область, Україна, 81121",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.891003,
+                  "lng" : 24.110457
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.869359,
+                  "lng" : 24.0788181
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.8780763,
+               "lng" : 24.091116
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.891003,
+                  "lng" : 24.110457
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.869359,
+                  "lng" : 24.0788181
+               }
+            }
+         },
+         "place_id" : "ChIJ_b8qJ7rcOkcRzOIRlVUvS2g",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

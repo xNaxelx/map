@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Милове",
+               "short_name" : "Милове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Бериславський район",
+               "short_name" : "Бериславський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Херсонська область",
+               "short_name" : "Херсонська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "74351",
+               "short_name" : "74351",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Милове, Херсонська область, Україна, 74351",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.072546,
+                  "lng" : 33.6433072
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.059493,
+                  "lng" : 33.620777
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.0640194,
+               "lng" : 33.6345146
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.072546,
+                  "lng" : 33.6433072
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.059493,
+                  "lng" : 33.620777
+               }
+            }
+         },
+         "place_id" : "ChIJoagEJ4Njw0AR8rFOFT1v1YY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,90 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Шептицький",
+               "short_name" : "Шептицький",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Червоноградська міськрада",
+               "short_name" : "Червоноградська міськрада",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Шептицький, Львівська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.410203,
+                  "lng" : 24.2574262
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.362054,
+                  "lng" : 24.1892337
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.3871767,
+               "lng" : 24.2199454
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.410203,
+                  "lng" : 24.2574262
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.362054,
+                  "lng" : 24.1892337
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ-6mlotXeJEcRhsBaeORTd-4",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

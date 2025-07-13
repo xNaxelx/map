@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Воля",
+               "short_name" : "Воля",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Яворівський район",
+               "short_name" : "Яворівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "81011",
+               "short_name" : "81011",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Воля, Львівська область, Україна, 81011",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.1297,
+                  "lng" : 23.419699
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.125989,
+                  "lng" : 23.4012149
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.1280368,
+               "lng" : 23.4108715
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.1297,
+                  "lng" : 23.419699
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.125989,
+                  "lng" : 23.4012149
+               }
+            }
+         },
+         "place_id" : "ChIJMcFjDiFGO0cRTmrmZJ8qMOI",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

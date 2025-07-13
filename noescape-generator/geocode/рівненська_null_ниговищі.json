@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Ниговищі",
+               "short_name" : "Ниговищі",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Зарічненський район",
+               "short_name" : "Зарічненський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "34010",
+               "short_name" : "34010",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Ниговищі, Рівненська область, Україна, 34010",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.91312809999999,
+                  "lng" : 25.7187191
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.901169,
+                  "lng" : 25.635691
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.9094141,
+               "lng" : 25.6666755
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.91312809999999,
+                  "lng" : 25.7187191
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.901169,
+                  "lng" : 25.635691
+               }
+            }
+         },
+         "place_id" : "ChIJ4buLyLT_JkcRMvGrbM3eJ1A",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

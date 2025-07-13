@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Лучинське",
+               "short_name" : "Лучинське",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Роздільнянський район",
+               "short_name" : "Роздільнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67483",
+               "short_name" : "67483",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Лучинське, Одеська область, Україна, 67483",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.8824399,
+                  "lng" : 29.9517511
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.844165,
+                  "lng" : 29.9305939
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.874902,
+               "lng" : 29.9446505
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.8824399,
+                  "lng" : 29.9517511
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.844165,
+                  "lng" : 29.9305939
+               }
+            }
+         },
+         "place_id" : "ChIJFyYsbNzlyEARy-I9JCT_Bs0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

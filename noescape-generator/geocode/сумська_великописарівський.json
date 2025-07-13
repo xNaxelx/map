@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Великописарівський район",
+               "short_name" : "Великописарівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сумська область",
+               "short_name" : "Сумська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Великописарівський район, Сумська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.553566,
+                  "lng" : 35.6927141
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.21342,
+                  "lng" : 35.0238562
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.3768235,
+               "lng" : 35.3859026
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.553566,
+                  "lng" : 35.6927141
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.21342,
+                  "lng" : 35.0238562
+               }
+            }
+         },
+         "place_id" : "ChIJp5D3qeF2KEERWmEBK-AYhNo",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

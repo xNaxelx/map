@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Диканський район",
+               "short_name" : "Диканський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Полтавська область",
+               "short_name" : "Полтавська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Диканський район, Полтавська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.947757,
+                  "lng" : 34.675948
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.695893,
+                  "lng" : 34.171858
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.84949210000001,
+               "lng" : 34.46766059999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.947757,
+                  "lng" : 34.675948
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.695893,
+                  "lng" : 34.171858
+               }
+            }
+         },
+         "place_id" : "ChIJMzysTNTy10ARBKWseIUS18Y",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

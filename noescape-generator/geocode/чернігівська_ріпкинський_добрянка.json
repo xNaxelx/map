@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Добрянка",
+               "short_name" : "Добрянка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ріпкинський район",
+               "short_name" : "Ріпкинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернігівська область",
+               "short_name" : "Чернігівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "15012",
+               "short_name" : "15012",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Добрянка, Чернігівська область, Україна, 15012",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.077492,
+                  "lng" : 31.2089571
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.0460609,
+                  "lng" : 31.151998
+               }
+            },
+            "location" : 
+            {
+               "lat" : 52.0601406,
+               "lng" : 31.1836671
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.077492,
+                  "lng" : 31.2089571
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.0460609,
+                  "lng" : 31.151998
+               }
+            }
+         },
+         "place_id" : "ChIJ--qQAIX71EYRcu9097gK3Kg",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

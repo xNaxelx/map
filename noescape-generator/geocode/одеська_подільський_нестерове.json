@@ -1,0 +1,114 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "провулок Нестерова",
+               "short_name" : "провулок Нестерова",
+               "types" : 
+               [
+                  "route"
+               ]
+            },
+            {
+               "long_name" : "Подільський район",
+               "short_name" : "Подільський район",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+               ]
+            },
+            {
+               "long_name" : "Кропивницький",
+               "short_name" : "Кропивницький",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кіровоградська міськрада",
+               "short_name" : "Кіровоградська міськрада",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кіровоградська область",
+               "short_name" : "Кіровоградська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "25000",
+               "short_name" : "25000",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "провулок Нестерова, Кропивницький, Кіровоградська область, Україна, 25000",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.5224706,
+                  "lng" : 32.2946773
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.52071600000001,
+                  "lng" : 32.2924956
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.522441,
+               "lng" : 32.2927439
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.5229422802915,
+                  "lng" : 32.2949354302915
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.5202443197085,
+                  "lng" : 32.2922374697085
+               }
+            }
+         },
+         "place_id" : "ChIJwZONIFhd0EAR1mCV1i5A6JM",
+         "types" : 
+         [
+            "route"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

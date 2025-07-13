@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Немерче",
+               "short_name" : "Немерче",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Мурованокуриловецький район",
+               "short_name" : "Мурованокуриловецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "23450",
+               "short_name" : "23450",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Немерче, Вінницька область, Україна, 23450",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.681447,
+                  "lng" : 27.7337021
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.66769499999999,
+                  "lng" : 27.712194
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.674331,
+               "lng" : 27.7230984
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.681447,
+                  "lng" : 27.7337021
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.66769499999999,
+                  "lng" : 27.712194
+               }
+            }
+         },
+         "place_id" : "ChIJp_0MAQfeMkcRlC-Ac2vIrtM",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

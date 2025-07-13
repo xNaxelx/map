@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Самари",
+               "short_name" : "Самари",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ратнівський район",
+               "short_name" : "Ратнівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "44113",
+               "short_name" : "44113",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Самари, Волинська область, Україна, 44113",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.8844831,
+                  "lng" : 24.6501501
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.84706509999999,
+                  "lng" : 24.5438831
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.85860479999999,
+               "lng" : 24.6148781
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.8844831,
+                  "lng" : 24.6501501
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.84706509999999,
+                  "lng" : 24.5438831
+               }
+            }
+         },
+         "place_id" : "ChIJVS_fkFTKJkcRQHnKfhJmIxY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

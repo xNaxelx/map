@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Пробійнівка",
+               "short_name" : "Пробійнівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Верховинський район",
+               "short_name" : "Верховинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Івано-Франківська область",
+               "short_name" : "Івано-Франківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "78736",
+               "short_name" : "78736",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Пробійнівка, Івано-Франківська область, Україна, 78736",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.9815481,
+                  "lng" : 24.8430709
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.94415600000001,
+                  "lng" : 24.77696
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.9726126,
+               "lng" : 24.8238666
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.9815481,
+                  "lng" : 24.8430709
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.94415600000001,
+                  "lng" : 24.77696
+               }
+            }
+         },
+         "place_id" : "ChIJJRLEw8iKNkcRRJPnp6dMKI8",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

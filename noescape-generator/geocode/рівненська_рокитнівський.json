@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Рокитнівський район",
+               "short_name" : "Рокитнівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Рокитнівський район, Рівненська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.6974053,
+                  "lng" : 27.7295688
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.991367,
+                  "lng" : 26.9383701
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.4597968,
+               "lng" : 27.260118
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.6974053,
+                  "lng" : 27.7295688
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.991367,
+                  "lng" : 26.9383701
+               }
+            }
+         },
+         "place_id" : "ChIJ_-SWgzblKEcRRN76w1ghXCQ",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

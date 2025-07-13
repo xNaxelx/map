@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Черляни",
+               "short_name" : "Черляни",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Городоцький район",
+               "short_name" : "Городоцький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "81554",
+               "short_name" : "81554",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Черляни, Львівська область, Україна, 81554",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.760666,
+                  "lng" : 23.684185
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.738808,
+                  "lng" : 23.64763
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.7502281,
+               "lng" : 23.6648342
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.760666,
+                  "lng" : 23.684185
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.738808,
+                  "lng" : 23.64763
+               }
+            }
+         },
+         "place_id" : "ChIJx_FK2RUdO0cRvl5aZ0nsFjY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

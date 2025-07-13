@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Лопушна",
+               "short_name" : "Лопушна",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вижницький район",
+               "short_name" : "Вижницький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "59241",
+               "short_name" : "59241",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Лопушна, Чернівецька область, Україна, 59241",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.10713699999999,
+                  "lng" : 25.2990489
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.067183,
+                  "lng" : 25.273344
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.0896832,
+               "lng" : 25.2857567
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.10713699999999,
+                  "lng" : 25.2990489
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.067183,
+                  "lng" : 25.273344
+               }
+            }
+         },
+         "place_id" : "ChIJjZS8sOKbNkcRxw5QleG_fjw",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Щитинська Воля",
+               "short_name" : "Щитинська Воля",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ратнівський район",
+               "short_name" : "Ратнівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "44121",
+               "short_name" : "44121",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Щитинська Воля, Волинська область, Україна, 44121",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.8895911,
+                  "lng" : 24.8745701
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.866029,
+                  "lng" : 24.8450239
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.8820403,
+               "lng" : 24.8559746
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.8895911,
+                  "lng" : 24.8745701
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.866029,
+                  "lng" : 24.8450239
+               }
+            }
+         },
+         "place_id" : "ChIJi-kFJZTFJkcRVAMAYPmloYs",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

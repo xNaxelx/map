@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Карпати",
+               "short_name" : "Карпати",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Мукачівський район",
+               "short_name" : "Мукачівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "89641",
+               "short_name" : "89641",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Карпати, Закарпатська область, Україна, 89641",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.529212,
+                  "lng" : 22.8808409
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.5191199,
+                  "lng" : 22.8659969
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5245018,
+               "lng" : 22.8750799
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.529212,
+                  "lng" : 22.8808409
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.5191199,
+                  "lng" : 22.8659969
+               }
+            }
+         },
+         "place_id" : "ChIJebk2e4-vOUcRNiyXVkdEgyM",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

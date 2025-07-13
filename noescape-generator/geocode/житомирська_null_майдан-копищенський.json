@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Майдан-Копищенський",
+               "short_name" : "Майдан-Копищенський",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Олевський район",
+               "short_name" : "Олевський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Житомирська область",
+               "short_name" : "Житомирська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Майдан-Копищенський, Житомирська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.537691,
+                  "lng" : 27.870057
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.5079781,
+                  "lng" : 27.8419661
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.5248293,
+               "lng" : 27.8595854
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.537691,
+                  "lng" : 27.870057
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.5079781,
+                  "lng" : 27.8419661
+               }
+            }
+         },
+         "place_id" : "ChIJwSjEN_esKUcRfjfh7CdtK4c",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

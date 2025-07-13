@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Велике Бурилове",
+               "short_name" : "Велике Бурилове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Поді́льськ",
+               "short_name" : "Поді́льськ",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66330",
+               "short_name" : "66330",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Велике Бурилове, Одеська область, Україна, 66330",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.782929,
+                  "lng" : 29.286618
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.771984,
+                  "lng" : 29.273412
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.7767559,
+               "lng" : 29.2818239
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.782929,
+                  "lng" : 29.286618
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.771984,
+                  "lng" : 29.273412
+               }
+            }
+         },
+         "place_id" : "ChIJoZ5Q9HQXzEARlC_tcuVm4E0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

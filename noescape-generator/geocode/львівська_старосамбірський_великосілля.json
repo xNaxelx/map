@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Великосілля",
+               "short_name" : "Великосілля",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Старосамбірський район",
+               "short_name" : "Старосамбірський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "82074",
+               "short_name" : "82074",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Великосілля, Львівська область, Україна, 82074",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.399048,
+                  "lng" : 22.8373491
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.393147,
+                  "lng" : 22.8056321
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.3975674,
+               "lng" : 22.8203581
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.399048,
+                  "lng" : 22.8373491
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.393147,
+                  "lng" : 22.8056321
+               }
+            }
+         },
+         "place_id" : "ChIJY0xJki2VO0cRjJucdaQGziw",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

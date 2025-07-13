@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Журавичі",
+               "short_name" : "Журавичі",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ківерцівський район",
+               "short_name" : "Ківерцівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "45213",
+               "short_name" : "45213",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Журавичі, Волинська область, Україна, 45213",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.9957791,
+                  "lng" : 25.731389
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.972627,
+                  "lng" : 25.691701
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.9836316,
+               "lng" : 25.7141249
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.9957791,
+                  "lng" : 25.731389
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.972627,
+                  "lng" : 25.691701
+               }
+            }
+         },
+         "place_id" : "ChIJIz-mntPvJUcR0snvtaUM5UA",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

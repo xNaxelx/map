@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Михайлівка",
+               "short_name" : "Михайлівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Нововоронцовський район",
+               "short_name" : "Нововоронцовський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Херсонська область",
+               "short_name" : "Херсонська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "74230",
+               "short_name" : "74230",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Михайлівка, Херсонська область, Україна, 74230",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.321929,
+                  "lng" : 33.9654851
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.296924,
+                  "lng" : 33.943427
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.30941989999999,
+               "lng" : 33.9567329
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.321929,
+                  "lng" : 33.9654851
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.296924,
+                  "lng" : 33.943427
+               }
+            }
+         },
+         "place_id" : "ChIJ47tA_dZWw0AR-uoZcJh3Y1E",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

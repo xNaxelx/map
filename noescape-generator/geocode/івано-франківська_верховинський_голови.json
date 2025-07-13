@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Голови",
+               "short_name" : "Голови",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Верховинський район",
+               "short_name" : "Верховинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Івано-Франківська область",
+               "short_name" : "Івано-Франківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "78723",
+               "short_name" : "78723",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Голови, Івано-Франківська область, Україна, 78723",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.070803,
+                  "lng" : 24.891033
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.053301,
+                  "lng" : 24.818114
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.0644082,
+               "lng" : 24.8718157
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.070803,
+                  "lng" : 24.891033
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.053301,
+                  "lng" : 24.818114
+               }
+            }
+         },
+         "place_id" : "ChIJswNEgefyNkcRRH7e3lHysnU",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

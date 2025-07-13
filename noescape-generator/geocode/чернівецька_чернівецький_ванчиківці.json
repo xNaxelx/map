@@ -1,0 +1,98 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Ванчиківці",
+               "short_name" : "Ванчиківці",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Новоселицький район",
+               "short_name" : "Новоселицький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60351",
+               "short_name" : "60351",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Ванчиківці, Чернівецька область, Україна, 60351",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.225944,
+                  "lng" : 26.463816
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.204966,
+                  "lng" : 26.432003
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.2166107,
+               "lng" : 26.4521304
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.225944,
+                  "lng" : 26.463816
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.204966,
+                  "lng" : 26.432003
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ2yWxsXp4NEcR2P02-mD7qpg",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

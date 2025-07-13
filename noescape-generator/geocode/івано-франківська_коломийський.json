@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Коломийський район",
+               "short_name" : "Коломийський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Івано-Франківська область",
+               "short_name" : "Івано-Франківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Коломийський район, Івано-Франківська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.791329,
+                  "lng" : 25.3418139
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.405864,
+                  "lng" : 24.7233689
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.6272976,
+               "lng" : 24.9454642
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.791329,
+                  "lng" : 25.3418139
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.405864,
+                  "lng" : 24.7233689
+               }
+            }
+         },
+         "place_id" : "ChIJpy5xrvEsMUcRIA0cPOfpVCU",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

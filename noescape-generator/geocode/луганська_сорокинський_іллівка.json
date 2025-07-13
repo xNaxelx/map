@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Іллівка",
+               "short_name" : "Іллівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сорокинський район",
+               "short_name" : "Сорокинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Луганська область",
+               "short_name" : "Луганська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "94450",
+               "short_name" : "94450",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Іллівка, Луганська область, Україна, 94450",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.55146389999999,
+                  "lng" : 39.7328309
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.54294100000001,
+                  "lng" : 39.7239351
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5468944,
+               "lng" : 39.727979
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.55146389999999,
+                  "lng" : 39.7328309
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.54294100000001,
+                  "lng" : 39.7239351
+               }
+            }
+         },
+         "place_id" : "ChIJH_9skhk1HkERUo2Lz6naeC4",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

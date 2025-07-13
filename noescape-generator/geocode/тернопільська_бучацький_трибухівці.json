@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Трибухівці",
+               "short_name" : "Трибухівці",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Бучацький район",
+               "short_name" : "Бучацький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Тернопільська область",
+               "short_name" : "Тернопільська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "48431",
+               "short_name" : "48431",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Трибухівці, Тернопільська область, Україна, 48431",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.050936,
+                  "lng" : 25.5398241
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.027082,
+                  "lng" : 25.437331
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.0421573,
+               "lng" : 25.4551823
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.050936,
+                  "lng" : 25.5398241
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.027082,
+                  "lng" : 25.437331
+               }
+            }
+         },
+         "place_id" : "ChIJAfrKXMgFMUcRMmtVFDHDagE",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Новоборисівка",
+               "short_name" : "Новоборисівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Великомихайлівський район",
+               "short_name" : "Великомихайлівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67121",
+               "short_name" : "67121",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Новоборисівка, Одеська область, Україна, 67121",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.111413,
+                  "lng" : 30.01659189999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.08880800000001,
+                  "lng" : 29.968045
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.102585,
+               "lng" : 30.0001564
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.111413,
+                  "lng" : 30.01659189999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.08880800000001,
+                  "lng" : 29.968045
+               }
+            }
+         },
+         "place_id" : "ChIJVwga0gTYyEARSNVTj6EOgkU",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

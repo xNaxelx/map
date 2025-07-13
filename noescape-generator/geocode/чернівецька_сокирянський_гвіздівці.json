@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Гвіздівці",
+               "short_name" : "Гвіздівці",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сокирянський район",
+               "short_name" : "Сокирянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60225",
+               "short_name" : "60225",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Гвіздівці, Чернівецька область, Україна, 60225",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.45074109999999,
+                  "lng" : 27.319132
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.42895499999999,
+                  "lng" : 27.274983
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.4382406,
+               "lng" : 27.2977189
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.45074109999999,
+                  "lng" : 27.319132
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.42895499999999,
+                  "lng" : 27.274983
+               }
+            }
+         },
+         "place_id" : "ChIJJbTNPF0RM0cRzjxLiwfzAOM",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

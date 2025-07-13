@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Новоукраїнський район",
+               "short_name" : "Новоукраїнський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кіровоградська область",
+               "short_name" : "Кіровоградська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Новоукраїнський район, Кіровоградська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.558417,
+                  "lng" : 32.027088
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.050571,
+                  "lng" : 31.2136179
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.31104910000001,
+               "lng" : 31.6472197
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.558417,
+                  "lng" : 32.027088
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.050571,
+                  "lng" : 31.2136179
+               }
+            }
+         },
+         "place_id" : "ChIJ2wRKfO8u0EARVqbzihJfXRA",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

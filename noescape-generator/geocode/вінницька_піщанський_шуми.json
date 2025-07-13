@@ -1,0 +1,191 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Піщанка",
+               "short_name" : "Піщанка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Піщанський район",
+               "short_name" : "Піщанський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Піщанка, Вінницька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.2263452,
+                  "lng" : 28.9139556
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.1867617,
+                  "lng" : 28.8675426
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.209267,
+               "lng" : 28.8848277
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.2263452,
+                  "lng" : 28.9139556
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.1867617,
+                  "lng" : 28.8675426
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJo2haWUX_zEARk_E_KW599LM",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Суми",
+               "short_name" : "Суми",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сумська міськрада",
+               "short_name" : "Сумська міськрада",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сумський район",
+               "short_name" : "Сумський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сумська область",
+               "short_name" : "Сумська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "40000",
+               "short_name" : "40000",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Суми, Сумська область, Україна, 40000",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.96396,
+                  "lng" : 34.9094179
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.8373709,
+                  "lng" : 34.71901
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.9077,
+               "lng" : 34.7981
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.96396,
+                  "lng" : 34.9094179
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.8373709,
+                  "lng" : 34.71901
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJYaRz_CACKUERKGyDazb2dNs",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

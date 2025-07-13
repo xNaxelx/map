@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Явірник",
+               "short_name" : "Явірник",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Верховинський район",
+               "short_name" : "Верховинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Івано-Франківська область",
+               "short_name" : "Івано-Франківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "78733",
+               "short_name" : "78733",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Явірник, Івано-Франківська область, Україна, 78733",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.030992,
+                  "lng" : 24.753596
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.01566099999999,
+                  "lng" : 24.7208869
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.0245393,
+               "lng" : 24.7440273
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.030992,
+                  "lng" : 24.753596
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.01566099999999,
+                  "lng" : 24.7208869
+               }
+            }
+         },
+         "place_id" : "ChIJi4YvtxD0NkcRviSPjVX7FUw",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

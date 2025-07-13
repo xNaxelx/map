@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Млинище",
+               "short_name" : "Млинище",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Іваничівський район",
+               "short_name" : "Іваничівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "45311",
+               "short_name" : "45311",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Млинище, Волинська область, Україна, 45311",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.744581,
+                  "lng" : 24.069493
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.735504,
+                  "lng" : 24.036397
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.73987080000001,
+               "lng" : 24.0467695
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.744581,
+                  "lng" : 24.069493
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.735504,
+                  "lng" : 24.036397
+               }
+            }
+         },
+         "place_id" : "ChIJJUp6U9SMJEcRuLF00GHJ9ww",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

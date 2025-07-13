@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Суботівка",
+               "short_name" : "Суботівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Могилів-Подільський район",
+               "short_name" : "Могилів-Подільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "24060",
+               "short_name" : "24060",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Суботівка, Вінницька область, Україна, 24060",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.344024,
+                  "lng" : 28.014394
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.3260721,
+                  "lng" : 27.9764851
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.3323253,
+               "lng" : 27.9901618
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.344024,
+                  "lng" : 28.014394
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.3260721,
+                  "lng" : 27.9764851
+               }
+            }
+         },
+         "place_id" : "ChIJxTAXRprNzEARfdelWHEj524",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,201 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Франківський район",
+               "short_name" : "Франківський район",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+               ]
+            },
+            {
+               "long_name" : "Львів",
+               "short_name" : "Львів",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська міськрада",
+               "short_name" : "Львівська міськрада",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "79000",
+               "short_name" : "79000",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Франківський район, Львів, Львівська область, Україна, 79000",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.837198,
+                  "lng" : 24.0207568
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.783677,
+                  "lng" : 23.973007
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.8107693,
+               "lng" : 23.9998017
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.837198,
+                  "lng" : 24.0207568
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.783677,
+                  "lng" : 23.973007
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJhXL7aJjnOkcR5v8jb4QwIcI",
+         "types" : 
+         [
+            "political",
+            "sublocality",
+            "sublocality_level_1"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Івано-Франківськ",
+               "short_name" : "Івано-Франківськ",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Івано-Франківська міськрада",
+               "short_name" : "Івано-Франківська міськрада",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Івано-Франківська область",
+               "short_name" : "Івано-Франківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "76000",
+               "short_name" : "76000",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Івано-Франківськ, Івано-Франківська область, Україна, 76000",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.9537667,
+                  "lng" : 24.758544
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.8698961,
+                  "lng" : 24.675714
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.9200616,
+               "lng" : 24.7089157
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.9537667,
+                  "lng" : 24.758544
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.8698961,
+                  "lng" : 24.675714
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJHTiwNGzBMEcRwkGe5ZQj09Y",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

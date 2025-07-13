@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Лугини",
+               "short_name" : "Лугини",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Лугинський район",
+               "short_name" : "Лугинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Житомирська область",
+               "short_name" : "Житомирська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Лугини, Житомирська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.1007732,
+                  "lng" : 28.430314
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.0618966,
+                  "lng" : 28.3705187
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.08367519999999,
+               "lng" : 28.4004787
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.1007732,
+                  "lng" : 28.430314
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.0618966,
+                  "lng" : 28.3705187
+               }
+            }
+         },
+         "place_id" : "ChIJN1Y64LB8KUcRE46plyHIMVU",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

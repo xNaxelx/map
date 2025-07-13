@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Немирівське",
+               "short_name" : "Немирівське",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Балтський район",
+               "short_name" : "Балтський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66153",
+               "short_name" : "66153",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Немирівське, Одеська область, Україна, 66153",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.9315069,
+                  "lng" : 29.7712361
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.9148189,
+                  "lng" : 29.7207099
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.921651,
+               "lng" : 29.74534419999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.9315069,
+                  "lng" : 29.7712361
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.9148189,
+                  "lng" : 29.7207099
+               }
+            }
+         },
+         "place_id" : "ChIJRfHZEc8pzEARPZfkiKv1VqY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

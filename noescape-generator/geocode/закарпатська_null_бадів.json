@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Бадів",
+               "short_name" : "Бадів",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Берегівський район",
+               "short_name" : "Берегівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Бадів, Закарпатська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.35724889999999,
+                  "lng" : 22.3604231
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.3501059,
+                  "lng" : 22.3505401
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.3538587,
+               "lng" : 22.3561163
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.35724889999999,
+                  "lng" : 22.3604231
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.3501059,
+                  "lng" : 22.3505401
+               }
+            }
+         },
+         "place_id" : "ChIJx86r7rf7OEcRxuMs-3reJR0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

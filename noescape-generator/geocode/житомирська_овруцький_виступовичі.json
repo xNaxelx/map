@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Виступовичі",
+               "short_name" : "Виступовичі",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Овруцький район",
+               "short_name" : "Овруцький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Житомирська область",
+               "short_name" : "Житомирська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "11110",
+               "short_name" : "11110",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Виступовичі, Житомирська область, Україна, 11110",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.574174,
+                  "lng" : 29.1072859
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.553222,
+                  "lng" : 29.048718
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.564978,
+               "lng" : 29.0779818
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.574174,
+                  "lng" : 29.1072859
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.553222,
+                  "lng" : 29.048718
+               }
+            }
+         },
+         "place_id" : "ChIJOdyoFyf2KUcRZr-r0QkRdoU",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

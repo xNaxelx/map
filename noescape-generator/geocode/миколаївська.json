@@ -1,0 +1,71 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Миколаївська область",
+               "short_name" : "Миколаївська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Миколаївська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.2316741,
+                  "lng" : 33.183647
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.345287,
+                  "lng" : 30.2075529
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.975033,
+               "lng" : 31.994583
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.2316741,
+                  "lng" : 33.183647
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.345287,
+                  "lng" : 30.2075529
+               }
+            }
+         },
+         "place_id" : "ChIJydRVsbqaxUARLq1R8Q3RgpM",
+         "types" : 
+         [
+            "administrative_area_level_1",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

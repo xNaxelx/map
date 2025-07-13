@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Верхній Турів",
+               "short_name" : "Верхній Турів",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Турківський район",
+               "short_name" : "Турківський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "82533",
+               "short_name" : "82533",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Верхній Турів, Львівська область, Україна, 82533",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.07716,
+                  "lng" : 22.941071
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.054778,
+                  "lng" : 22.872036
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.0635813,
+               "lng" : 22.9193749
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.07716,
+                  "lng" : 22.941071
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.054778,
+                  "lng" : 22.872036
+               }
+            }
+         },
+         "place_id" : "ChIJFY7IXqXXO0cRBoLPNG343w4",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

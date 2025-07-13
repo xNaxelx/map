@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Веселий Кут",
+               "short_name" : "Веселий Кут",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Тальнівський район",
+               "short_name" : "Тальнівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Черкаська область",
+               "short_name" : "Черкаська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "20414",
+               "short_name" : "20414",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Веселий Кут, Черкаська область, Україна, 20414",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.984528,
+                  "lng" : 30.651381
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.95738000000001,
+                  "lng" : 30.620804
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.96686589999999,
+               "lng" : 30.6330392
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.984528,
+                  "lng" : 30.651381
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.95738000000001,
+                  "lng" : 30.620804
+               }
+            }
+         },
+         "place_id" : "ChIJD64xt_060kAR1JgYquL7aJw",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

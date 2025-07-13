@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Дийда",
+               "short_name" : "Дийда",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Берегівський район",
+               "short_name" : "Берегівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90234",
+               "short_name" : "90234",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Дийда, Закарпатська область, Україна, 90234",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.230462,
+                  "lng" : 22.5880929
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.2074521,
+                  "lng" : 22.5607101
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.2166052,
+               "lng" : 22.5748597
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.230462,
+                  "lng" : 22.5880929
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.2074521,
+                  "lng" : 22.5607101
+               }
+            }
+         },
+         "place_id" : "ChIJS3BbiUtaOEcR8r5kHUsz5Z0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

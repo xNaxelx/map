@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Негрове",
+               "short_name" : "Негрове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Саратський район",
+               "short_name" : "Саратський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68220",
+               "short_name" : "68220",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Негрове, Одеська область, Україна, 68220",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.2088671,
+                  "lng" : 29.6597151
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.1933561,
+                  "lng" : 29.649459
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.2012507,
+               "lng" : 29.6530411
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.2088671,
+                  "lng" : 29.6597151
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.1933561,
+                  "lng" : 29.649459
+               }
+            }
+         },
+         "place_id" : "ChIJBTcbZLIQyEARsHl_vqgi_u0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

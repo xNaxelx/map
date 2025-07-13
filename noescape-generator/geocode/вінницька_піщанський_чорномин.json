@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Чорномин",
+               "short_name" : "Чорномин",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Піщанський район",
+               "short_name" : "Піщанський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "24732",
+               "short_name" : "24732",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Чорномин, Вінницька область, Україна, 24732",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.234046,
+                  "lng" : 29.030869
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.215722,
+                  "lng" : 28.9861699
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.2226712,
+               "lng" : 29.0036823
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.234046,
+                  "lng" : 29.030869
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.215722,
+                  "lng" : 28.9861699
+               }
+            }
+         },
+         "place_id" : "ChIJs0-8QxtVzEARAEvzVIG6Kmc",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

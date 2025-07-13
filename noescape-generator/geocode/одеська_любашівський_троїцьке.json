@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Троїцьке",
+               "short_name" : "Троїцьке",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Любашівський район",
+               "short_name" : "Любашівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66560",
+               "short_name" : "66560",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Троїцьке, Одеська область, Україна, 66560",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.667234,
+                  "lng" : 30.314983
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.606172,
+                  "lng" : 30.2375769
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.6370547,
+               "lng" : 30.2882077
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.667234,
+                  "lng" : 30.314983
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.606172,
+                  "lng" : 30.2375769
+               }
+            }
+         },
+         "place_id" : "ChIJN7Qkm1jvzkARqZRkJWbmTOQ",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

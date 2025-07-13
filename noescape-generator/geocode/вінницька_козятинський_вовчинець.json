@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Вовчинець",
+               "short_name" : "Вовчинець",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Козятинський район",
+               "short_name" : "Козятинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "22113",
+               "short_name" : "22113",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Вовчинець, Вінницька область, Україна, 22113",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.762401,
+                  "lng" : 28.584493
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.73426809999999,
+                  "lng" : 28.546417
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.7497037,
+               "lng" : 28.5571578
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.762401,
+                  "lng" : 28.584493
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.73426809999999,
+                  "lng" : 28.546417
+               }
+            }
+         },
+         "place_id" : "ChIJfQrMwMcCLUcRq4SK4-MoDow",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

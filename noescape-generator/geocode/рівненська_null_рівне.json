@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Рівне",
+               "short_name" : "Рівне",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська міськрада",
+               "short_name" : "Рівненська міськрада",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Рівне, Рівненська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.6530642,
+                  "lng" : 26.3410286
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.5691387,
+                  "lng" : 26.1473062
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.6190674,
+               "lng" : 26.2521127
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.6530642,
+                  "lng" : 26.3410286
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.5691387,
+                  "lng" : 26.1473062
+               }
+            }
+         },
+         "place_id" : "ChIJ14l8LapsL0cRhOTE26uBdAI",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

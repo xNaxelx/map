@@ -1,0 +1,13 @@
+/.idea/
+/.venv/
+/.env/
+target/
+*.iml
+/output/model-latest
+train.spacy
+dev.spacy
+train.jsonl
+dev.jsonl
+/output/model-last
+/output/model-best/vocab
+.DS_Store

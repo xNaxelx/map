@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Новопсков",
+               "short_name" : "Новопсков",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Новопсковський район",
+               "short_name" : "Новопсковський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Луганська область",
+               "short_name" : "Луганська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Новопсков, Луганська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.5517487,
+                  "lng" : 39.1567756
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.5094666,
+                  "lng" : 39.0808153
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.5341366,
+               "lng" : 39.1204195
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.5517487,
+                  "lng" : 39.1567756
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.5094666,
+                  "lng" : 39.0808153
+               }
+            }
+         },
+         "place_id" : "ChIJw1JKdg2_IUERvTQi73giy4U",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

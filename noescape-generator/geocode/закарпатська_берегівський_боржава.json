@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Боржава",
+               "short_name" : "Боржава",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Берегівський район",
+               "short_name" : "Берегівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90256",
+               "short_name" : "90256",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Боржава, Закарпатська область, Україна, 90256",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.163713,
+                  "lng" : 22.7344391
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.149108,
+                  "lng" : 22.708835
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.1543057,
+               "lng" : 22.7238921
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.163713,
+                  "lng" : 22.7344391
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.149108,
+                  "lng" : 22.708835
+               }
+            }
+         },
+         "place_id" : "ChIJ26qqjBBEOEcR0GKq2T2EuX8",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

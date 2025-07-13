@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Сухий",
+               "short_name" : "Сухий",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Великоберезнянський район",
+               "short_name" : "Великоберезнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "89030",
+               "short_name" : "89030",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Сухий, Закарпатська область, Україна, 89030",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.9600851,
+                  "lng" : 22.800902
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.938213,
+                  "lng" : 22.7790249
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.9497809,
+               "lng" : 22.7894609
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.9600851,
+                  "lng" : 22.800902
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.938213,
+                  "lng" : 22.7790249
+               }
+            }
+         },
+         "place_id" : "ChIJ4RjT2j97OUcRxpXnR84d7MA",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

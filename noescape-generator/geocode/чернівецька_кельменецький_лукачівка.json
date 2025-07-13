@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Лукачівка",
+               "short_name" : "Лукачівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кельменецький район",
+               "short_name" : "Кельменецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Лукачівка, Чернівецька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.3863503,
+                  "lng" : 26.9578558
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.3696075,
+                  "lng" : 26.920841
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.3773032,
+               "lng" : 26.9450457
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.3863503,
+                  "lng" : 26.9578558
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.3696075,
+                  "lng" : 26.920841
+               }
+            }
+         },
+         "place_id" : "ChIJGSzZUT50M0cRCG9E7kHd9rk",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

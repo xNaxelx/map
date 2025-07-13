@@ -1,0 +1,115 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "64",
+               "short_name" : "64",
+               "types" : 
+               [
+                  "street_number"
+               ]
+            },
+            {
+               "long_name" : "М24",
+               "short_name" : "М24",
+               "types" : 
+               [
+                  "route"
+               ]
+            },
+            {
+               "long_name" : "Астей",
+               "short_name" : "Астей",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Берегівський район",
+               "short_name" : "Берегівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90250",
+               "short_name" : "90250",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "М24, 64, Астей, Закарпатська область, Україна, 90250",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.1657202,
+               "lng" : 22.5739372
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.1670226302915,
+                  "lng" : 22.5753136802915
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.1643246697085,
+                  "lng" : 22.5726157197085
+               }
+            }
+         },
+         "navigation_points" : 
+         [
+            {
+               "location" : 
+               {
+                  "latitude" : 48.1656857,
+                  "longitude" : 22.5739576
+               }
+            }
+         ],
+         "place_id" : "ChIJzZX5qlhbOEcRQMQ8msg02_Q",
+         "plus_code" : 
+         {
+            "compound_code" : "5H8F+7H Астей, Закарпатська область, Україна",
+            "global_code" : "8GW45H8F+7H"
+         },
+         "types" : 
+         [
+            "establishment",
+            "point_of_interest"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

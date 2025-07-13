@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Дем'янівка",
+               "short_name" : "Дем'янівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Семенівський район",
+               "short_name" : "Семенівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Полтавська область",
+               "short_name" : "Полтавська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "38223",
+               "short_name" : "38223",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Дем'янівка, Полтавська область, Україна, 38223",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.551148,
+                  "lng" : 32.789317
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.529286,
+                  "lng" : 32.760453
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.5429909,
+               "lng" : 32.7763518
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.551148,
+                  "lng" : 32.789317
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.529286,
+                  "lng" : 32.760453
+               }
+            }
+         },
+         "place_id" : "ChIJcxA4fnXc1kARjuhoByCprM8",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

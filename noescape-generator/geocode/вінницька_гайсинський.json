@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Гайсинський район",
+               "short_name" : "Гайсинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Гайсинський район, Вінницька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.946001,
+                  "lng" : 29.7663611
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.56139,
+                  "lng" : 29.0805809
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.7994725,
+               "lng" : 29.3740088
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.946001,
+                  "lng" : 29.7663611
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.56139,
+                  "lng" : 29.0805809
+               }
+            }
+         },
+         "place_id" : "ChIJB-16HLp-zUARGgRL7lsHPJA",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

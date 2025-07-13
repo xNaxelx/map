@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Яруга",
+               "short_name" : "Яруга",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кам'янець-Подільський район",
+               "short_name" : "Кам'янець-Подільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Хмельницька область",
+               "short_name" : "Хмельницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "32394",
+               "short_name" : "32394",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Яруга, Хмельницька область, Україна, 32394",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.6033341,
+                  "lng" : 26.7529329
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.594273,
+                  "lng" : 26.7329
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5993585,
+               "lng" : 26.7435561
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.6033341,
+                  "lng" : 26.7529329
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.594273,
+                  "lng" : 26.7329
+               }
+            }
+         },
+         "place_id" : "ChIJB1_lN2q7M0cRnAw5JlfZWEU",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

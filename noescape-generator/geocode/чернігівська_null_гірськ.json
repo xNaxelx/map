@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Гірськ",
+               "short_name" : "Гірськ",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сновський район",
+               "short_name" : "Сновський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернігівська область",
+               "short_name" : "Чернігівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "15211",
+               "short_name" : "15211",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Гірськ, Чернігівська область, Україна, 15211",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.036139,
+                  "lng" : 31.85971589999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.006787,
+                  "lng" : 31.841633
+               }
+            },
+            "location" : 
+            {
+               "lat" : 52.0245982,
+               "lng" : 31.852275
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.036139,
+                  "lng" : 31.85971589999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.006787,
+                  "lng" : 31.841633
+               }
+            }
+         },
+         "place_id" : "ChIJJaFuzcnF1EYRWB9susq55dY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

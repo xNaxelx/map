@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Шосткинський район",
+               "short_name" : "Шосткинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сумська область",
+               "short_name" : "Сумська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Шосткинський район, Сумська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.152964,
+                  "lng" : 33.7589659
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.655972,
+                  "lng" : 33.0781822
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.8347252,
+               "lng" : 33.2901283
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.152964,
+                  "lng" : 33.7589659
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.655972,
+                  "lng" : 33.0781822
+               }
+            }
+         },
+         "place_id" : "ChIJcTlzMOx4K0ERsK_f97UemkQ",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

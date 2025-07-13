@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Лунка",
+               "short_name" : "Лунка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Герцаївський район",
+               "short_name" : "Герцаївський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60510",
+               "short_name" : "60510",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Лунка, Чернівецька область, Україна, 60510",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.195831,
+                  "lng" : 26.2977681
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.170763,
+                  "lng" : 26.270599
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.1859475,
+               "lng" : 26.2869011
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.195831,
+                  "lng" : 26.2977681
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.170763,
+                  "lng" : 26.270599
+               }
+            }
+         },
+         "place_id" : "ChIJ3aBZndN2NEcRzOCZqzI5fIo",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

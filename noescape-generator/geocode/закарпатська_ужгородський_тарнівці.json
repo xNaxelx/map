@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Тарнівці",
+               "short_name" : "Тарнівці",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ужгородський район",
+               "short_name" : "Ужгородський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "89420",
+               "short_name" : "89420",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Тарнівці, Закарпатська область, Україна, 89420",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.590163,
+                  "lng" : 22.22501
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.585363,
+                  "lng" : 22.216775
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5875704,
+               "lng" : 22.2205879
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.590163,
+                  "lng" : 22.22501
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.585363,
+                  "lng" : 22.216775
+               }
+            }
+         },
+         "place_id" : "ChIJqxo_urYYOUcR0rjslEC7xo8",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

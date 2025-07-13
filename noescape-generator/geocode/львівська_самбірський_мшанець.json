@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Мшанець",
+               "short_name" : "Мшанець",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Старосамбірський район",
+               "short_name" : "Старосамбірський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "82090",
+               "short_name" : "82090",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Мшанець, Львівська область, Україна, 82090",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.343691,
+                  "lng" : 22.791696
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.3301481,
+                  "lng" : 22.752964
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.3377144,
+               "lng" : 22.7720605
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.343691,
+                  "lng" : 22.791696
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.3301481,
+                  "lng" : 22.752964
+               }
+            }
+         },
+         "place_id" : "ChIJUy-8ijfqO0cR5HUgS4Gj4Do",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

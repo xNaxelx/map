@@ -1,0 +1,117 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Міжнародний аеропорт Бориспіль",
+               "short_name" : "KBP",
+               "types" : 
+               [
+                  "airport",
+                  "establishment",
+                  "point_of_interest"
+               ]
+            },
+            {
+               "long_name" : "Бориспіль",
+               "short_name" : "Бориспіль",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Київська область",
+               "short_name" : "Київська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "08307",
+               "short_name" : "08307",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Міжнародний аеропорт Бориспіль (KBP), Бориспіль, Київська область, Україна, 08307",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 50.33822199999999,
+               "lng" : 30.8939274
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.3519043,
+                  "lng" : 30.8962561302915
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.33822199999999,
+                  "lng" : 30.8935581697085
+               }
+            }
+         },
+         "navigation_points" : 
+         [
+            {
+               "location" : 
+               {
+                  "latitude" : 50.3515018,
+                  "longitude" : 30.8958869
+               },
+               "restricted_travel_modes" : 
+               [
+                  "DRIVE"
+               ]
+            },
+            {
+               "location" : 
+               {
+                  "latitude" : 50.3519035,
+                  "longitude" : 30.8947351
+               },
+               "restricted_travel_modes" : 
+               [
+                  "WALK"
+               ]
+            }
+         ],
+         "partial_match" : true,
+         "place_id" : "ChIJ0cV-Zvro1EAR2nDYSV0sCmk",
+         "plus_code" : 
+         {
+            "compound_code" : "8VQV+7H Бориспіль, Київська область, Україна",
+            "global_code" : "9G2G8VQV+7H"
+         },
+         "types" : 
+         [
+            "airport",
+            "establishment",
+            "point_of_interest"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

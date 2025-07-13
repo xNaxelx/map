@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Чорна",
+               "short_name" : "Чорна",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Окнянський район",
+               "short_name" : "Окнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67911",
+               "short_name" : "67911",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Чорна, Одеська область, Україна, 67911",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.6315579,
+                  "lng" : 29.3587929
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.606221,
+                  "lng" : 29.3207429
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.616319,
+               "lng" : 29.3411368
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.6315579,
+                  "lng" : 29.3587929
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.606221,
+                  "lng" : 29.3207429
+               }
+            }
+         },
+         "place_id" : "ChIJaZhSViEDzEARaFzNCf-GJpE",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

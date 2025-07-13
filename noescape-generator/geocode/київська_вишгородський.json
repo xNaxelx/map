@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Вишгородський район",
+               "short_name" : "Вишгородський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Київська область",
+               "short_name" : "Київська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Вишгородський район, Київська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.047303,
+                  "lng" : 30.779014
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.5158329,
+                  "lng" : 30.043435
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.583217,
+               "lng" : 30.485667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.047303,
+                  "lng" : 30.779014
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.5158329,
+                  "lng" : 30.043435
+               }
+            }
+         },
+         "place_id" : "ChIJMabI5kXXKkcRuqYkCWk4w5A",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

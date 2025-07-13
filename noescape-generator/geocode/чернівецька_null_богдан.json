@@ -1,0 +1,104 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "вулиця Богдана Хмельницького",
+               "short_name" : "вулиця Богдана Хмельницького",
+               "types" : 
+               [
+                  "route"
+               ]
+            },
+            {
+               "long_name" : "Сторожинець",
+               "short_name" : "Сторожинець",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сторожинецький район",
+               "short_name" : "Сторожинецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "59000",
+               "short_name" : "59000",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "вулиця Богдана Хмельницького, Сторожинець, Чернівецька область, Україна, 59000",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.1606014,
+                  "lng" : 25.7215181
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.1483257,
+                  "lng" : 25.7012186
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.1536781,
+               "lng" : 25.7159237
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.1606014,
+                  "lng" : 25.7215181
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.1483257,
+                  "lng" : 25.7012186
+               }
+            }
+         },
+         "place_id" : "ChIJB31X9tMbNEcRB8jhSwVdDto",
+         "types" : 
+         [
+            "route"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

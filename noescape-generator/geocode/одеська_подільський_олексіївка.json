@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Олексіївка",
+               "short_name" : "Олексіївка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Подільський район",
+               "short_name" : "Подільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66342",
+               "short_name" : "66342",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Олексіївка, Одеська область, Україна, 66342",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.720766,
+                  "lng" : 29.43674009999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.70011,
+                  "lng" : 29.4172221
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.7084571,
+               "lng" : 29.4296323
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.720766,
+                  "lng" : 29.43674009999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.70011,
+                  "lng" : 29.4172221
+               }
+            }
+         },
+         "place_id" : "ChIJlb4W35AezEARMibyJlD1bWg",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

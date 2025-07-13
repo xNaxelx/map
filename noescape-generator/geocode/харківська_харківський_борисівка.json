@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Борисівка",
+               "short_name" : "Борисівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Харківський район",
+               "short_name" : "Харківський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Харківська область",
+               "short_name" : "Харківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "62412",
+               "short_name" : "62412",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Борисівка, Харківська область, Україна, 62412",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.28156389999999,
+                  "lng" : 36.5639411
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.27262899999999,
+                  "lng" : 36.544995
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.2780387,
+               "lng" : 36.5559646
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.28156389999999,
+                  "lng" : 36.5639411
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.27262899999999,
+                  "lng" : 36.544995
+               }
+            }
+         },
+         "place_id" : "ChIJ_1_9HwlUJkERsEUjGPaq3Mo",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

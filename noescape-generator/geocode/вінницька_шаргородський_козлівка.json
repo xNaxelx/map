@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Козлівка",
+               "short_name" : "Козлівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Шаргородський район",
+               "short_name" : "Шаргородський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "23514",
+               "short_name" : "23514",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Козлівка, Вінницька область, Україна, 23514",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.794143,
+                  "lng" : 28.1466341
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.769485,
+                  "lng" : 28.1216579
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.77750020000001,
+               "lng" : 28.1321644
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.794143,
+                  "lng" : 28.1466341
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.769485,
+                  "lng" : 28.1216579
+               }
+            }
+         },
+         "place_id" : "ChIJnSBbco_IMkcRY8Cv9DIOVeU",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

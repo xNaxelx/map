@@ -1,0 +1,71 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Волинська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.9693255,
+                  "lng" : 26.1062831
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.2871931,
+                  "lng" : 23.6041072
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.74723299999999,
+               "lng" : 25.325383
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.9693255,
+                  "lng" : 26.1062831
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.2871931,
+                  "lng" : 23.6041072
+               }
+            }
+         },
+         "place_id" : "ChIJBYI5hgM0JEcRQED2iIQGAQE",
+         "types" : 
+         [
+            "administrative_area_level_1",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

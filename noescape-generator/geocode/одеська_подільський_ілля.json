@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Ілля",
+               "short_name" : "Ілля",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Окнянський район",
+               "short_name" : "Окнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67931",
+               "short_name" : "67931",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Ілля, Одеська область, Україна, 67931",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.469797,
+                  "lng" : 29.3624349
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.4581421,
+                  "lng" : 29.3432091
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.4637227,
+               "lng" : 29.3546299
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.469797,
+                  "lng" : 29.3624349
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.4581421,
+                  "lng" : 29.3432091
+               }
+            }
+         },
+         "place_id" : "ChIJTzbAdUqrzkAR3OF_x_zE7Og",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

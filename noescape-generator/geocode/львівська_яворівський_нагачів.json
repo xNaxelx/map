@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Нагачів",
+               "short_name" : "Нагачів",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Яворівський район",
+               "short_name" : "Яворівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "81021",
+               "short_name" : "81021",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Нагачів, Львівська область, Україна, 81021",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.012893,
+                  "lng" : 23.301361
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.988147,
+                  "lng" : 23.255372
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.0067855,
+               "lng" : 23.2692287
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.012893,
+                  "lng" : 23.301361
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.988147,
+                  "lng" : 23.255372
+               }
+            }
+         },
+         "place_id" : "ChIJqd_CPu5BO0cRejWGdTDI-4g",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

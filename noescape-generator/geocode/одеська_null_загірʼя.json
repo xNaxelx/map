@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Загір'я",
+               "short_name" : "Загір'я",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Захарівський район",
+               "short_name" : "Захарівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66740",
+               "short_name" : "66740",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Загір'я, Одеська область, Україна, 66740",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.3360789,
+                  "lng" : 29.836051
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.3269879,
+                  "lng" : 29.820012
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.3324868,
+               "lng" : 29.8279136
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.3360789,
+                  "lng" : 29.836051
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.3269879,
+                  "lng" : 29.820012
+               }
+            }
+         },
+         "place_id" : "ChIJzy2TBa7MzkARYhsTIwZGNbU",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

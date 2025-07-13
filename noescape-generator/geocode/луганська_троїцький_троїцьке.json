@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Троїцьке",
+               "short_name" : "Троїцьке",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Троїцький район",
+               "short_name" : "Троїцький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Луганська область",
+               "short_name" : "Луганська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "92101",
+               "short_name" : "92101",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Троїцьке, Луганська область, Україна, 92101",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.93697299999999,
+                  "lng" : 38.3506951
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.87269089999999,
+                  "lng" : 38.252419
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.9171487,
+               "lng" : 38.2958101
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.93697299999999,
+                  "lng" : 38.3506951
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.87269089999999,
+                  "lng" : 38.252419
+               }
+            }
+         },
+         "place_id" : "ChIJ6-qluFsVIUERCmgpwT_2Af0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

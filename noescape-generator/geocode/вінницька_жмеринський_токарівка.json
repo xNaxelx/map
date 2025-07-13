@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Токарівка",
+               "short_name" : "Токарівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Жмеринський район",
+               "short_name" : "Жмеринський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "23125",
+               "short_name" : "23125",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Токарівка, Вінницька область, Україна, 23125",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.072534,
+                  "lng" : 27.886072
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.06282299999999,
+                  "lng" : 27.8491651
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.06653370000001,
+               "lng" : 27.8637229
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.072534,
+                  "lng" : 27.886072
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.06282299999999,
+                  "lng" : 27.8491651
+               }
+            }
+         },
+         "place_id" : "ChIJtU5CJgyQMkcRyIEq4eR22cc",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

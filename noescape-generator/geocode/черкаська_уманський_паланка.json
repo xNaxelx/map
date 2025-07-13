@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Паланка",
+               "short_name" : "Паланка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Уманський район",
+               "short_name" : "Уманський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Черкаська область",
+               "short_name" : "Черкаська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "20340",
+               "short_name" : "20340",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Паланка, Черкаська область, Україна, 20340",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.7413421,
+                  "lng" : 30.129247
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.717698,
+                  "lng" : 30.06751909999999
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.7304418,
+               "lng" : 30.103565
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.7413421,
+                  "lng" : 30.129247
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.717698,
+                  "lng" : 30.06751909999999
+               }
+            }
+         },
+         "place_id" : "ChIJ0yAA_FZz0kARgEuO7QhRRd4",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

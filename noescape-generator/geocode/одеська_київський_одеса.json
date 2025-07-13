@@ -1,0 +1,108 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Київський район",
+               "short_name" : "Київський район",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+               ]
+            },
+            {
+               "long_name" : "Одеса",
+               "short_name" : "Одеса",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська міськрада",
+               "short_name" : "Одеська міськрада",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "65000",
+               "short_name" : "65000",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Київський район, Одеса, Одеська область, Україна, 65000",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.4377608,
+                  "lng" : 30.761335
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.319522,
+                  "lng" : 30.66559
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.3911962,
+               "lng" : 30.7234685
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.4377608,
+                  "lng" : 30.761335
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.319522,
+                  "lng" : 30.66559
+               }
+            }
+         },
+         "place_id" : "ChIJJRfts640xkARXi-KR_W3axw",
+         "types" : 
+         [
+            "political",
+            "sublocality",
+            "sublocality_level_1"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

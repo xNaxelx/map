@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Свірок",
+               "short_name" : "Свірок",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сосницький район",
+               "short_name" : "Сосницький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернігівська область",
+               "short_name" : "Чернігівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "16112",
+               "short_name" : "16112",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Свірок, Чернігівська область, Україна, 16112",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.7320759,
+                  "lng" : 32.6673949
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.7201951,
+                  "lng" : 32.65298
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.7253242,
+               "lng" : 32.6625581
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.7320759,
+                  "lng" : 32.6673949
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.7201951,
+                  "lng" : 32.65298
+               }
+            }
+         },
+         "place_id" : "ChIJERAUJhMXK0ERctXnhjPTu40",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

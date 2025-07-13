@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Бугай",
+               "short_name" : "Бугай",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Роздільнянський район",
+               "short_name" : "Роздільнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67411",
+               "short_name" : "67411",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Бугай, Одеська область, Україна, 67411",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.92677500000001,
+                  "lng" : 29.8572119
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.918382,
+                  "lng" : 29.841606
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.9235025,
+               "lng" : 29.8493148
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.92677500000001,
+                  "lng" : 29.8572119
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.918382,
+                  "lng" : 29.841606
+               }
+            }
+         },
+         "place_id" : "ChIJ5aKBlw7hyEARwm68emUmYvA",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Мирони",
+               "short_name" : "Мирони",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Балтський район",
+               "short_name" : "Балтський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66144",
+               "short_name" : "66144",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Мирони, Одеська область, Україна, 66144",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.960412,
+                  "lng" : 29.587666
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.93910899999999,
+                  "lng" : 29.5454399
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.9470125,
+               "lng" : 29.5697598
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.960412,
+                  "lng" : 29.587666
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.93910899999999,
+                  "lng" : 29.5454399
+               }
+            }
+         },
+         "place_id" : "ChIJq0sAiQovzEAR4hMd_dqtNaY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

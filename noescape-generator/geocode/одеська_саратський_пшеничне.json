@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Пшеничне",
+               "short_name" : "Пшеничне",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Саратський район",
+               "short_name" : "Саратський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68214",
+               "short_name" : "68214",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Пшеничне, Одеська область, Україна, 68214",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.2924069,
+                  "lng" : 29.637577
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.276913,
+                  "lng" : 29.625953
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.2843635,
+               "lng" : 29.6322195
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.2924069,
+                  "lng" : 29.637577
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.276913,
+                  "lng" : 29.625953
+               }
+            }
+         },
+         "place_id" : "ChIJGxb-VuEVyEAReP1pnbJkaoA",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

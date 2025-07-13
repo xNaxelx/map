@@ -1,0 +1,98 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Оршівці",
+               "short_name" : "Оршівці",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кіцманський район",
+               "short_name" : "Кіцманський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "59321",
+               "short_name" : "59321",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Оршівці, Чернівецька область, Україна, 59321",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.448016,
+                  "lng" : 25.645779
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.4050559,
+                  "lng" : 25.6039471
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.4228645,
+               "lng" : 25.6241042
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.448016,
+                  "lng" : 25.645779
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.4050559,
+                  "lng" : 25.6039471
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJZcyqaa6sNkcR6BbPzw2x1jg",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

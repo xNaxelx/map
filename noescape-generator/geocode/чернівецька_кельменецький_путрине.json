@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Путрине",
+               "short_name" : "Путрине",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кельменецький район",
+               "short_name" : "Кельменецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60123",
+               "short_name" : "60123",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Путрине, Чернівецька область, Україна, 60123",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.421988,
+                  "lng" : 26.706942
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.409168,
+                  "lng" : 26.68695
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.41502819999999,
+               "lng" : 26.6931515
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.421988,
+                  "lng" : 26.706942
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.409168,
+                  "lng" : 26.68695
+               }
+            }
+         },
+         "place_id" : "ChIJ_YQreN6bM0cRXIxGncnWwU8",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

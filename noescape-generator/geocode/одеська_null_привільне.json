@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Привільне",
+               "short_name" : "Привільне",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Великомихайлівський район",
+               "short_name" : "Великомихайлівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67123",
+               "short_name" : "67123",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Привільне, Одеська область, Україна, 67123",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.223723,
+                  "lng" : 30.0873559
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.211077,
+                  "lng" : 30.05608509999999
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.2168572,
+               "lng" : 30.0720335
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.223723,
+                  "lng" : 30.0873559
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.211077,
+                  "lng" : 30.05608509999999
+               }
+            }
+         },
+         "place_id" : "ChIJbTq6kfQqyUARNutgOjSC5tw",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

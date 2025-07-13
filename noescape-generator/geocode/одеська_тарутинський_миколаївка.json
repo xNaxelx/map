@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Миколаївка",
+               "short_name" : "Миколаївка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Тарутинський район",
+               "short_name" : "Тарутинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68535",
+               "short_name" : "68535",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Миколаївка, Одеська область, Україна, 68535",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.390455,
+                  "lng" : 29.4208091
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.355054,
+                  "lng" : 29.391743
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.3670954,
+               "lng" : 29.4068291
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.390455,
+                  "lng" : 29.4208091
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.355054,
+                  "lng" : 29.391743
+               }
+            }
+         },
+         "place_id" : "ChIJYftBoW83yEARqAK2A9bTR9g",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

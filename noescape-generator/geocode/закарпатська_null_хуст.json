@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Хуст",
+               "short_name" : "Хуст",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Хустська міськрада",
+               "short_name" : "Хустська міськрада",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90400",
+               "short_name" : "90400",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Хуст, Закарпатська область, Україна, 90400",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.20123599999999,
+                  "lng" : 23.329747
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.146404,
+                  "lng" : 23.2492789
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.17346329999999,
+               "lng" : 23.2972476
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.20123599999999,
+                  "lng" : 23.329747
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.146404,
+                  "lng" : 23.2492789
+               }
+            }
+         },
+         "place_id" : "ChIJS-oU1kIpOEcRojgYcgYxiao",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

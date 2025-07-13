@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Мізоч",
+               "short_name" : "Мізоч",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Здолбунівський район",
+               "short_name" : "Здолбунівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "35740",
+               "short_name" : "35740",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Мізоч, Рівненська область, Україна, 35740",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.4285109,
+                  "lng" : 26.1724268
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.385619,
+                  "lng" : 26.117829
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.40349920000001,
+               "lng" : 26.141892
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.4285109,
+                  "lng" : 26.1724268
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.385619,
+                  "lng" : 26.117829
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJE79W9BQKL0cR-ExNQ5UBMh0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Рівненський район",
+               "short_name" : "Рівненський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Рівненський район, Рівненська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.845209,
+                  "lng" : 26.558318
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.504423,
+                  "lng" : 25.8106379
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.7075839,
+               "lng" : 26.1130418
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.845209,
+                  "lng" : 26.558318
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.504423,
+                  "lng" : 25.8106379
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJjT6_3MZrL0cRIIMrWp6RBeE",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

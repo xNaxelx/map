@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Грушівці",
+               "short_name" : "Грушівці",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кельменецький район",
+               "short_name" : "Кельменецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60113",
+               "short_name" : "60113",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Грушівці, Чернівецька область, Україна, 60113",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.560265,
+                  "lng" : 26.8339699
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.535553,
+                  "lng" : 26.8090479
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5481242,
+               "lng" : 26.8218087
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.560265,
+                  "lng" : 26.8339699
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.535553,
+                  "lng" : 26.8090479
+               }
+            }
+         },
+         "place_id" : "ChIJhTkQ_pCjM0cR7LpW_R23j64",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Сумський район",
+               "short_name" : "Сумський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сумська область",
+               "short_name" : "Сумська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Сумський район, Сумська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.2355274,
+                  "lng" : 35.1769121
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.6848989,
+                  "lng" : 34.443189
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.05300399999999,
+               "lng" : 34.7977984
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.2355274,
+                  "lng" : 35.1769121
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.6848989,
+                  "lng" : 34.443189
+               }
+            }
+         },
+         "place_id" : "ChIJuY4JzA4DKUERaEAH5jpxXdE",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

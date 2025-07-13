@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Дяківці",
+               "short_name" : "Дяківці",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Герцаївський район",
+               "short_name" : "Герцаївський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60544",
+               "short_name" : "60544",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Дяківці, Чернівецька область, Україна, 60544",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.11499999999999,
+                  "lng" : 26.2688449
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.09054,
+                  "lng" : 26.2165749
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.1002772,
+               "lng" : 26.2479891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.11499999999999,
+                  "lng" : 26.2688449
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.09054,
+                  "lng" : 26.2165749
+               }
+            }
+         },
+         "place_id" : "ChIJI7H54t5vNEcRXq4abHAupW8",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

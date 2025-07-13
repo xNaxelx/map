@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Левковичі",
+               "short_name" : "Левковичі",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Овруцький район",
+               "short_name" : "Овруцький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Житомирська область",
+               "short_name" : "Житомирська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "11134",
+               "short_name" : "11134",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Левковичі, Житомирська область, Україна, 11134",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.38709100000001,
+                  "lng" : 28.4768321
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.354814,
+                  "lng" : 28.445614
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.36555509999999,
+               "lng" : 28.4591401
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.38709100000001,
+                  "lng" : 28.4768321
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.354814,
+                  "lng" : 28.445614
+               }
+            }
+         },
+         "place_id" : "ChIJ37mmua6bKUcRUAxlKbfWdL0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

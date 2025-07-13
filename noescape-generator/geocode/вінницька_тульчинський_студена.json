@@ -1,0 +1,165 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Тульчинський район",
+               "short_name" : "Тульчинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Тульчинський район, Вінницька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.874896,
+                  "lng" : 29.212501
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.520992,
+                  "lng" : 28.4880961
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.6915531,
+               "lng" : 28.8120078
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.874896,
+                  "lng" : 29.212501
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.520992,
+                  "lng" : 28.4880961
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJJVsR0b5BzUARpNByfJCOFBs",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Студена",
+               "short_name" : "Студена",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Піщанський район",
+               "short_name" : "Піщанський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Студена, Вінницька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.1550642,
+                  "lng" : 28.8829708
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.12611159999999,
+                  "lng" : 28.8336397
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.1397926,
+               "lng" : 28.86183419999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.1550642,
+                  "lng" : 28.8829708
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.12611159999999,
+                  "lng" : 28.8336397
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJI-_xXNxXzEARPwYtZmJ_JIk",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

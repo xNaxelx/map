@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Вітрянка",
+               "short_name" : "Вітрянка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сокирянський район",
+               "short_name" : "Сокирянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60214",
+               "short_name" : "60214",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Вітрянка, Чернівецька область, Україна, 60214",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.551203,
+                  "lng" : 27.2601439
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.527533,
+                  "lng" : 27.231323
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5367207,
+               "lng" : 27.2500054
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.551203,
+                  "lng" : 27.2601439
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.527533,
+                  "lng" : 27.231323
+               }
+            }
+         },
+         "place_id" : "ChIJoa5kv_EPM0cRn1aLZIX9bl0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

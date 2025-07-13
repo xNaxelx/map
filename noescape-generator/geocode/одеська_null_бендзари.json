@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Бендзари",
+               "short_name" : "Бендзари",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Балтський район",
+               "short_name" : "Балтський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66150",
+               "short_name" : "66150",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Бендзари, Одеська область, Україна, 66150",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.938848,
+                  "lng" : 29.70572289999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.92281699999999,
+                  "lng" : 29.6554111
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.9264926,
+               "lng" : 29.6758166
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.938848,
+                  "lng" : 29.70572289999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.92281699999999,
+                  "lng" : 29.6554111
+               }
+            }
+         },
+         "place_id" : "ChIJgbjIVRwpzEARWC3bL2VzTxo",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

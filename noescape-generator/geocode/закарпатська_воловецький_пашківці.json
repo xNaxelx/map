@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Пашківці",
+               "short_name" : "Пашківці",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Воловецький район",
+               "short_name" : "Воловецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "89120",
+               "short_name" : "89120",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Пашківці, Закарпатська область, Україна, 89120",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.81926300000001,
+                  "lng" : 22.948595
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.802671,
+                  "lng" : 22.938542
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.8144701,
+               "lng" : 22.9418981
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.81926300000001,
+                  "lng" : 22.948595
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.802671,
+                  "lng" : 22.938542
+               }
+            }
+         },
+         "place_id" : "ChIJYzWHxKCdOUcRNL_w9ZGo2jk",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

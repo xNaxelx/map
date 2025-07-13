@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Буденець",
+               "short_name" : "Буденець",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сторожинецький район",
+               "short_name" : "Сторожинецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "59030",
+               "short_name" : "59030",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Буденець, Чернівецька область, Україна, 59030",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.098639,
+                  "lng" : 25.672242
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.071206,
+                  "lng" : 25.632524
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.0855087,
+               "lng" : 25.655775
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.098639,
+                  "lng" : 25.672242
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.071206,
+                  "lng" : 25.632524
+               }
+            }
+         },
+         "place_id" : "ChIJT7O5nn8YNEcREhxVk33rLss",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

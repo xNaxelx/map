@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Надвірна",
+               "short_name" : "Надвірна",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Надворнянський район",
+               "short_name" : "Надворнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Івано-Франківська область",
+               "short_name" : "Івано-Франківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "78400",
+               "short_name" : "78400",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Надвірна, Івано-Франківська область, Україна, 78400",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.652304,
+                  "lng" : 24.613997
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.608114,
+                  "lng" : 24.5444409
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.6211999,
+               "lng" : 24.5759679
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.652304,
+                  "lng" : 24.613997
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.608114,
+                  "lng" : 24.5444409
+               }
+            }
+         },
+         "place_id" : "ChIJTT1BkYgyN0cR6N8ejb0d72U",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

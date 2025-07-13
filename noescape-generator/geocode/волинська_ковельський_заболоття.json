@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Заболоття",
+               "short_name" : "Заболоття",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Любомльський район",
+               "short_name" : "Любомльський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "44321",
+               "short_name" : "44321",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Заболоття, Волинська область, Україна, 44321",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.410295,
+                  "lng" : 24.1587639
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.3943599,
+                  "lng" : 24.099633
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.3988646,
+               "lng" : 24.1300586
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.410295,
+                  "lng" : 24.1587639
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.3943599,
+                  "lng" : 24.099633
+               }
+            }
+         },
+         "place_id" : "ChIJVyxk_MEHJEcRCNha0YE1hsA",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

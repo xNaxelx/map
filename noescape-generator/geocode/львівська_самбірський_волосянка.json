@@ -1,0 +1,248 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Самбірський район",
+               "short_name" : "Самбірський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Самбірський район, Львівська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.7607029,
+                  "lng" : 23.6554599
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.337475,
+                  "lng" : 23.039228
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.578198,
+               "lng" : 23.3664274
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.7607029,
+                  "lng" : 23.6554599
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.337475,
+                  "lng" : 23.039228
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJY-WFvSipO0cRIg7jX41_UbI",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Волосянка",
+               "short_name" : "Волосянка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сколівський район",
+               "short_name" : "Сколівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "82663",
+               "short_name" : "82663",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Волосянка, Львівська область, Україна, 82663",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.797281,
+                  "lng" : 23.439597
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.7628199,
+                  "lng" : 23.416843
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.7793766,
+               "lng" : 23.4290334
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.797281,
+                  "lng" : 23.439597
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.7628199,
+                  "lng" : 23.416843
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJCf6dc8TyOUcROGbz6qPEZhY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "річка Волосянка",
+               "short_name" : "річка Волосянка",
+               "types" : 
+               [
+                  "establishment",
+                  "natural_feature"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "річка Волосянка, Львівська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.26377309999999,
+                  "lng" : 23.0682226
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.2376075,
+                  "lng" : 22.9827564
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.25069026932674,
+               "lng" : 23.02548951779445
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.26377309999999,
+                  "lng" : 23.0682226
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.2376075,
+                  "lng" : 22.9827564
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJPYlVjOnFO0cRSIfsLHwaxJg",
+         "types" : 
+         [
+            "establishment",
+            "natural_feature"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

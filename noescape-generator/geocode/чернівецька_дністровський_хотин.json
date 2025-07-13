@@ -1,0 +1,90 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Хотин",
+               "short_name" : "Хотин",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Хотинський район",
+               "short_name" : "Хотинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Хотин, Чернівецька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.5339918,
+                  "lng" : 26.5204598
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.48285000000001,
+                  "lng" : 26.4652491
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5097106,
+               "lng" : 26.4903334
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.5339918,
+                  "lng" : 26.5204598
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.48285000000001,
+                  "lng" : 26.4652491
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ6zwqYkqUM0cRUoip3jUoQRM",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Тисменицький район",
+               "short_name" : "Тисменицький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Івано-Франківська область",
+               "short_name" : "Івано-Франківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Тисменицький район, Івано-Франківська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.09609,
+                  "lng" : 24.971859
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.759092,
+                  "lng" : 24.4494961
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.9271025,
+               "lng" : 24.8515173
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.09609,
+                  "lng" : 24.971859
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.759092,
+                  "lng" : 24.4494961
+               }
+            }
+         },
+         "place_id" : "ChIJtxnbiA3BMEcRSp225y-sUto",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

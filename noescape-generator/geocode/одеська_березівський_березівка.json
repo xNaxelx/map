@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Березівка",
+               "short_name" : "Березівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Березівський район",
+               "short_name" : "Березівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67301",
+               "short_name" : "67301",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Березівка, Одеська область, Україна, 67301",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.21545,
+                  "lng" : 30.947029
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.18548699999999,
+                  "lng" : 30.88716
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.20382679999999,
+               "lng" : 30.9163475
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.21545,
+                  "lng" : 30.947029
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.18548699999999,
+                  "lng" : 30.88716
+               }
+            }
+         },
+         "place_id" : "ChIJMc83lGtFz0AR498B4x5FTNk",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

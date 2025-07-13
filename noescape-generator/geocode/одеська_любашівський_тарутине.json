@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Любашівський район",
+               "short_name" : "Любашівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Любашівський район, Одеська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.029928,
+                  "lng" : 30.483379
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.557664,
+                  "lng" : 29.861517
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.7664588,
+               "lng" : 30.2432848
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.029928,
+                  "lng" : 30.483379
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.557664,
+                  "lng" : 29.861517
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJKXfIatyMzkARFBY9bw4dFCA",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Бессарабське",
+               "short_name" : "Бессарабське",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Тарутинський район",
+               "short_name" : "Тарутинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68500",
+               "short_name" : "68500",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Бессарабське, Одеська область, Україна, 68500",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.20417,
+                  "lng" : 29.167649
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.16495399999999,
+                  "lng" : 29.122413
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.1891882,
+               "lng" : 29.1464952
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.20417,
+                  "lng" : 29.167649
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.16495399999999,
+                  "lng" : 29.122413
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJtZaI1sopyEARYBUVkxXPiIQ",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

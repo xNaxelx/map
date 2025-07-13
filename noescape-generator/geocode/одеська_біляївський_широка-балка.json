@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Широка Балка",
+               "short_name" : "Широка Балка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Біляївський район",
+               "short_name" : "Біляївський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67653",
+               "short_name" : "67653",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Широка Балка, Одеська область, Україна, 67653",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.545838,
+                  "lng" : 30.36462109999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.522747,
+                  "lng" : 30.3477079
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.5323116,
+               "lng" : 30.3538327
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.545838,
+                  "lng" : 30.36462109999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.522747,
+                  "lng" : 30.3477079
+               }
+            }
+         },
+         "place_id" : "ChIJsUKrKh6ByEARmrl74xW8T2Y",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Колосова",
+               "short_name" : "Колосова",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кременецький район",
+               "short_name" : "Кременецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Тернопільська область",
+               "short_name" : "Тернопільська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "47033",
+               "short_name" : "47033",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Колосова, Тернопільська область, Україна, 47033",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.049519,
+                  "lng" : 25.709525
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.02198600000001,
+                  "lng" : 25.6746221
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.03554800000001,
+               "lng" : 25.6904891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.049519,
+                  "lng" : 25.709525
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.02198600000001,
+                  "lng" : 25.6746221
+               }
+            }
+         },
+         "place_id" : "ChIJo3UeZRPCL0cR-EErV3n_t1I",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

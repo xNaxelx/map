@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Степанівка",
+               "short_name" : "Степанівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Роздільнянський район",
+               "short_name" : "Роздільнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67430",
+               "short_name" : "67430",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Степанівка, Одеська область, Україна, 67430",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.815163,
+                  "lng" : 29.997135
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.7719999,
+                  "lng" : 29.9768629
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.7942809,
+               "lng" : 29.9849956
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.815163,
+                  "lng" : 29.997135
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.7719999,
+                  "lng" : 29.9768629
+               }
+            }
+         },
+         "place_id" : "ChIJhwMyZ0nuyEARZFHxw2GrkCE",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

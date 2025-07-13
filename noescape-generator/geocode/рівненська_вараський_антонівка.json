@@ -1,0 +1,98 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Антонівка",
+               "short_name" : "Антонівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Володимирецький район",
+               "short_name" : "Володимирецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "34380",
+               "short_name" : "34380",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Антонівка, Рівненська область, Україна, 34380",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.324848,
+                  "lng" : 26.326332
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.30284899999999,
+                  "lng" : 26.2897861
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.3140166,
+               "lng" : 26.3029098
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.324848,
+                  "lng" : 26.326332
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.30284899999999,
+                  "lng" : 26.2897861
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ__CtNsEdJkcRrrUV3SYCIw0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

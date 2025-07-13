@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Гулянка",
+               "short_name" : "Гулянка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Коростенський район",
+               "short_name" : "Коростенський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Житомирська область",
+               "short_name" : "Житомирська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "11563",
+               "short_name" : "11563",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Гулянка, Житомирська область, Україна, 11563",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.88667510000001,
+                  "lng" : 28.1885802
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.870276,
+                  "lng" : 28.1590189
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.8788197,
+               "lng" : 28.1727056
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.88667510000001,
+                  "lng" : 28.1885802
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.870276,
+                  "lng" : 28.1590189
+               }
+            }
+         },
+         "place_id" : "ChIJQ1CCbR1cKUcRr5AGAZd_SJY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

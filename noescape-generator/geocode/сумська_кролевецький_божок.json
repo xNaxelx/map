@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Божок",
+               "short_name" : "Божок",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кролевецький район",
+               "short_name" : "Кролевецький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сумська область",
+               "short_name" : "Сумська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Божок, Сумська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.4688771,
+                  "lng" : 33.4235215
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.434205,
+                  "lng" : 33.3814761
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.44622760000001,
+               "lng" : 33.4018976
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.4688771,
+                  "lng" : 33.4235215
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.434205,
+                  "lng" : 33.3814761
+               }
+            }
+         },
+         "place_id" : "ChIJRwO42W63K0ER_S5DNpKVYfc",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

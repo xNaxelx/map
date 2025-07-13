@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Старосілля",
+               "short_name" : "Старосілля",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Саратський район",
+               "short_name" : "Саратський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "68212",
+               "short_name" : "68212",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Старосілля, Одеська область, Україна, 68212",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.338649,
+                  "lng" : 29.4853101
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.313378,
+                  "lng" : 29.4522601
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.3230382,
+               "lng" : 29.4702197
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.338649,
+                  "lng" : 29.4853101
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.313378,
+                  "lng" : 29.4522601
+               }
+            }
+         },
+         "place_id" : "ChIJ_ZARqtg7yEARIHQ4GAmBLsw",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

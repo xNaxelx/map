@@ -1,0 +1,99 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "вул. 40 років Перемоги",
+               "short_name" : "вул. 40 років Перемоги",
+               "types" : 
+               [
+                  "route"
+               ]
+            },
+            {
+               "long_name" : "Білин",
+               "short_name" : "Білин",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ковельський район",
+               "short_name" : "Ковельський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "45042",
+               "short_name" : "45042",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "вул. 40 років Перемоги, Білин, Волинська область, Україна, 45042",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 51.2433145,
+               "lng" : 24.8112011
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.24466348029149,
+                  "lng" : 24.8125500802915
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.24196551970849,
+                  "lng" : 24.80985211970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ6RrVfgAlJEcRudvc_sYbnWk",
+         "plus_code" : 
+         {
+            "compound_code" : "6RV6+8F Білин, Волинська область, Україна",
+            "global_code" : "9G366RV6+8F"
+         },
+         "types" : 
+         [
+            "establishment",
+            "point_of_interest",
+            "school"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

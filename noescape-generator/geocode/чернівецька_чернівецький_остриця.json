@@ -1,0 +1,98 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Остриця",
+               "short_name" : "Остриця",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Герцаївський район",
+               "short_name" : "Герцаївський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60520",
+               "short_name" : "60520",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Остриця, Чернівецька область, Україна, 60520",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.27241799999999,
+                  "lng" : 26.0812651
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.242208,
+                  "lng" : 26.025444
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.25824189999999,
+               "lng" : 26.0480954
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.27241799999999,
+                  "lng" : 26.0812651
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.242208,
+                  "lng" : 26.025444
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJJSMRE8ILNEcR_kJDPX_jLzo",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

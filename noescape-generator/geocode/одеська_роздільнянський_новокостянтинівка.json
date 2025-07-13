@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Новокостянтинівка",
+               "short_name" : "Новокостянтинівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Роздільнянський район",
+               "short_name" : "Роздільнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67410",
+               "short_name" : "67410",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Новокостянтинівка, Одеська область, Україна, 67410",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.969207,
+                  "lng" : 29.9863151
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.93466189999999,
+                  "lng" : 29.94946
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.9502356,
+               "lng" : 29.9692715
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.969207,
+                  "lng" : 29.9863151
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.93466189999999,
+                  "lng" : 29.94946
+               }
+            }
+         },
+         "place_id" : "ChIJdchzCVznyEAR7rV7vVfobDs",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

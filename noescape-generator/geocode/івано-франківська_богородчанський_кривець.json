@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Кривець",
+               "short_name" : "Кривець",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Богородчанський район",
+               "short_name" : "Богородчанський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Івано-Франківська область",
+               "short_name" : "Івано-Франківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "77733",
+               "short_name" : "77733",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Кривець, Івано-Франківська область, Україна, 77733",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.729043,
+                  "lng" : 24.3612489
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.708749,
+                  "lng" : 24.317131
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.7209113,
+               "lng" : 24.3346242
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.729043,
+                  "lng" : 24.3612489
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.708749,
+                  "lng" : 24.317131
+               }
+            }
+         },
+         "place_id" : "ChIJGTjivS1LN0cR5vy12oSqAJM",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

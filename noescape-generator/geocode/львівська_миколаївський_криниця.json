@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Криниця",
+               "short_name" : "Криниця",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Миколаївський район",
+               "short_name" : "Миколаївський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "81643",
+               "short_name" : "81643",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Криниця, Львівська область, Україна, 81643",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.436729,
+                  "lng" : 23.8413619
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.42206299999999,
+                  "lng" : 23.8222369
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.4276829,
+               "lng" : 23.8332435
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.436729,
+                  "lng" : 23.8413619
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.42206299999999,
+                  "lng" : 23.8222369
+               }
+            }
+         },
+         "place_id" : "ChIJv7KPgvxbOkcRZLbjxmEcTQk",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

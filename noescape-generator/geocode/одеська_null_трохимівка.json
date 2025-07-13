@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Трохимівка",
+               "short_name" : "Трохимівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Великомихайлівський район",
+               "short_name" : "Великомихайлівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67114",
+               "short_name" : "67114",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Трохимівка, Одеська область, Україна, 67114",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.191739,
+                  "lng" : 29.62037299999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.18432199999999,
+                  "lng" : 29.609885
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.18686599999999,
+               "lng" : 29.6163595
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.191739,
+                  "lng" : 29.62037299999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.18432199999999,
+                  "lng" : 29.609885
+               }
+            }
+         },
+         "place_id" : "ChIJw3D5fJY5yUARugG0dxij00U",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

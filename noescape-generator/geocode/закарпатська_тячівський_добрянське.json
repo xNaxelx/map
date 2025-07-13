@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Добрянське",
+               "short_name" : "Добрянське",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Тячівський район",
+               "short_name" : "Тячівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90560",
+               "short_name" : "90560",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Добрянське, Закарпатська область, Україна, 90560",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.082506,
+                  "lng" : 23.7187259
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.052212,
+                  "lng" : 23.7005681
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.0667305,
+               "lng" : 23.7120957
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.082506,
+                  "lng" : 23.7187259
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.052212,
+                  "lng" : 23.7005681
+               }
+            }
+         },
+         "place_id" : "ChIJdSnGonyZN0cRGFJiVUZk6Fg",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

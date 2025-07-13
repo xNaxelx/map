@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Покровка",
+               "short_name" : "Покровка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Сокирянський район",
+               "short_name" : "Сокирянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "60212",
+               "short_name" : "60212",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Покровка, Чернівецька область, Україна, 60212",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.516619,
+                  "lng" : 27.1211381
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.512133,
+                  "lng" : 27.1092759
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.5138289,
+               "lng" : 27.1149842
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.516619,
+                  "lng" : 27.1211381
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.512133,
+                  "lng" : 27.1092759
+               }
+            }
+         },
+         "place_id" : "ChIJS3FypzQJM0cR8IIzWDWZqPA",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

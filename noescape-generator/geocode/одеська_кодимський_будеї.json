@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Будеї",
+               "short_name" : "Будеї",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Кодимський район",
+               "short_name" : "Кодимський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66022",
+               "short_name" : "66022",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Будеї, Одеська область, Україна, 66022",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.072446,
+                  "lng" : 29.306585
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.030398,
+                  "lng" : 29.2519761
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.0487684,
+               "lng" : 29.2793374
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.072446,
+                  "lng" : 29.306585
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.030398,
+                  "lng" : 29.2519761
+               }
+            }
+         },
+         "place_id" : "ChIJfR_pU6lJzEAR4A2L-_ycxpI",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

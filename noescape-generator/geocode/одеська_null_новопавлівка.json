@@ -1,0 +1,279 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Новопавлівка",
+               "short_name" : "Новопавлівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ширяївський район",
+               "short_name" : "Ширяївський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66810",
+               "short_name" : "66810",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Новопавлівка, Одеська область, Україна, 66810",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.509347,
+                  "lng" : 30.273467
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.50004000000001,
+                  "lng" : 30.2620639
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.5039656,
+               "lng" : 30.2655244
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.509347,
+                  "lng" : 30.273467
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.50004000000001,
+                  "lng" : 30.2620639
+               }
+            }
+         },
+         "place_id" : "ChIJ99XWIsrdzkARtmSubikxQ-w",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Новопавлівка",
+               "short_name" : "Новопавлівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Захарівський район",
+               "short_name" : "Захарівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66703",
+               "short_name" : "66703",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Новопавлівка, Одеська область, Україна, 66703",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.406391,
+                  "lng" : 29.7491449
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.3858631,
+                  "lng" : 29.731904
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.3954949,
+               "lng" : 29.7385198
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.406391,
+                  "lng" : 29.7491449
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.3858631,
+                  "lng" : 29.731904
+               }
+            }
+         },
+         "place_id" : "ChIJL_wYfYC1zkARqKzZReBGFmc",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Новопавлівка",
+               "short_name" : "Новопавлівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Великомихайлівський район",
+               "short_name" : "Великомихайлівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67122",
+               "short_name" : "67122",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Новопавлівка, Одеська область, Україна, 67122",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.15844209999999,
+                  "lng" : 29.9668329
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.15237,
+                  "lng" : 29.9565149
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.1554154,
+               "lng" : 29.9603942
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.15844209999999,
+                  "lng" : 29.9668329
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.15237,
+                  "lng" : 29.9565149
+               }
+            }
+         },
+         "place_id" : "ChIJDRHc5f4oyUARmElyZEZvLCU",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

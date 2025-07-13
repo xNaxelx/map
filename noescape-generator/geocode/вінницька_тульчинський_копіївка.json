@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Копіївка",
+               "short_name" : "Копіївка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Тульчинський район",
+               "short_name" : "Тульчинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "23623",
+               "short_name" : "23623",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Копіївка, Вінницька область, Україна, 23623",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.729425,
+                  "lng" : 28.75661509999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.6960039,
+                  "lng" : 28.6870011
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.7121505,
+               "lng" : 28.71626389999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.729425,
+                  "lng" : 28.75661509999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.6960039,
+                  "lng" : 28.6870011
+               }
+            }
+         },
+         "place_id" : "ChIJwzFGPiFHzUARs5M7unO7Y5w",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

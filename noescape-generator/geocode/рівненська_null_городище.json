@@ -1,0 +1,188 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Городище",
+               "short_name" : "Городище",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненський район",
+               "short_name" : "Рівненський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "35341",
+               "short_name" : "35341",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Городище, Рівненська область, Україна, 35341",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.648471,
+                  "lng" : 26.428627
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.619642,
+                  "lng" : 26.342813
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.6376047,
+               "lng" : 26.3680618
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.648471,
+                  "lng" : 26.428627
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.619642,
+                  "lng" : 26.342813
+               }
+            }
+         },
+         "place_id" : "ChIJIx_jxTEUL0cRkkPghQ4olhY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Городище",
+               "short_name" : "Городище",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Березнівський район",
+               "short_name" : "Березнівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "34607",
+               "short_name" : "34607",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Городище, Рівненська область, Україна, 34607",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.049402,
+                  "lng" : 26.7467881
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.996613,
+                  "lng" : 26.698174
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.0189443,
+               "lng" : 26.7293882
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.049402,
+                  "lng" : 26.7467881
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.996613,
+                  "lng" : 26.698174
+               }
+            }
+         },
+         "place_id" : "ChIJ677fc0zKKEcR-JPcDPqpMII",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

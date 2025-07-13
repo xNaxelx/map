@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Бене",
+               "short_name" : "Бене",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Берегівський район",
+               "short_name" : "Берегівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90261",
+               "short_name" : "90261",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Бене, Закарпатська область, Україна, 90261",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.172638,
+                  "lng" : 22.7731451
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.16004299999999,
+                  "lng" : 22.740654
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.1648837,
+               "lng" : 22.761031
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.172638,
+                  "lng" : 22.7731451
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.16004299999999,
+                  "lng" : 22.740654
+               }
+            }
+         },
+         "place_id" : "ChIJi0VvWptGOEcRbo3kBFQoUJI",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

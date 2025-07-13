@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Кладнів",
+               "short_name" : "Кладнів",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Володимир-Волинський район",
+               "short_name" : "Володимир-Волинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "44711",
+               "short_name" : "44711",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Кладнів, Волинська область, Україна, 44711",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.034867,
+                  "lng" : 23.966134
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.0239571,
+                  "lng" : 23.9510151
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.0328321,
+               "lng" : 23.953304
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.034867,
+                  "lng" : 23.966134
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.0239571,
+                  "lng" : 23.9510151
+               }
+            }
+         },
+         "place_id" : "ChIJI0eEtlZ6JEcRvmzoAf1rkGM",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

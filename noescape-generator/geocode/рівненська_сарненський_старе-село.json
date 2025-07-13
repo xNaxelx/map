@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Старе Село",
+               "short_name" : "Старе Село",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рокитнівський район",
+               "short_name" : "Рокитнівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "34210",
+               "short_name" : "34210",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Старе Село, Рівненська область, Україна, 34210",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.626301,
+                  "lng" : 27.1678071
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.592871,
+                  "lng" : 27.1133101
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.6139538,
+               "lng" : 27.1318355
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.626301,
+                  "lng" : 27.1678071
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.592871,
+                  "lng" : 27.1133101
+               }
+            }
+         },
+         "place_id" : "ChIJsZnRv41hKEcRKdFoC6ULGnY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

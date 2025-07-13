@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Уди",
+               "short_name" : "Уди",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Золочівський район",
+               "short_name" : "Золочівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Харківська область",
+               "short_name" : "Харківська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "62220",
+               "short_name" : "62220",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Уди, Харківська область, Україна, 62220",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.413104,
+                  "lng" : 36.1017109
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.370074,
+                  "lng" : 36.030411
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.3902954,
+               "lng" : 36.0681534
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.413104,
+                  "lng" : 36.1017109
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.370074,
+                  "lng" : 36.030411
+               }
+            }
+         },
+         "place_id" : "ChIJBXjNMcE0JkERpFNXuvJURgQ",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

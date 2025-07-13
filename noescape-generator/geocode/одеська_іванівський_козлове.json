@@ -1,0 +1,98 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Козлове",
+               "short_name" : "Козлове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Іванівський район",
+               "short_name" : "Іванівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67210",
+               "short_name" : "67210",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Козлове, Одеська область, Україна, 67210",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.0793091,
+                  "lng" : 30.4645389
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.06162,
+                  "lng" : 30.44292889999999
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.0705168,
+               "lng" : 30.4554467
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.0793091,
+                  "lng" : 30.4645389
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.06162,
+                  "lng" : 30.44292889999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ-YrO8DHKyEAR8Er0ezHg3UE",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

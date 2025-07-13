@@ -1,0 +1,173 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Мукачево",
+               "short_name" : "Мукачево",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Мукачівська міськрада",
+               "short_name" : "Мукачівська міськрада",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "89611",
+               "short_name" : "89611",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Мукачево, Закарпатська область, Україна, 89611",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.4705541,
+                  "lng" : 22.7685409
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.4112501,
+                  "lng" : 22.656891
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.4493055,
+               "lng" : 22.7117106
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.4705541,
+                  "lng" : 22.7685409
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.4112501,
+                  "lng" : 22.656891
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJP4z6unisOUcRqsKSp9UA2gI",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Рахівський район",
+               "short_name" : "Рахівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Рахівський район, Закарпатська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.4012889,
+                  "lng" : 24.6273425
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.896506,
+                  "lng" : 23.8612286
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.1391697,
+               "lng" : 24.2936895
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.4012889,
+                  "lng" : 24.6273425
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.896506,
+                  "lng" : 23.8612286
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJYSAsJ4IGN0cR6uJYb0dPf38",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

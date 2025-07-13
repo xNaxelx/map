@@ -1,0 +1,80 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Ямпільський район",
+               "short_name" : "Ямпільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Ямпільський район, Вінницька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.472629,
+                  "lng" : 28.5994619
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.06544599999999,
+                  "lng" : 28.071447
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.2892756,
+               "lng" : 28.3702427
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.472629,
+                  "lng" : 28.5994619
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.06544599999999,
+                  "lng" : 28.071447
+               }
+            }
+         },
+         "place_id" : "ChIJCfTDrNvczEARnMB9O3rXadA",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

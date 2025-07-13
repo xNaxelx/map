@@ -1,0 +1,71 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Рівненська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.9500636,
+                  "lng" : 27.7295688
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.0043561,
+                  "lng" : 25.0837821
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.6199,
+               "lng" : 26.251617
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.9500636,
+                  "lng" : 27.7295688
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.0043561,
+                  "lng" : 25.0837821
+               }
+            }
+         },
+         "place_id" : "ChIJERyljUNML0cRIED2iIQGAQE",
+         "types" : 
+         [
+            "administrative_area_level_1",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

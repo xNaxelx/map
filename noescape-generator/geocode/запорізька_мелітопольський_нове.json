@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Нове",
+               "short_name" : "Нове",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Мелітопольський район",
+               "short_name" : "Мелітопольський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Запорізька область",
+               "short_name" : "Запорізька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "72380",
+               "short_name" : "72380",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Нове, Запорізька область, Україна, 72380",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.790626,
+                  "lng" : 35.2913891
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.7784419,
+                  "lng" : 35.2651209
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.7857511,
+               "lng" : 35.2776171
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.790626,
+                  "lng" : 35.2913891
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.7784419,
+                  "lng" : 35.2651209
+               }
+            }
+         },
+         "place_id" : "ChIJq9pEU7W6wkAR0jM11t4GAF0",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

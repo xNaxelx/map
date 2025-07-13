@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Вільнянськ",
+               "short_name" : "Вільнянськ",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вільнянський район",
+               "short_name" : "Вільнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Запорізька область",
+               "short_name" : "Запорізька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "70001",
+               "short_name" : "70001",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Вільнянськ, Запорізька область, Україна, 70001",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.958427,
+                  "lng" : 35.4684789
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.92863,
+                  "lng" : 35.399383
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.94032259999999,
+               "lng" : 35.4328125
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.958427,
+                  "lng" : 35.4684789
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.92863,
+                  "lng" : 35.399383
+               }
+            }
+         },
+         "place_id" : "ChIJWdyEZRFB3EARGloZATh__to",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

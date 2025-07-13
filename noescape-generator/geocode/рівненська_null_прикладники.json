@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Прикладники",
+               "short_name" : "Прикладники",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Зарічненський район",
+               "short_name" : "Зарічненський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Рівненська область",
+               "short_name" : "Рівненська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "34012",
+               "short_name" : "34012",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Прикладники, Рівненська область, Україна, 34012",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.9204619,
+                  "lng" : 25.8802271
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.909122,
+                  "lng" : 25.8321679
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.9154411,
+               "lng" : 25.8464217
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.9204619,
+                  "lng" : 25.8802271
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.909122,
+                  "lng" : 25.8321679
+               }
+            }
+         },
+         "place_id" : "ChIJDfq42RerJ0cRyuw0HLhCax8",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

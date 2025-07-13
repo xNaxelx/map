@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Шпола",
+               "short_name" : "Шпола",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Шполянський район",
+               "short_name" : "Шполянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Черкаська область",
+               "short_name" : "Черкаська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Шпола, Черкаська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.0331694,
+                  "lng" : 31.4305544
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.9555655,
+                  "lng" : 31.3462688
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.9969392,
+               "lng" : 31.4022422
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.0331694,
+                  "lng" : 31.4305544
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.9555655,
+                  "lng" : 31.3462688
+               }
+            }
+         },
+         "place_id" : "ChIJJXz10rx30UARJNSGAbBWGsU",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

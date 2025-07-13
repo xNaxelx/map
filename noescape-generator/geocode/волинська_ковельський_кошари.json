@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Кошари",
+               "short_name" : "Кошари",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Шацький район",
+               "short_name" : "Шацький район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "44020",
+               "short_name" : "44020",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Кошари, Волинська область, Україна, 44020",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.50015,
+                  "lng" : 23.6787311
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.493609,
+                  "lng" : 23.667933
+               }
+            },
+            "location" : 
+            {
+               "lat" : 51.4961852,
+               "lng" : 23.6730537
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.50015,
+                  "lng" : 23.6787311
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.493609,
+                  "lng" : 23.667933
+               }
+            }
+         },
+         "place_id" : "ChIJy2XPGc3nI0cRrmCTpuHTsDI",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

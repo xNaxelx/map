@@ -1,0 +1,89 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Кострина",
+               "short_name" : "Кострина",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Великоберезнянський район",
+               "short_name" : "Великоберезнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Кострина, Закарпатська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.951762,
+                  "lng" : 22.6072721
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.934407,
+                  "lng" : 22.5729021
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.940919,
+               "lng" : 22.5887571
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.951762,
+                  "lng" : 22.6072721
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.934407,
+                  "lng" : 22.5729021
+               }
+            }
+         },
+         "place_id" : "ChIJx-qcPhZmOUcRctRQBMHw1M8",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

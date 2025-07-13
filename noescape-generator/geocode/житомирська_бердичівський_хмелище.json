@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Хмелище",
+               "short_name" : "Хмелище",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Бердичівський район",
+               "short_name" : "Бердичівський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Житомирська область",
+               "short_name" : "Житомирська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "13327",
+               "short_name" : "13327",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Хмелище, Житомирська область, Україна, 13327",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.9418939,
+                  "lng" : 28.7532439
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.9242041,
+                  "lng" : 28.723169
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.933178,
+               "lng" : 28.7394444
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.9418939,
+                  "lng" : 28.7532439
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.9242041,
+                  "lng" : 28.723169
+               }
+            }
+         },
+         "place_id" : "ChIJK2s6u0bwLEcRntzmOm17YJY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

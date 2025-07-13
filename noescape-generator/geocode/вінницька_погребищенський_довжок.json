@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Довжок",
+               "short_name" : "Довжок",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Погребищенський район",
+               "short_name" : "Погребищенський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "22254",
+               "short_name" : "22254",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Довжок, Вінницька область, Україна, 22254",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.38608199999999,
+                  "lng" : 29.147511
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.362942,
+                  "lng" : 29.1200029
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.3752315,
+               "lng" : 29.1382238
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.38608199999999,
+                  "lng" : 29.147511
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.362942,
+                  "lng" : 29.1200029
+               }
+            }
+         },
+         "place_id" : "ChIJG-RH8F_M0kARFteKUuyqxyU",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,165 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Могилів-Подільський район",
+               "short_name" : "Могилів-Подільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Могилів-Подільський район, Вінницька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.6838191,
+                  "lng" : 28.105556
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.307752,
+                  "lng" : 27.4577519
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.53353569999999,
+               "lng" : 27.7746536
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.6838191,
+                  "lng" : 28.105556
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.307752,
+                  "lng" : 27.4577519
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ6ZrK7A4mM0cRyqQ2ELkRBmA",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Ямпіль",
+               "short_name" : "Ямпіль",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Ямпільський район",
+               "short_name" : "Ямпільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Ямпіль, Вінницька область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.2646267,
+                  "lng" : 28.3109092
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.22392929999999,
+                  "lng" : 28.2489395
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.2441219,
+               "lng" : 28.2765218
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.2646267,
+                  "lng" : 28.3109092
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.22392929999999,
+                  "lng" : 28.2489395
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJnaft3RTDzEARpJjEK7_81Fc",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,98 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Яськи",
+               "short_name" : "Яськи",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Біляївський район",
+               "short_name" : "Біляївський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67642",
+               "short_name" : "67642",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Яськи, Одеська область, Україна, 67642",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.537114,
+                  "lng" : 30.105892
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.4926339,
+                  "lng" : 30.0624031
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.5073506,
+               "lng" : 30.0762801
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.537114,
+                  "lng" : 30.105892
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.4926339,
+                  "lng" : 30.0624031
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJaZCvgRJjyEARbYwTqPq0u_E",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

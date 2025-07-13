@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Буськ",
+               "short_name" : "Буськ",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Буський район",
+               "short_name" : "Буський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "80501",
+               "short_name" : "80501",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Буськ, Львівська область, Україна, 80501",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.983524,
+                  "lng" : 24.6447219
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.953174,
+                  "lng" : 24.572225
+               }
+            },
+            "location" : 
+            {
+               "lat" : 49.9693586,
+               "lng" : 24.6094605
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 49.983524,
+                  "lng" : 24.6447219
+               },
+               "southwest" : 
+               {
+                  "lat" : 49.953174,
+                  "lng" : 24.572225
+               }
+            }
+         },
+         "place_id" : "ChIJHQ93xeWzOkcR9qAPnnw01gY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

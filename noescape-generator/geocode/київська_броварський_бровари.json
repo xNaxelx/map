@@ -1,0 +1,165 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Бровари",
+               "short_name" : "Бровари",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Броварська міськрада",
+               "short_name" : "Броварська міськрада",
+               "types" : 
+               [
+                  "administrative_area_level_3",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Київська область",
+               "short_name" : "Київська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Бровари, Київська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.5374055,
+                  "lng" : 30.8640899
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.4821041,
+                  "lng" : 30.737754
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.511083,
+               "lng" : 30.7909
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.5374055,
+                  "lng" : 30.8640899
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.4821041,
+                  "lng" : 30.737754
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ7xzVfdHb1EARiZaO_Nyy6_Y",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Броварський район",
+               "short_name" : "Броварський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Київська область",
+               "short_name" : "Київська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Броварський район, Київська область, Україна",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.782306,
+                  "lng" : 31.2624961
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.404868,
+                  "lng" : 30.557605
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.6259481,
+               "lng" : 30.9894871
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.782306,
+                  "lng" : 31.2624961
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.404868,
+                  "lng" : 30.557605
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJZ_Qdjxcn1UAR8HWbPeZ55pc",
+         "types" : 
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

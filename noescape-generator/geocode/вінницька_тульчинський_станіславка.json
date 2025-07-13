@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Станіславка",
+               "short_name" : "Станіславка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Тульчинський район",
+               "short_name" : "Тульчинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Вінницька область",
+               "short_name" : "Вінницька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "23620",
+               "short_name" : "23620",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Станіславка, Вінницька область, Україна, 23620",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.6731809,
+                  "lng" : 28.6248909
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.659284,
+                  "lng" : 28.6041209
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.6673961,
+               "lng" : 28.6145978
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.6731809,
+                  "lng" : 28.6248909
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.659284,
+                  "lng" : 28.6041209
+               }
+            }
+         },
+         "place_id" : "ChIJGcspA084zUARSh_cZ8i9j-Q",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

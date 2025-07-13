@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Амбуків",
+               "short_name" : "Амбуків",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Володимир-Волинський район",
+               "short_name" : "Володимир-Волинський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Волинська область",
+               "short_name" : "Волинська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "44732",
+               "short_name" : "44732",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Амбуків, Волинська область, Україна, 44732",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.819028,
+                  "lng" : 24.0189281
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.78133099999999,
+                  "lng" : 23.9758492
+               }
+            },
+            "location" : 
+            {
+               "lat" : 50.7944675,
+               "lng" : 23.9859952
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.819028,
+                  "lng" : 24.0189281
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.78133099999999,
+                  "lng" : 23.9758492
+               }
+            }
+         },
+         "place_id" : "ChIJe6QVXvGLJEcRag4pK-0KHGc",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

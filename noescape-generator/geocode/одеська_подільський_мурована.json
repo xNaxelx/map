@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Мурована",
+               "short_name" : "Мурована",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Подільський район",
+               "short_name" : "Подільський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "66341",
+               "short_name" : "66341",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Мурована, Одеська область, Україна, 66341",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.79111899999999,
+                  "lng" : 29.429894
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.7636591,
+                  "lng" : 29.394775
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.780652,
+               "lng" : 29.4123146
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.79111899999999,
+                  "lng" : 29.429894
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.7636591,
+                  "lng" : 29.394775
+               }
+            }
+         },
+         "place_id" : "ChIJQXY0fo8YzEAROAkhtvHA3Lo",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

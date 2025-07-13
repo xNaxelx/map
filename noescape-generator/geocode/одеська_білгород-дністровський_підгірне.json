@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Підгірне",
+               "short_name" : "Підгірне",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Білгород-Дністровський район",
+               "short_name" : "Білгород-Дністровський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67741",
+               "short_name" : "67741",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Підгірне, Одеська область, Україна, 67741",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.272513,
+                  "lng" : 30.032296
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.247335,
+                  "lng" : 30.0119551
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.26108869999999,
+               "lng" : 30.0224265
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.272513,
+                  "lng" : 30.032296
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.247335,
+                  "lng" : 30.0119551
+               }
+            }
+         },
+         "place_id" : "ChIJSSsa2LB0yEARPIL4rRfLxGU",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

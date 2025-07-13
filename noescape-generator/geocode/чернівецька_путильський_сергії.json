@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Сергії",
+               "short_name" : "Сергії",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Путильський район",
+               "short_name" : "Путильський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Чернівецька область",
+               "short_name" : "Чернівецька область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "59107",
+               "short_name" : "59107",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Сергії, Чернівецька область, Україна, 59107",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.997297,
+                  "lng" : 25.1607051
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.97389099999999,
+                  "lng" : 25.136624
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.9858066,
+               "lng" : 25.1537425
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.997297,
+                  "lng" : 25.1607051
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.97389099999999,
+                  "lng" : 25.136624
+               }
+            }
+         },
+         "place_id" : "ChIJf-GVnaqFNkcRlJK-N2UWQvQ",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

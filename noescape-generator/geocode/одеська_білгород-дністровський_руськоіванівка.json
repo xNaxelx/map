@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Руськоіванівка",
+               "short_name" : "Руськоіванівка",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Білгород-Дністровський район",
+               "short_name" : "Білгород-Дністровський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67721",
+               "short_name" : "67721",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Руськоіванівка, Одеська область, Україна, 67721",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.39246199999999,
+                  "lng" : 29.777955
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.349857,
+                  "lng" : 29.752786
+               }
+            },
+            "location" : 
+            {
+               "lat" : 46.3696282,
+               "lng" : 29.7678511
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.39246199999999,
+                  "lng" : 29.777955
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.349857,
+                  "lng" : 29.752786
+               }
+            }
+         },
+         "place_id" : "ChIJ_2kjMlZqyEARz01rYV9EKyI",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

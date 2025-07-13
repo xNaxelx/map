@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Суха",
+               "short_name" : "Суха",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Іршавський район",
+               "short_name" : "Іршавський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Закарпатська область",
+               "short_name" : "Закарпатська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "90153",
+               "short_name" : "90153",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Суха, Закарпатська область, Україна, 90153",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.441846,
+                  "lng" : 23.3148809
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.416338,
+                  "lng" : 23.2847901
+               }
+            },
+            "location" : 
+            {
+               "lat" : 48.4270195,
+               "lng" : 23.2984653
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.441846,
+                  "lng" : 23.3148809
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.416338,
+                  "lng" : 23.2847901
+               }
+            }
+         },
+         "place_id" : "ChIJ48Tua53POUcRQPHuuBsnrbY",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

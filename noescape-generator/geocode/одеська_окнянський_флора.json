@@ -1,0 +1,97 @@
+{
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "Флора",
+               "short_name" : "Флора",
+               "types" : 
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Окнянський район",
+               "short_name" : "Окнянський район",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Одеська область",
+               "short_name" : "Одеська область",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "67903",
+               "short_name" : "67903",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Флора, Одеська область, Україна, 67903",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.60627100000001,
+                  "lng" : 29.493731
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.575988,
+                  "lng" : 29.467382
+               }
+            },
+            "location" : 
+            {
+               "lat" : 47.59167189999999,
+               "lng" : 29.4815675
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.60627100000001,
+                  "lng" : 29.493731
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.575988,
+                  "lng" : 29.467382
+               }
+            }
+         },
+         "place_id" : "ChIJ38_U-JKozkARtT8trGv78Rk",
+         "types" : 
+         [
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}
